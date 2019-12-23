@@ -29,7 +29,6 @@ async def homepage(request, format_="html"):
         async with aiofiles.open(file, "r") as f:
             post = frontmatter.loads(await f.read())
             post.metadata["date"] = pytz.timezone(site["timezone"]).localize(post.metadata["date"])
-            post.content = mistune.html(post.content)
 
             if category:
                 post_categories = [
@@ -49,6 +48,9 @@ async def homepage(request, format_="html"):
             'request': request,
         })
     elif format_ == "atom":
+        for post in posts:
+            post.content = mistune.html(post.content)
+
         return templates.TemplateResponse('atom.xml', {
             'category': category,
             'posts': posts,
