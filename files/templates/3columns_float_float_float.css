@@ -1,0 +1,22 @@
+div {
+	 border: 1px solid Black;
+}
+body {
+	margin: 0 auto;
+	width: 700px;
+}
+#navigation {
+	float: left;
+	width: 150px
+}
+#content1 {
+	float: left;
+	width: 394px;
+}
+#content2 {
+	float: left;
+	width: 150px
+}
+#footer {
+	clear: both;
+}

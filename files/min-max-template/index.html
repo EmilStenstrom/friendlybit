@@ -1,0 +1,49 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html>
+  <head>
+    <title>Example of max- and min-width</title>
+    <!-- You should of course use external CSS-files, not inline as I use in this example... -->
+    <style type="text/css">
+      #content {
+        border: 1px solid red; /* For clarity, remove at will */
+        max-width: 960px; /* Corresponds to 1024 with scrollbars */
+        min-width: 760px; /* Corresponds to 800 with scrollbars */
+        margin: 0 auto; /* Center the block */
+        width: 100%;
+      }
+    </style>
+    <!--[if IE 6]>
+    <style type="text/css">
+      #content {
+        height: 1%;
+        width: 960px; /* Fallback width if javascript is off */
+        width: expression(
+          (document.documentElement.clientWidth > 962)? "960px" : 
+            (document.documentElement.clientWidth < 762) ? "760px" : 
+              "auto"
+        );
+      }
+    </style>
+    <![endif]-->
+    <link type="text/css" rel="stylesheet" href="../infobox.css" />
+  </head>
+  <body>
+    <div id="description">
+      <h1>Min- and Max-width template</h1>
+      <p>The red block below will follow the width of the browser window and at the same time on be wider than 960 pixels. At the same way, a limit of 760 pixels is used. </p>
+      <p class="final"><a href="/css/min-width-and-max-width-template/" title="Min- and Max-width template">Read the article</a></p>
+    </div>
+    <div id="content">
+      <h1>A sample header</h1>
+      <p>Some sample text...</p>
+    </div>
+    <!-- Please remove the two script blocks below, I use them for tracking what people read on friendlybit! -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-67394-2"); pageTracker._initData(); pageTracker._trackPageview();
+</script>
+  </body>
+</html>

@@ -1,0 +1,24 @@
+body {
+	background: url(zebra.png) repeat-y center;
+	margin: 0 auto;
+	width: 700px;
+}
+#header {
+	background: White;
+}
+#navigation {
+	float: left;
+	width: 150px
+}
+#content1 {
+	float: left;
+	width: 400px;
+}
+#content2 {
+	float: left;
+	width: 150px
+}
+#footer {
+	background: White;
+	clear: both;
+}

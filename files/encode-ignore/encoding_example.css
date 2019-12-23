@@ -1,0 +1,5 @@
+	#example {
+		background: pink; /* Strange character --> å */
+		color: blue; 
+		border: 2px solid; 
+	}

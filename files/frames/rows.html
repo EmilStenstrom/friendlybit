@@ -1,0 +1,67 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="sv">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<title>Example of emulating frames with CSS</title>
+	<style type="text/css">
+		* {
+			margin: 0;
+			padding: 0;
+		}
+		body, html {
+			height: 100%;
+			overflow: hidden;
+		}
+	
+		#header {
+			background: Silver;
+			height: 100px;
+			position: relative;
+			margin-right: 16px;
+			z-index: 1000; /* Opera needs this */
+		}
+		#content {
+			clear: both;
+			height: 100%;
+			margin-top: -100px;
+			overflow: auto;
+		}
+		#content h2 {
+			padding-top: 100px;
+		}
+	
+		/* Make the page scroll (has nothing to do with the technique) */
+		p#makescroll { height: 150%; }
+	</style>
+	<link type="text/css" rel="stylesheet" href="../infobox.css">
+</head>
+<body>
+
+<div id="header">
+	<p>This top frame stay here even when you scroll.</p>
+</div>
+<div id="content">
+	<div id="description">
+		<h1>Example of emulating frames with CSS</h1>
+		<p>This example shows how to make the top part of your page fixed while still scrolling the bottom part.</p>
+		<p class="final"><a href="/css/frames-or-iframes-with-css/" title="Example of emulating frames with CSS">Read the article</a></p>
+	</div>
+	
+	<p id="makescroll">This text is just here to make the page scroll.
+	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Vestibulum quis diam. Morbi id velit. Phasellus a ligula suscipit lacus eleifend nonummy. Nunc luctus ligula id nisl. Etiam iaculis risus nec lectus. In faucibus. In scelerisque. Fusce bibendum justo sit amet justo. Etiam gravida odio ut dui. Duis purus. Donec condimentum eros a velit. Duis vel tellus congue lectus tincidunt suscipit. Donec leo enim, vehicula sit amet, commodo et, molestie in, elit.
+	Nunc vulputate. Integer nec est quis risus vestibulum interdum. Suspendisse ligula. Nam diam magna, condimentum in, mattis porttitor, tempus eget, elit. Nunc tincidunt leo non risus. Suspendisse eros tellus, laoreet quis, egestas tristique, lobortis at, diam. Nunc rutrum. Aliquam sagittis, urna quis pulvinar pulvinar, libero nunc vehicula quam, sed facilisis leo odio adipiscing pede. Integer malesuada. In ut eros. Donec orci.
+	Duis id turpis. Ut vel lectus. Curabitur ornare iaculis metus. Curabitur mauris turpis, molestie id, convallis ut, luctus eget, urna. Pellentesque at purus. Aenean tristique tempor neque. Duis felis magna, rutrum ut, pulvinar in, interdum eget, dolor. Nulla mi. In hac habitasse platea dictumst. Vestibulum eget neque quis enim adipiscing vehicula. Curabitur varius, risus ultrices pharetra congue, pede pede lobortis mi, eu sagittis dolor est a ante. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aenean lorem.
+	Curabitur pede. Cras sapien tellus, vulputate ac, mollis sit amet, semper ultrices, urna. In pulvinar. Quisque pretium purus non lectus. Curabitur sit amet ante. Aliquam eu metus eu dui venenatis tincidunt. Vestibulum bibendum diam eu est dictum tristique. Phasellus non purus. Aliquam cursus molestie turpis. Nulla elementum. Curabitur eu lorem vel quam lobortis pretium. Sed hendrerit rutrum massa. Nunc ac nunc et pede tincidunt pulvinar. Aenean viverra. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Mauris leo felis, fermentum vel, tincidunt eu, imperdiet a, mi. Integer sem mi, tincidunt sed, cursus vitae, gravida nec, purus.
+	Donec mattis. Phasellus sit amet arcu ac odio porta vestibulum. Quisque risus dui, ullamcorper non, feugiat sed, hendrerit et, nulla. Integer velit augue, consequat in, aliquet nec, iaculis nec, sem. Nullam pede urna, hendrerit in, tristique et, rutrum in, neque. Donec tortor. Ut sit amet dolor non ligula dictum volutpat. Nullam pharetra augue vitae tellus. Fusce in enim et odio scelerisque blandit. Morbi est. Pellentesque elit. Aenean interdum consectetuer enim. Suspendisse potenti. Aliquam ac nisi et risus fermentum vulputate. In tellus dui, consectetuer vulputate, iaculis quis, dignissim eu, est.
+	</p>
+</div>
+<!-- Please remove the two script blocks below, I use them for tracking what people read on friendlybit! -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-67394-2"); pageTracker._initData(); pageTracker._trackPageview();
+</script>
+</body>
+</html>

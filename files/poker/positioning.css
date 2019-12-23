@@ -1,0 +1,79 @@
+/* This document consists of the positioning */
+
+/* General styles */
+* {
+   list-style: none;
+   margin: 0;
+   padding: 0;
+}
+body {
+   width: 750px;
+   padding-bottom: 5em;
+}
+img {
+   border: 0;
+}
+
+/* Header */
+#header h1 {
+   height: 65px;
+   width: 400px;
+}
+#header p {
+   width: 400px;
+}
+#header ul {
+   float: left;
+   width: 130px; 
+}
+#header a {
+   display: block;
+   height: 84px; 
+   width: 261px; 
+}
+
+/* Navigation */
+#navigation {
+   clear: both;
+   height: 41px;
+   width: 720px;
+}
+#navigation ul {
+   float: left;
+   list-style: none;
+   width: 400px;
+}
+#navigation li {
+   display: inline; 
+}
+#navigation form {
+   float: right;
+   width: 250px;
+}
+#navigation legend, #navigation label, #navigation h2 {
+   position: absolute;
+   left: -10000px;
+   text-indent: -10000px;
+   line-height: 0px;
+}
+#navigation fieldset {
+   border: none;
+}
+
+/* Advertisement */
+#adverts {
+   clear: both;
+   float: right;
+}
+
+/* Content */
+#content div {
+   float: left;
+   height: 200px;
+   width: 240px;
+}
+
+/* Footer */
+#footer {
+   clear: both;
+}

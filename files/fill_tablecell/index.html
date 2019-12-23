@@ -1,0 +1,60 @@
+<html>
+<head>
+	<title>How to fill a table cell with a select box</title>
+	<style type="text/css">
+	select {
+		height: 100%;
+	}
+	* html #select_cell {
+		height: 1%;
+		padding: 0;
+	}
+	</style>
+	<link type="text/css" rel="stylesheet" href="../infobox.css">
+</head>
+<body>
+<div id="description">
+	<h1>How to fill a table cell with a select box</h1>
+	<p>This is an example of how to make a select strech vertically to fill the whole parent cell.</p>
+	<p>The folowing requirements needs to be filled:</p>
+	<ul>
+		<li>The select needs to have a size of at least 2</li>
+		<li>We need to be in quirks mode (no doctype or transitional with no URL)</li>
+	</ul>
+	<p>The * html hack is used to make IE6 but not IE7 get a set height. Without the height 
+	the box the select disappears altogether. The padding is there to remove the strange gap 
+	below the select.</p>
+	<p class="final"><a href="" title="How to fill a table cell with a select box">Read the article</a></p>
+</div>
+
+<!-- EXAMPLE STARTS HERE, see the style block in the header for the CSS -->
+
+<form action="">
+<table border="1">
+<tr>
+	<td>X</td>
+	<td rowspan="3" id="select_cell">
+		<select size="2">
+		<option>analyst</option>
+		<option>Daisuke</option>
+		<option>leading tester</option>
+		<option>manager</option>
+		<option>sub manager</option>
+		</select>
+	</td>
+</tr>
+<tr><td>Y</td></tr>
+<tr><td>Z</td></tr>
+</table>
+</form>
+<!-- Please remove the two script blocks below, I use them for tracking what people read on friendlybit! -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-67394-2"); pageTracker._initData(); pageTracker._trackPageview();
+</script>
+</body>
+</html>
+

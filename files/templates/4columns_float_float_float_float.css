@@ -1,0 +1,26 @@
+div {
+	 border: 1px solid Black;
+}
+body {
+	margin: 0 auto;
+	width: 700px;
+}
+#navigation {
+	float: left;
+	width: 173px
+}
+#content1 {
+	float: left;
+	width: 173px;
+}
+#content2 {
+	float: left;
+	width: 173px
+}
+#content3 {
+	float: left;
+	width: 173px;
+}
+#footer {
+	clear: both;
+}

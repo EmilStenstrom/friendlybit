@@ -1,0 +1,26 @@
+{% extends "index.html" %}
+{% block content %}
+  <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">{{ post.title }}</h1>
+      <p class="post-meta">
+        <time datetime="{{ post.date.strftime('%Y-%m-%d %H:%M:%S') }}" itemprop="datePublished">
+          {{ post.date.strftime("%b %-d, %Y") }}
+        </time>
+        {% if post.author %}
+          • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
+        {% endif %}
+        {% if post.categories %}•
+          {% for category in post.categories %}
+            <span itemprop="keywords"><a href="/articles/{{ category|lower|replace(' ', '-') }}/" class="novisit">{{ category }}</a></span>{% if loop.last == false %},{% endif %}
+          {% endfor %}
+        {% endif %}
+      </p>
+    </header>
+    <div class="post-content" itemprop="articleBody">
+      {% autoescape false %}
+        {{ post.content }}
+      {% endautoescape %}
+    </div>
+  </article>
+{% endblock content %}

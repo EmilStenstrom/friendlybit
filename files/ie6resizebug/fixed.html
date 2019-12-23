@@ -1,0 +1,38 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN">
+<html>
+	<head>
+	<title>Example of the IE6 resize bug</title>
+	<style type="text/css">
+	body {
+		border: 1px solid;
+		margin: 0 auto;
+		position: relative; /* THE FIX */
+		width: 40em;
+	}
+	#example p {
+		border: 1px solid green;
+		position: relative;
+	}
+	</style>
+	<link type="text/css" rel="stylesheet" href="../infobox.css">
+</head>
+<body>
+<div id="description">
+	<h1>IE6 resize bug (fixed)</h1>
+	<p>Adding position: relative to the body element fixes the <a href=".">IE6 resize bug</a>.</p>
+	<p class="final"><a href="/css/ie6-resize-bug/" title="IE6 resize bug explained">Read the article</a></p>
+</div>
+
+<div id="example">
+	<p>This text <strong>does not</strong> stay fixed on the page if you resize.</p>
+</div>
+<!-- Please remove the two script blocks below, I use them for tracking what people read on friendlybit! -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-67394-2"); pageTracker._initData(); pageTracker._trackPageview();
+</script>
+</body>
+</html>

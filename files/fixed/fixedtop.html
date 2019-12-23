@@ -1,0 +1,61 @@
+<!doctype>
+<html>
+<head>
+    <title>Fixed header and left menu</title>
+    <style type="text/css">
+        #header {
+            position: fixed !important;
+            position: absolute; /* IE6 reads this */
+            height: 100px;
+            width: 100%;
+            top: 0;
+            left: 0;
+            background: blue;
+            z-index: 2;
+        }
+        #navigation {
+            position: absolute;
+            width: 200px;
+            top: 0;
+            left: 0;
+            padding-top: 100px;
+            z-index: 1;
+        }
+        #content {
+            margin-top: 100px;
+            margin-left: 200px;
+        }
+    </style>
+</head>
+<body>
+    <div id="header">
+        <h1>Example header</h1>
+    </div>
+    <div id="navigation">
+        <ul>
+            <li><a href="">Navigation 1</a></li>
+            <li><a href="">Navigation 2</a></li>
+            <li><a href="">Navigation 3</a></li>
+            <li><a href="">Navigation 4</a></li>
+            <li><a href="">Navigation 5</a></li>
+        <ul>
+    </div>
+    <div id="content">
+        <h2>Page header</h2>
+        <p><a href="https://friendlybit.com/css/position-fixed-css-templates/">Original article: Position: fixed CSS templates</a></p>
+        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc nec lectus a nulla viverra tempor. Fusce vel tincidunt tellus. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Duis porttitor ullamcorper lorem a dignissim. Suspendisse a sem sapien. Sed risus justo, venenatis nec volutpat nec, bibendum ut leo. Cras pellentesque viverra tortor. Donec convallis sodales mollis. Vestibulum dolor felis, vehicula sed scelerisque ac, iaculis eu sem. Cras tincidunt turpis eu enim tempor pellentesque.</p>
+        <p>Aenean nec condimentum nibh. Sed dolor dui, laoreet nec faucibus nec, tempor sit amet enim. Nunc a lectus id mauris molestie mollis. Mauris convallis neque id mi ullamcorper vitae sagittis dui vulputate. Donec adipiscing lorem at turpis lobortis gravida. Donec eu odio pulvinar sem pretium dignissim. Fusce et mauris elit. Aliquam fermentum molestie velit et interdum. Pellentesque bibendum porttitor leo, a tempor neque vulputate eu. Phasellus scelerisque pharetra accumsan. Nam nec magna dui, et porttitor ligula. Nunc non felis et felis cursus venenatis. Donec quis augue vulputate nisl venenatis venenatis sed ac tellus. Fusce eget turpis nibh. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Fusce sollicitudin pharetra justo eu semper. Donec dignissim sapien sed nisi fringilla sit amet bibendum ligula accumsan.</p>
+        <p>Vivamus eu sapien orci. Mauris mollis iaculis malesuada. Vivamus convallis libero et libero tincidunt fringilla. Nulla et tellus metus, et pellentesque nisi. Proin facilisis facilisis consequat. Cras ligula risus, molestie sit amet mollis sed, tristique iaculis erat. Nullam at erat sagittis sapien vehicula dictum. Donec eget sodales ante. Sed sit amet felis massa, vitae volutpat turpis. Etiam tincidunt ullamcorper tristique. Morbi rutrum dui lorem, vitae aliquet lectus. Nulla velit augue, varius non faucibus a, rutrum eu lectus. Vestibulum varius ornare purus quis congue. Pellentesque felis sem, consequat a laoreet ultrices, consectetur eget nisl. Morbi tincidunt felis at turpis pharetra ut imperdiet orci bibendum.</p>
+        <p>Vivamus eget massa ante, eget convallis magna. Pellentesque dictum dictum lacus in dignissim. Mauris fermentum ultrices nibh ac vulputate. Curabitur luctus vehicula dignissim. Fusce mollis ligula risus. Quisque diam sem, viverra eget adipiscing sit amet, egestas in ipsum. Curabitur elementum posuere neque, sit amet sodales justo mattis faucibus. Vivamus fringilla turpis et massa tempor elementum. Ut laoreet, odio ut volutpat molestie, tellus orci laoreet lacus, eget egestas orci ipsum at augue. Nunc sed mattis augue. Pellentesque eget lacus ut purus lacinia eleifend. Etiam pulvinar pulvinar felis, et pulvinar quam ultricies laoreet. Fusce eleifend nisl vel felis viverra quis feugiat odio pretium. Maecenas eget nulla eu magna eleifend dapibus quis luctus nulla. Cras in neque quis lorem accumsan sollicitudin. Vivamus fringilla hendrerit mauris eu varius. Etiam sodales, ipsum vel posuere hendrerit, urna lacus fringilla arcu, eget blandit est mauris sit amet eros.</p>
+        <p>Mauris orci ipsum, porttitor luctus aliquam eu, varius eget est. Phasellus ultricies accumsan dui. Integer quis ligula purus. Morbi et urna mauris. Praesent ac dui at tellus congue lacinia. Nulla facilisi. In a augue semper tellus interdum auctor. Maecenas mi augue, dictum quis dignissim sed, bibendum bibendum arcu. Proin felis nisi, ultricies et facilisis quis, fringilla vel turpis. Vestibulum at nunc ut mi placerat condimentum ac quis urna. Quisque tincidunt mi ut metus posuere commodo. Donec sodales purus nec mauris commodo posuere. Aenean non nulla et magna gravida sodales. Sed adipiscing, lectus eget sollicitudin fringilla, turpis felis blandit neque, et volutpat ligula justo sit amet nunc. Integer rutrum dapibus blandit. Etiam luctus justo a eros accumsan in tempus leo tincidunt. </p>
+    </div>
+<!-- Please remove the two script blocks below, I use them for tracking what people read on friendlybit! -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-67394-2"); pageTracker._initData(); pageTracker._trackPageview();
+</script>
+</body>
+</html>

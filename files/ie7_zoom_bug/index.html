@@ -1,0 +1,34 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+	<title>IE7 Zoom bug with horizontal margins</title>
+	<style type="text/css">
+		#example span {
+			border: 1px solid;
+		}
+	</style>
+	<link type="text/css" rel="stylesheet" href="../infobox.css">
+</head>
+<body>
+	<div id="description">
+		<h1>IE7 Zoom bug with display: inline</h1>
+		<p>Open this page in IE7 and try zooming the page (Page zoom, text zoom works fine). See how the border stops ON the text as if it was smaller? There seem to be something serious broken in the way how IE7 calculates font-width while zooming.</p>
+		<p class="final"><a href="/css/ie7-zoom-bug/" title="IE6 resize bug explained">Read the article</a></p>
+	</div>
+
+	<div id="example">
+		<p><span>Little displaced</span></p>
+		<p><span>Little more displaced</span></p>
+		<p><span>Quite a bit more displaced</span></p>
+		<p><span>A lot wider than the last one displaced</span></p>
+	</div>
+<!-- Please remove the two script blocks below, I use them for tracking what people read on friendlybit! -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-67394-2"); pageTracker._initData(); pageTracker._trackPageview();
+</script>
+</body>
+</html>

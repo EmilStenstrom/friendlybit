@@ -1,0 +1,12 @@
+# Framework
+starlette
+aiofiles
+jinja2
+uvicorn
+gunicorn
+
+# Application
+-e git+https://github.com/lepture/mistune.git#egg=mistune==2.0.0a1
+python-frontmatter
+libsass
+pytz

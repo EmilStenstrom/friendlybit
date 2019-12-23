@@ -1,0 +1,15 @@
+* {
+   border: 1px solid;
+}
+div {
+   border-color: Red;
+}
+p {
+   border-color: Green;
+}
+a {
+   border-color: Blue;
+}
+form {
+   border-color: Orange;
+}

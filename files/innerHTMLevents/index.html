@@ -1,0 +1,23 @@
+<!doctype html>
+<html>
+<head><title></title></head>
+<body>
+	<p id="para"><span id="clickspan">This is clickable.</span> But this is not.</p>
+	<script type="text/javascript">
+		var span = document.getElementById("clickspan");
+		span.onclick = function() {
+			alert("You clicked the span!");
+		}
+		var p = document.getElementById("para");
+		p.innerHTML += " Some extra text";
+	</script>
+<!-- Please remove the two script blocks below, I use them for tracking what people read on friendlybit! -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-67394-2"); pageTracker._initData(); pageTracker._trackPageview();
+</script>
+</body>
+</html>

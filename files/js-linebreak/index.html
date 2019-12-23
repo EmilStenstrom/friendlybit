@@ -1,0 +1,90 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="sv">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+   <title>Line breaking using javascript</title>
+	<link type="text/css" rel="stylesheet" href="../infobox.css">
+</head>
+<body>
+
+<div id="description">
+	<h1>Line breaking with javascript</h1>
+	<p>This example shows how you can add line-breaks to text that does not wrap automatically.</p>
+	<p class="final"><a href="/css/line-breaking-with-javascript/" title="Line breaking with javascript">Read the article</a></p>
+</div>
+
+<h2>Without line breaking</h2>
+
+<p style="width: 200px; background: Silver;">
+boo.hoo.StackTrace$FirstNested$SecondNested.[init](StackTrace.java:267)<br>
+at boo.<em>hoo</em>.StackTrace$<strong>FirstNested</strong>.[init](StackTrace.java:256)<br>
+at boo.hoo.StackTrace.[init](StackTrace.java:246)<br>
+at boo.hoo.StackTrace.<strong>main</strong>(StackTrace.<em>java</em>:70)
+</p>
+
+<h2>With line breaking</h2>
+
+<p style="width: 200px; background: Silver;" id="wrap">
+boo.hoo.StackTrace$FirstNested$SecondNested.[init](StackTrace.java:267)<br>
+at boo.<em>hoo</em>.StackTrace$<strong>FirstNested</strong>.[init](StackTrace.java:256)<br>
+at boo.hoo.StackTrace.[init](StackTrace.java:246)<br>
+at boo.hoo.StackTrace.<strong>main</strong>(StackTrace.<em>java</em>:70)
+</p>
+
+<script type="text/javascript">
+function linebreak(text, maxLen) {
+   var breakPos = 0;
+   var out = "";
+   var part1 = text, part2 = "";
+   if (getTextWidth(part1) > maxLen) {
+      while (getTextWidth(part1) > maxLen) {
+         var breakPos = binSearch(part1, maxLen);
+         part2 = part1.substring(breakPos, part1.length);
+         part1 = part1.substring(0, breakPos);
+         out += part1 + "<br>";
+         part1 = part2;
+      }
+      return out + part2;
+   }
+   else
+      return text;
+}
+
+function binSearch(text, searchLen) {
+   var left = 0, right = text.length;
+   var breakPos = left, lastBreakPos = right;
+   while (Math.abs(lastBreakPos - breakPos) > 1) {
+      lastBreakPos = breakPos;
+      breakPos = Math.floor((left+right)/2);
+      if (searchLen < getTextWidth(text.substring(0, breakPos)))
+         right = breakPos - 1;
+      else
+         left = breakPos + 1;
+   }
+   return Math.min(breakPos, lastBreakPos);
+}
+
+function getTextWidth(text) {
+   var ea = document.createElement("span");
+   ea.innerHTML = text;
+   document.body.appendChild(ea);
+   var len = ea.offsetWidth;
+   document.body.removeChild(ea);
+   return len;
+}
+
+window.onload = function () {
+   var e = document.getElementById("wrap");
+   e.innerHTML = linebreak(e.innerHTML, 200);
+}
+</script>
+<!-- Please remove the two script blocks below, I use them for tracking what people read on friendlybit! -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-67394-2"); pageTracker._initData(); pageTracker._trackPageview();
+</script>
+</body>
+</html>

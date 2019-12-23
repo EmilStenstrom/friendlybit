@@ -1,0 +1,100 @@
+.header {
+    display: flex;
+    flex-wrap: wrap;
+    overflow: hidden;
+    height: calc(1.5em * 1.55 + 2.5vw * 1.55 - 1px);
+    background: #278FAF;
+    color: #222;
+    padding: 0 10px;
+    > * {
+        flex: 1;
+        display: flex;
+    }
+    .logo {
+        align-items: center;
+        color: #222;
+        font: bold 3em "Palatino Linotype", Palatino, sans-serif;
+        font-size: calc(1.5em + 2.5vw);
+        line-height: 1.55em;
+        padding-right: 10px;
+        text-decoration: none;
+        white-space: nowrap;
+    }
+    .navigation ul {
+        flex: 1;
+        display: flex;
+        justify-content: flex-start;
+        .nav-item {
+            align-self: flex-end;
+            background: #E6EFF2;
+            list-style: none;
+            a {
+                text-decoration: none;
+                padding: 5px 10px;
+                display: inline-block;
+                &:hover {
+                    background: darken(#E6EFF2, 10%);
+                }
+            }
+            &.current {
+                background: white;
+            }
+        }
+    }
+    .search {
+        flex: 0;
+        padding: 10px;
+        max-height: 25px;
+        padding-right: 0;
+        .search-query {
+            border: 1px solid #ccc;
+            width: 100px;
+        }
+        .search-button {
+            background: white;
+            padding-top: 2px;
+        }
+    }
+    .feed {
+        flex: 0;
+        align-items: flex-start;
+        text-align: right;
+        color: white;
+        padding: 10px;
+        padding-right: 0;
+        margin-top: 3px;
+    }
+}
+.content {
+    padding: 0 10px;
+    article {
+        max-width: 40em;
+        margin: 0 auto;
+    }
+}
+.post-list {
+    display: table;
+    padding: 0;
+
+    .post-list-item {
+        display: table-row;
+        list-style: none;
+    }
+    .post-link {
+        display: table-cell;
+        font-size: 1.3em;
+        padding-bottom: 0.3em;
+    }
+    .post-meta {
+        display: table-cell;
+        color: #bbb;
+        white-space: nowrap;
+        padding-bottom: 0.3em;
+        padding-left: 1em;
+    }
+}
+.post {
+    .post-meta {
+        color: #bbb;
+    }
+}

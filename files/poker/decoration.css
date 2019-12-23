@@ -1,0 +1,111 @@
+/* This document consist of the decoration */
+
+/* General styles */
+body {
+   background: #B6AB98;
+   color: Black;
+   font: 80%/1.4em Arial, Helvetica, sans-serif;
+   margin: 2em auto 0;
+   position: relative;
+   width: 750px;
+}
+a { color: Black; }
+
+/* Header */
+#header {
+   background: url(aboutus_portrait.png) no-repeat 100% 100%;
+   position: relative;
+}
+#header h1 {
+   background: url(pokercompany-logo.png) no-repeat 0 0;
+   text-indent: -10000px;
+}
+#header p {
+   margin: 5px 5px 20px;
+}
+#header ul {
+   display: inline; /* IE: double margin */
+   margin: 15px 25px 0 0;
+   text-align: right;
+}
+#header a {
+   background: url(play-poker.png) no-repeat 0 0;
+   text-indent: -10000px;
+   overflow: hidden;
+}
+
+/* Navigation */
+#navigation {
+   background: url(navigation.png) no-repeat 0 0;
+   margin: 2em 0;
+   padding: 8px 0 0 15px;
+}
+#navigation ul {
+   margin-top: 3px;
+}
+#navigation input {
+   padding: 1px;
+   vertical-align: top;
+}
+#navigation input#phrase {
+   padding: 3px 2px;
+}
+
+/* Ads */
+#adverts h2 {
+   text-align: right;
+   font-size: 100%;
+}
+
+/* Content */
+#content div {
+   margin: 40px 40px 0 0;
+   position: relative;
+}
+#content div h2 {
+   height: 40px;
+   margin: -27px 0 0 10px;
+   text-indent: -10000px;
+   position: relative;
+   width: 210px;
+}
+#content p, #content ul {
+   margin: 0 10px;
+}
+#content p.more {
+   border-top: 1px solid Black;
+   bottom: 10px;
+   font-style: italic;
+   position: absolute;
+   width: 210px;
+}
+#content #c_beginnersguide {
+   background: url(beginnersguide.png) no-repeat 0 0;
+}
+#content #c_beginnersguide h2 {
+   background: url(beginnersguide_h2.png) no-repeat 0 0;
+}
+#content #c_news {
+   background: url(news.png) no-repeat 0 0;
+}
+#content #c_news h2 {
+   background: url(news_h2.png) no-repeat 0 0;
+}
+#content #c_forum {
+   background: url(forum.png) no-repeat 0 0;
+}
+#content #c_forum h2 {
+   background: url(forum_h2.png) no-repeat 0 0;
+}
+#content #c_aboutus {
+   background: url(aboutus.png) no-repeat 0 0;
+}
+#content #c_aboutus h2 {
+   background: url(aboutus_h2.png) no-repeat 0 0;
+}
+
+/* Footer */
+#footer p {
+   text-align: center;
+   width: 70%;
+}
