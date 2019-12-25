@@ -1,4 +1,5 @@
 from glob import glob
+import re
 
 import aiofiles
 import frontmatter
@@ -24,6 +25,14 @@ class HighlightRenderer(mistune.HTMLRenderer):
             return highlight(code, lexer, formatter)
         return f'<pre><code class="language-{lang}">{mistune.escape(code)}</code></pre>'
 
+    def heading(self, text, level):
+        tag = f'h{level}'
+        match = re.match(r"(.+) \{(.+)\}", text)
+        if match:
+            text, id_ = match.groups()
+            return f'<{tag} id="{id_[1:]}">{text}</{tag}>\n'
+        return f'<{tag}>{text}</{tag}>\n'
+
 
 markdown = mistune.create_markdown(
     renderer=HighlightRenderer(escape=False),
@@ -32,6 +41,7 @@ markdown = mistune.create_markdown(
 
 
 templates = Jinja2Templates(directory='templates')
+
 site = {
     "title": "Friendly Bit - Web development blog",
     "description": "Friendly Bit is a blog by Emil Stenström, a Swedish web developer that occasionally gets ideas of how to improve the internet.",  # NOQA
