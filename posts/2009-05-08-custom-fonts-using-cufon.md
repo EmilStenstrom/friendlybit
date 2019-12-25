@@ -32,9 +32,9 @@ And that&#8217;s the whole reason why we don&#8217;t have cross-browser fonts on
 
 Of course, there&#8217;s still a need to embed custom fonts on webpages. That means clever developers will develop techniques will work around a broken internet explorer. No matter what the font founderies and Internet Explorer team thinks.
 
-My reasoning for why this is a good thing is because that&#8217;s how everything else works in the browser. Even though anyone can copy an image, we have a big market for stock images. Even though anyone can copy the HTML, CSS, and Javascript of a whole site, we still have people building websites for money. **Fonts are no different**, and the exact same business model that works for stock images can work for fonts. **
+My reasoning for why this is a good thing is because that&#8217;s how everything else works in the browser. Even though anyone can copy an image, we have a big market for stock images. Even though anyone can copy the HTML, CSS, and Javascript of a whole site, we still have people building websites for money. **Fonts are no different**, and the exact same business model that works for stock images can work for fonts.
 
-**
+\***
 
 One popular technique is sIFR, a way to use javascript to replace regular html with flash. Inside the flash you embed the font you want, and voilá, you can use any font you want. sIFR misses one crucial point though: It&#8217;s far too annoying to embed a font inside a flash movie. You need a commercial program, and you need to know what you&#8217;re doing. And you&#8217;re dependent on flash support. It&#8217;s not that bad, but a bit annoying to work with.
 
