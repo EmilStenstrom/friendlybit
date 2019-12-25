@@ -146,7 +146,7 @@ routes = [
     Route("/feed/", endpoint=feed),
     Route("/feed/{category}/", endpoint=feed),
     Route("/contact/", endpoint=contact),
-    Mount("/files", app=StaticFiles(directory='files'), name="static"),
+    Mount("/files", app=StaticFiles(directory='files', html=True), name="static"),
     Route("/{category}/{slug}/", endpoint=post),
 ]
 
