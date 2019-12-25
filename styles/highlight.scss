@@ -1,4 +1,8 @@
-.highlight pre { padding: 10px; }
+.highlight pre {
+  padding: 10px;
+  overflow-y: auto;
+  max-width: 100%;
+}
 .highlight table td { padding: 5px; }
 .highlight table pre { margin: 0; }
 .highlight .gh {
