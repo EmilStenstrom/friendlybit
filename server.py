@@ -5,12 +5,31 @@ import frontmatter
 import mistune
 import pytz
 import sass
+from pygments import highlight
+from pygments.formatters import html
+from pygments.lexers import get_lexer_by_name
 from starlette.applications import Starlette
 from starlette.exceptions import HTTPException
 from starlette.responses import FileResponse, RedirectResponse, StreamingResponse
 from starlette.routing import Mount, Route
 from starlette.staticfiles import StaticFiles
 from starlette.templating import Jinja2Templates
+
+
+class HighlightRenderer(mistune.HTMLRenderer):
+    def block_code(self, code, lang=None):
+        if lang:
+            lexer = get_lexer_by_name(lang, stripall=True)
+            formatter = html.HtmlFormatter()
+            return highlight(code, lexer, formatter)
+        return f'<pre><code class="language-{lang}">{mistune.escape(code)}</code></pre>'
+
+
+markdown = mistune.create_markdown(
+    renderer=HighlightRenderer(escape=False),
+    plugins=['strikethrough'],
+)
+
 
 templates = Jinja2Templates(directory='templates')
 site = {
@@ -49,7 +68,7 @@ async def homepage(request, format_="html"):
         })
     elif format_ == "atom":
         for post in posts:
-            post.content = mistune.html(post.content)
+            post.content = markdown(post.content)
 
         return templates.TemplateResponse('atom.xml', {
             'category': category,
@@ -84,7 +103,7 @@ async def post(request):
     for file in potential_files:
         async with aiofiles.open(file, "r") as f:
             post = frontmatter.loads(await f.read())
-            post.content = mistune.html(post.content)
+            post.content = markdown(post.content)
             post_url = post.metadata["permalink"]
             if not post_url.endswith(f"/{post_slug}/"):
                 continue
@@ -111,7 +130,7 @@ async def contact(request):
     async with aiofiles.open("pages/contact.md", "r") as f:
         post = frontmatter.loads(await f.read())
 
-    post.content = mistune.html(post.content)
+    post.content = markdown(post.content)
 
     return templates.TemplateResponse('page.html', {
         'post': post,

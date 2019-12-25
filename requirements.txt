@@ -13,6 +13,7 @@ httptools==0.0.13         # via uvicorn
 jinja2==2.10.3
 libsass==0.19.4
 markupsafe==1.1.1         # via jinja2
+pygments==2.5.2
 python-frontmatter==0.5.0
 pytz==2019.3
 pyyaml==5.2               # via python-frontmatter
