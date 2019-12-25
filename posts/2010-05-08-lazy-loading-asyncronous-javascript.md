@@ -49,8 +49,8 @@ Note: I did not make all of this up myself. Lots of people did, I&#8217;m just w
 
 ## Script tag
 
-```javascript
-
+```html
+<script src="http://yourdomain.com/script.js"></script>
 ```
 
 While being the stand-alone, cross-browser, and the shortest piece of code possible; it doesn&#8217;t download asynchronously and doesn&#8217;t lazy load. **Fail**.
