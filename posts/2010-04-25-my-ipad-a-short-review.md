@@ -104,4 +104,4 @@ And that concludes this iPad review.<figure id="attachment_607" style="width: 30
 
 [<img class="size-medium wp-image-607" title="iPad turned off" src="/files/post-media/ipad_off_and_banana-300x225.jpg" alt="" width="300" height="225">](/files/post-media/ipad_off_and_banana.jpg)<figcaption class="wp-caption-text">iPad rests here, next to banana.</figcaption></figure>
 
-As usual ****I&#8217;m looking forward to **your thoughts in the comments**. Thanks for reading!
+As usual I&#8217;m looking forward to **your thoughts in the comments**. Thanks for reading!
