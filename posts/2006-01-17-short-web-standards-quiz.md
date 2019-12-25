@@ -77,14 +77,7 @@ categories:
 
   1. `<adress>Sesame street 34Germany</adress>`
   1. `<font color="red">Hello</font>`
-  1. {% highlight html %}
-<em>
-<table>
-<tr>
-<td>Data</td>
-</tr>
-</em></table>
-{% endhighlight %}
+  1. `<em><table><tr><td>Data</td></tr></em></table>`
 
 <p class="first">
   Q8. The much awaited CSS3 specification includes the following feature:

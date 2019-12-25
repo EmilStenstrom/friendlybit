@@ -33,10 +33,10 @@ You can divide doctypes into two categories. The first category consist of the _
 Just to show an example, transitional allows the following:
 
 <div class="incorrect">
-{% highlight html %}
+```html
 <body bgcolor="blue">
 <center>
-{% endhighlight %}
+```
 </div>
 
 Strict, by its very nature, requires the use of CSS instead.
@@ -44,10 +44,10 @@ Strict, by its very nature, requires the use of CSS instead.
 What I find strange is that _inline CSS_ is valid in strict. Inline CSS is when you use the `style` attribute to set design information inside of the HTML. As an example the two deprecated pieces of code above can be done with:
 
 <div class="incorrect">
-{% highlight html %}
+```html
 <body style="background: blue">
 <div style="text-align: center">
-{% endhighlight %}
+```
 </div>
 
 How is that any better than the transitional versions? Inline CSS goes against all the logic involved in the idea of two distinct doctypes. Why should you want to include design information inside of a document that you just explicitly stated would separate the two?

@@ -28,10 +28,10 @@ Sharepoint 2007 has been &#8220;updated&#8221; to support [masterpages](http://m
 Default.master is the page that ships with Sharepoint and is used everywhere by default. A quick glimpse at it would make any seasoned web developer feel sick, and I quickly replaced it with something homemade. If you keep reading you will see why. Let&#8217;s get going with the first line:
 
 <div class="incorrect">
-{% highlight html %}
+```html
 <HTML xmlns:o="urn:schemas-microsoft-com:office:office"
 dir="ltr" __expr-val-dir="ltr">
-{% endhighlight %}
+```
 </div>
 
 Things start out really bad, without a doctype on the first line. This mean that all default pages will render in [quirks mode](http://en.wikipedia.org/wiki/Quirks_mode), making rendering unreliable across browsers. Next they set an XML namespace, which after some googling points to very [thorough documentation (pun intended)](http://msdn2.microsoft.com/en-us/library/ms875215(EXCHG.65).aspx). So they mean that it&#8217;s an XHTML document? No, because XHTML has lowercase tags, and here they use uppercase. The attribute <span class="incorrect">`__expr-val-dir`</span> just doesn&#8217;t exist.
@@ -39,11 +39,11 @@ Things start out really bad, without a doctype on the first line. This mean that
 A hardcoded link to the 4000 line &#8220;core.css&#8221; (filled with classnames you have to override by hand), and five external hardcoded javascripts then follow. Then 30 lines of inline CSS and javascript. Then comes the next real beauty, the body tag:
 
 <div class="incorrect">
-{% highlight html %}
+```html
 <BODY scroll="yes" onload="javascript:
    if (typeof(_spBodyOnLoadWrapper) != 'undefined')
    _spBodyOnLoadWrapper();">
-{% endhighlight %}
+```
 </div>
 
 The funniest thing here is the scroll attribute. Let me paraphrase [html.com](http://html.com/attributes/body-scroll/) (found through quick googling):
@@ -57,7 +57,7 @@ Then we have the typical ASP.NET form, encapsulating the whole page, followed by
 The next discovery can be found three _nested tables_ later:
 
 <div class="incorrect">
-{% highlight html %}
+```html
 <span id="TurnOnAccessibility" style="display: none">
    <a onclick="SetIsAccessibilityFeatureEnabled(true);
    UpdateAccessibilityUI();return false;" href="#"
@@ -65,7 +65,7 @@ The next discovery can be found three _nested tables_ later:
 </span>
 <a onclick="javascript:this.href='#mainContent';" href="javascript:;">
 class="ms-skip" AccessKey="J">Skip to main content</a>
-{% endhighlight %}
+```
 </div>
 
 I&#8217;ll wait until you regain consciousness. Hi, welcome back. Yes, they are using <span class="incorrect">`display: none`</span> and javascript calls to enable &#8220;accessibility mode&#8221;. I mean seriously, screen readers ignore things with display: none set, and we can certainly not always trust that javascript is enabled. I also love the skiplink, and how it sets its own href attibute to an internal link. Note how this code is (mostly) lowercase.
@@ -73,7 +73,7 @@ I&#8217;ll wait until you regain consciousness. Hi, welcome back. Yes, they are 
 And this is where it starts to get ugly. Every Sharepoint page has a Personal menu and a Site menu on it, containing things you want to do with your account or the current site. Fair enough. This is the (rather lengthy) code for the Personal menu:
 
 <div class="incorrect">
-{% highlight html %}
+```html
 <span style="display:none">
 <menu type='ServerMenu' id="zz3_ID_PersonalActionMenu"
    largeIconMode="true">
@@ -103,7 +103,7 @@ And this is where it starts to get ugly. Every Sharepoint page has a Personal me
       <img align="absbottom" src="/_layouts/images/menudark.gif" alt="" />
    </div>
 </span>
-{% endhighlight %}
+```
 </div>
 
 There&#8217;s several things worth a note here (in a bad way). The menu tag Sharepoint uses is in fact a real HTML tag, [deprecated in HTML 4.01](http://www.w3.org/TR/html401/struct/lists.html#h-10.4). Inside of that we have a tag called ie:menuitem that I really can&#8217;t understand. What on earth is ie:menuitem? Did they intentionally not make it work in other browsers? Everything is wrapped inside a <span class="incorrect">`display: none;`</span> As you see, tags are also cluttered with event handlers, both real and made up ones. The contextmenu is blocked twice, and a spacer gif is used to add alternate text to the link. The menu icon is hardcoded into everything.

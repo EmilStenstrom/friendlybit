@@ -36,17 +36,17 @@ Even though this sounds good in theory there are a lot of cases where it&#8217;s
 Floats and clearing is another problem almost everyone has in the beginning. What I like to use when I explain how floats work is the old align-attribute on images. Long time ago, when you only could use HTML for design, and wanted the text to &#8220;flow around the image&#8221; you used:
 
 <div class="incorrect">
-{% highlight html %}
+```html
 <img src="/files/post-media/image.jpg" align="right">
-{% endhighlight %}
+```
 </div>
 
 The above code is clearly design (placement of the image) so we should use CSS instead of HTML for this.
 
 <div class="correct">
-{% highlight css %}
+```css
 img#id_of_image { float: right; }
-{% endhighlight %}
+```
 </div>
 
 CSS is not restricted to float only images, all elements can be floated. This opens up to both new layout methods and confusion. To place three divisions side by side, just give them a width and float them. You can see a layout based on this in my [article about layouts](/css/simple-css-templates/) or the [3-column example](/files/templates/?style=3columns_float_float_float&cols=3).

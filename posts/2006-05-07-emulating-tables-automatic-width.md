@@ -29,14 +29,14 @@ Moving from tables to layouts based on CSS is a tough move for many. Things don&
 What we are after is a way to emulate a simple effect when using tables. Look at this code:
 
 <div class="incorrect">
-{% highlight html %}
+```html
 <table>
 <tr>
 <td><img src="/files/post-media/huvet_southpark.png"></td>
 <td>Some sample text here</td>
 </tr>
 </table>
-{% endhighlight %}
+```
 </div>
 
 The code above will render two columns, and the width of the left one will be equal to the width of the image. This can be useful on a very dynamic site, where you don&#8217;t know the width of the image and so you don&#8217;t want to set it using CSS.
