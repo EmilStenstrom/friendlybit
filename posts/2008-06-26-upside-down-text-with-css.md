@@ -33,7 +33,7 @@ write upside down text
 
 &#8230; and this is the result:
 
-<span style="text-gravity: inverse">?x?? u?op ?p?sdn ?????</span>
+<span style="text-gravity: inverse">ʇxǝʇ uʍop ǝpısdn ǝʇıɹʍ</span>
 
 I&#8217;m really surprised to learn that so few people know about this property, and I recommend you to continue reading the [W3C specification of text-gravity](http://www.fliptext.info/index.php).
 
