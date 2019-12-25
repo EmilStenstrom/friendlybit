@@ -32,19 +32,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th title="Placement in Google">
       #
     </th>
-
     <th>
       Site name
     </th>
-
     <th>
       Doctype
     </th>
-
     <th>
       Validation errors
     </th>
-
     <th>
       Layout method
     </th>
@@ -54,19 +50,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th>
       1
     </th>
-
     <td>
       Pokerroom.com
     </td>
-
     <td class="almost">
       Transitional
     </td>
-
     <td class="incorrect">
       22 errors
     </td>
-
     <td class="incorrect">
       Tables
     </td>
@@ -76,19 +68,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th>
       2
     </th>
-
     <td>
       Poker.com
     </td>
-
     <td class="correct">
       Strict
     </td>
-
     <td class="incorrect">
       62 errors
     </td>
-
     <td class="correct">
       CSS
     </td>
@@ -98,19 +86,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th>
       3
     </th>
-
     <td>
       Pokerstars.com
     </td>
-
     <td class="incorrect">
       None
     </td>
-
     <td class="incorrect">
       48 errors
     </td>
-
     <td class="incorrect">
       Tables
     </td>
@@ -120,19 +104,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th>
       4
     </th>
-
     <td>
       Pokerpages.com
     </td>
-
     <td class="incorrect">
       None
     </td>
-
     <td class="incorrect">
       336 errors
     </td>
-
     <td class="incorrect">
       Tables
     </td>
@@ -142,19 +122,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th>
       5
     </th>
-
     <td>
       Pagat.com Poker
     </td>
-
     <td class="incorrect">
       None
     </td>
-
     <td class="incorrect">
       52 errors*
     </td>
-
     <td class="correct">
       None
     </td>
@@ -164,19 +140,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th>
       6
     </th>
-
     <td>
       Worldpokertour.com
     </td>
-
     <td class="almost">
       Transitional
     </td>
-
     <td class="incorrect">
       56 errors
     </td>
-
     <td class="incorrect">
       Tables
     </td>
@@ -186,19 +158,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th>
       7
     </th>
-
     <td>
       Pacificpoker.com
     </td>
-
     <td class="incorrect">
       None
     </td>
-
     <td class="incorrect">
       72 errors
     </td>
-
     <td class="incorrect">
       Tables
     </td>
@@ -208,19 +176,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th>
       8
     </th>
-
     <td>
       Partypoker.com
     </td>
-
     <td class="almost">
       Transitional
     </td>
-
     <td class="incorrect">
       22 errors*
     </td>
-
     <td class="correct">
       CSS
     </td>
@@ -230,19 +194,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th>
       9
     </th>
-
     <td>
       Paradisepoker.com
     </td>
-
     <td class="almost">
       Transitional
     </td>
-
     <td class="almost">
       1 error
     </td>
-
     <td class="correct">
       CSS
     </td>
@@ -252,19 +212,15 @@ Today&#8217;s topic is _Poker sites_. Poker, and card games overall, are hot the
     <th>
       10
     </th>
-
     <td>
       Homepoker.com
     </td>
-
     <td class="incorrect">
       Broken
     </td>
-
     <td class="incorrect">
       146 errors
     </td>
-
     <td class="incorrect">
       Tables
     </td>
@@ -515,15 +471,12 @@ Let&#8217;s have a look at the same properties we looked at in the beginning of 
     <th>
       Site name
     </th>
-
     <th>
       Doctype
     </th>
-
     <th>
       Validation errors
     </th>
-
     <th>
       Layout method
     </th>
@@ -533,15 +486,12 @@ Let&#8217;s have a look at the same properties we looked at in the beginning of 
     <td>
       Friendlybit template
     </td>
-
     <td class="correct">
       Strict
     </td>
-
     <td class="correct">
       0 errors
     </td>
-
     <td class="correct">
       CSS
     </td>
