@@ -32,7 +32,7 @@ But, it isn&#8217;t unusual that **I read posts that are a couple of days old**.
 
 Perhaps feed readers have a hard time detecting if there are comments to a post or not. Comments are not included in the post, so wouldn&#8217;t they have to parse through the feed link for comments?
 
-No, there is a tag called `wfw:commentRss>`, that&#8217;s possible to use in both Atom and RSS (If I&#8217;m not mistaken), that gives **a link to the comment feed**. That means feed readers could easily get the comments too. The best thing here is that all WordPress blogs (and others too) have it already. It&#8217;s just a matter of using it!
+No, there is a tag called `<wfw:commentRss>`, that&#8217;s possible to use in both Atom and RSS (If I&#8217;m not mistaken), that gives **a link to the comment feed**. That means feed readers could easily get the comments too. The best thing here is that all WordPress blogs (and others too) have it already. It&#8217;s just a matter of using it!
 
 ## Why not #3: Each post will be too long!
 
@@ -42,6 +42,6 @@ Yes, it will mean downloading more data, but you also get more information. **Ea
 
 ## Promote contributions more
 
-Adding comments to your feed serves to promote your user&#8217;s contributions even more, and I&#8217;m really surprised that not everyone does it. I&#8217;m using feed burner for [my feed](http://friendlybit.com/feed) and can therefore use a feed flair (Click your feed / Optimize / FeedFlair / Comment count) to add a link to my comments at the end of the post. That&#8217;s a first step.
+Adding comments to your feed serves to promote your user&#8217;s contributions even more, and I&#8217;m really surprised that not everyone does it. I&#8217;m using feed burner for [my feed](http://friendlybit.com/feed/) and can therefore use a feed flair (Click your feed / Optimize / FeedFlair / Comment count) to add a link to my comments at the end of the post. That&#8217;s a first step.
 
 What would be much better was if **feed readers would get better at promoting comments**. Could we get them to somehow?
