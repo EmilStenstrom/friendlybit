@@ -28,6 +28,7 @@ Bankerna kommer från Finansinspektionens lista över [bankaktiebolag och medlem
 
 Eftersom denna artikel fått väldigt bra spridning har flera av bankerna hört av sig. Ofta med konkreta förbättringar de har genomfört på grund av min artikel. Här hittar du en tidslinje över hur artikeln har ändrats över tid.
 
+  * 2015-03-03: **Inga fler uppdateringar görs från detta datum och framåt...**
   * 2015-03-02: **Danske Bank** tillagd. Dom får tyvärr bara ett C.
   * 2015-03-02: Kontrollerade stöd för [**DNSSEC**](https://en.wikipedia.org/wiki/Domain_Name_System_Security_Extensions): Landshypotek, Marginalen, Danske Bank, och Länsförsäkringar är de enda som stödjer det.
   * 2015-03-03: Rättade felaktig klassificering av SBAB. Jag hade testat startsidans certifikat, inte inloggningssidans.
@@ -54,29 +55,23 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
   <tr>
     <th rowspan="2">
     </th>
-
     <th colspan="2">
       Kryptering
     </th>
-
     <th colspan="2">
       Visuellt
     </th>
   </tr>
-
   <tr>
     <th>
       Betyg
     </th>
-
     <th>
       Not
     </th>
-
     <th>
       Betyg
     </th>
-
     <th>
       Not
     </th>
@@ -86,19 +81,15 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>SBAB</strong>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
       1
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -107,19 +98,15 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Skandiabanken</strong>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
       1
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -128,19 +115,15 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Resurs Bank</strong>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
       1
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -149,19 +132,15 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Landshypotek</strong>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
       2
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
       4
     </td>
@@ -171,18 +150,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Carnegie Investment Bank</strong>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
       4
     </td>
@@ -192,18 +167,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Ekobanken</strong>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
       4
     </td>
@@ -213,18 +184,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Forex Bank</strong>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
       4
     </td>
@@ -234,19 +201,15 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Länsförsäkringar Bank</strong>
     </td>
-
     <td>
       <strong>A-</strong>
     </td>
-
     <td>
       3
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -255,19 +218,15 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Marginalen Bank</strong>
     </td>
-
     <td>
       <strong>A-</strong>
     </td>
-
     <td>
       3
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -276,19 +235,15 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Nordnet</strong>
     </td>
-
     <td>
       <strong>A-</strong>
     </td>
-
     <td>
       3
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -309,11 +264,9 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
   <tr>
     <th rowspan="2">
     </th>
-
     <th colspan="2">
       Kryptering
     </th>
-
     <th colspan="2">
       Visuellt
     </th>
@@ -323,15 +276,12 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <th>
       Betyg
     </th>
-
     <th>
       Not
     </th>
-
     <th>
       Betyg
     </th>
-
     <th>
       Not
     </th>
@@ -341,19 +291,15 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>ICA Banken</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
       1
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -362,18 +308,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Avanza</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -382,18 +324,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>MedMera Bank</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -402,18 +340,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Santander Consumer</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -422,18 +356,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>JAK Medlemsbank</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -442,18 +372,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Swedbank</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>A</strong>
     </td>
-
     <td>
     </td>
   </tr>
@@ -462,18 +388,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>SEB</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
       2
     </td>
@@ -483,18 +405,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Volvofinans Bank</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
       2
     </td>
@@ -504,18 +422,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Ikanobanken</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
       2
     </td>
@@ -525,18 +439,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Nordea Bank AB</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
       2
     </td>
@@ -546,18 +456,14 @@ Fantastiska resultat för alla dessa fyra banker. Krypteringen uppfyller best pr
     <td>
       <strong>Handelsbanken</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
       2
     </td>
@@ -577,11 +483,9 @@ Någonstans här är det dags att börja bli orolig. Dessa banker har gemensamt 
   <tr>
     <th rowspan="2">
     </th>
-
     <th colspan="2">
       Kryptering
     </th>
-
     <th colspan="2">
       Visuellt
     </th>
@@ -591,15 +495,12 @@ Någonstans här är det dags att börja bli orolig. Dessa banker har gemensamt 
     <th>
       Betyg
     </th>
-
     <th>
       Not
     </th>
-
     <th>
       Betyg
     </th>
-
     <th>
       Not
     </th>
@@ -609,18 +510,14 @@ Någonstans här är det dags att börja bli orolig. Dessa banker har gemensamt 
     <td>
       <strong>Danske Bank</strong>
     </td>
-
     <td>
       <strong>B</strong>
     </td>
-
     <td>
     </td>
-
     <td>
       <strong>F</strong>
     </td>
-
     <td>
       2
     </td>
@@ -630,19 +527,15 @@ Någonstans här är det dags att börja bli orolig. Dessa banker har gemensamt 
     <td>
       <strong>Erik Penser</strong>
     </td>
-
     <td>
       <strong>C</strong>
     </td>
-
     <td>
       3
     </td>
-
     <td>
       <strong>F</strong>
     </td>
-
     <td>
       4, 5
     </td>
@@ -652,19 +545,15 @@ Någonstans här är det dags att börja bli orolig. Dessa banker har gemensamt 
     <td>
       <strong>OK-Q8 Bank</strong>
     </td>
-
     <td>
       <strong>C</strong>
     </td>
-
     <td>
       3
     </td>
-
     <td>
       <strong>F</strong>
     </td>
-
     <td>
       1, 4, 6
     </td>
