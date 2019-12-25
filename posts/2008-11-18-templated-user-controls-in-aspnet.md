@@ -43,10 +43,10 @@ The prequisites are:
 
 What I came up with was [templated user controls](http://msdn.microsoft.com/en-us/library/36574bf6.aspx). They provide a way to write controls that wrap any other controls you may have, and add content around them. And it&#8217;s easy to write and user. This is how the one I wrote is used:
 
-```asp
-MyProject:Box runat="server">
+```aspx-cs
+<MyProject:Box runat="server">
     <Contents>
-<h2>Random header...</h2>
+        <h2>Random header...</h2>
         <asp:Repeater runat="server">...</asp:Repeater>
         ...
     </Contents>
@@ -90,10 +90,10 @@ namespace MyProject.templates.units
 
 &#8230; and then the &#8220;code-front&#8221;:
 
-```asp
-%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Box.ascx.cs" Inherits="MyProject.templates.units.Box" %>
+```aspx-cs
+<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Box.ascx.cs" Inherits="MyProject.templates.units.Box" %>
 <div class="box">
-<div class="boxwrapper">
+    <div class="boxwrapper">
         <asp:Placeholder runat="server" ID="PlaceHolder1" />
     </div>
 </div>
