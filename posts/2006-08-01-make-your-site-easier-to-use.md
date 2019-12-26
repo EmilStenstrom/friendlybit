@@ -47,13 +47,13 @@ The simplest way of avoiding the portal-look is splitting up your content. Do yo
 Bad form elements are one of the most annoying things on the web. Worst are those tiny little checkboxes you need to check to specify if you like to get spammed or not. They are simply too small. There is an easy solution though, that everyone should be aware of: the label element. What it does is associate some text with the checkbox. The browsers use this information by making a click on the text check the box. Note: this also works for radio buttons. Here&#8217;s the markup you need:
 
 ```html
-HTML:
 <form action="">
 <input checked="checked" id="send_spam" type="checkbox"><br>
 <label for="send_spam">Send me all your "newsletters"</label><br>
 </form>
+```
 
-CSS: [Update: This does not work in Safari, might confuse people.]
+```css
 label { cursor: pointer; }
 ```
 

@@ -17,6 +17,17 @@ from starlette.staticfiles import StaticFiles
 from starlette.templating import Jinja2Templates
 
 
+class IncludeLangHtmlFormatter(HtmlFormatter):
+    def __init__(self, lang=None, **options):
+        super().__init__(**options)
+        self.lang = lang
+
+    def _wrap_div(self, inner):
+        yield 0, (f'<div class="highlight" data-language="{self.lang.upper()}">')
+        for tup in inner:
+            yield tup
+        yield 0, '</div>\n'
+
 class HighlightRenderer(mistune.HTMLRenderer):
     def block_code(self, code, lang=None):
         match = re.match(r"(.+) \{(.+)\}", lang) if lang else False
