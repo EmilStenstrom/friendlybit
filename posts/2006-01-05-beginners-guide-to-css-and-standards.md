@@ -90,13 +90,13 @@ This is a different way of thinking about webpages, and it&#8217;s something tha
 Comment: The font-tag is design and design shouldn&#8217;t be in the HTML document. All design should be in the CSS-file! Instead do this:
 
 In the HTML:
-```html  {.correct}
+```html {.correct}
 <h1>Welcome to my page</h1>
 ```
 
 In the CSS:
 
-```css  {.correct}
+```css {.correct}
 h1 { font-size: 2em; }
 ```
 
@@ -108,10 +108,15 @@ One more example:
 
 Comment: This looks right doesn&#8217;t it? But if you look up what `<b>` stands for you quickly find _bold_. But bold is certainly design, so it still doesn&#8217;t belong in the HTML document. A better choice is `<em>` that stands for _emphasis_ or simply &#8220;this piece of text is important&#8221;. So instead of saying &#8220;this text looks like this&#8221; you are saying &#8220;this text is important&#8221; and you let the looks be decided by the CSS. Seems like a minor change, but it illustrates how to select your tags. Use this instead:
 
-```html {.correct}
 In the HTML:
+
+```html {.correct}
 <em>An error occured</em>
+```
+
 In the CSS:
+
+```css {.correct}
 em {
    font-weight: bold;
    color: Red;
@@ -134,8 +139,9 @@ One last example:
 
 Comment: Lots of people format their navigation menu like the above example. But is a navigation menu really a table? If you look up the definition of a table you see that it&#8217;s made for tabular data, the same kind of data you would put in an Excel sheet. The example has only one column of data, and no headers&#8230; Some people state that they use tables because that means that they can get borders and a background color on their navigation, but that&#8217;s exactly what your CSS file is for (not the HTML document). So what should we do? Look deep in the list of [HTML elements at w3schools](http://www.w3schools.com/html/) and you&#8217;ll find something called an unordered list, `<ul>`. Have a look at this:
 
-```html {.correct}
 In the HTML:
+
+```html {.correct}
 <ul>
   <li><a href="">first link</a></li>
   <li><a href="">second link</a></li>
@@ -187,6 +193,7 @@ That was a lot of info on just a few lines of code, I hope I didn&#8217;t give t
 The body of the document consists of a bunch of divisions, let&#8217;s add some content to them:
 
 <div id="semantics"></div>
+
 ```html
 ...
 <div id="header">
