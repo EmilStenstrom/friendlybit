@@ -39,7 +39,7 @@ But it gets better:
 
 ```css
 :target {
-   background: url(a href="http://friendlybit.com/images/yellow-fade.gif">yellow-fade.gif</a>);
+   background: url("/images/yellow-fade.gif");
 }
 ```
 
