@@ -33,7 +33,7 @@ The functionallity is not too hard to build with some server side language, but 
 
 PHP source:
 
-```css
+```php
 <?php
 // This line makes sure the browser handles
 // the file as CSS and not PHP.
@@ -43,14 +43,12 @@ if ($module['calendar'] == true) {
    echo '
       .calendar { width: 300px; }
       .calendar table { background: pink;}
-      ...
    ';
 }
 if ($module['newslist'] == true) {
    echo '
       .newslist { list-style: none; }
       .newslist li { display: inline; }
-      ...
    ';
 }
 [and so on every new module added]
@@ -62,10 +60,8 @@ Generated file:
 ```css
 .calendar { width: 300px; }
 .calendar table { background: pink; }
-...
 .newslist { list-style: none; }
 .newslist li { display: inline; }
-...
 ```
 
 You save this file as &#8220;dynamic_stylesheet.php&#8221; and link it like you would if it was a static CSS file. Everything works fine and all the dynamic CSS makes the file sent to the user quite small. Both you and your users are all happy. The site starts growing.
@@ -75,8 +71,10 @@ You save this file as &#8220;dynamic_stylesheet.php&#8221; and link it like you 
 After a while you start getting reports of the site getting slow. After some research you find that it&#8217;s in fact the dynamic CSS that does it. The file has gotten quite big and regenerating it each time is a lot of work. So you read up on caching and find that all that&#8217;s needed is a few lines at the top of your dynamic CSS file:
 
 ```php
+<?php
 header('Cache-control: must-revalidate');
 header('Expires: ' . gmdate('D, d M Y H:i:s', time() + 3600) . ' GMT');
+?>
 ```
 
 This makes the browser load the file from cache for one hour instead of requesting it again. Problem solved! Right? Well, this means that you won&#8217;t get a regenerated file if you visit a new page on the site. The browser will load the style from cache instead and your users will get an unstyled calendar (or any other module) for an hour. Pretty annoying if you ask me.
@@ -87,7 +85,7 @@ Say we solve the problem above and get the page to only get cached on a per page
 
 Caching only fragments of your style is certainly doable in a lot of ways. The easiest I have found is using CSS&#8217;s own @import command. You simply change the example above to:
 
-```css
+```php
 <?php
 // This line makes sure the browser handles
 // the file as CSS and not PHP.
@@ -103,7 +101,7 @@ else if ($module['newslist'] == true) {
       @import "newslist.css";
    ';
 }
-[and so on every new module added]
+// ...and so on every new module added
 ?>
 ```
 
