@@ -65,7 +65,7 @@ It could be that I&#8217;m trying to explain why someone should add labels to th
 
 Accessibility is about making it easy for as many as possible to access your content. With, often simple, means you can make it much easier for people to access your site. Let me give you some examples or people your can help by thinking about accessibiliy.
 
-| User                                                                                                                           | How you can help                                 |
+| User                                                                                                                            | How you can help                                 |
 | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------ |
 | Partly color blind                                                                                                             | Don&#8217;t use only color to convey information |
 | People unable to use a mouse. Either because of some physical disability or simply that they are linux hackers and dislike it. | Make sure keyboard navigation works as intended  |

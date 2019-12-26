@@ -72,7 +72,7 @@ class HighlightRenderer(mistune.HTMLRenderer):
 
 markdown = mistune.create_markdown(
     renderer=HighlightRenderer(escape=False),
-    plugins=['strikethrough'],
+    plugins=['strikethrough', 'table'],
 )
 
 
