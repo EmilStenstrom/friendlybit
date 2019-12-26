@@ -59,15 +59,9 @@ Why is validation so important? Because I just can&#8217;t stand you forgetting 
 
 It could be that I&#8217;m trying to explain why someone should add labels to their form. I say something in the lines of:
 
-<blockquote class="alternate">
+> **Me**: "Not having labels hurts your site’s accessibility"
 
-    <strong>Me:</strong><br /> &#8220;Not having labels hurts your site’s accessibility&#8221;
-
-</blockquote>
-
-> **User:**
-
-> &#8220;But I don&#8217;t have any blind users on my site!&#8221;
+> **User**: "But I don&#8217;t have any blind users on my site!"
 
 Accessibility is about making it easy for as many as possible to access your content. With, often simple, means you can make it much easier for people to access your site. Let me give you some examples or people your can help by thinking about accessibiliy.
 
