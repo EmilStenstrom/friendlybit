@@ -34,15 +34,13 @@ So, where does the gap come from? I went looking in the [CSS specification on fl
 This is the sample code you need to have in mind:
 
 ```html
-HTML:
 <div id="parent">
-  <div id="child">...</div>
-  <div id="child2">...</div>
+    <div id="child">...</div>
+    <div id="child2">...</div>
 </div>
 ```
 
 ```css
-CSS:
 #child { float: left; }
 #child2 { float: left; }
 ```
