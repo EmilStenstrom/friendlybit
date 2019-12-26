@@ -29,9 +29,9 @@ Say you want to build a tabbed navigation where tabs move slightly when you hove
 
 ```html
 <ul>
-<li><a href="url1"><span>Home</span></a></li>
-<li><a href="url2"><span>Contact</span></a></li>
-<li><a href="url3"><span>About</span></a></li>
+    <li><a href="url1"><span>Home</span></a></li>
+    <li><a href="url2"><span>Contact</span></a></li>
+    <li><a href="url3"><span>About</span></a></li>
 </ul>
 ```
 
