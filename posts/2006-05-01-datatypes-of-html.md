@@ -37,17 +37,17 @@ All programming languages have some way of storing a list of elements. While the
 ```html
 Unordered list:
 <ul>
-<li>Blue item</li>
-<li>Gray item</li>
-<li>Pink item</li>
-...
+    <li>Blue item</li>
+    <li>Gray item</li>
+    <li>Pink item</li>
+    ...
 </ul>
 Ordered list:
 <ol>
-<li>Item 1</li>
-<li>Item 2</li>
-<li>Item 3</li>
-...
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>
+    ...
 </ol>
 ```
 
@@ -57,31 +57,31 @@ Most languages also support some way of arranging your data in a two dimensional
 
 ```html
 <table summary="Prices for apples in Sweden">
-<caption>Table 1: Prices for various apples in Swedish stores</caption>
-<thead>
-<tr>
-<th>Kind of apple</th>
-<th>Color</th>
-<th>Price</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>Granny Smith</td>
-<td>Light Green</td>
-<td>3 SEK</td>
-</tr>
-<tr>
-<td>Golden Delicious</td>
-<td>Yellow</td>
-<td>6 SEK</td>
-</tr>
-<tr>
-<td>McIntosh</td>
-<td>Golden</td>
-<td>30 SEK</td>
-</tr>
-</tbody>
+    <caption>Table 1: Prices for various apples in Swedish stores</caption>
+    <thead>
+        <tr>
+            <th>Kind of apple</th>
+            <th>Color</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Granny Smith</td>
+            <td>Light Green</td>
+            <td>3 SEK</td>
+        </tr>
+        <tr>
+            <td>Golden Delicious</td>
+            <td>Yellow</td>
+            <td>6 SEK</td>
+        </tr>
+        <tr>
+            <td>McIntosh</td>
+            <td>Golden</td>
+            <td>30 SEK</td>
+        </tr>
+    </tbody>
 </table>
 ```
 
@@ -91,21 +91,21 @@ Sometimes you want to have a tree of data; it might be to display a nice view of
 
 ```html
 <ul>
-<li>Home</li>
-<li>About this site</li>
-<li>Sections
-<ul>
-<li>Blue Fishes
-<ul>
-<li>Light blue Fishes</li>
-<li>Dark blue Fishes</li>
-</ul>
-</li>
-<li>Black Fishes</li>
-<li>Red Fishes</li>
-</ul>
-</li>
-<li>Contact us</li>
+    <li>Home</li>
+    <li>About this site</li>
+    <li>Sections
+        <ul>
+            <li>Blue Fishes
+                <ul>
+                    <li>Light blue Fishes</li>
+                    <li>Dark blue Fishes</li>
+                </ul>
+            </li>
+            <li>Black Fishes</li>
+            <li>Red Fishes</li>
+        </ul>
+    </li>
+    <li>Contact us</li>
 </ul>
 ```
 
@@ -119,16 +119,20 @@ I&#8217;ve made an example below of how to markup a list of properties.
 
 ```html
 <dl>
-<dt>Weight:</dt>
-<dd>45 kg</dd>
-<dt>Length:</dt>
-<dd>12 m</dd>
-<dt>Colors:</dt>
-<dd>Blue</dd>
-<dd>Red</dd>
-<dd>White</dd>
-<dt>Cost:</dt>
-<dd>500 SEK</dd>
+    <dt>Weight:</dt>
+    <dd>45 kg</dd>
+
+    <dt>Length:</dt>
+    <dd>12 m</dd>
+
+    <dt>Colors:</dt>
+    <dd>Blue</dd>
+
+    <dd>Red</dd>
+    <dd>White</dd>
+
+    <dt>Cost:</dt>
+    <dd>500 SEK</dd>
 </dl>
 ```
 
