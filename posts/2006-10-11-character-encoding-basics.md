@@ -53,14 +53,14 @@ header('Content-Type: text/html; charset=utf-8');
 
 Setting encoding to UTF-8 with **ASP** and **ASP.Net**:
 
-```asp
-%Response.charset="utf-8"%>
+```aspx-cs
+<%Response.charset="utf-8"%>
 ```
 
 Setting encoding to UTF-8 with **JSP**:
 
 ```jsp
-%@ page contentType="text/html; charset=UTF-8" %>
+<%@ page contentType="text/html; charset=UTF-8" %>
 ```
 
 Setting encoding to UTF-8 with **Java Servlets**:
@@ -72,7 +72,7 @@ resource.setContentType ("text/html;charset=utf-8");
 Setting encoding to UTF-8 with **Python** or **Perl**:
 
 ```python
-print "Content-Type: text/html; charset=utf-8\\n\\n";
+print "Content-Type: text/html; charset=utf-8";
 ```
 
 Setting encoding to UTF-8 with **Ruby on Rails**:
