@@ -131,6 +131,6 @@ That&#8217;s it! By following a few simple rules you can get a CSS-file that&#82
 
 > **Update**: Maurice van Creij writes in and says that he&#8217;s using the same method. A good way to get started is to generate a CSS file from the HTML. He has written a javascript that does just that. Nice! Try generating a CSS file.
 
-> **Update**: Another part structuring your CSS is making sure you don&#8217;t load too much. I wrote an article previously about [combining static and dynamic CSS](http://friendlybit.com/css/static-and-dynamic-css-combined/).
+> **Update**: Another part structuring your CSS is making sure you don&#8217;t load too much. I wrote an article previously about [combining static and dynamic CSS](/css/static-and-dynamic-css-combined/).
 
 > **Update**: This article got digged to the frontpage. There&#8217;s a lot of good comments there (but as usual pretty harsh language).

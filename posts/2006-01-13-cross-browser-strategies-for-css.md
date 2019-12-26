@@ -28,7 +28,7 @@ This article will go through some useful cross-browser CSS techniques I use to g
 
 ## Validate your site {#validate}
 
-Validation is a much debated area and many [Level 2 bosses](http://friendlybit.com/css/levels-of-css-knowledge/) doubt that this procedure really helps. It does help though. It ensures that you didn&#8217;t do any simple spelling errors, things that could be incredibly hard to find manually. A validator also checks for nesting errors (did you put a `<div>` inside of an anchor?) and other strange things like your character encoding. Information about each of the errors is available as links when they appear, just click on one and you&#8217;re on your way to learn something new.
+Validation is a much debated area and many [Level 2 bosses](/css/levels-of-css-knowledge/) doubt that this procedure really helps. It does help though. It ensures that you didn&#8217;t do any simple spelling errors, things that could be incredibly hard to find manually. A validator also checks for nesting errors (did you put a `<div>` inside of an anchor?) and other strange things like your character encoding. Information about each of the errors is available as links when they appear, just click on one and you&#8217;re on your way to learn something new.
 
 Validation is the simplest of my tricks to check. There are validators available for both [(X)HTML](http://validator.w3.org/) and [CSS](http://jigsaw.w3.org/css-validator/). Use them! Any errors that show up on those lists could be a potential cross-browser breaker so if you decide to ignore any of them you should be really sure about what you are doing. There are reasons why each one of all of the errors on the validation page show up, so validate, fix, validate, fix, validate.
 

@@ -22,7 +22,7 @@ I&#8217;ve recently managed to get a hold of a beta invite to [Voddler](http://w
 
 Anyway.
 
-Two years ago, [I got to test Spotify](http://friendlybit.com/other/spotify-is-a-lot-like/), a music streaming that will soon launch in the US and is heavily anticipated. It completely changed how I listened to music, I deleted all my mp3:s and is now streaming all my music. [Voddler](http://www.voddler.com/) is a similar streaming service, but for movies.
+Two years ago, [I got to test Spotify](/other/spotify-is-a-lot-like/), a music streaming that will soon launch in the US and is heavily anticipated. It completely changed how I listened to music, I deleted all my mp3:s and is now streaming all my music. [Voddler](http://www.voddler.com/) is a similar streaming service, but for movies.
 
 So, what do I think of it?
 

@@ -28,7 +28,7 @@ categories:
   As many of my readers already know all pages should include a doctype. The doctype tells the browser (or other user agent) what kind of document it can expect and what standards it follows.
 </p>
 
-You can divide doctypes into two categories. The first category consist of the _transitional_ ones, the ones that allow old syntax and still validate, and the other one consist of the strict ones. I have repeatedly [recommended the strict versions](http://friendlybit.com/css/cross-browser-strategies-for-css/#mode) for a simple reason: it&#8217;s the best ones for separating design from content.
+You can divide doctypes into two categories. The first category consist of the _transitional_ ones, the ones that allow old syntax and still validate, and the other one consist of the strict ones. I have repeatedly [recommended the strict versions](/css/cross-browser-strategies-for-css/#mode) for a simple reason: it&#8217;s the best ones for separating design from content.
 
 Just to show an example, transitional allows the following:
 

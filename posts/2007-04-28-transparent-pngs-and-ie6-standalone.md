@@ -31,7 +31,7 @@ I&#8217;m working on a site with several alpha-transparent areas, where authors 
 
 ## Alpha transparency on modern browsers
 
-Fireworks, my favourite image editor, allowed me to set the opacity to 60%. It smoothly exported my image to PNG and I positioned everything where it should be. Two background images later, one that the author could specify (added with a style tag in the head, [not with inline styles](http://friendlybit.com/css/inline-css-should-not-be-allowed-in-strict-doctypes/)), and one with the transparency. Everything worked flawlessly in Firefox, Opera, and IE7, as expected. Easy!
+Fireworks, my favourite image editor, allowed me to set the opacity to 60%. It smoothly exported my image to PNG and I positioned everything where it should be. Two background images later, one that the author could specify (added with a style tag in the head, [not with inline styles](/css/inline-css-should-not-be-allowed-in-strict-doctypes/)), and one with the transparency. Everything worked flawlessly in Firefox, Opera, and IE7, as expected. Easy!
 
 ## IE6 and AlphaImageLoader
 

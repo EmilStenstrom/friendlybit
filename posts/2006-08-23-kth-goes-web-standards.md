@@ -32,7 +32,7 @@ KTH is an initialism for &#8220;Kungliga tekniska högskolan&#8221; which transl
 
 ## Polopoly and the HTML
 
-I entered the project quite late in the process ([Valtech found me](http://friendlybit.com/css/valtech-my-new-employer/)), about a month before launch. Most of the back-end work had already been completed and authors responsible for different parts of the organisation had started filling the database with content. The CMS used was a platform known as Cortina, based on top of the CMS framework [Polopoly](http://www.polopoly.com).
+I entered the project quite late in the process ([Valtech found me](/css/valtech-my-new-employer/)), about a month before launch. Most of the back-end work had already been completed and authors responsible for different parts of the organisation had started filling the database with content. The CMS used was a platform known as Cortina, based on top of the CMS framework [Polopoly](http://www.polopoly.com).
 
 Everything was modular and the changes I wanted to do to the HTML nicely cascaded out over the site. When you look at the HTML you&#8217;ll notice that it contains a lot of strange whitespace, making the code somewhat difficult to read. That&#8217;s because of the template language used, [JSTL](http://java.sun.com/products/jsp/jstl/), which leaves whitespace after each element. I therefore recommend using the [HTML validator extension for Firefox](http://users.skynet.be/mgueury/mozilla/) , selecting view source, and then using the button &#8220;Clean up the page&#8221; in the bottom right corner. That makes the code a bit easier to read for you on the outside. I hope you won&#8217;t be too upset over that :)
 
@@ -66,7 +66,7 @@ Others prefer to be able to jump to whatever place in the source they want. For 
 
 ### 3 column equal height
 
-As many of the column layouts today this one was made with all columns of equal height. It&#8217;s a common complaint amongst the &#8220;table for layout&#8221; users that these kinds of layouts are too hard to do with CSS. They are not. An easy technique for doing this is known as [faux columns](http://friendlybit.com/files/templates/?style=faux_columns&cols=3&nofooter=1) and is simply: putting your columns in a wrapper, floating them left, and setting a background image in the wrapper. The wrapper expands whenever any of the columns expand and shows more of the tiled background image as needed. It&#8217;s a simple technique, it works well, doesn’t contain any hacks, and is easy to learn. CSS vs. Tables: 1 &#8211; 0.
+As many of the column layouts today this one was made with all columns of equal height. It&#8217;s a common complaint amongst the &#8220;table for layout&#8221; users that these kinds of layouts are too hard to do with CSS. They are not. An easy technique for doing this is known as [faux columns](/files/templates/?style=faux_columns&cols=3&nofooter=1) and is simply: putting your columns in a wrapper, floating them left, and setting a background image in the wrapper. The wrapper expands whenever any of the columns expand and shows more of the tiled background image as needed. It&#8217;s a simple technique, it works well, doesn’t contain any hacks, and is easy to learn. CSS vs. Tables: 1 &#8211; 0.
 
 <img src="/images/item_matrixd.jpg" alt="One of the 5 layouts available" class="secondary" />
 

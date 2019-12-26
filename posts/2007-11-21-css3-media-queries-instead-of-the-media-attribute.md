@@ -21,7 +21,7 @@ btcnew_comment_summary:
 categories:
   - CSS
 ---
-In my previous post about the media attribute I talked about [how strange the media attribute is](http://friendlybit.com/css/media-attribute/), and that its usefulness isn&#8217;t that obvious.
+In my previous post about the media attribute I talked about [how strange the media attribute is](/css/media-attribute/), and that its usefulness isn&#8217;t that obvious.
 
 As a followup I want to point you to an article that Russell Beattie wrote about [CSS3 media queries](http://www.russellbeattie.com/blog/css3-and-the-death-of-handheld-stylesheets). Media queries are a way to **check the capabilities** of a user-agent instead of checking what kind of media type it claims to be. This makes a lot of sense to me. Does it really matter if someone is using a small computer screen or a big mobile phone? What about if they use a [big ass table](http://www.youtube.com/watch?v=CZrr7AZ9nCY)? (aside from the pun, I really think [Microsoft surface](http://www.youtube.com/watch?v=rP5y7yp06n0) is cool)
 

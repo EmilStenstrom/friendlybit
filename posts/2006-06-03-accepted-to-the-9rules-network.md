@@ -21,7 +21,7 @@ categories:
 ---
 I just wanted to drop a note to everyone that [I got accepted](http://9rules.com/blog/2006/06/round-4-list/) to the [9rules network](http://9rules.com). 9rules is a network for all kinds of quality content and you just need to have a quick look at the members to see that they attract the right people. It will be very interesting to see what this leads to!
 
-In other news my site was mentioned in the swedish magazine &#8220;Mobil&#8221; that covers everything about mobile phones (no article available online). They had an article about how to make a website for your phone and ended with a list links. In that list was my [beginners guide](http://friendlybit.com/css/beginners-guide-to-css-and-standards/) and the rest rest of the page was a gigantic screenshoot of my frontpage. Fun! :)
+In other news my site was mentioned in the swedish magazine &#8220;Mobil&#8221; that covers everything about mobile phones (no article available online). They had an article about how to make a website for your phone and ended with a list links. In that list was my [beginners guide](/css/beginners-guide-to-css-and-standards/) and the rest rest of the page was a gigantic screenshoot of my frontpage. Fun! :)
 
 Traffic is also increasing again after people jumped on the &#8220;Knowledge levels of [Add your thing here]&#8221;. Roger has a [post about some levels of articles](http://www.456bereastreet.com/archive/200606/web_knowledge_levels/)
 

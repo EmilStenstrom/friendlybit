@@ -21,7 +21,7 @@ categories:
   - HTML
   - JS
 ---
-After reading through the comments on my [levels of CSS](http://friendlybit.com/css/levels-of-css-knowledge/) article I find that I few people seem to think that the article is a way to ridicule beginners. It&#8217;s not. It&#8217;s a way to document the steps that I think I have climbed. Some people also thought that this set of levels is a good indicator of how good sites you will make. That&#8217;s also false. Being Level 5 or 6 in the list means that you are a good _coder_, nothing else. It does not mean that a site you make is any good, I&#8217;ve seen many sites that have great code but that still makes me want to kill someone. Don&#8217;t confuse good web developers with good coders. &#8220;Don&#8217;t be a [rotten standardista](http://www.molly.com/2006/02/23/how-to-sniff-out-a-rotten-standardista/)&#8221; as Molly Holzschlag would put it.
+After reading through the comments on my [levels of CSS](/css/levels-of-css-knowledge/) article I find that I few people seem to think that the article is a way to ridicule beginners. It&#8217;s not. It&#8217;s a way to document the steps that I think I have climbed. Some people also thought that this set of levels is a good indicator of how good sites you will make. That&#8217;s also false. Being Level 5 or 6 in the list means that you are a good _coder_, nothing else. It does not mean that a site you make is any good, I&#8217;ve seen many sites that have great code but that still makes me want to kill someone. Don&#8217;t confuse good web developers with good coders. &#8220;Don&#8217;t be a [rotten standardista](http://www.molly.com/2006/02/23/how-to-sniff-out-a-rotten-standardista/)&#8221; as Molly Holzschlag would put it.
 
 ## The challenge
 

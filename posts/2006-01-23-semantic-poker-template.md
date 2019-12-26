@@ -21,7 +21,7 @@ categories:
   - HTML
   - Tutorial
 ---
-This is the first article in a series of [niche templates](http://friendlybit.com/css/building-niche-sites-with-standards/) I&#8217;m building. You can have a look at the [finished template](/files/poker/?style=positioning&style2=decoration) before we start if you want.
+This is the first article in a series of [niche templates](/css/building-niche-sites-with-standards/) I&#8217;m building. You can have a look at the [finished template](/files/poker/?style=positioning&style2=decoration) before we start if you want.
 
 ## About the niche
 
@@ -359,9 +359,9 @@ On the next page we will take all the pieces of HTML and put them together. It&#
 
 We have carefully constructed all the markup for the important parts of the site. Notice that we&#8217;ve said nothing about the look of it yet, we’re strictly dealing with content.
 
-We will first add all a good doctype (strict), character encoding and the other things needed for validation. I will not go over this again, it was described a couple of weeks ago in the [third page of the beginner&#8217;s guide](http://friendlybit.com/css/beginners-guide-to-css-and-standards/3/). This is just copy and paste, so don&#8217;t skip this part.
+We will first add all a good doctype (strict), character encoding and the other things needed for validation. I will not go over this again, it was described a couple of weeks ago in the [third page of the beginner&#8217;s guide](/css/beginners-guide-to-css-and-standards/3/). This is just copy and paste, so don&#8217;t skip this part.
 
-Aside from that we also need to add some &#8220;hooks&#8221;, namely classes and ids, to make it easier to style the document (If you don&#8217;t know what those two are I recommend you read through the [beginners guide](http://friendlybit.com/css/beginners-guide-to-css-and-standards/) before continuing). Good class and id names have something in common: they describe the content. So using &#8220;tinyredbar&#8221; is a bad name and using &#8220;latestnews&#8221; is a good one.
+Aside from that we also need to add some &#8220;hooks&#8221;, namely classes and ids, to make it easier to style the document (If you don&#8217;t know what those two are I recommend you read through the [beginners guide](/css/beginners-guide-to-css-and-standards/) before continuing). Good class and id names have something in common: they describe the content. So using &#8220;tinyredbar&#8221; is a bad name and using &#8220;latestnews&#8221; is a good one.
 
 The basics, the bits of HTML we constructed above and the hooks, together form a [good logical structure](/files/poker/) to start with. When looking at that page you will notice that it doesn&#8217;t _look_ pretty. When you view the source of it you will see though &#8211; that&#8217;s what I want to see when I look at the source of your front page. I get all warm when thinking about it; pure, logical, and accessible content. It&#8217;s now time to position things where we want them.
 

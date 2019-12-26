@@ -18,7 +18,7 @@ btcnew_comment_summary:
 categories:
   - HTML
 ---
-I&#8217;ve previously written about how [Microsoft Sharepoint](http://friendlybit.com/html/default-html-in-sharepoint-2007/) mistreats HTML, and makes it look a whole other language. But truth to be told, Sharepoint (and .NET for that matter) isn&#8217;t the only framework that can&#8217;t handle HTML. I&#8217;ve recently worked with a Java framework called [Tapestry 5](http://tapestry.apache.org/), and it&#8217;s really bad in some respects too (though not quite as bad as Sharepoint). Note that this is a review based on **only** how it handles HTML, not any other of its merits. Let&#8217;s get started.
+I&#8217;ve previously written about how [Microsoft Sharepoint](/html/default-html-in-sharepoint-2007/) mistreats HTML, and makes it look a whole other language. But truth to be told, Sharepoint (and .NET for that matter) isn&#8217;t the only framework that can&#8217;t handle HTML. I&#8217;ve recently worked with a Java framework called [Tapestry 5](http://tapestry.apache.org/), and it&#8217;s really bad in some respects too (though not quite as bad as Sharepoint). Note that this is a review based on **only** how it handles HTML, not any other of its merits. Let&#8217;s get started.
 
 Many of Tapestry&#8217;s problems comes from their design decision to parse the HTML you&#8217;re trying to output. Yes, Tapestry parses your HTML, and adds stuff to it dynamically. This is nothing new, anyone that has played with ASP.NET knows how hidden form elements get stuffed in here and there. This is a nightmare for an interface developer, we need exact control over HTML to do our jobs well.
 

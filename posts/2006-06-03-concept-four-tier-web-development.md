@@ -38,7 +38,7 @@ One last point to make about data is that you should make sure to use the best p
 
 ## Structural layer
 
-The structural layer is where the much misunderstood HTML comes to play. HTML&#8217;s job is to take the data it has received from the data layer and [add some structure to it](http://friendlybit.com/html/datatypes-of-html/ "Some examples of data structures you have available in HTML"). Mark up what parts are headers, make sure lists get the HTML that best describes them, split the page up in the important parts and so on.
+The structural layer is where the much misunderstood HTML comes to play. HTML&#8217;s job is to take the data it has received from the data layer and [add some structure to it](/html/datatypes-of-html/ "Some examples of data structures you have available in HTML"). Mark up what parts are headers, make sure lists get the HTML that best describes them, split the page up in the important parts and so on.
 
 HTML also adds some semantics to the data but since it&#8217;s quite a limited dictionary we have to work with I believe this is secondary. If you happened to have the kind of data that HTML happens to catch with its elements be sure to use them, if not make sure you at least capture the structure of it.
 

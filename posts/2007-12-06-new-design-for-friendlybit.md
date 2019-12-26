@@ -34,9 +34,7 @@ Hi. I just wanted to tell you that I&#8217;m now working on the new friendlybit.
   * **Comments will be central**, as [Jesse Skinner suggested](/other/the-future-of-friendlybitcom/#comment-26790). For now, I&#8217;m just moving them up, above the fold, but we&#8217;ll see where we end up.
   * **New design** underway. As a token of me caring for you (and me wanting to steal your skills), I thought I&#8217;d post a screenshoot of it here:
 
-But. This damn layout is to narrow, so I&#8217;ll just paste a link instead: [New friendlybit design](http://friendlybit.com/files/friendlybit_single_export.png). Some ideas (all changable if you give me good reasons):[
-
-](http://friendlybit.com/files/friendlybit_single_export.png)
+But. This damn layout is to narrow, so I&#8217;ll just paste a link instead: [New friendlybit design](/files/friendlybit_single_export.png). Some ideas (all changable if you give me good reasons): [](/files/friendlybit_single_export.png)
 
   * It will be flexible width, between 800 and 1024 pixels.
   * Content and comments will each take up approx 50% of the page width, so you&#8217;ll get plenty of eyeballs on your comments.

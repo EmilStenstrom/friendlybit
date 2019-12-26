@@ -21,7 +21,7 @@ btcnew_comment_summary:
 categories:
   - HTML
 ---
-Yesterday the Internet Explorer Team showed a big change in attitude. Listening to [developer feedback about IE8](http://friendlybit.com/css/ie8-and-doctype-switching/), they [changed their mind](http://blogs.msdn.com/ie/archive/2008/03/03/microsoft-s-interoperability-principles-and-ie8.aspx), and now IE8 will render standards mode pages using the latest and greatest it can offer.
+Yesterday the Internet Explorer Team showed a big change in attitude. Listening to [developer feedback about IE8](/css/ie8-and-doctype-switching/), they [changed their mind](http://blogs.msdn.com/ie/archive/2008/03/03/microsoft-s-interoperability-principles-and-ie8.aspx), and now IE8 will render standards mode pages using the latest and greatest it can offer.
 
 This is not only a sane way to approach standards, but it&#8217;s also a way to say &#8220;We&#8217;re listening and are open to change based on your feedback&#8221; (Although saying the reason is the new Interoperability standards and not user feedback is rather weak).
 

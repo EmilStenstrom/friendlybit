@@ -70,7 +70,7 @@ While all of those are good points, none of them have anything to do with being 
 
 ## Improving the format
 
-The idea of making it easier for robots to parse pages is a good idea, but I&#8217;m not sure embedding content for robots into the human content is the best solution. What about putting this information into your [web feed](http://friendlybit.com/feed/ "Friendlybit's web feed") instead? Feeds are made to be readable by robots and since they are xml they can easily be expanded with new types of data.
+The idea of making it easier for robots to parse pages is a good idea, but I&#8217;m not sure embedding content for robots into the human content is the best solution. What about putting this information into your [web feed](/feed/ "Friendlybit's web feed") instead? Feeds are made to be readable by robots and since they are xml they can easily be expanded with new types of data.
 
 If I were to consider microformats I would like the two main issues above to be fixed first. _Add some kind of namespaces to the formats_ and make them required. One idea would be to use a meta element for each format you want to use inside the document. The name is the format you use, the content is what version you are using, and the scheme is a link to the [microformat profile](http://microformats.org/wiki/xmdp-brainstorming) that corresponds to that format. Note that the use of this element should be required, not optional.
 

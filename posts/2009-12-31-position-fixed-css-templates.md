@@ -18,9 +18,9 @@ btcnew_comment_summary:
 categories:
   - CSS
 ---
-In 2006 I wrote an article about [simulating Frames and Iframes](http://friendlybit.com/css/frames-or-iframes-with-css/) and from time to time, I get questions of how to make modifications to the templates presented. But one big thing has changed since 2006: **Perfect support for IE6 is no longer mandatory**.
+In 2006 I wrote an article about [simulating Frames and Iframes](/css/frames-or-iframes-with-css/) and from time to time, I get questions of how to make modifications to the templates presented. But one big thing has changed since 2006: **Perfect support for IE6 is no longer mandatory**.
 
-So yesterday, when Brandon Cobb of [Super Fighter Team](http://superfighter.com/) asked about a design with a fixed header, fixed left column, and scrolling right column, I thought I&#8217;d renew my take on [simulating frames](http://friendlybit.com/css/frames-or-iframes-with-css/) with CSS (The original article is still good for background information, so I still recommend reading it).
+So yesterday, when Brandon Cobb of [Super Fighter Team](http://superfighter.com/) asked about a design with a fixed header, fixed left column, and scrolling right column, I thought I&#8217;d renew my take on [simulating frames](/css/frames-or-iframes-with-css/) with CSS (The original article is still good for background information, so I still recommend reading it).
 
 ## Position: fixed CSS templates
 
@@ -28,9 +28,9 @@ The idea is this: Instead of specifying what parts of the page should scroll, we
 
 So what&#8217;s the trick? Well, `position: fixed` does exactly what we want. It works just like `position: absolute`, but it stays still when the page is scrolled. So it&#8217;s really just a matter of making sure things don&#8217;t overlap.
 
-  * [Demo: Fixed top, fixed left, scrolling right](http://friendlybit.com/files/fixed/fixedtopandleft.html)
-  * [Demo: Fixed top, scrolling bottom](http://friendlybit.com/files/fixed/fixedtop.html)
-  * [Demo: Fixed left, scrolling right](http://friendlybit.com/files/fixed/fixedleft.html)
+  * [Demo: Fixed top, fixed left, scrolling right](/files/fixed/fixedtopandleft.html)
+  * [Demo: Fixed top, scrolling bottom](/files/fixed/fixedtop.html)
+  * [Demo: Fixed left, scrolling right](/files/fixed/fixedleft.html)
 
 **Try resizing the page, and see how the scrolling works**. The templates have been tested in: Fx 3.5, IE8, IE7, IE6 (see note below), Opera 10, Safari 4; all on Windows. Let me know if you can test it on more browsers, or find bugs.
 

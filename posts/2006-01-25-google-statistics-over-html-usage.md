@@ -28,4 +28,4 @@ Here are some examples of strange usage in the report:
   * The third most used classname is &#8220;title&#8221; and the fourth &#8220;small&#8221;. The first could probably be replaced by a header tag, the other one should certainly be set by CSS since it&#8217;s style.
   * Half of all `<body>` elements contains the &#8220;bgcolor&#8221; attribute. If this isn&#8217;t style, what is?
 
-The report tells a lot about the shape of the web. If I only could get more people to read my [beginners guide](http://friendlybit.com/css/beginners-guide-to-css-and-standards/)&#8230;
+The report tells a lot about the shape of the web. If I only could get more people to read my [beginners guide](/css/beginners-guide-to-css-and-standards/)&#8230;
