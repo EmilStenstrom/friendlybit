@@ -50,6 +50,7 @@ figure {
 code {
     font-family: Courier, monospace;
     padding: 0.1em;
+    background: #eee;
 }
 pre code {
     display: block;
@@ -58,9 +59,13 @@ pre code {
     padding: 0.5em;
     white-space: pre;
 }
-.correct{ background: #a6e22e; }
-.almost{ background: #e6db74; }
-.incorrect{ background: #f92672; }
+.correct, .almost, .incorrect {
+    border-left: 3px solid;
+    padding-left: 3px;
+}
+.correct { border-left-color: #a6e22e; }
+.almost { border-left-color: #e6db74; }
+.incorrect { border-left-color: #f92672; }
 
 .hide {
     position: absolute;
