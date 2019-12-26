@@ -21,7 +21,7 @@ btcnew_comment_summary:
 categories:
   - CSS
 ---
-<img src="/images/item_justin.jpg" alt="Justin Timberlake with scarf" class="secondary" />
+<img src="https://www.billboard.com/files/styles/article_main_image/public/media/justin-timberlake-vma-650d_0.jpg" alt="Justin Timberlake with scarf" class="secondary" />
 
 You really are my big hero. When you swing your hips and slide over the floor so the ladies at the front row faint, I know I should have gone for superstar instead of web developer.
 
