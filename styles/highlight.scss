@@ -1,10 +1,17 @@
+.highlight {
+  position: relative;
+}
 .highlight[data-language]:before {
   content: attr(data-language);
-  float: right;
+  position: absolute;
+  right: 0;
   background: #eee;
   color: black;
   padding: 2px 5px;
   font-size: 0.8em;
+}
+.highlight[data-language]:hover:before {
+  display: none;
 }
 .highlight pre {
   padding: 10px;
