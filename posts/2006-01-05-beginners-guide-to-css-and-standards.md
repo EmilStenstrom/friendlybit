@@ -234,6 +234,7 @@ On the next (and last) page of this short beginners guide we will wrap everythin
 Let&#8217;s start by putting the two pieces of HTML I showed you together and combine it with some sample CSS: [Sample HTML + CSS](/files/example1/). You can find all code that makes that page below. Feel free to copy the code below and experiment on your own.
 
 ```html
+<!doctype html>
 <html lang="en">
   <body>
     <div id="header">
