@@ -32,7 +32,7 @@ You have a paragraph tag that contains a span that you want to make clickable.
 
 To make it clickable you don&#8217;t do any fancy stuff, you just add it with onclick:
 
-```javascript
+```js
 var span = document.getElementsById("clickspan");
 span.onclick = function() {
    alert("You clicked the span!");
@@ -41,7 +41,7 @@ span.onclick = function() {
 
 All fine. You click the span and it just works. But then you remember something. You want to add some text to the end of the paragraph, and you decide to do this with javascript. You add the following line to the end of the script:
 
-```javascript
+```js
 var p = document.getElementById("para");
 p.innerHTML += " Some extra text";
 ```

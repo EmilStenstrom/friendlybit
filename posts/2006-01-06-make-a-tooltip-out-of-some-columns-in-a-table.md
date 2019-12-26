@@ -70,7 +70,7 @@ Next we need to do two of things:
 
 To fetch all elements that has a certain className we will use Jonathan Snook&#8217;s fabulous getElementsByClassName. It takes two arguments, the element whose children it should loop through and the className it should look for. The function looks like this:
 
-```javascript
+```js
 function getElementsByClassName(node, classname) {
    var a = [];
    var re = new RegExp('\\b' + classname + '\\b');
@@ -83,7 +83,7 @@ function getElementsByClassName(node, classname) {
 
 Next we need to write the code that fulfils the list we wrote previously:
 
-```javascript
+```js
 // Hide all classes with the className "tooltip"
 var tooltips = getElementsByClassName(
    document.getElementsByTagName("body")[0], "tooltip");

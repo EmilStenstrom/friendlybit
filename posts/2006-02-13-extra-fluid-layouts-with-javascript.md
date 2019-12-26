@@ -34,7 +34,7 @@ Start by having a look at the [dynamic font-size example](/files/window_fontsize
 
 First we need a way to meassure the width of the text in the default font. For this I use my own little getTextWidth() that were constructed in my [line-break script](/css/line-breaking-with-javascript/). It simply takes a piece of text, attaches it to the page, meassures it&#8217;s width and removes it again.
 
-```javascript
+```js
 function getTextWidth(text) {
    var ea = document.createElement("span");
    ea.innerHTML = text;
@@ -47,7 +47,7 @@ function getTextWidth(text) {
 
 Ok, now we know the width of some text in it&#8217;s non formated state. Next up is to scale it as much as needed.
 
-```javascript
+```js
 function scaleUp(elem, targetWidth) {
    var blockWidth = getTextWidth(elem.innerHTML);
    var defaultSize = parseInt(elem.style.fontSize || '100%')
@@ -60,7 +60,7 @@ As you see scaleUp() determines a percentage by looking at three things: it&#821
 
 This handy little function is then called with the element you want to scale and the width in pixels of how wide you want it. The calls look something like this:
 
-```javascript
+```js
 var element = document.getElementsByTagName("h1")[0];
 var width = document.body.offsetWidth;
 scaleUp(element, width);

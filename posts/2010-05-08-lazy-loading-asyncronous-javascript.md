@@ -67,7 +67,7 @@ _**Screenshot from Firebug&#8217;s net console:** The script (set to load in 2 s
 
 Since we&#8217;re on a different domain, and only have one script (order doesn&#8217;t matter), the solution is given: We should create a script tag with inline javascript, and append it to the document. Voila! Non-blocking download!
 
-```javascript
+```js
 (function() {
     var s = document.createElement('script');
     s.type = 'text/javascript';
@@ -94,7 +94,7 @@ _**Screenshot from Firebug&#8217;s net console:** The script (set to load in 2 s
 
 So, how to you make sure you don&#8217;t block onload? Well, you wrap your code inside a function that&#8217;s called on load. When the onload event triggers, you know you haven&#8217;t blocked it.
 
-```javascript
+```js
 window.onload = function() {
     var s = document.createElement('script');
     s.type = 'text/javascript';
@@ -113,7 +113,7 @@ The logical solution to the above problem is to use an incarnation of addEvent. 
 
 There&#8217;s been competitions for writing a [short and compact version of addEvent](http://www.quirksmode.org/blog/archives/2005/10/_and_the_winner_1.html), and the winner of that competition was John Resig, with this little beauty:
 
-```javascript
+```js
 function addEvent(obj, type, fn)  {
   if (obj.attachEvent) {
     obj['e'+type+fn] = fn;
@@ -128,7 +128,7 @@ function addEvent(obj, type, fn)  {
 
 Thing is, we don&#8217;t need all that generic event stuff, we&#8217;re only dealing with onload here. So if we first replace the type attribute with hardcoded &#8216;load&#8217;, replace obj with &#8216;window&#8217;, and remove the fix for making &#8216;this&#8217; work in IE, we&#8217;ve got four lines of code left. Let&#8217;s combine this with the above lazy load pattern:
 
-```javascript
+```js
 (function() {
     function async_load(){
         var s = document.createElement('script');

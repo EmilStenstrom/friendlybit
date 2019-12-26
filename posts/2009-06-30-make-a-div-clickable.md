@@ -24,7 +24,7 @@ My take is to use a div instead, and use javascript, of course together with a g
 
 Javascript code (requires jQuery):
 
-```javascript
+```js
 $(document).ready(function(){
    var block = $(".teaser");
    block.click(function(){

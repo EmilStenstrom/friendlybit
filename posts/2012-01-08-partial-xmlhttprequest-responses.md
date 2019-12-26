@@ -18,7 +18,7 @@ The simplest way, that almost workds is partial XMLHttpRequest responses. I firs
 
 Note: I&#8217;ve only tested this with Webkit, against Twitter&#8217;s Streaming API, with a XMLHttpRequest that allows cross-domain requests. I think it works with Firefox too, but it will definitely not work in IE. Sorry.
 
-```javascript
+```js
 var xhr = new XMLHttpRequest();
 var url = "<streaming-url-on-you-own-domain-or-CORS>";
 xhr.open("GET", url, true);

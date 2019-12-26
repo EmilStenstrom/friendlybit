@@ -40,7 +40,7 @@ The hard part is to find at which letter we should break. My first idea was to j
 
 We need a small change to the algorithm since we won&#8217;t be able to find the exact width we&#8217;re looking for (a letter is wider than 1px). Instead we break when we&#8217;re down to knowing that it&#8217;s between two letters. We then return the first letter&#8217;s position. Here is code:
 
-```javascript
+```js
 function binSearch(text, searchLen) {
    var left = 0, right = text.length;
    var breakPos = left, lastBreakPos = right;
@@ -58,7 +58,7 @@ function binSearch(text, searchLen) {
 
 The code above uses `getTextWidth()` to get the width of a piece of text. `getTextWidth()` makes use of the `offsetWidth` property to get the width of a piece of text. Problem is that only elements that are rendered have the property set. This means we need to add it to the page, measure it, and then remove it. This code does just that:
 
-```javascript
+```js
 function getTextWidth(text) {
    var ea = document.createElement("span");
    ea.innerHTML = text;
@@ -71,7 +71,7 @@ function getTextWidth(text) {
 
 Good. We now have two nice helper functions to handle all the hard work. Now we only need some code to actually split the text and add the breaks. We do this by using `binSearch()` to fetch where the next break should be. `binSearch()` returns an index and we split the line and add the first part (including a break) to a buffer. We then repeat the same procedure on the last part of the string. We keep splitting until `getTextWidth()` tells us we're done.
 
-```javascript
+```js
 function linebreak(text, maxLen) {
    var breakPos = 0;
    var out = "";
@@ -93,7 +93,7 @@ function linebreak(text, maxLen) {
 
 It's now time to use the function we have. The first line selects what elements we want to wrap. You can replace this with a loop if you want if you need to go over all the paragraphs in your document. The second line just fetches everything inside the paragraph and sends it to `linebreak()` for wrapping. The two lines are then made to trigger when the document is ready loading.
 
-```javascript
+```js
 window.onload = function () {
    var e = document.getElementsByTagName("p")[0];
    e.innerHTML = linebreak(e.innerHTML, 200);
