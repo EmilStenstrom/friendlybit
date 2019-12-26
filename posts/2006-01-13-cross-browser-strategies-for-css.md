@@ -42,13 +42,15 @@ So how do the browsers identify who&#8217;s trying to follow standards and who&#
 
 **HTML 4.01 Strict (what I recommend)**
 
-``
+```html
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+```
 
 **XHTML 1.0 Strict (without `<?xml ...>` on the line before)**
 
-
-
-``
+```html
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+```
 
 Using any of these make sure the browser switches to standards mode and your design not fail because of that. Using a _strict_ doctype means that you will do your best to separate structure from design and the validator will give you errors in those areas. It&#8217;s very useful. (Worth a small note is that the XHTML Transitional doctype also triggers standards mode, but while using transitional you don&#8217;t get as many good validation checks so don&#8217;t use that one anyways.)
 
@@ -76,7 +78,7 @@ If you don&#8217;t find it somewhere you need to hunt it down yourself. Do this 
 
 If you for some reason do not manage to solve the bug with the above technique you either rethink what you are doing (not likely) or you go get your arsenal of hacks. Make sure the hacks are valid code. The one I use for IE when nothing else works is the &#8220;* html&#8221; hack. You use it but writing like this: `* html #element { code; }`. That selector selects all tags that have the child html that have the child #element. But &#8220;html&#8221; is the topmost element in the hierarchy so nothing is selected, unless IE can choose of course. The code gets applied in IE only. Note that it is perfectly valid CSS, it just doesn&#8217;t select anything. Remember: hacks are your _last resort_ when nothing else works.
 
-**[Update: 18 Jan]** [Richard](#comment-51) in the comments point out that you can also use [conditional comments](http://www.quirksmode.org/css/condcom.html) to serve a certain `<style> or <link>` to different versions of IE. The "* html"-hack will not work in the comming IE7. Thanks Richard.
+**Update 18 Jan:** [Richard](#comment-51) in the comments point out that you can also use [conditional comments](http://www.quirksmode.org/css/condcom.html) to serve a certain `<style> or <link>` to different versions of IE. The "* html"-hack will not work in the comming IE7. Thanks Richard.
 
 &nbsp;
 
