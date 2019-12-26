@@ -1,13 +1,13 @@
-from glob import glob
 import re
+from glob import glob
 
 import aiofiles
 import frontmatter
 import mistune
+import pygments
 import pytz
 import sass
-from pygments import highlight
-from pygments.formatters import html
+from pygments.formatters.html import HtmlFormatter
 from pygments.lexers import get_lexer_by_name
 from starlette.applications import Starlette
 from starlette.exceptions import HTTPException
@@ -19,18 +19,43 @@ from starlette.templating import Jinja2Templates
 
 class HighlightRenderer(mistune.HTMLRenderer):
     def block_code(self, code, lang=None):
+        match = re.match(r"(.+) \{(.+)\}", lang) if lang else False
+        if match:
+            lang, class_ = match.groups()
+
         if lang:
             lexer = get_lexer_by_name(lang, stripall=True)
-            formatter = html.HtmlFormatter()
-            return highlight(code, lexer, formatter)
-        return f'<pre><code class="language-{lang}">{mistune.escape(code)}</code></pre>'
+            formatter = IncludeLangHtmlFormatter(lang=lang)
+            html = pygments.highlight(code, lexer, formatter)
+        else:
+            html = f'<pre>{mistune.escape(code)}</pre>'
+
+        if match:
+            return f'<div class="{class_[1:]}">{html}</div>'
+        return html
+
+    def codespan(self, code):
+        match = re.match(r"(.+) \{(.+)\}", code)
+        if match:
+            code, class_ = match.groups()
+
+        html = f'<code>{mistune.escape(code)}</code>'
+
+        if match:
+            return f'<span class="{class_[1:]}">{html}</span>'
+
+        return html
 
     def heading(self, text, level):
         tag = f'h{level}'
-        match = re.match(r"(.+) \{(.+)\}", text)
+        match = re.match(r"(.+) \{([^.}]+)(\.[^}]+)?\}", text)
         if match:
-            text, id_ = match.groups()
+            text, id_, class_ = match.groups()
+            if class_:
+                return f'<{tag} id="{id_[1:]}" class="{class_[1:]}">{text}</{tag}>\n'
+
             return f'<{tag} id="{id_[1:]}">{text}</{tag}>\n'
+
         return f'<{tag}>{text}</{tag}>\n'
 
 
