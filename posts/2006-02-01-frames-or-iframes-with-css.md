@@ -52,7 +52,7 @@ Aside from all of the above frames are not structure. Think about it. When worki
 Instead we should define that kind of design in our CSS files. How? By using a few lines of code you can easily limit any element to a certain width/height and let it scroll if the content overflows that size.
 
 ```html
-Here's some sample content that I would like to scroll
+<p>Here's some sample content that I would like to scroll</p>
 ```
 
 ```css
