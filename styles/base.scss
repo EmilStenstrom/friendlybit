@@ -61,6 +61,8 @@ pre code {
 }
 .correct, .almost, .incorrect {
     border-left: 3px solid;
+}
+.correct > *, .almost > *, .incorrect > *{
     padding-left: 3px;
 }
 .correct { border-left-color: #a6e22e; }
