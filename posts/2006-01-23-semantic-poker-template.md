@@ -333,14 +333,23 @@ The forum posts can be handled much like the news. A header, a simple list, this
 
 The bigger the site gets the more important it becomes to get a site search. A search clearly resembles a form; the user fills in a few values and sends them to the site. A simple textbox for the search query with a submit following it.
 
-Just in case you&#8217;re not familiar with the modern way to make a good form I&#8217;ll go through the elements used below briefly. A
+Just in case you&#8217;re not familiar with the modern way to make a good form I&#8217;ll go through the elements used below briefly.
 
-`<fieldset>` groups similar form elements together. For example, if you have two separate fields for first name and last name, you can signal that they are both part of the full name by adding a fieldset around both of them. Using
+A `<fieldset>` groups similar form elements together. For example, if you have two separate fields for first name and last name, you can signal that they are both part of the full name by adding a fieldset around both of them.
 
-`<legend>` we then tell what the meaning of the fieldset is. For the previous example we could use &#8220;Full name&#8221;. The last &#8220;new&#8221; tag here is the `<label>`. It simply shows that there are a relation between the text in front of the button and the input box right next to it. A good thing about this relation is that it enables you to click on the label and have the input selected; something that is particularly useful with small radio buttons. This is what the HTML looks like:
+Using `<legend>` we then tell what the meaning of the fieldset is. For the previous example we could use &#8220;Full name&#8221;.
+
+The last &#8220;new&#8221; tag here is the `<label>`. It simply shows that there are a relation between the text in front of the button and the input box right next to it. A good thing about this relation is that it enables you to click on the label and have the input selected; something that is particularly useful with small radio buttons. This is what the HTML looks like:
 
 ```html
-
+<form action="search.php" method="get">
+<fieldset>
+  <legend>Site search</legend>
+  <label for="phrase">Search: </label>
+  <input type="text" id="phrase">
+  <input type="submit" value="search">
+</fieldset>
+</form>
 ```
 
 ## About us
