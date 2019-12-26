@@ -23,7 +23,7 @@ categories:
 ---
 One bug kept popping up on the sites I built, and I was almost going insane. The bug I&#8217;m talking about is specific to Internet Explorer 6 (IE6) and has to do with what happens when you resize the page. Here&#8217;s an [example page showing the bug](/files/ie6resizebug/). Open it in IE6 and try resizing the window. Let me explain:
 
-[**Update**: [Paula comments](/css/ie6-resize-bug/#comment-4551) that IE7 beta 2 has the same problem. Thanks Paula.]
+> **Update**: [Paula comments](/css/ie6-resize-bug/#comment-4551) that IE7 beta 2 has the same problem. Thanks Paula.
 
 ## Setting up the IE6 resize bug
 

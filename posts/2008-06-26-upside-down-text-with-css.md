@@ -37,4 +37,4 @@ write upside down text
 
 I&#8217;m really surprised to learn that so few people know about this property, and I recommend you to continue reading the [W3C specification of text-gravity](http://www.fliptext.info/index.php).
 
-**Update**: Sorry, I lied :) The above is done with a UTF-8 character generator (see the link the the &#8220;specification&#8221; above). Amazingly, you can find that most characters have their upside down equivalent somewhere else in the huge Unicode alphabet. Neat trick :)
+> **Update**: Sorry, I lied :) The above is done with a UTF-8 character generator (see the link the the &#8220;specification&#8221; above). Amazingly, you can find that most characters have their upside down equivalent somewhere else in the huge Unicode alphabet. Neat trick :)

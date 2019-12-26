@@ -43,4 +43,4 @@ Of other reasons I&#8217;ve also tuned the comments a bit. The trackbacks and pi
 
 Any other changes you&#8217;d like to see?
 
-[**Update:** Switched to Feedburner for my feeds, let me know if they cause you any trouble.]
+**Update:** Switched to Feedburner for my feeds, let me know if they cause you any trouble.

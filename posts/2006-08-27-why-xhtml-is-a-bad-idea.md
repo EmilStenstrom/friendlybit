@@ -90,4 +90,4 @@ No, I won&#8217;t parse things as XML on the sites I build. XHTML was a bad idea
 
 I hope this article explains why a lot of web development blogs (including Friendly Bit) use HTML. What language do you use?
 
-[**Update**: More reasons why you should use HTML]
+> **Update**: More reasons why you should use HTML

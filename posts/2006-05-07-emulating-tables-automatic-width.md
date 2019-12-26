@@ -62,7 +62,7 @@ img#cartoon {
 }
 ```
 
-[**Update:** After Rowan Lewis suggestion I now use `height: auto !important;` to send a correct height to modern browsers. IE6 does not understand `!important` and will therefore overwrite the height with the 1% value. ]
+**Update:** After Rowan Lewis suggestion I now use `height: auto !important;` to send a correct height to modern browsers. IE6 does not understand `!important` and will therefore overwrite the height with the 1% value.
 
 And the following HTML:
 

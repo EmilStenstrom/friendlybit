@@ -53,4 +53,4 @@ There isn&#8217;t much explaination needed here, only thing different from the f
 
 That&#8217;s all, be sure to poke around with the different layouts to get a feel of how they work for you. In my next post I will go through some less static layouts, namely elastic and fluid layout. Comments are availiable for questions.
 
-[**Update**: Added an article on [Common questions beginners ask](/css/what-beginners-ask-for-and-what-i-tell-them/)]
+> **Update**: Added an article on [Common questions beginners ask](/css/what-beginners-ask-for-and-what-i-tell-them/)

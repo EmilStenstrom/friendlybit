@@ -41,4 +41,4 @@ When you&#8217;ve mastered web development we&#8217;ll add a final twist. Accide
 
 Or, you could just hire someone good (ask for web standards and accessibility)&#8230; But what fun would that be?
 
-[**Update:** Sorry Justin, I&#8217;m not gay, this is just about web development ;)]
+**Update:** Sorry Justin, I&#8217;m not gay, this is just about web development ;)

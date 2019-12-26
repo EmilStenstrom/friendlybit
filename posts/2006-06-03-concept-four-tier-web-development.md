@@ -64,4 +64,4 @@ Putting all these four parts together we get the following:
 
 Is this the same mental model you use? Let me know through comments.
 
-[**Update:** Threehouse has an image up showing the four layers in the context of javascript connection the layers together.]
+**Update:** Threehouse has an image up showing the four layers in the context of javascript connection the layers together.

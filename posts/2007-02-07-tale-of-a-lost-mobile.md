@@ -43,6 +43,6 @@ So what do we learn from this?
 
 **Thanks everyone** that helped me out! (and let me know if some of your friends proudly proclaim they found an [Ericsson W810i](http://www.sonyericsson.com/spg.jsp?cc=global&lc=en&ver=4001&template=pp1_1_1&zone=pp&lm=pp1&pid=10376) on the bus.)
 
-[**Updated:** Mobile found! I&#8217;m going to call someone named Monika tomorrow. Let&#8217;s hope.]
+**Updated:** Mobile found! I&#8217;m going to call someone named Monika tomorrow. Let&#8217;s hope.
 
-[**Updated:** Mobile found! Monika&#8217;s daughter found the mobile on the floor on the bus I got home with. She called my parents and since she lived right next to them everything worked out all right. I got the phone back this morning, 10 hours after losing it. With a firm grip I then won the auction for a flat in Årsta. Yay, I have somewhere to live!]
+**Updated:** Mobile found! Monika&#8217;s daughter found the mobile on the floor on the bus I got home with. She called my parents and since she lived right next to them everything worked out all right. I got the phone back this morning, 10 hours after losing it. With a firm grip I then won the auction for a flat in Årsta. Yay, I have somewhere to live!

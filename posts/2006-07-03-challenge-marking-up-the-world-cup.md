@@ -32,4 +32,4 @@ The second problem is of course the style. What methods would you use? There&#82
 
 Pasting code in comments to this blog is a bad idea (they just get messed up), so put it up on your own site instead an link to it by leaving a comment. Add a little explaination of your thinking of you wish. Can you do it?
 
-[**Update:** Here&#8217;s my suggestion of [markup and CSS for the world cup bracket](/files/worldcup/worldcup_bracket.html).]
+**Update:** Here&#8217;s my suggestion of [markup and CSS for the world cup bracket](/files/worldcup/worldcup_bracket.html).

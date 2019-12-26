@@ -28,7 +28,7 @@ A frequent request from people new to CSS is trying to get a behaviour similar t
   * [Getting a scrollbar on any element using CSS](#scrollbar)
   * [Mimicking traditional frames](#traditional)
 
-**Update**: I&#8217;ve updated this technique [using position: fixed in a new article](http://friendlybit.com/css/position-fixed-css-templates/), have a look at those templates instead! (Although this article is still good for background information).
+> **Update**: I&#8217;ve updated this technique [using position: fixed in a new article](http://friendlybit.com/css/position-fixed-css-templates/), have a look at those templates instead! (Although this article is still good for background information).
 
 ## Why are traditional frames such a bad thing? {#why}
 

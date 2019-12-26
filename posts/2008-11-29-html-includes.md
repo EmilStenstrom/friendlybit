@@ -57,4 +57,4 @@ The problem is, the current implementation is to handle them just like iframes. 
 
 So, what do you think, is this a good idea? Personally, I&#8217;m hoping more concepts from template languages start to move into HTML.
 
-**Update**: Thanks to the comments (thanks zcorpan) I now have found exactly the above in HTML5. It&#8217;s called `<iframe seamless>`. It meets all the points in my list, and I&#8217;m now really looking forward to the first implementation.
+> **Update**: Thanks to the comments (thanks zcorpan) I now have found exactly the above in HTML5. It&#8217;s called `<iframe seamless>`. It meets all the points in my list, and I&#8217;m now really looking forward to the first implementation.

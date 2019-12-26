@@ -29,7 +29,7 @@ I&#8217;ve never seen this bug mentioned before so I took the liberty of naming 
 
 Now. Stylesheets unfortunately have no way of specifying encoding. So you type away in your favourite text editor set to some obfuscate Greek charset and of course expect everything to work. It often does. CSS works with very few characters; mostly you just use the letters A-Z, some brackets, and colons. Since most charsets have those positioned similarly there&#8217;s no problem. But there are exceptions where you want to use other letters too: inside comments and in the future: in generated content.
 
-[**Update**: [Niels Leenheer](http://rakaz.nl/) points out that there are two ways to specify encoding on stylesheets. Either using the method in the [encodings article](/other/character-encoding-basics) to send a proper HTTP header, or using the @charset &#8220;utf-8&#8221;; rule. The latter is just a rule you put on the first line of the CSS. Even seems to have decent browser support. Thanks Niels!]
+> **Update**: [Niels Leenheer](http://rakaz.nl/) points out that there are two ways to specify encoding on stylesheets. Either using the method in the [encodings article](/other/character-encoding-basics) to send a proper HTTP header, or using the @charset &#8220;utf-8&#8221;; rule. The latter is just a rule you put on the first line of the CSS. Even seems to have decent browser support. Thanks Niels!
 
 So this Swedish friend of mine is learning CSS and I&#8217;m helping him out when he notices a strange error. When setting his html document to be encoded in utf-8 IE6 starts to display the page differently. I had never seen anything like it and start digging through the code. After like half an hour I find the culprit: an &#8220;å&#8221;-letter in a comment!
 

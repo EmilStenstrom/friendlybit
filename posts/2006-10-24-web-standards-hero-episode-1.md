@@ -37,4 +37,4 @@ Before leaving he stops at the door and picks up his mp3-player, plugging in the
 
 _What will happen in the next episode of Web Standards Hero? Will our hero be able to stop the tables from reaching the town center? Will there be cookies? And what does professor Font have to do with all this? Stay tuned!_
 
-[**Update**: [Episode 2](/html/web-standards-hero-episode-2/) available]
+> **Update**: [Episode 2](/html/web-standards-hero-episode-2/) available

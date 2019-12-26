@@ -286,7 +286,7 @@ The third rule selects all headers on the page and removes the margins (the spac
 
 Next we have some specific rules for three of the divisions. We position the navigation to the left of the content. This is done by using <dfn>floats</dfn>, a way to put things side by side. If you have used the align-attribute on images in HTML you will know how floats work, they move the element as far to the left as possible and then let the next element follow right next to it. If you want to put something below a float you need to <dfn>clear</dfn> it. Clearing moves the element down until it&#8217;s below any floats, exactly where we want the footer. So both navigation and content are floated and given a width to match the 600 pixels wide header, and the footer is cleared.
 
-[**Update:** I have added some [simple layouts](/css/simple-css-templates/) for you to look at, and a list of [tools I use when developing](/css/web-development-pack/). Hope they help all of you out there that learn by examples.]
+**Update:** I have added some [simple layouts](/css/simple-css-templates/) for you to look at, and a list of [tools I use when developing](/css/web-development-pack/). Hope they help all of you out there that learn by examples.
 
 Now it&#8217;s your turn, you will learn CSS by using it and trying out how things work. So go ahead and play with the sample above. Thanks for reading, and good luck!
 

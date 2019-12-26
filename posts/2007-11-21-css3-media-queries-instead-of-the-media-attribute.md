@@ -31,4 +31,6 @@ An interesting parallel is comparing checking user-agent strings and [object det
 
 Although queries do not solve all of the questions I put forward in the previous post, they do pose an interesting alternative. Agreed?
 
-([CSS3 Media queries](http://www.w3.org/TR/css3-mediaqueries/) are as a standard currently a candidate recommendation (which means it&#8217;s safe to implement), and is currently [supported by Opera 9 and Safari 3](http://www.css3.info/preview/media-queries/). **Update**: Opera 9.5 evaluates the queries dynamically, Safari does not, thanks [zcorpan](http://simon.html5.org/))
+([CSS3 Media queries](http://www.w3.org/TR/css3-mediaqueries/) are as a standard currently a candidate recommendation (which means it&#8217;s safe to implement), and is currently [supported by Opera 9 and Safari 3](http://www.css3.info/preview/media-queries/).
+
+> **Update**: Opera 9.5 evaluates the queries dynamically, Safari does not, thanks [zcorpan](http://simon.html5.org/))

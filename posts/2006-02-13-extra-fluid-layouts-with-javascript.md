@@ -68,4 +68,4 @@ scaleUp(element, width);
 
 That&#8217;s it, hope you find some fun use for it.
 
-[**Update:** After doing some research I see that Eric Meyer is already using something like this in his [slideshow system S5](http://www.meyerweb.com/eric/tools/s5/). Well well, it was a funny exercise none the less.]
+**Update:** After doing some research I see that Eric Meyer is already using something like this in his [slideshow system S5](http://www.meyerweb.com/eric/tools/s5/). Well well, it was a funny exercise none the less.

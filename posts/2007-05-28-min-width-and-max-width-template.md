@@ -53,9 +53,9 @@ The above works perfectly in both Firefox, IE7, Opera, and Safari. But (as usual
 
 First, the element gets a width by means of a IE expression(). The expression looks at the window width and if it's too wide it sets it to 960. It also limits it downwards to 760 pixels. At last we need to set trigger hasLayout on the element, and I usually use height: 1% for that (zoom: 1 works aswell).
 
-[**Update**: Martin suggests we add a default width when IE have javascript turned off. Excellent, added it to the example. The default width will be applied in IE if javascript is turned off.]
+> **Update**: Martin suggests we add a default width when IE have javascript turned off. Excellent, added it to the example. The default width will be applied in IE if javascript is turned off.
 
-[**Update**: Matthjis notes that there is a [bug in IE6](http://www.cameronmoll.com/archives/000892.html) that causes it to freeze sometimes when using the same number for the conditional as for the max or min-value. Updated the code to reflect this. ]
+> **Update**: Matthjis notes that there is a [bug in IE6](http://www.cameronmoll.com/archives/000892.html) that causes it to freeze sometimes when using the same number for the conditional as for the max or min-value. Updated the code to reflect this.
 
 (The expression is built up with two tertiary operators, so `(condition)? "true value": "false value";`, with a couple of numbers in it. Check it, it makes sense.)
 

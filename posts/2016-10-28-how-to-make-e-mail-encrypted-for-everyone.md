@@ -11,7 +11,7 @@ dsq_needs_sync:
 categories:
   - Security
 ---
-**Update**: This post is a little naive. For the real deal, look at this video from the CTO of ProtonMail: <https://vimeo.com/216747532>
+> **Update**: This post is a little naive. For the real deal, look at this video from the CTO of ProtonMail: <https://vimeo.com/216747532>
 
 When you send an e-mail today it&#8217;s sent in plaintext. This means that when you connect to your local coffee shop&#8217;s WiFi they can intercept all e-mail that is sent through their router. This is probably not the relationship you have with your barista&#8230;
 
