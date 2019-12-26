@@ -32,15 +32,13 @@ When you start experimenting with this problem you quickly get into problems. I 
 
 Anyway, Owen Briggs solved this for us in a very simple way:
 
-```html
-</* Set the size in percent on the body */
+```css
+/* Set the size in percent on the body */
 body { font-size: 76%; }
-/* All other sizes should be in em units
-    with maximum of one decimal */
+/* All other sizes should be in em units with maximum of one decimal */
 p { font-size: 1em; }
 h1 { font-size: 2em; }
 h2 { font-size: 1.8em; }
-...
 ```
 
 From my simple tests it seems to work fine. Did you know?
