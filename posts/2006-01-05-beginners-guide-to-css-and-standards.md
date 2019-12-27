@@ -106,7 +106,7 @@ One more example:
 <b>An error occurred</b>
 ```
 
-Comment: This looks right doesn&#8217;t it? But if you look up what `<b>` stands for you quickly find _bold_. But bold is certainly design, so it still doesn&#8217;t belong in the HTML document. A better choice is `<em>` that stands for _emphasis_ or simply &#8220;this piece of text is important&#8221;. So instead of saying &#8220;this text looks like this&#8221; you are saying &#8220;this text is important&#8221; and you let the looks be decided by the CSS. Seems like a minor change, but it illustrates how to select your tags. Use this instead:
+Comment: This looks right doesn&#8217;t it? But if you look up what `<b>` stands for you quickly find *bold*. But bold is certainly design, so it still doesn&#8217;t belong in the HTML document. A better choice is `<em>` that stands for *emphasis* or simply &#8220;this piece of text is important&#8221;. So instead of saying &#8220;this text looks like this&#8221; you are saying &#8220;this text is important&#8221; and you let the looks be decided by the CSS. Seems like a minor change, but it illustrates how to select your tags. Use this instead:
 
 In the HTML:
 
