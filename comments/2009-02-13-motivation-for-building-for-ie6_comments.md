@@ -557,8 +557,8 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '33406'
-  comment_author: pariuri sportive
-  comment_author_url: http://www.pariorul-sportiv.com
+  comment_author: '?'
+  comment_author_url: ''
   comment_content: 20% of my users are still using IE6 and providing support for IE6
     is a must for me. I`m not interested why they are using IE6, is there choice,
     what is interesting for me is that they view my site corectly.
@@ -567,7 +567,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '33433'
-  comment_author: Case pariuri
+  comment_author: '?'
   comment_author_url: ''
   comment_content: 'I really cannot understand why these guys are still using IE6.
     My websites are not looking very fancy in this browser because I''m using a lot
@@ -586,8 +586,8 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '33439'
-  comment_author: Pariuri Sportive
-  comment_author_url: http://www.omnibet.ro/
+  comment_author: '?'
+  comment_author_url: ''
   comment_content: The only reason IE has a dominant market share is because Microsoft
     bundles it with Windows. Microsoft is unmotivated to improve their browser because
     of IE's monopoly. The open-source browsers will one day take over the market,
