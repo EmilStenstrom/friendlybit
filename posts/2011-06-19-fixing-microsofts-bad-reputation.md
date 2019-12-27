@@ -13,9 +13,9 @@ btcnew_comment_counts:
 categories:
   - Strategy
 ---
-<div class="zemanta-img">
-  <figure style="width: 240px" class="wp-caption alignright"><a href="http://www.flickr.com/photos/88442983@N00/2228633614"><img title="Blue Screen of Death" src="/files/post-media/2228633614_e26ea98fbe_m.jpg" alt="Blue Screen of Death" width="240" height="187" /></a><figcaption class="wp-caption-text">Image by taberandrew via Flickr</figcaption></figure>
-</div>
+
+<figure class="wp-caption alignright"><a href="http://www.flickr.com/photos/88442983@N00/2228633614"><img title="Blue Screen of Death" src="/files/post-media/2228633614_e26ea98fbe_m.jpg" alt="Blue Screen of Death" width="240" height="187" /></a>
+</figure>
 
 Microsoft has continuously failed at getting people in the tech crowd to like them. This is a growing problem for them, and something they need to start taking seriously. To understand how to turn this around, let&#8217;s start a decade ago, with Slashdot.
 
