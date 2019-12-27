@@ -1,5 +1,6 @@
 import re
 from glob import glob
+from datetime import datetime
 
 import aiofiles
 import frontmatter
@@ -163,8 +164,20 @@ async def post(request):
     if not post_found:
         raise HTTPException(status_code=404)
 
+    comments = []
+    try:
+        comment_filename = f"{filename.replace('posts/', 'comments/').rsplit('.', 1)[0]}_comments.md"
+        async with aiofiles.open(comment_filename, "r") as f:
+            comment_post = frontmatter.loads(await f.read())
+            comments = comment_post.metadata.get("comments", [])
+            for comment in comments:
+                comment["comment_date"] = datetime.strptime(comment["comment_date"], '%Y-%m-%d %H:%M:%S')
+    except FileNotFoundError:
+        pass
+
     return templates.TemplateResponse('post.html', {
         'post': post,
+        'comments': comments,
         'site': site,
         'request': request,
     })
