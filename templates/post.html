@@ -1,26 +1,61 @@
 {% extends "index.html" %}
 {% block content %}
   <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-    <header class="post-header">
-      <h1 class="post-title" itemprop="name headline">{{ post.title }}</h1>
-      <p class="post-meta">
-        <time datetime="{{ post.date.strftime('%Y-%m-%d %H:%M:%S') }}" itemprop="datePublished">
-          {{ post.date.strftime("%b %-d, %Y") }}
-        </time>
-        {% if post.author %}
-          • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
-        {% endif %}
-        {% if post.categories %}•
-          {% for category in post.categories %}
-            <span itemprop="keywords"><a href="/articles/{{ category|lower|replace(' ', '-') }}/" class="novisit">{{ category }}</a></span>{% if loop.last == false %},{% endif %}
-          {% endfor %}
-        {% endif %}
-      </p>
-    </header>
     <div class="post-content" itemprop="articleBody">
+      <header class="post-header">
+        <h1 class="post-title" itemprop="name headline">{{ post.title }}</h1>
+        <p class="post-meta">
+          <time datetime="{{ post.date.strftime('%Y-%m-%d %H:%M:%S') }}" itemprop="datePublished">
+            {{ post.date.strftime("%b %-d, %Y") }}
+          </time>
+          {% if post.author %}
+            • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ post.author }}</span></span>
+          {% endif %}
+          {% if post.categories %}•
+            {% for category in post.categories %}
+              <span itemprop="keywords"><a href="/articles/{{ category|lower|replace(' ', '-') }}/" class="novisit">{{ category }}</a></span>{% if loop.last == false %},{% endif %}
+            {% endfor %}
+          {% endif %}
+        </p>
+      </header>
       {% autoescape false %}
         {{ post.content }}
       {% endautoescape %}
     </div>
+    {% if comments %}
+      <section class="post-comments">
+        <h3>Comments</h3>
+        <ol class="comment-list">
+          {% for comment in comments %}
+            <li
+              class="comment {% if comment.is_admin == '1' %}is_admin{% endif %}"
+              itemscope
+              itemtype="https://schema.org/Comment"
+              id="comment-{{ comment.comment_ID }}"
+            >
+              <time class="comment_date" datetime="{{ comment.comment_date }}" itemprop="dateCreated">
+                {{ comment.comment_date.strftime("%b %-d, %Y") }}
+              </time>
+              <h4 class="comment_author" itemprop="author" itemscope itemtype="https://schema.org/Person">
+                {% if comment.comment_author_url %}
+                  By: <a href="{{ comment.comment_author_url }}" rel="nofollow" itemprop="name">
+                    {{ comment.comment_author|safe }}
+                  </a>
+                {% else %}
+                  By: <span itemprop="name">{{ comment.comment_author|safe }}</span>
+                {% endif %}
+                <a href="#comment-{{ comment.comment_ID }}" class="counter">(#{{ loop.index }})</a>
+              </h4>
+              <div itemprop="text" class="comment-text">
+                <p>
+                  {%- if comment.comment_type == "pingback" %}Pingback: {% endif %}
+                  {{- comment.comment_content.replace("\\n\\n", "</p><p>").replace("\\n", "<br>")|safe }}
+                </p>
+              </div>
+            </li>
+          {% endfor %}
+        </ol>
+      </section>
+    {% endif %}
   </article>
 {% endblock content %}
