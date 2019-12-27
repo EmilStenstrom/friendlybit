@@ -11,7 +11,7 @@
     {% endif %}
     <link rel="icon" href="/favicon.ico">
     <link rel="canonical" href="{{ post.permalink if post else site.url }}">
-    <link rel="stylesheet" type="text/css" href="/style.css">
+    <link rel="stylesheet" type="text/css" href="/style.css?{{ site.style_hash }}">
   </head>
   <body>
     <div>

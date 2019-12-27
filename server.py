@@ -1,6 +1,7 @@
 import re
 from glob import glob
 from datetime import datetime
+import os
 
 import aiofiles
 import frontmatter
@@ -76,6 +77,12 @@ markdown = mistune.create_markdown(
     plugins=['strikethrough', 'table'],
 )
 
+scss_files = [
+    "styles/normalize.scss",
+    "styles/base.scss",
+    "styles/highlight.scss",
+    "styles/layout.scss",
+]
 
 templates = Jinja2Templates(directory='templates')
 
@@ -85,6 +92,7 @@ site = {
     "url": "https://friendlybit.com",
     "author": "Emil Stenström",
     "timezone": "Europe/Stockholm",
+    "style_hash": sum([int(os.path.getmtime(filename)) for filename in scss_files]),
 }
 
 async def homepage(request, format_="html"):
@@ -131,12 +139,6 @@ async def favicon(request):
 
 async def css(request):
     async def generate_css():
-        scss_files = [
-            "styles/normalize.scss",
-            "styles/base.scss",
-            "styles/highlight.scss",
-            "styles/layout.scss",
-        ]
         for filename in scss_files:
             async with aiofiles.open(filename, "r") as f:
                 yield sass.compile(string=await f.read())
