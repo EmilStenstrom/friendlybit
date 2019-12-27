@@ -29,9 +29,12 @@ Since people who just spent over $500 for a toy, are very subjective in their ju
   * [**Bad**: Downloading apps through iTunes](#ipad_itunes)
   * **[Summary](#ipad_summary)**
 
-## Good: Looks, UI and surfing the web {#ipad_ui}<figure id="attachment_597" style="width: 300px" class="wp-caption alignleft">
+## Good: Looks, UI and surfing the web {#ipad_ui}
 
-[<img class="size-medium wp-image-597 " title="iPad and Banana" src="/files/post-media/ipad_and_banana-300x225.jpg" alt="" width="300" height="225">](/files/post-media/ipad_and_banana.jpg)<figcaption class="wp-caption-text">An iPad, here shown next to a old banana for comparison. Click for bigger image.</figcaption></figure>
+<figure id="attachment_597" style="width: 300px" class="wp-caption alignleft">
+  [<img class="size-medium wp-image-597 " title="iPad and Banana" src="/files/post-media/ipad_and_banana-300x225.jpg" alt="" width="300" height="225">](/files/post-media/ipad_and_banana.jpg)
+  <figcaption class="wp-caption-text">An iPad, here shown next to a old banana for comparison. Click for bigger image.</figcaption>
+</figure>
 
 The area where the iPad really shines is when it comes to the look and feel. It&#8217;s simply gorgeous, feels good in your hand, and makes all your friends instantly drool (like you expect them to). The screen is as sharp (or sharper) than a computer monitor, and its brightness could light up a dark room.
 
@@ -74,9 +77,12 @@ There are lots of good games that have started to take advantage of the big touc
 
 Simply put, there are lots of fun games for the iPad, and the reason is experimentation with the touch interface. Combine this with several days of battery power, and you have many hours of fun ahead of you.
 
-## Bad: Downloading apps through iTunes {#ipad_itunes}<figure id="attachment_601" style="width: 152px" class="wp-caption alignleft">
+## Bad: Downloading apps through iTunes {#ipad_itunes}
 
-[<img class="size-medium wp-image-601       " title="iPad closeup" src="/files/post-media/ipad_closeup-225x300.jpg" alt="" width="152" height="203">](/files/post-media/ipad_closeup.jpg)<figcaption class="wp-caption-text">A closer look at the iPad, still with the banana present. Click for bigger image.</figcaption></figure>
+<figure id="attachment_601" style="width: 152px" class="wp-caption alignleft">
+  [<img class="size-medium wp-image-601" title="iPad closeup" src="/files/post-media/ipad_closeup-225x300.jpg" alt="" width="152" height="203">](/files/post-media/ipad_closeup.jpg)
+  <figcaption class="wp-caption-text">A closer look at the iPad, still with the banana present. Click for bigger image.</figcaption>
+</figure>
 
 Sadly, the only way to get apps legally into the iPad is through iTunes. Since my iPad was bought in the US, the App Store icon leads to a &#8220;Your request could not be completed&#8221; with no further info. So it seems that the App Store is only launched in the US. Silly me, that thought the web was an international thing.
 
@@ -100,8 +106,11 @@ Situations where I see myself using my iPad:
   * Casually surfing the web from the couch. This includes checking my e-mail (which is IMAP over SSL, which works fine), checking my feeds through Google Reader, checking Facebook through the iPhone app (which can be pixel-doubled to fit the screen nicely), and twitter through twitterific.
   * Surfing all kinds of maps, and wikipedia in some social context. If I ever get into an argument about where a country is exactly, I&#8217;m pull up my iPad instantly and check it.
 
-And that concludes this iPad review.<figure id="attachment_607" style="width: 300px" class="wp-caption alignnone">
+And that concludes this iPad review.
 
-[<img class="size-medium wp-image-607" title="iPad turned off" src="/files/post-media/ipad_off_and_banana-300x225.jpg" alt="" width="300" height="225">](/files/post-media/ipad_off_and_banana.jpg)<figcaption class="wp-caption-text">iPad rests here, next to banana.</figcaption></figure>
+<figure id="attachment_607" style="width: 300px" class="wp-caption alignnone">
+  [<img class="size-medium wp-image-607" title="iPad turned off" src="/files/post-media/ipad_off_and_banana-300x225.jpg" alt="" width="300" height="225">](/files/post-media/ipad_off_and_banana.jpg)
+  <figcaption class="wp-caption-text">iPad rests here, next to banana.</figcaption>
+</figure>
 
 As usual I&#8217;m looking forward to **your thoughts in the comments**. Thanks for reading!
