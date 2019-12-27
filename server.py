@@ -90,8 +90,8 @@ async def homepage(request, format_="html"):
     posts = []
     category = request.path_params.get("category", None)
 
-    for file in sorted(glob("posts/*.md"), reverse=True):
-        async with aiofiles.open(file, "r") as f:
+    for filename in sorted(glob("posts/*.md"), reverse=True):
+        async with aiofiles.open(filename, "r") as f:
             post = frontmatter.loads(await f.read())
             post.metadata["date"] = pytz.timezone(site["timezone"]).localize(post.metadata["date"])
 
@@ -136,8 +136,8 @@ async def css(request):
             "styles/highlight.scss",
             "styles/layout.scss",
         ]
-        for file in scss_files:
-            async with aiofiles.open(file, "r") as f:
+        for filename in scss_files:
+            async with aiofiles.open(filename, "r") as f:
                 yield sass.compile(string=await f.read())
 
     return StreamingResponse(generate_css(), media_type="text/css")
@@ -146,8 +146,8 @@ async def post(request):
     post_slug = request.path_params['slug']
     potential_files = glob(f"posts/*{post_slug}*.md")
     post_found = False
-    for file in potential_files:
-        async with aiofiles.open(file, "r") as f:
+    for filename in potential_files:
+        async with aiofiles.open(filename, "r") as f:
             post = frontmatter.loads(await f.read())
             post.content = markdown(post.content)
             post_url = post.metadata["permalink"]
