@@ -50,7 +50,7 @@ Now I&#8217;m thinking of switching. Anyone have a good alternative ready?
 
 Services that start at Google are even less likely, compared to acquired services like Feedburner, to have proper support. It&#8217;s just not a priority, and there&#8217;s far too many interesting programming challenges to deal with users.
 
-So when Wave gives me an old picasa name as my username (<company name>.<place of one of our conferences>@googlewave.com), I know there&#8217;s very little chance that I&#8217;ll get help from anywhere. The official channel to ask for help is their support forum, but it doesn&#8217;t seem that they reply to issues there. [My message there from two weeks ago](http://www.google.com/support/forum/p/wave/thread?tid=6cb8ca45d22453e5&hl=en) stands on it&#8217;s own, with no replies.
+So when Wave gives me an old picasa name as my username (`[company name].|place of one of our conferences]@googlewave.com`), I know there&#8217;s very little chance that I&#8217;ll get help from anywhere. The official channel to ask for help is their support forum, but it doesn&#8217;t seem that they reply to issues there. [My message there from two weeks ago](http://www.google.com/support/forum/p/wave/thread?tid=6cb8ca45d22453e5&hl=en) stands on it&#8217;s own, with no replies.
 
 It&#8217;s the proposed revolution that will replace e-mail, and I can&#8217;t use it :(
 

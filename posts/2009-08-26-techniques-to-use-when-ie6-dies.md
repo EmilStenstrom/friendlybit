@@ -24,7 +24,7 @@ Everyone [except Microsoft themselves](http://www.eweek.com/c/a/Windows/Microsof
 As **web developers**, we should be the ones complaining the loudest. We have so much to win on IE6:s death it&#8217;s silly. Just look at the below list of things IE6 can&#8217;t do, but IE7 can (the next worst browser):
 
   * Native PNG alpha transparency without silly hacks.
-  * Several selectors: Child selector (&#8220;>&#8221;), Adjacent sibling selector (&#8220;+&#8221;), Attribute selectors ([attr=value]), and [General sibling selector](http://www.w3.org/TR/css3-selectors/#general-sibling-combinators) (&#8220;~&#8221;, CSS3)
+  * Several selectors: Child selector (&#8220;&gt;&#8221;), Adjacent sibling selector (&#8220;+&#8221;), Attribute selectors ([attr=value]), and [General sibling selector](http://www.w3.org/TR/css3-selectors/#general-sibling-combinators) (&#8220;~&#8221;, CSS3)
   * Min-height, Max-height, Min-width, Max-width
   * Multiple class/id selectors in the same ruleset (ie. .class1.class2 { &#8230; })
   * :hover on all elements, not just links

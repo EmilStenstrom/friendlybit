@@ -113,8 +113,8 @@ comments:
     from a poor update system.\n\nIf you don't want to include the code that @Emil
     published in your websites you should know the following tips to avoid problems
     with your site design in IE6.\n\n1.Use a doctype\n2.Use display:inline for all
-    floated elements\n3.Use only <code><a></code> tags formhovered elements. (the
-    CSS hover effects that IE6 can only apply are limited to  <code><a></code> tags)\n4.Avoid
+    floated elements\n3.Use only <code>&lt;a></code> tags formhovered elements. (the
+    CSS hover effects that IE6 can only apply are limited to <code>&lt;a></code> tags)\n4.Avoid
     Percentage dimensions\n\nI think that is a good idea to create a website with
     this theme of discussion, or support the existing ones.
   comment_date: '2009-08-27 23:38:40'
