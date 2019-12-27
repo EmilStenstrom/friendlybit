@@ -2,6 +2,7 @@
 <html lang="{{ post.lang if post and post.lang else 'en' }}">
   <head>
     <meta charset="utf-8">
+    <title>{% if post %}{{ post.title }} - Friendly Bit{% else %}Friendly Bit{% endif %}</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ post.excerpt|striptags|truncate(160) if post else site.description }}">
