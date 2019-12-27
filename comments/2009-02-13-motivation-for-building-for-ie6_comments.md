@@ -621,25 +621,4 @@ comments:
   comment_post_ID: '430'
   comment_type: null
   is_admin: '0'
-- comment_ID: '36716'
-  comment_author: A4ashish001
-  comment_author_url: ''
-  comment_content: Nice blog having nice information. some times we ignore this sort
-    of things &amp; also \nsuffer a lot as well. However we can save a lot with the
-    assistance of these tips \nfor example time etc\n\n\n<a href="http://www.dwilawyers.com"
-    rel="nofollow">California DUI Lawyer</a>\n
-  comment_date: '2011-01-24 10:48:00'
-  comment_post_ID: '430'
-  comment_type: null
-  is_admin: '0'
-- comment_ID: '36717'
-  comment_author: Kumar4874
-  comment_author_url: ''
-  comment_content: It is important to choose right one since the first time. Thank
-    you for the tips. \nProper care will save money in long term\n<a href="http://www.fhaloanlending.com"
-    rel="nofollow">FHA Loans</a>
-  comment_date: '2011-01-24 10:50:00'
-  comment_post_ID: '430'
-  comment_type: null
-  is_admin: '0'
 ---
