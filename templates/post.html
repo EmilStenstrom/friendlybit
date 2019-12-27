@@ -37,7 +37,11 @@
                 {{ comment.comment_date.strftime("%b %-d, %Y") }}
               </time>
               <h4 class="comment_author" itemprop="author" itemscope itemtype="https://schema.org/Person">
-                {% if comment.comment_author_url %}
+                {% if comment.is_admin == '1' %}
+                  By: <a href="{{ site.url }}" itemprop="name">
+                    {{ comment.comment_author|safe }}
+                  </a>
+                {% elif comment.comment_author_url %}
                   By: <a href="{{ comment.comment_author_url }}" rel="nofollow" itemprop="name">
                     {{ comment.comment_author|safe }}
                   </a>
