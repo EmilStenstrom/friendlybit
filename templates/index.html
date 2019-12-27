@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="{{ post.lang if post else 'en' }}">
+<html lang="{{ post.lang if post and post.lang else 'en' }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
