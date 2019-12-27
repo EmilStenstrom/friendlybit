@@ -12,6 +12,11 @@ a {
         color: #550033;
     }
 }
+br {
+    display: block;
+    margin-top: 5px;
+    content: " ";
+}
 h1, h2, h3 {
     font-family: "Palatino Linotype", Palatino, sans-serif;
     font-weight: normal;

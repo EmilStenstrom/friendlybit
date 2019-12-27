@@ -51,10 +51,8 @@
                 <a href="#comment-{{ comment.comment_ID }}" class="counter">(#{{ loop.index }})</a>
               </h4>
               <div itemprop="text" class="comment-text">
-                <p>
                   {%- if comment.comment_type == "pingback" %}Pingback: {% endif %}
-                  {{- comment.comment_content.replace("\\n\\n", "</p><p>").replace("\\n", "<br>")|safe }}
-                </p>
+                  {{- comment.comment_content.strip().replace("\\n", "<br>")|safe }}
               </div>
             </li>
           {% endfor %}
