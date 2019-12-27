@@ -7,7 +7,7 @@
     overflow: hidden;
     background: #278FAF;
     color: #222;
-    padding: 0 10px;
+    padding-left: 10px;
     a {
         color: #000;
     }
@@ -26,6 +26,7 @@
         background: none;
         color: #222;
         font: bold 2em/1.55em "Palatino Linotype", Palatino, serif;
+        font-size: 1.5em;
         text-decoration: none;
         white-space: nowrap;
         margin-right: auto;
@@ -50,8 +51,9 @@
         flex: 0;
         display: flex;
         .search-query {
+            background: transparent;
             padding: 4px 2px 2px;
-            width: 100px;
+            width: 13vw;
             border: none;
             border-radius: 2px 0 0 2px;
             &::placeholder {
@@ -61,7 +63,7 @@
         .search-button {
             border: none;
             border-radius: 0 2px 2px 0;
-            background: #fff;
+            background: transparent;
             padding-top: 4px;
         }
     }
@@ -92,22 +94,27 @@
 }
 .post {
     display: flex;
+    flex-wrap: wrap;
     margin-bottom: 5em;
     .post-meta {
         color: #bbb;
     }
     .post-content {
         font-size: 1.1em;
-        flex-grow: 1;
+        flex: 1 1 25em;
+        min-width: 25em;
         max-width: 40em;
+        padding-right: 20px;
         margin: 0 auto;
     }
     .post-comments {
-        background: #eee;
-        padding: 12px 20px 20px;
-        font-size: 0.9em;
-        margin-top: 20px;
+        flex: 1 1 20em;
         max-width: 30em;
+        min-width: 20em;
+        background: #eee;
+        padding: 0 20px 20px;
+        font-size: 0.9em;
+        margin-top: 37px;
         .comment-list {
             padding: 0;
             .comment {
