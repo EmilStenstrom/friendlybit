@@ -309,7 +309,7 @@ comments:
   comment_author_url: http://friendlybit.com
   comment_content: '@Anthony Grace: Thanks! I wish I had read the article you point
     to earlier, now I had to figure all that out by myself :/. Almost no documentation
-    is available from Microsoft, of course. ↵↵I''m actually done with the customization
+    is available from Microsoft, of course. \n\nI''m actually done with the customization
     on the project that triggered this article, and it''s live and used by over 10
     000 people. I must say, the bugs, tricks and hacks I had to do to get there, you
     wouldn''t believe me. I will try my best to never work with Sharepoint again.'

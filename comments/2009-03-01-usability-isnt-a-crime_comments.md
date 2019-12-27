@@ -49,11 +49,11 @@ comments:
   comment_author_url: http://friendlybit.com
   comment_content: '@Dan Wolff: In this case, the helpers did not know of the specific
     crimes committed. It''s like organizing people, or helping them to network, something
-    I don''t think should be illegal. ↵↵About paying authors: The fact is that the
+    I don''t think should be illegal. \n\nAbout paying authors: The fact is that the
     internet has made distribution dirt cheap. That means that everyone previously
     making money from distribution monopoly does have a problem. You''ve started to
     see newspapers with the same problem, without anyone going through hoops to find
-    out how to pay them now when people find their news online instead. ↵↵An author''s
+    out how to pay them now when people find their news online instead. \n\nAn author''s
     performance is them writing a new book. That''s something they can do, and that''s
     what there''s demand for. If they "have to get paid" like you say (which is far
     from certain), I think that that''s where they should get their money. Again,
@@ -220,7 +220,7 @@ comments:
   comment_author_url: http://www.veztekusa.com
   comment_content: Copyright holders protest and say that they “have to” get paid
     for what they produce. And that argument seems to work well with people, because
-    hey, why shouldn’t they? ↵↵      Its not about being geeky or non-geeky.The whole
+    hey, why shouldn’t they? \n\n      Its not about being geeky or non-geeky.The whole
     point is if a speaker gets paid on what he's reading, then the audience is "actually"
     listening to what he's reading and the writer has a right to get paid. No one
     denies that much piracy is going on and people do benefit from it, still its not

@@ -3,12 +3,12 @@ comments:
 - comment_ID: '33099'
   comment_author: ''
   comment_author_url: ''
-  comment_content: Hi Emil,↵First of all congrats on your blog. I've been reading
+  comment_content: Hi Emil,\nFirst of all congrats on your blog. I've been reading
     about the new pages that you launched and I have to say that I find a very good
     idea the launching of Kundo.se. it's too bad I can't read Sweddish but the idea
     of it and how it was developed has really caught my interest. Do you think these
     types of meetings are getting held in the UK as well? If so, where can I find
-    more information?↵↵Cheers,↵↵Meri
+    more information?\n\nCheers,\n\nMeri
   comment_date: '2009-10-05 15:49:20'
   comment_post_ID: '448'
   comment_type: null
@@ -48,10 +48,10 @@ comments:
   comment_author: websitedevelopmentdeveloper
   comment_author_url: http://www.veztekusa.com
   comment_content: Congratulations on the launching of your two sites and Uttråkad.se
-    isn't doing bad so far with↵70 unique visitors everyday. Kundo.se can prove useful
+    isn't doing bad so far with\n70 unique visitors everyday. Kundo.se can prove useful
     too with all of its facilities to embed feedback widgets. Last but not the least
     I would like to go and explore the 3rd site as it sounds a good meeting place
-    and is a development blog. (But its in Swedish)↵↵ So have to wait till you launch
+    and is a development blog. (But its in Swedish)\n\n So have to wait till you launch
     a site in English.
   comment_date: '2011-01-20 18:12:00'
   comment_post_ID: '448'

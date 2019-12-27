@@ -25,7 +25,7 @@ comments:
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
   comment_content: '@Pece: I''m thinking that fewer people will switch if they have
-    a choice, so I''ll think I''m still going with just IE7. We''ll see how it goes.↵↵@Anders
+    a choice, so I''ll think I''m still going with just IE7. We''ll see how it goes.\n\n@Anders
     Ytterström: Good! :)'
   comment_date: '2009-02-13 17:59:08'
   comment_post_ID: '430'
@@ -361,7 +361,7 @@ comments:
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
   comment_content: '@Peter Vigren: Yeah, it would be nice with such a resource, will
-    you make us one? :)↵↵You are free to redirect people to IE7 or IE8 as you see
+    you make us one? :)\n\nYou are free to redirect people to IE7 or IE8 as you see
     fit. I asked the same question an decided that I wanted people to benefit as much
     as possible from an upgrade. IE8 is already a step up from IE7, and will probably
     be easy to update once the final rendering stuff is sorted. I''m not 100% sure
@@ -460,10 +460,10 @@ comments:
     is significant if you can drop IE6 support. It''s not so much that it''s hard
     to support, it''s all the time it consumes.... I know the ins and outs of IE6,
     I just hate going through hoops to do what it needs, downgrading features because
-    it can''t handle them. ↵↵I''ve come to use your second tactic when customers have
+    it can''t handle them. \n\nI''ve come to use your second tactic when customers have
     few IE6 users that they can''t ignore. I just make the text readable, and the
     major flows work as they should, and let the design look a bit messy. Always with
-    a warning, and a message for the user to upgrade. ↵↵I agree that we can find worse
+    a warning, and a message for the user to upgrade. \n\nI agree that we can find worse
     browsers than IE6 to support, but I think that''s beside the point. We need a
     better environment to be productive in, and that requires the immediate death
     of IE6. *Loads gun*'
@@ -625,9 +625,9 @@ comments:
   comment_author: A4ashish001
   comment_author_url: ''
   comment_content: Nice blog having nice information. some times we ignore this sort
-    of things &amp; also ↵suffer a lot as well. However we can save a lot with the
-    assistance of these tips ↵for example time etc↵↵↵<a href="http://www.dwilawyers.com"
-    rel="nofollow">California DUI Lawyer</a>↵
+    of things &amp; also \nsuffer a lot as well. However we can save a lot with the
+    assistance of these tips \nfor example time etc\n\n\n<a href="http://www.dwilawyers.com"
+    rel="nofollow">California DUI Lawyer</a>\n
   comment_date: '2011-01-24 10:48:00'
   comment_post_ID: '430'
   comment_type: null
@@ -636,7 +636,7 @@ comments:
   comment_author: Kumar4874
   comment_author_url: ''
   comment_content: It is important to choose right one since the first time. Thank
-    you for the tips. ↵Proper care will save money in long term↵<a href="http://www.fhaloanlending.com"
+    you for the tips. \nProper care will save money in long term\n<a href="http://www.fhaloanlending.com"
     rel="nofollow">FHA Loans</a>
   comment_date: '2011-01-24 10:50:00'
   comment_post_ID: '430'

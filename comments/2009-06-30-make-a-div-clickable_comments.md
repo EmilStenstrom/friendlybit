@@ -230,7 +230,7 @@ comments:
     strange side effects. Since the image covers all the text and images in the teaser,
     you can select or save the text or the image. And you can''t have more than one
     link in the same teaser, something that might matter for some (although few) people.
-    On the other hand you get the possibility to middle-click the link, and all that.↵↵Nah,
+    On the other hand you get the possibility to middle-click the link, and all that.\n\nNah,
     I still like the HTML5 solution (see above comment) best I think.'
   comment_date: '2009-07-24 13:11:55'
   comment_post_ID: '498'

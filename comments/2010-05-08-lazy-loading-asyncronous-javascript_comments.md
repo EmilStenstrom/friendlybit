@@ -453,7 +453,7 @@ comments:
 - comment_ID: '34330'
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
-  comment_content: 'Hi Peter,↵↵What most people do it first try to load the jQuery
+  comment_content: 'Hi Peter,\n\nWhat most people do it first try to load the jQuery
     script, and then check if the global object "jQuery" is defined, otherwise load
     it another way. Here''s a thread from StackOverflow with lots of good answers:
     <a href="http://stackoverflow.com/questions/1014203/" rel="nofollow">http://stackoverflow.com/questions/1014203/</a>'

@@ -116,7 +116,7 @@ comments:
     it is true that web development is no more an easy thing to do. Browser heights
     and widths have changed. The relation between the width and height of the user's
     screen is completely unpredictable since now people use internet over mobile phones.
-    ↵↵     In effect, yes the CSS styling is unpredictable too. So its more difficult
+    \n\n     In effect, yes the CSS styling is unpredictable too. So its more difficult
     now in all to design a website.
   comment_date: '2011-01-20 17:29:00'
   comment_post_ID: '438'

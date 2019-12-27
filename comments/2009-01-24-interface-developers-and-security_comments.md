@@ -62,7 +62,7 @@ comments:
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
   comment_content: '@Lewis Litanzios: Don''t let me stop you, I''d love to have this
-    article spread far and wide :) ↵↵Concerning cross-browsers stuff: my last project
+    article spread far and wide :) \n\nConcerning cross-browsers stuff: my last project
     was actually one where I didn''t have to build for IE6, which made it a lot less
     painful for everyone involved. I hope everyone could have that pleasure, always.'
   comment_date: '2009-01-31 20:27:07'
@@ -98,7 +98,7 @@ comments:
   comment_author_url: http://friendlybit.com
   comment_content: '@Lewis Litanzios: I''d like to update that to "Code to reason
     first, to standards second". Far to many are standards zealots, and forget all
-    about reason (not saying you are one, of course :) ).↵↵About the folio link: I
+    about reason (not saying you are one, of course :) ).\n\nAbout the folio link: I
     removed the link because I thought it was out of context. Comments are about comments
     to a main article. As this site is growing (over 2000 RSS subscribers!) I''m thinking
     of adding an optional part where other people can post their articles or sites,

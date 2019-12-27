@@ -4,7 +4,7 @@ comments:
   comment_author: Lars Karlsson
   comment_author_url: http://larskarlsson.wordpress.com/
   comment_content: This is a very good argument! I often show sites on projectors
-    and blame them for fad quality. ↵↵Maybe my sites are bad? ↵↵I´ll make a post of
+    and blame them for fad quality. \n\nMaybe my sites are bad? \n\nI´ll make a post of
     this on my site soon, thanks!
   comment_date: '2009-04-04 21:40:57'
   comment_post_ID: '470'
@@ -70,16 +70,16 @@ comments:
 - comment_ID: '31718'
   comment_author: Jan Willem
   comment_author_url: http://home.casema.nl/jwnieuwerth/
-  comment_content: '@Emil, @Stevie↵Good point Stevie D! Mostly favourites are still
+  comment_content: '@Emil, @Stevie\nGood point Stevie D! Mostly favourites are still
     open with older version IE users, who are still there. I have some brainstorm
-    about this.↵↵Suppose these IE 6 users have small screens, then according <a href="http://www.w3schools.com/browsers/browsers_stats.asp"
+    about this.\n\nSuppose these IE 6 users have small screens, then according <a href="http://www.w3schools.com/browsers/browsers_stats.asp"
     rel="nofollow">w3school browser statistics</a> partially about 17% (or less of
     course, maybe 10%) might still own a smaller screen. That''s still a large group
-    to reach.↵↵Further I think it is important for who the website is. To reach private
+    to reach.\n\nFurther I think it is important for who the website is. To reach private
     persons you should, I think, have 800×600 scaled websites or flexible ones (Until
     the screens get a lot cheaper by the current recession, but I see computers drop
-    in prices, not screens yet).↵↵For business websites for other business websites
-    you might use 1024. I assume business are well facilitated with nice larger screens.↵↵@Emil,↵↵Good
+    in prices, not screens yet).\n\nFor business websites for other business websites
+    you might use 1024. I assume business are well facilitated with nice larger screens.\n\n@Emil,\n\nGood
     to read a new article from your hand, you have to wait sometimes for the next
     one, but at least they have good thoughts/content!'
   comment_date: '2009-04-21 23:47:33'

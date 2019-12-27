@@ -1467,7 +1467,7 @@ comments:
 - comment_ID: '31713'
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
-  comment_content: '@Jim Westergren: Nice that you liked the article :) ↵↵Since HTML5
+  comment_content: '@Jim Westergren: Nice that you liked the article :) \n\nSince HTML5
     is the future, it shouldn''t matter if you use HTML 4 Strict, or XHTML 1.0 Strict,
     they are all incorporated into HTML5. I truly believe that''s the best thing for
     the future of the web. It will take a couple of years, but browsers are already

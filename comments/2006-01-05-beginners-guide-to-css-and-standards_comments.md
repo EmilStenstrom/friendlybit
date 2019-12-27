@@ -2108,11 +2108,11 @@ comments:
 - comment_ID: '34475'
   comment_author: F Paul Fuhr
   comment_author_url: ''
-  comment_content: Hi Emil:↵Excellent job!! and you have made me a Design-Content
+  comment_content: Hi Emil:\nExcellent job!! and you have made me a Design-Content
     believer. So I guess I'll have to go back and clean up some code. I'm using Dieter
     Schneider's template and I have noticed some quirks.  I design on apache (from
     easyPHP install) and run our site on Linux, thought that was the problem? Maybe
-    it's here?↵↵↵↵Best↵↵Paul
+    it's here?\n\n\n\nBest\n\nPaul
   comment_date: '2010-12-09 19:17:10'
   comment_post_ID: '27'
   comment_type: null
