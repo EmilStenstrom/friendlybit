@@ -62,8 +62,7 @@ comments:
 - comment_ID: '26133'
   comment_author: Birgit
   comment_author_url: http://ice-horse.de
-  comment_content: Ha ha, good one! :)\n\n< th > http://flickr.com/photos/guatemalaholla/213257406/\n<
-    / th >
+  comment_content: Ha ha, good one! :)\n\n<code>&lt;th></code> http://flickr.com/photos/guatemalaholla/213257406/\n <code>&lt;/th></code>´
   comment_date: '2007-07-16 10:32:09'
   comment_post_ID: '132'
   comment_type: null
