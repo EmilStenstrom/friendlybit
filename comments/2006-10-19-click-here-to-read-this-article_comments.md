@@ -244,13 +244,13 @@ comments:
   comment_author_url: ''
   comment_content: '@Lazy:  The people using "click here" may or may not know how
     to market better than Emil, but they do not know how best to market.  A call to
-    action is important, but "click here" is a very weak call to action.\n\n<blockquote
-    cite="http://www.lyrishq.com/content/view/88/">As a command, “click here” is beautiful
+    action is important, but "click here" is a very weak call to action.\n\n<q>
+    As a command, “click here” is beautiful
     in its simplicity, but it falls far short as a call to action – the trigger to
     launch the customer on the complicated path to conversion – because it doesn’t
     tell your email readers what you really want them to do.\n\nNor does it answer
     that universal question all readers have that drives so many actions: “What’s
-    in it for me?”</blockquote>\n\nYou can read more about this in the article <a
+    in it for me?”</q>\n\nYou can read more about this in the article <a
     href="http://www.lyrishq.com/content/view/88/" rel="nofollow">8 Tips for a Stronger
     Call to Action</a>.'
   comment_date: '2009-03-17 02:47:06'
