@@ -1783,18 +1783,8 @@ comments:
   comment_author_url: http://www.rinoplastia.org.es/
   comment_content: Thanks so much for providing a tutorial of CSS\nI am a new webmaster
     and I´m interesting in PHP and CSS my web is:\n\n<a href="http://www.rinoplastia.org.es"
-    title="Cirugia de nariz" rel="nofollow">
+    title="Cirugia de nariz" rel="nofollow">Cirugia de nariz</a>
   comment_date: '2008-08-17 19:53:33'
-  comment_post_ID: '27'
-  comment_type: null
-  is_admin: '0'
-- comment_ID: '30927'
-  comment_author: Rinoplastia
-  comment_author_url: http://www.rinoplastia.org.es/
-  comment_content: Thanks so much for providing a tutorial of CSS\nI am a new webmaster
-    and I´m interesting in PHP and CSS my web is:\n\n<a href="http://www.rinoplastia.org.es"
-    rel="nofollow">
-  comment_date: '2008-08-17 19:56:36'
   comment_post_ID: '27'
   comment_type: null
   is_admin: '0'
