@@ -32,9 +32,9 @@ comments:
   comment_author_url: ''
   comment_content: Some examples from W3C on how to write <a href="http://www.w3.org/QA/Tips/noClickHere"
     title=")" rel="nofollow">link text</a>.\n\n\nBtw, one thing I thought about when
-    reading this is, how should one handle "<a href="javascript:history.go(-1);" rel="nofollow">go
-    back</a>" or "<a href="javascript:window.location.reload();" rel="nofollow">try
-    again</a>" links.\n\n\nIn some way it feels right to write it like that, but it
+    reading this is, how should one handle <code>&lt;a href="javascript:history.go(-1);" rel="nofollow">go
+    back&lt;/a></code> or <code>&lt;a href="javascript:window.location.reload();" rel="nofollow">try
+    again&lt;/a></code> links.\n\n\nIn some way it feels right to write it like that, but it
     also feels like there should be some better way.\n\nWithout redirect I mean.
   comment_date: '2006-10-19 17:22:50'
   comment_post_ID: '99'
@@ -83,10 +83,11 @@ comments:
   comment_author_url: ''
   comment_content: I agree with your point fully, but aren't there certain situations
     where it becomes awkward not to use the click here?  For example, "To read the
-    full report, <a>click here</a>"  What would you replace it with?\n"Read the <a>full
-    report</a>" sounds a little demanding.\n"Here you can read the <a>full report</a>"
-    - Is this much better than click here?\nMaybe, "The <a>full report</a> is available
-    for download."\n\nThose all sound more awkward than click here.  What would you
+    full report, <code>&lt;a>click here&lt;/a></code>"  What would you replace it with?\n<code>"Read the 
+    &lt;a>full report&lt;/a>"</code> sounds a little demanding.\n
+    <code>"Here you can read the &lt;a>full report&lt;/a>"</code>
+    - Is this much better than click here?\nMaybe, <code>"The &lt;a>full report&lt;/a> is available
+        for download."</code>\n\nThose all sound more awkward than click here.  What would you
     suggest?
   comment_date: '2006-11-07 20:28:24'
   comment_post_ID: '99'
