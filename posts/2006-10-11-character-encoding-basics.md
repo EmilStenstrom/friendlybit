@@ -72,7 +72,7 @@ resource.setContentType ("text/html;charset=utf-8");
 Setting encoding to UTF-8 with **Python** or **Perl**:
 
 ```python
-print "Content-Type: text/html; charset=utf-8";
+print "Content-Type: text/html; charset=utf-8"
 ```
 
 Setting encoding to UTF-8 with **Ruby on Rails**:
