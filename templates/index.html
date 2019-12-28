@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="{{ post.content|striptags|truncate(160) if post else site.description }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed/">
-    {% if category %}
+    {%- if category %}
       <link rel="alternate" type="application/rss+xml" title="Friendly Bit - {{ category|title }}" href="{{ site.url }}/feed/{{ category }}/">
     {% endif %}
     <link rel="icon" href="/favicon.ico">
@@ -44,7 +44,7 @@
                 </a></span>
                 <span class="post-meta">{{ post.date.strftime("%b %-d, %Y") }}</span>
               </li>
-          {% endfor %}
+          {%- endfor %}
         </ul>
         {% if category %}
           « <a href="/">Back to list of all articles</a>
