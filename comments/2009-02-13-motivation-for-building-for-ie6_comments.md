@@ -404,14 +404,14 @@ comments:
   comment_author: Scott
   comment_author_url: ''
   comment_content: Good god, man - your spelling and grammar is so atrocious that
-    it has driven me away.  \n\nFor instance, on this page alone:\n<blockquote>\nYou
-    don’t want these people do to their online banking </blockquote>\n<blockquote>\nif
-    people are paying you do build websites for them \n</blockquote>\n\n<blockquote>\nIE6
-    just don’t get your styling right\n</blockquote>\n<blockquote>\ntwice as productive
-    to your employer it you did things differently\n</blockquote>\n<blockquote>\nome
-    people will call me and Microsoft-hater</blockquote>\n<blockquote>\nI don’t like
-    most things Microsoft do.</blockquote>\n<blockquote> find any reasons that warrants
-    disappointing IE6
+    it has driven me away.  \n\nFor instance, on this page alone:\n<q>You
+    don’t want these people do to their online banking </q>\n<q>if
+    people are paying you do build websites for them</q>\n\n<q>IE6
+    just don’t get your styling right</q>\n<q>twice as productive
+    to your employer it you did things differently</q>\n<q>ome
+    people will call me and Microsoft-hater</q>\n<q>I don’t like
+    most things Microsoft do.</q>\n<q>find any reasons that warrants
+    disappointing IE6</q>
   comment_date: '2009-03-29 21:39:38'
   comment_post_ID: '430'
   comment_type: null
