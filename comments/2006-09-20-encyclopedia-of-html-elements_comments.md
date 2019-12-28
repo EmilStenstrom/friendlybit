@@ -642,7 +642,7 @@ comments:
     rel="nofollow">W3C answer</a> that recommends using markup for text direction
     (for the above reasons).\n\nMaybe these things can be thought of as meta data
     about the text? Just like you use the LANG attribute to describe the text''s language,
-    you use the DIR attribute and BDO tag to describe its direction. (Okay, I do</em>
+    you use the DIR attribute and BDO tag to describe its direction. (Okay, I do
     agree it''s silly to have an element just for this... They could''ve done something
     like dir="rtl bdo" instead.)'
   comment_date: '2007-06-20 11:33:34'
