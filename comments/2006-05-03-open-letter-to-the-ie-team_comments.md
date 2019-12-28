@@ -119,7 +119,7 @@ comments:
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
   comment_content: '@mjb: Where do you see that MS Virtual PC is free? According to
-    <a href="http://www.microsoft.com/PRODUCTS/info/product.aspx?view=22&pcid=ba9e68ed-9571-4d10-82d2-b51828c33297&type=ovr"
+    <a href="http://www.microsoft.com/PRODUCTS/info/product.aspx?view=22&amp;pcid=ba9e68ed-9571-4d10-82d2-b51828c33297&amp;type=ovr"
     rel="nofollow">MS own pages about the product</a> it says $129. I doubt MS recommends
     me using some other companies software...\n\nAlso, it is a biggy since I havn''t
     been forced to use one before. <strong>All</strong> other browsers work without

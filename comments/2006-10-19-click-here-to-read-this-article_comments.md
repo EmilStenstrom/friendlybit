@@ -3,7 +3,7 @@ comments:
 - comment_ID: '5802'
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
-  comment_content: 'Fun facts: Amazon have almost <a href="http://www.google.com/search?num=100&hl=en&lr=&safe=off&q=site%3Aamazon.com+%22click+here%22&btnG=Search"
+  comment_content: 'Fun facts: Amazon have almost <a href="http://www.google.com/search?num=100&amp;hl=en&amp;lr=&amp;safe=off&amp;q=site%3Aamazon.com+%22click+here%22&amp;btnG=Search"
     rel="nofollow">9 million pages</a> with "click here" on them.'
   comment_date: '2006-10-19 00:36:00'
   comment_post_ID: '99'
