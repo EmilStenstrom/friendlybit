@@ -1,4 +1,4 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<!doctype html>
 <html lang="sv">
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
@@ -22,13 +22,13 @@
 <body>
 <div id="description">
 	<h1>Transforming table cells into tooltips</h1>
-	<p>This example shows how to make some cells in a table transform into tooltips when you 
-	hover over the table. The cells can contain very different contents, like images and the 
+	<p>This example shows how to make some cells in a table transform into tooltips when you
+	hover over the table. The cells can contain very different contents, like images and the
 	like and that will also show up in the tooltip.</p>
 	<p class="final"><a href="/css/make-a-tooltip-out-of-some-columns-in-a-table/" title="Transforming table cells into tooltips">Read the article</a></p>
 </div>
 
-<p>Move your mouse over the table cells below to make the tooltip visible. Look at the code 
+<p>Move your mouse over the table cells below to make the tooltip visible. Look at the code
 and see that what shows in the tooltips are the same as the contents of the cells.</p>
 
 <table summary="Options for your house">
@@ -78,7 +78,7 @@ and see that what shows in the tooltips are the same as the contents of the cell
 	}
 
 	var tbodies = document.getElementsByTagName("tbody");
-	for (var i = 0; i < tbodies.length; i++) { 
+	for (var i = 0; i < tbodies.length; i++) {
 		var trows = tbodies[i].getElementsByTagName("tr");
 		// Add a function to each tr that makes it show it's cells on mouseover
 		for (var j = 0; j < trows.length; j++) {
@@ -92,7 +92,7 @@ and see that what shows in the tooltips are the same as the contents of the cell
 			trows[j].onmouseout=function() {
 				var childtooltips = getElementsByClassName(this, "tooltip");
 				for (var k = 0; k < childtooltips.length; k++) {
-					childtooltips[k].className = 
+					childtooltips[k].className =
 						childtooltips[k].className.replace(new RegExp(" hooover\\b"), "");
 				}
 			}

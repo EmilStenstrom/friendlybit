@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 <html>
   <head>
     <title>Example of max- and min-width</title>
@@ -18,8 +18,8 @@
         height: 1%;
         width: 960px; /* Fallback width if javascript is off */
         width: expression(
-          (document.documentElement.clientWidth > 962)? "960px" : 
-            (document.documentElement.clientWidth < 762) ? "760px" : 
+          (document.documentElement.clientWidth > 962)? "960px" :
+            (document.documentElement.clientWidth < 762) ? "760px" :
               "auto"
         );
       }
