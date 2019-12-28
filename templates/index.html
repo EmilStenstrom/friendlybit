@@ -5,7 +5,7 @@
     <title>{% if post %}{{ post.title }} - Friendly Bit{% else %}{% endif %}</title>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="{{ post.excerpt|striptags|truncate(160) if post else site.description }}">
+    <meta name="description" content="{{ post.content|striptags|truncate(160) if post else site.description }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ site.url }}/feed/">
     {% if category %}
       <link rel="alternate" type="application/rss+xml" title="Friendly Bit - {{ category|title }}" href="{{ site.url }}/feed/{{ category }}/">
