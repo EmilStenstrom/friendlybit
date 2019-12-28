@@ -23,7 +23,7 @@ categories:
 ---
 HTML is a much richer language than what it&#8217;s used for. There are 77 elements and each one has a certain purpose. It is possible to find that reason by reading the specification, but who does that? I wrote this list as a way to tell you what I think each of the HTML tags should be used for, common problems you might encounter, and general advise about each one.
 
-I&#8217;ve included all the elements from HTML 4.01 _Strict_. It&#8217;s a long one, but I&#8217;m sure you have more &#8220;tips and tricks&#8221; to add to it. Leave a comment and I&#8217;ll add yours to the list too. Let&#8217;s start off with a list of all the elements:
+I&#8217;ve included all the elements from HTML 4.01 *Strict*. It&#8217;s a long one, but I&#8217;m sure you have more &#8220;tips and tricks&#8221; to add to it. Leave a comment and I&#8217;ll add yours to the list too. Let&#8217;s start off with a list of all the elements:
 
 <p class="linkblock">
   <a href="#A">A</a>, <a href="#ABBR">ABBR</a>, <a href="#ACRONYM">ACRONYM</a>, <a href="#ADDRESS">ADDRESS</a>, <a href="#AREA">AREA</a>, <a href="#B">B</a>, <a href="#BASE">BASE</a>, <a href="#BDO">BDO</a>, <a href="#BIG">BIG</a>, <a href="#BLOCKQUOTE">BLOCKQUOTE</a>, <a href="#BODY">BODY</a>, <a href="#BR">BR</a>, <a href="#BUTTON">BUTTON</a>, <a href="#CAPTION">CAPTION</a>, <a href="#CITE">CITE</a>, <a href="#CODE">CODE</a>, <a href="#COL">COL</a>, <a href="#COLGROUP">COLGROUP</a>, <a href="#DD">DD</a>, <a href="#DEL">DEL</a>, <a href="#DFN">DFN</a>, <a href="#DIV">DIV</a>, <a href="#DL">DL</a>, <a href="#DT">DT</a>, <a href="#EM">EM</a>, <a href="#FIELDSET">FIELDSET</a>, <a href="#FORM">FORM</a>, <a href="#H1">H1</a>, <a href="#H1">H2</a>, <a href="#H1">H3</a>, <a href="#H1">H4</a>, <a href="#H1">H5</a>, <a href="#H1">H6</a>, <a href="#HEAD">HEAD</a>, <a href="#HR">HR</a>, <a href="#HTML">HTML</a>, <a href="#I"> I </a>, <a href="#IMG">IMG</a>, <a href="#INPUT">INPUT</a>, <a href="#INS">INS</a>, <a href="#KBD">KBD</a>, <a href="#LABEL">LABEL</a>, <a href="#LEGEND">LEGEND</a>, <a href="#LI">LI</a>, <a href="#LINK">LINK</a>, <a href="#MAP">MAP</a>, <a href="#META">META</a>, <a href="#NOSCRIPT">NOSCRIPT</a>, <a href="#OBJECT">OBJECT</a>, <a href="#OL">OL</a>, <a href="#OPTGROUP">OPTGROUP</a>, <a href="#OPTION">OPTION</a>, <a href="#P">P</a>, <a href="#PARAM">PARAM</a>, <a href="#PRE">PRE</a>, <a href="#QU">Q</a>, <a href="#SAMP">SAMP</a>, <a href="#SCRIPT">SCRIPT</a>, <a href="#SELECT">SELECT</a>, <a href="#SMALL">SMALL</a>, <a href="#SPAN">SPAN</a>, <a href="#STRONG">STRONG</a>, <a href="#STYLE">STYLE</a>, <a href="#SUB">SUB</a>, <a href="#SUB">SUP</a>, <a href="#TABLE">TABLE</a>, <a href="#TBODY">TBODY</a>, <a href="#TD">TD</a>, <a href="#TEXTAREA">TEXTAREA</a>, <a href="#TFOOT">TFOOT</a>, <a href="#TH">TH</a>, <a href="#THEAD">THEAD</a>, <a href="#TITLE">TITLE</a>, <a href="#TR">TR</a>, <a href="#TT">TT</a>, <a href="#UL">UL</a>, <a href="#VAR">VAR</a>
@@ -45,7 +45,7 @@ Abbreviations are words which are short forms of a longer word or phrase. Exampl
 
 Should have a title attribute with the explaination of your term.
 
-Make sure this explanation is humanly readable (unlike how it&#8217;s used in [microformats](/html/current-issues-with-microformats/)). It&#8217;s here to help _people_ not machines.
+Make sure this explanation is humanly readable (unlike how it&#8217;s used in [microformats](/html/current-issues-with-microformats/)). It&#8217;s here to help *people* not machines.
 
 ## **ACRONYM** &#8211; Special case of the above where the word is formed from beginning parts of the words in a phrase {#ACRONYM.almost}
 
@@ -91,7 +91,7 @@ Don&#8217;t use. This is design and should be in the CSS. Use `font-size` instea
 
 Include one or many paragraph(s) inside of this one.
 
-Takes a cite attribute but this isn&#8217;t rendered in browsers so use the cite _element_ instead.
+Takes a cite attribute but this isn&#8217;t rendered in browsers so use the cite *element* instead.
 
 Don&#8217;t ever use this one for indenting text, there&#8217;s margin and padding in CSS for that.
 
@@ -309,7 +309,7 @@ Ordering means that the content only makes sense in that order. This means that 
 
 One of the least known elements in HTML. Impress your friends!
 
-Similar to fieldset but for option elements. Wraps around them and uses the _label attribute_ to name the group.
+Similar to fieldset but for option elements. Wraps around them and uses the *label attribute* to name the group.
 
 Nesting of optgroups is not allowed.
 
