@@ -106,6 +106,11 @@
         max-width: 40em;
         padding-right: 20px;
         margin: 0 auto;
+        @media (max-width: 30em) {
+            min-width: 0;
+            padding-right: 0;
+            width: 100%;
+        }
     }
     .post-comments {
         flex: 1 1 20em;
