@@ -69,10 +69,10 @@ Setting encoding to UTF-8 with **Java Servlets**:
 resource.setContentType ("text/html;charset=utf-8");
 ```
 
-Setting encoding to UTF-8 with **Python** or **Perl**:
+Setting encoding to UTF-8 with **Python**:
 
 ```python
-print "Content-Type: text/html; charset=utf-8"
+response.headers["Content-Type"] = "text/html; charset=utf-8"
 ```
 
 Setting encoding to UTF-8 with **Ruby on Rails**:
