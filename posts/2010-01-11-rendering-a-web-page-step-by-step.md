@@ -23,13 +23,13 @@ categories:
   - HTML
   - JS
 ---
-Have you ever thought about what happens when you surf the web? It&#8217;s not as simple as it seems:
+Have you ever thought about what happens when you surf the web? It's not as simple as it seems:
 
   1. You **type an URL** into address bar in your preferred browser.
   2. The browser **parses the URL** to find the protocol, host, port, and path.
   3. It **forms a HTTP request** (that was most likely the protocol)
   4. To reach the host, it first needs to **translate** the human readable host **into an IP number**, and it does this by doing a DNS lookup on the host
-  5. Then a **socket needs to be opened** from the user&#8217;s computer to that IP number, on the port specified (most often port 80)
+  5. Then a **socket needs to be opened** from the user's computer to that IP number, on the port specified (most often port 80)
   6. When a connection is open, the **HTTP request is sent** to the host
   7. The host **forwards the request** to the server software (most often Apache) configured to listen on the specified port
   8. The **server inspects the request** (most often only the path), and **launches the server plugin needed** to handle the request (corresponding to the server language you use, PHP, Java, .NET, Python?)
@@ -52,4 +52,4 @@ I, too, get annoyed when the above steps take longer than one tenth of a second.
 
 Spoiled we are, all of us.
 
-_(Feel free to add more steps, through the comments&#8230;)_
+_(Feel free to add more steps, through the comments…)_

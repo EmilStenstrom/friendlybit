@@ -24,11 +24,11 @@ categories:
   - CSS
   - Fonts
 ---
-I&#8217;m sure most of you have already read the [excellent experiment](http://www.thenoodleincident.com/tutorials/box_lesson/font/index.html "Noodleincidents guide on font sizes") on font sizes but it&#8217;s important enough to summarice here.
+I'm sure most of you have already read the [excellent experiment](http://www.thenoodleincident.com/tutorials/box_lesson/font/index.html "Noodleincidents guide on font sizes") on font sizes but it's important enough to summarice here.
 
-The problem is how to make as many browsers as possible display fonts in the same size, without using pixels or other absolute units. Why shouldn&#8217;t you use fixed font sizes? Because they make Internet Explorer unable to zoom the text with text-zoom, something that&#8217;s bad for accessibility.
+The problem is how to make as many browsers as possible display fonts in the same size, without using pixels or other absolute units. Why shouldn't you use fixed font sizes? Because they make Internet Explorer unable to zoom the text with text-zoom, something that's bad for accessibility.
 
-When you start experimenting with this problem you quickly get into problems. I tested in Firefox 1.5, Internet Explorer 6 and Opera 9 and it was incredibly hard (Want a challange? Don&#8217;t read on, try it by yourself) even with just those few browsers. Opera has problems with units it seems. If you use em:s you can&#8217;t use more than two decimals, Opera will round it them differently than the others.
+When you start experimenting with this problem you quickly get into problems. I tested in Firefox 1.5, Internet Explorer 6 and Opera 9 and it was incredibly hard (Want a challange? Don't read on, try it by yourself) even with just those few browsers. Opera has problems with units it seems. If you use em:s you can't use more than two decimals, Opera will round it them differently than the others.
 
 Anyway, Owen Briggs solved this for us in a very simple way:
 

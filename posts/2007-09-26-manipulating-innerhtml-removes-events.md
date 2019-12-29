@@ -19,7 +19,7 @@ btcnew_comment_summary:
 categories:
   - JS
 ---
-Others have written about this before, but I thought I&#8217;d mention it again, just so you don&#8217;t miss it. Aleksandar Vaci? found it while playing with tables and their cells. I found it when [Robert](http://www.robertnyman.com/) and I played with nested lists. It works the same across browers. Let me show a quick example:
+Others have written about this before, but I thought I'd mention it again, just so you don't miss it. Aleksandar Vaci? found it while playing with tables and their cells. I found it when [Robert](http://www.robertnyman.com/) and I played with nested lists. It works the same across browers. Let me show a quick example:
 
 You have a paragraph tag that contains a span that you want to make clickable.
 
@@ -30,7 +30,7 @@ You have a paragraph tag that contains a span that you want to make clickable.
 </p>
 ```
 
-To make it clickable you don&#8217;t do any fancy stuff, you just add it with onclick:
+To make it clickable you don't do any fancy stuff, you just add it with onclick:
 
 ```js
 var span = document.getElementsById("clickspan");
@@ -46,4 +46,4 @@ var p = document.getElementById("para");
 p.innerHTML += " Some extra text";
 ```
 
-You try clicking the span again, and it doesn work. You scratch your hair, you bite your nails, you scream of desperation and anger. It still doesn&#8217;t work. It seems manipulating an element by using innerHTML removes all events from that element, and all children. Here&#8217;s a [live example](/files/innerHTMLevents/). I thought you should know.
+You try clicking the span again, and it doesn work. You scratch your hair, you bite your nails, you scream of desperation and anger. It still doesn't work. It seems manipulating an element by using innerHTML removes all events from that element, and all children. Here's a [live example](/files/innerHTMLevents/). I thought you should know.

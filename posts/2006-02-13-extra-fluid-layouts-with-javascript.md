@@ -24,15 +24,15 @@ categories:
   - CSS
   - JS
 ---
-I&#8217;m a big fan of vector graphics. Because of that I love Macromedia Fireworks and the way it handles all elements like vectors. The good thing about that is that they can be resized and zoomed without them losing their sharpness.
+I'm a big fan of vector graphics. Because of that I love Macromedia Fireworks and the way it handles all elements like vectors. The good thing about that is that they can be resized and zoomed without them losing their sharpness.
 
 This got me thinking about how to add some vectorization to CSS layouts. My idea was that you should let the width of the screen decide the font-size of, for example, your headers. This could make for nice fluid layouts and might even add to usability in some cases. There are probably other uses for this but I leave that to you, please use the comments if you come up with something.
 
-Start by having a look at the [dynamic font-size example](/files/window_fontsize/) just so we&#8217;re talking about the same thing. Try resizing the window and reloading and see that the headers really do adapt to the width of the browser window.
+Start by having a look at the [dynamic font-size example](/files/window_fontsize/) just so we're talking about the same thing. Try resizing the window and reloading and see that the headers really do adapt to the width of the browser window.
 
-## How it&#8217;s done
+## How it's done
 
-First we need a way to meassure the width of the text in the default font. For this I use my own little getTextWidth() that were constructed in my [line-break script](/css/line-breaking-with-javascript/). It simply takes a piece of text, attaches it to the page, meassures it&#8217;s width and removes it again.
+First we need a way to meassure the width of the text in the default font. For this I use my own little getTextWidth() that were constructed in my [line-break script](/css/line-breaking-with-javascript/). It simply takes a piece of text, attaches it to the page, meassures it's width and removes it again.
 
 ```js
 function getTextWidth(text) {
@@ -45,7 +45,7 @@ function getTextWidth(text) {
 }
 ```
 
-Ok, now we know the width of some text in it&#8217;s non formated state. Next up is to scale it as much as needed.
+Ok, now we know the width of some text in it's non formated state. Next up is to scale it as much as needed.
 
 ```js
 function scaleUp(elem, targetWidth) {
@@ -56,7 +56,7 @@ function scaleUp(elem, targetWidth) {
 }
 ```
 
-As you see scaleUp() determines a percentage by looking at three things: it&#8217;s unformated width, it&#8217;s current width and the target width. Font-size and text width does not seem to follow eachother perfectly so an additional multiplication by 0.9 is needed.
+As you see scaleUp() determines a percentage by looking at three things: it's unformated width, it's current width and the target width. Font-size and text width does not seem to follow eachother perfectly so an additional multiplication by 0.9 is needed.
 
 This handy little function is then called with the element you want to scale and the width in pixels of how wide you want it. The calls look something like this:
 
@@ -66,6 +66,6 @@ var width = document.body.offsetWidth;
 scaleUp(element, width);
 ```
 
-That&#8217;s it, hope you find some fun use for it.
+That's it, hope you find some fun use for it.
 
 **Update:** After doing some research I see that Eric Meyer is already using something like this in his [slideshow system S5](http://www.meyerweb.com/eric/tools/s5/). Well well, it was a funny exercise none the less.

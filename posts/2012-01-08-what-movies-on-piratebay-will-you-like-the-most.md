@@ -12,7 +12,7 @@ categories:
   - API
   - Python
 ---
-Christmas, and the weeks thereafter, are times for coding. And I&#8217;ve been playing around with [piratebay](http://thepiratebay.org) and [filmtipset](http://filmtipset.se) (a Swedish movie recommendation) a little bit. I just pushed it to the [filmtipset-piratebay project on GitHub](https://github.com/EmilStenstrom/filmtipset-piratebay), if you want to take a look.
+Christmas, and the weeks thereafter, are times for coding. And I've been playing around with [piratebay](http://thepiratebay.org) and [filmtipset](http://filmtipset.se) (a Swedish movie recommendation) a little bit. I just pushed it to the [filmtipset-piratebay project on GitHub](https://github.com/EmilStenstrom/filmtipset-piratebay), if you want to take a look.
 
 ## CSS for screen scraping
 
@@ -33,24 +33,24 @@ Saving the above snippet to a py-file and running it will give you a list of all
 
 ## Extracting movie titles from torrent names
 
-It&#8217;s surprisingly easy to convert torrent names to movie titles. Just follow this simple algorithm:
+It's surprisingly easy to convert torrent names to movie titles. Just follow this simple algorithm:
 
   1. Split the torrent name into words by treating all non-alphanumeric characters as space.
-  2. Loop over the remaining words, and look for a predefined set of &#8220;torrent endings&#8221;.
+  2. Loop over the remaining words, and look for a predefined set of "torrent endings".
   3. When you find an ending, cut the name from there
   4. (Optional) Remove the year if there is one at the end of the remaining string
-  5. (Optional) Remove all movies which really are bundles of movies, and not single movies. This is easily done by looking for a set of common strongs such as &#8220;trilogy&#8221; and &#8220;series&#8221;
+  5. (Optional) Remove all movies which really are bundles of movies, and not single movies. This is easily done by looking for a set of common strongs such as "trilogy" and "series"
 
-Result: &#8220;Real.Steel.2011.720p.BluRay.x264-REFiNED&#8221; &#8211;> &#8220;Real Steel&#8221;
+Result: "Real.Steel.2011.720p.BluRay.x264-REFiNED" -> "Real Steel"
 
 You can find my movie title finder implementation in parse.py on GitHub.
 
 ## Cache all HTTP Request
 
-To both save time, and be nice to the services we&#8217;re querying, the script caches all HTTP requests for a number of days. I do this by simply saving the returned HTML/JSON to a file, and checking the file system for that file before making a new request. Saving the HTML/JSON, and not the processed result, makes it possible to experiment with the parsing, without having to wait for new requests from the server.
+To both save time, and be nice to the services we're querying, the script caches all HTTP requests for a number of days. I do this by simply saving the returned HTML/JSON to a file, and checking the file system for that file before making a new request. Saving the HTML/JSON, and not the processed result, makes it possible to experiment with the parsing, without having to wait for new requests from the server.
 
 My caching implementation is of course also on GitHub.
 
 \***
 
-All and all, this has been a fun little project, and I&#8217;ve learned a lot. But I&#8217;m sure we can make this even better. Feel free to send pull requests!
+All and all, this has been a fun little project, and I've learned a lot. But I'm sure we can make this even better. Feel free to send pull requests!

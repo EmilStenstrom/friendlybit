@@ -31,17 +31,17 @@ Good code [never repeats itself](http://en.wikipedia.org/wiki/Don%27t_repeat_you
 
 **Good design repeats itself, good code does not.**
 
-With interface development, you **face the conflict** above over and over again. You get a design that (rightly) reuses the same concepts over and over, and you need to implement them in code that makes you write the same logic only once. This same time both when writing the code and later when fixing bugs in it, and deep inside, all programmers know that it&#8217;s the correct way to do things.
+With interface development, you **face the conflict** above over and over again. You get a design that (rightly) reuses the same concepts over and over, and you need to implement them in code that makes you write the same logic only once. This same time both when writing the code and later when fixing bugs in it, and deep inside, all programmers know that it's the correct way to do things.
 
-I&#8217;m currently working in a .NET project (EPiServer CMS 5), and is faced with a design that uses the same kind of boxes all over the site. The boxes only differ by color and content, so things like shadows and rounded corners are clear repetition that I want to do only once. I&#8217;ll do the shadows and corners with CSS, but for that I need a couple of wrapper divs. Divs that I only want to specify once, and then reuse.
+I'm currently working in a .NET project (EPiServer CMS 5), and is faced with a design that uses the same kind of boxes all over the site. The boxes only differ by color and content, so things like shadows and rounded corners are clear repetition that I want to do only once. I'll do the shadows and corners with CSS, but for that I need a couple of wrapper divs. Divs that I only want to specify once, and then reuse.
 
 The prequisites are:
 
-  1. I want a **flexible** solution, so I&#8217;m not tied to a specific HTML structure (number of divs, or even if I use the div tag or not).
+  1. I want a **flexible** solution, so I'm not tied to a specific HTML structure (number of divs, or even if I use the div tag or not).
   2. **No HTML in properties** that get sent to user-controls
   3. **No HTML in code-behind** (a common way in .NET to split logic (code-behind) and templates (ASP.NET and HTML))
 
-What I came up with was [templated user controls](http://msdn.microsoft.com/en-us/library/36574bf6.aspx). They provide a way to write controls that wrap any other controls you may have, and add content around them. And it&#8217;s easy to write and user. This is how the one I wrote is used:
+What I came up with was [templated user controls](http://msdn.microsoft.com/en-us/library/36574bf6.aspx). They provide a way to write controls that wrap any other controls you may have, and add content around them. And it's easy to write and user. This is how the one I wrote is used:
 
 ```aspx-cs
 <MyProject:Box runat="server">
@@ -88,7 +88,7 @@ namespace MyProject.templates.units
 }
 ```
 
-&#8230; and then the &#8220;code-front&#8221;:
+… and then the "code-front":
 
 ```aspx-cs
 <%@ Control Language="C#" AutoEventWireup="true" CodeBehind="Box.ascx.cs" Inherits="MyProject.templates.units.Box" %>
@@ -99,4 +99,4 @@ namespace MyProject.templates.units
 </div>
 ```
 
-I think this is a **really useful** way to write user controls, especially for those of you that work as interface developers in a .NET world. Asking the people around me I found that quite a few didn&#8217;t know how templated user controls worked, so I hope I will be of use to some of you out there. Happy coding!
+I think this is a **really useful** way to write user controls, especially for those of you that work as interface developers in a .NET world. Asking the people around me I found that quite a few didn't know how templated user controls worked, so I hope I will be of use to some of you out there. Happy coding!

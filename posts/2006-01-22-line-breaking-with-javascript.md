@@ -25,20 +25,20 @@ categories:
   - CSS
   - HTML
 ---
-Over the years there have been numerous suggestions of different ways of doing line breaks on the web. Browser incompatibilities, lack of support for standardized features, and the creation of browser specific features all helps in making it incredibly difficult. Searching and reading for a while quickly brought me to think the best current solution is [quirksmode&#8217;s wbr](http://www.quirksmode.org/blog/archives/2005/06/quirks_mode_and_1.html). It seems quite well supported but has two major flaws:
+Over the years there have been numerous suggestions of different ways of doing line breaks on the web. Browser incompatibilities, lack of support for standardized features, and the creation of browser specific features all helps in making it incredibly difficult. Searching and reading for a while quickly brought me to think the best current solution is [quirksmode's wbr](http://www.quirksmode.org/blog/archives/2005/06/quirks_mode_and_1.html). It seems quite well supported but has two major flaws:
 
   1. `<wbr>` is not valid HTML
   2. The suggested solution does not work in Safari
 
-So off I went to find a better one. I started trying some different combinations of spaces marked up with `<span>` tags and I tried some nifty CSS tricks before it hit me &#8211; this should be done with javascript. Javascript has wide browser support and after some research (and help from the people in EFNet #javascript) I actually got a [working example](/files/js-linebreak/) up. I have been able to test it in FF 1.5/Win, IE 5.5/Win, IE 6/Win, Opera 8.51/Win+Mac, and Safari 2.0.3/Mac and everything seems to work fine in all of them.
+So off I went to find a better one. I started trying some different combinations of spaces marked up with `<span>` tags and I tried some nifty CSS tricks before it hit me - this should be done with javascript. Javascript has wide browser support and after some research (and help from the people in EFNet #javascript) I actually got a [working example](/files/js-linebreak/) up. I have been able to test it in FF 1.5/Win, IE 5.5/Win, IE 6/Win, Opera 8.51/Win+Mac, and Safari 2.0.3/Mac and everything seems to work fine in all of them.
 
 ## How it works
 
 The idea here is to add ordinary `<br>`s and using javascript to measure the length of the text. The user gives a piece of text and a width in pixels and the script returns the text with breaks inserted.
 
-The hard part is to find at which letter we should break. My first idea was to just loop over the text and keep track of the width in pixels. When we get over the given width, back one step and add a break at that position. But this will be slow for small font-sizes and wide columns so let&#8217;s do something faster. Instead of looping through all letters we can use [Binary Search](http://en.wikipedia.org/wiki/Binary_search) (check the link if you&#8217;re not familiar with it, it&#8217;s good to know). This makes for a lot less calls.
+The hard part is to find at which letter we should break. My first idea was to just loop over the text and keep track of the width in pixels. When we get over the given width, back one step and add a break at that position. But this will be slow for small font-sizes and wide columns so let's do something faster. Instead of looping through all letters we can use [Binary Search](http://en.wikipedia.org/wiki/Binary_search) (check the link if you're not familiar with it, it's good to know). This makes for a lot less calls.
 
-We need a small change to the algorithm since we won&#8217;t be able to find the exact width we&#8217;re looking for (a letter is wider than 1px). Instead we break when we&#8217;re down to knowing that it&#8217;s between two letters. We then return the first letter&#8217;s position. Here is code:
+We need a small change to the algorithm since we won't be able to find the exact width we're looking for (a letter is wider than 1px). Instead we break when we're down to knowing that it's between two letters. We then return the first letter's position. Here is code:
 
 ```js
 function binSearch(text, searchLen) {

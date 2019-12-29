@@ -23,9 +23,9 @@ categories:
   - HTML
   - JS
 ---
-A worried user joins the #CSS channel on EFNet. He has a big problem with the site he&#8217;s currently working on and wonders if there might be a problem with his markup. Let&#8217;s see what he wants.
+A worried user joins the #CSS channel on EFNet. He has a big problem with the site he's currently working on and wonders if there might be a problem with his markup. Let's see what he wants.
 
-The site sells some kind of houses and each house has a few &#8220;options&#8221; (let&#8217;s pretend a bigger door is one option) that the user should be able to select among. Each of these options has a name and costs a certain amount of money. When you move your mouse over one of the options, he wants more info to pop up in a small box. In the box there should be an image, a store name and strange number. What HTML should he use to mark that up?
+The site sells some kind of houses and each house has a few "options" (let's pretend a bigger door is one option) that the user should be able to select among. Each of these options has a name and costs a certain amount of money. When you move your mouse over one of the options, he wants more info to pop up in a small box. In the box there should be an image, a store name and strange number. What HTML should he use to mark that up?
 
 We talked for a while and thought about definition lists containing a div with the extra info in, perhaps a two-column table with a div in the second column? After looking again it became pretty clear, if we just look at his data and not think about the design, all that was left was one big table. Everything that he wants in the tooltip are things that could as well be shown in a big table. So why not use exactly that markup and then use javascript to make some cells only pop up when the row was hovered?
 
@@ -61,14 +61,14 @@ This is the markup I propose:
 </table>
 ```
 
-What you see there is a plain five column table with some classes spread out to make it easier to fetch what we want with the javascript later on. The whole table is given the id &#8220;info&#8221;, this makes us able to separate it from other tables on the same page. Each cell that are going to be in the tooltip get the class &#8220;tooltip&#8221; and an aditional a1-a3 class that simply is used to position the specific cell later on.
+What you see there is a plain five column table with some classes spread out to make it easier to fetch what we want with the javascript later on. The whole table is given the id "info", this makes us able to separate it from other tables on the same page. Each cell that are going to be in the tooltip get the class "tooltip" and an aditional a1-a3 class that simply is used to position the specific cell later on.
 
 Next we need to do two of things:
 
-  1. Loop over the table and hide everything with the class &#8220;tooltip&#8221;
+  1. Loop over the table and hide everything with the class "tooltip"
   2. Loop over all table rows and add a mouseover function to each of them that makes them show all hidden cells in that particular row
 
-To fetch all elements that has a certain className we will use Jonathan Snook&#8217;s fabulous getElementsByClassName. It takes two arguments, the element whose children it should loop through and the className it should look for. The function looks like this:
+To fetch all elements that has a certain className we will use Jonathan Snook's fabulous getElementsByClassName. It takes two arguments, the element whose children it should loop through and the className it should look for. The function looks like this:
 
 ```js
 function getElementsByClassName(node, classname) {

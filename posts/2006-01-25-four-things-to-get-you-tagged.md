@@ -21,9 +21,9 @@ btcnew_comment_summary:
 categories:
   - Other
 ---
-There&#8217;s a few questions circling the blogsphere. I better pass them on just to avoid the angry CSS gods.
+There's a few questions circling the blogsphere. I better pass them on just to avoid the angry CSS gods.
 
-## Four jobs I&#8217;ve had in my life
+## Four jobs I've had in my life
 
   * Folder of mighty envelopes
   * Cutter of complex vegetables
@@ -37,15 +37,15 @@ There&#8217;s a few questions circling the blogsphere. I better pass them on jus
   * Memento
   * Mind the Gap
 
-Oh, that&#8217;s only the ones on M&#8230; :)
+Oh, that's only the ones on M… :)
 
 ## Four places I have lived
 
-Four places? Let&#8217;s make all four of them Stockholm, Sweden.
+Four places? Let's make all four of them Stockholm, Sweden.
 
 ## Four TV shows I love to watch
 
-No, no, NO! I can smile and nod when people talk about Desperate Housewives or Lost, but truth is I don&#8217;t have a clue. I&#8217;d rather read some feed than look at non-interactive TV ;)
+No, no, NO! I can smile and nod when people talk about Desperate Housewives or Lost, but truth is I don't have a clue. I'd rather read some feed than look at non-interactive TV ;)
 
 ## Four places I have been on vacation
 
@@ -57,21 +57,21 @@ No, no, NO! I can smile and nod when people talk about Desperate Housewives or L
 ## Four of my favourite dishes
 
   * Pancakes!
-    I can&#8217;t really think of four dishes that I like particularly much. I&#8217;m a student so noodles and spaghetti are the frequent ones.
+    I can't really think of four dishes that I like particularly much. I'm a student so noodles and spaghetti are the frequent ones.
 
 ## Four websites I visit daily
 
-  * Stylegala &#8211; Webdev community
-  * [Dooce](http://www.dooce.com) &#8211; Great humourus writer (about life)
-  * [Waiterrant](http://www.waiterrant.net) &#8211; Also a great writer (about being a waiter)
-  * <a href="http://www.d.kth.se" lang="sv">Datasektionen</a> &#8211; The program on the university where I study
+  * Stylegala - Webdev community
+  * [Dooce](http://www.dooce.com) - Great humourus writer (about life)
+  * [Waiterrant](http://www.waiterrant.net) - Also a great writer (about being a waiter)
+  * <a href="http://www.d.kth.se" lang="sv">Datasektionen</a> - The program on the university where I study
 
 ## Four places I would rather be right now
 
   * Out travelling with someone I like
-  * Ireland &#8211; Seeing if the Pubs are as nice as they say
-  * Iceland &#8211; Trekking, climbing, all kinds of adventure sports
-  * Prague &#8211; Dancing in one of the great techno clubs I&#8217;ve heard of
+  * Ireland - Seeing if the Pubs are as nice as they say
+  * Iceland - Trekking, climbing, all kinds of adventure sports
+  * Prague - Dancing in one of the great techno clubs I've heard of
 
 ## Four bloggers I am tagging (all from the #CSS help channel)
 

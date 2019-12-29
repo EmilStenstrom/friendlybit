@@ -23,9 +23,9 @@ categories:
 ---
 With a long sigh he throws himself into the big leather sofa he invested in last summer. After a long day of angry customers bitching at him he really needs some rest. That idea to get a job at the local grocery store was not his best ever.
 
-On the nearby foot rest a cup of warm chocolate spreads a little cloud of warm smoke. It&#8217;s all nicely quiet, and he has had too few hours of sleep lately. Another big sigh and he feels his eyes slowly closing. The world turns blurry&#8230;
+On the nearby foot rest a cup of warm chocolate spreads a little cloud of warm smoke. It's all nicely quiet, and he has had too few hours of sleep lately. Another big sigh and he feels his eyes slowly closing. The world turns blurry…
 
-Out of nowhere a screeching sound breaks the silence! He&#8217;s on his feet instantaneously and sees his warm chocolate make patterns in the air from his accidental kick. Damn it! The sound grows into something unbearably high-pitched and his hands unconsciously cover his ears. Where&#8217;s that sound coming from? He pushes his body to move towards the sound, towards the big window against the street.
+Out of nowhere a screeching sound breaks the silence! He's on his feet instantaneously and sees his warm chocolate make patterns in the air from his accidental kick. Damn it! The sound grows into something unbearably high-pitched and his hands unconsciously cover his ears. Where's that sound coming from? He pushes his body to move towards the sound, towards the big window against the street.
 
 Stunned he looks at the procession before him: thousands of metallic tables march the street, drawing their wicked legs against the ground and crashing into everything around them. The sound is unbearable! With hands pushing harder against his ears he ponders: Do they marsh on their own? Highly unlikely, he quickly concludes: tables normally stay in the shadows and stick together to protect each other. The answer to his question is sitting at the top of one of the bigger ones: an old school webmaster swings his whip above him, pushing them forward.
 

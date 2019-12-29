@@ -24,7 +24,7 @@ categories:
   - CSS
 ---
 <p class="first">
-  Q1. What does &#8220;semantics&#8221; mean in the context of web development?
+  Q1. What does "semantics" mean in the context of web development?
 </p>
 
   1. To use CSS for layout instead of tables
@@ -56,7 +56,7 @@ categories:
   1. `<em>`
 
 <p class="first">
-  Q5. Which of the following is NOT possible to do with W3C&#8217;s CSS2?
+  Q5. Which of the following is NOT possible to do with W3C's CSS2?
 </p>
 
   1. Change the color of the scrollbar
@@ -72,7 +72,7 @@ categories:
   1. HTML 4.01 Strict
 
 <p class="first">
-  Q7. W3C&#8217;s validator (with XHTML 1.0 Transitional doctype) would let through one of the following lines. Which one?
+  Q7. W3C's validator (with XHTML 1.0 Transitional doctype) would let through one of the following lines. Which one?
 </p>
 
   1. `<adress>Sesame street 34Germany</adress>`
@@ -103,4 +103,4 @@ categories:
   1. `* html #container { width: 30ex; }`
   1. `tr:nth-child(2n) td { background: Silver; }`
 
-Are you uncertain about any of the questions? Just post a comment and I&#8217;ll answer. (You can also use the comments just to show off or points out errors of course :).
+Are you uncertain about any of the questions? Just post a comment and I'll answer. (You can also use the comments just to show off or points out errors of course :).

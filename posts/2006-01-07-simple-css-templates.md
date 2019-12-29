@@ -22,17 +22,17 @@ categories:
   - CSS
   - Tutorial
 ---
-The most frequent question in the #CSS channel I&#8217;m in is about how you make a 2 column layout. Most beginners seems to have problems understanding how floats work since they are quite different from tables. So I sat down and made some simple layout templates for you. These layouts will all be made with floats since that&#8217;s the easiest way to do things. I could have set out to use absolute positioning but that can get tricky when it comes to placing the footer. Let&#8217;s stay with floats.
+The most frequent question in the #CSS channel I'm in is about how you make a 2 column layout. Most beginners seems to have problems understanding how floats work since they are quite different from tables. So I sat down and made some simple layout templates for you. These layouts will all be made with floats since that's the easiest way to do things. I could have set out to use absolute positioning but that can get tricky when it comes to placing the footer. Let's stay with floats.
 
-I&#8217;ll recap how a floats work. A float is applied by simply setting `float: left` or `float: right` on an element in your CSS-file. The element then gets pushed as far to the left or right as possible and the next element will follow to the right (if floated left) or left (if floated right). The closest HTML comparision is the effect you get when setting align=&#8221;left&#8221; on an image. In the beginning it helped me to think of floats like that.
+I'll recap how a floats work. A float is applied by simply setting `float: left` or `float: right` on an element in your CSS-file. The element then gets pushed as far to the left or right as possible and the next element will follow to the right (if floated left) or left (if floated right). The closest HTML comparision is the effect you get when setting align="left" on an image. In the beginning it helped me to think of floats like that.
 
-There are basically two ways to make 2 column layouts with floats. Either you float all the columns (float-float) or you float all but the last one (float-margin). The former method makes it easier to work with clearing inside of the second columns though, so if you&#8217;re going for a complex layout float-float might be better. The latter has the advantage that you don&#8217;t have to set a width on the last column. It will fill whatever space is availiable. My favourite is still float-margin though, the automatically expanding second column makes sure the the full width is used no matter what.
+There are basically two ways to make 2 column layouts with floats. Either you float all the columns (float-float) or you float all but the last one (float-margin). The former method makes it easier to work with clearing inside of the second columns though, so if you're going for a complex layout float-float might be better. The latter has the advantage that you don't have to set a width on the last column. It will fill whatever space is availiable. My favourite is still float-margin though, the automatically expanding second column makes sure the the full width is used no matter what.
 
-For the examples below I will use the HTML I outlined in my previous article about [CSS basics](/css/beginners-guide-to-css-and-standards/4/).
+For the examples below I will use the HTML I outlined in my previous article about [CSS basics](/css/beginners-guide-to-css-and-standards/).
 
 ## The float-margin method
 
-Let&#8217;s start by looking at some examples:
+Let's start by looking at some examples:
 
   * [2 columns using float-margin](/files/templates/?style=2columns_float_margin)
   * [3 columns using float-margin](/files/templates/?style=3columns_float_float_margin&cols=3)
@@ -49,8 +49,8 @@ Another method of doing the same is floating each of the columns left. This mean
   * [3 columns using float-float](/files/templates/?style=3columns_float_float_float&cols=3)
   * [4 columns using float-float](/files/templates/?style=4columns_float_float_float_float&cols=4)
 
-There isn&#8217;t much explaination needed here, only thing different from the float-margin method is that you need to set a width on all your columns. You should easily be able to expand this method to kazillion columns :)
+There isn't much explaination needed here, only thing different from the float-margin method is that you need to set a width on all your columns. You should easily be able to expand this method to kazillion columns :)
 
-That&#8217;s all, be sure to poke around with the different layouts to get a feel of how they work for you. In my next post I will go through some less static layouts, namely elastic and fluid layout. Comments are availiable for questions.
+That's all, be sure to poke around with the different layouts to get a feel of how they work for you. In my next post I will go through some less static layouts, namely elastic and fluid layout. Comments are availiable for questions.
 
 > **Update**: Added an article on [Common questions beginners ask](/css/what-beginners-ask-for-and-what-i-tell-them/)

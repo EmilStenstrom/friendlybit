@@ -23,7 +23,7 @@ dsq_thread_id:
 categories:
   - JS
 ---
-Push buttons, radio buttons, check boxes, select boxes, and text inputs. That&#8217;s the controls HTML allows us to use to interact with our users.
+Push buttons, radio buttons, check boxes, select boxes, and text inputs. That's the controls HTML allows us to use to interact with our users.
 
 A small dedicated group of people at the office (I work at [Valtech](http://www.valtech.se)) sat down and listed all controls we could think of. The list below is basically that list, completed with examples where possible. Let me stress that the below controls are meant as **inspiration**. They are not all free, or even available for download. If you decide to use one of the ideas, google for them first and pick the best one. While selecting one, make sure it supports some kind of fallback for users without javascript enabled.
 
@@ -41,7 +41,7 @@ What format should this date be? What weekday is the 15:th of august? A good dat
 
 ## Smart text boxes
 
-It&#8217;s easy to make some text boxes only allow certain kinds of characters. Why allow letters in the age field?
+It's easy to make some text boxes only allow certain kinds of characters. Why allow letters in the age field?
 
 [![Text box that only allows numbers](/files/ajaxexamples/smarttextbox.png)](http://www.cambiaresearch.com/c4/029c978b-aac5-472e-97a8-95b256f5febd/How-Can-I-Use-Javascript-to-Allow-Only-Numbers-to-Be-Entered-in-a-TextBox.aspx)
 
@@ -49,13 +49,13 @@ It&#8217;s easy to make some text boxes only allow certain kinds of characters. 
 
 Allow users to both input text and pick common options.
 
-[![Google Suggest](/files/ajaxexamples/gsuggest.png)](http://www.google.com/webhp?complete=1&hl=en)
+[![Google Suggest](/files/ajaxexamples/gsuggest.png)](http://www.google.com/webhp?complete=1&amp;hl=en)
 
 ![Ingredience picker with AJAX](/files/ajaxexamples/extratasty.png)
 
 ## Drag and Drop
 
-Users are used to dragging and dropping things from their operating systems. Letting them do the same on the web makes for a great affect! Don&#8217;t forget about a fallback though, not everyone uses a mouse (A buy-button is enough).
+Users are used to dragging and dropping things from their operating systems. Letting them do the same on the web makes for a great affect! Don't forget about a fallback though, not everyone uses a mouse (A buy-button is enough).
 
 ![Example shop with drag and drop](/files/ajaxexamples/dragdrop.png)
 
@@ -69,27 +69,27 @@ Makes it possible to quickly show less important information on demand. Just mak
 
 ## Advanced tooltips
 
-When the title attribute is not enough. Use images, fine-tune the delay, make them sticky if you click them, it&#8217;s all up to you!
+When the title attribute is not enough. Use images, fine-tune the delay, make them sticky if you click them, it's all up to you!
 
 ![Tool tips with a little spice](/files/ajaxexamples/tooltip.png)
 
 ## Autosaving form fields
 
-If you write an email with [Gmail](http://www.gmail.com) and the browser crashes, you&#8217;ll appreciate that Gmail automatically saves your text regularly. It&#8217;s done with a simple piece of javascript that periodically sends all your text off to the server, and saves it away. Simple and **very** useful.
+If you write an email with [Gmail](http://www.gmail.com) and the browser crashes, you'll appreciate that Gmail automatically saves your text regularly. It's done with a simple piece of javascript that periodically sends all your text off to the server, and saves it away. Simple and **very** useful.
 
 ## Auto validation
 
-While filling in some forms you&#8217;ll notice a little green check on the side. I can&#8217;t begin to praise how much faster this makes filling out forms. Directly after you&#8217;ve written enough letters in the password field you&#8217;ll find that it&#8217;s ok. No more trial and error against a slow server (unless you have javascript off, of course).
+While filling in some forms you'll notice a little green check on the side. I can't begin to praise how much faster this makes filling out forms. Directly after you've written enough letters in the password field you'll find that it's ok. No more trial and error against a slow server (unless you have javascript off, of course).
 
 [![Early notification that the password is correct](/files/ajaxexamples/autovalid.png)](http://www.zapatec.com/website/ajax/zpform/doc/demo.html#ajax.html)
 
 ## Controls affecting each other
 
-In complex forms it&#8217;s not unusual to want the user to fill in either one set of fields or another. The showing and hiding of what fields are available is a another perfect case of where javascript really helps.
+In complex forms it's not unusual to want the user to fill in either one set of fields or another. The showing and hiding of what fields are available is a another perfect case of where javascript really helps.
 
 ## Image handling
 
-It&#8217;s time to get easy handling of images in browsers. Javascript can help there too, by combining drag and drop with resizing and so on. Photoshop, here we come!
+It's time to get easy handling of images in browsers. Javascript can help there too, by combining drag and drop with resizing and so on. Photoshop, here we come!
 
 [![Images you can move and resize in the browser](/files/ajaxexamples/images.png)](http://www.walterzorn.com/dragdrop/dragdrop_e.htm)
 
@@ -111,4 +111,4 @@ Sometimes you want drag and drop in a more controllable manner. Why not use it t
 
 ![Sortable list items](/files/ajaxexamples/sortable.png)
 
-That&#8217;s all! Hope I&#8217;ve given you some ideas of widgets/controls you can use to enhance user experience. Good luck!
+That's all! Hope I've given you some ideas of widgets/controls you can use to enhance user experience. Good luck!

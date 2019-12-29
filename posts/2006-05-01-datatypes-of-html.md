@@ -22,7 +22,7 @@ categories:
   - HTML
 ---
 <p class="first">
-  HTML is often bashed by people for being a bad language. People, often used to XML, talk about the lack of good elements for marking up things like authors and dates. While I agree that HTML would need a few more tags that help with marking the meaning of things I do think HTML is good at structure. This article is a attempt to show HTML&#8217;s power by mapping how different datatypes in the common programming languages map to elements in HTML.
+  HTML is often bashed by people for being a bad language. People, often used to XML, talk about the lack of good elements for marking up things like authors and dates. While I agree that HTML would need a few more tags that help with marking the meaning of things I do think HTML is good at structure. This article is a attempt to show HTML's power by mapping how different datatypes in the common programming languages map to elements in HTML.
 </p>
 
   * [Arrays, Lists, Vectors](#lists)
@@ -32,7 +32,7 @@ categories:
 
 ## Arrays, Lists, Vectors {#lists}
 
-All programming languages have some way of storing a list of elements. While they are called different names in different languages and support different ways of adding elements they are very similar. HTML supports two kinds of single element lists, the _ordered and the unordered list_. When selecting which one of them you should use you just have to ask yourself: &#8220;Does this list make sense in another order?”. If it does it&#8217;s an unordered list, if not it&#8217;s an ordered one.
+All programming languages have some way of storing a list of elements. While they are called different names in different languages and support different ways of adding elements they are very similar. HTML supports two kinds of single element lists, the _ordered and the unordered list_. When selecting which one of them you should use you just have to ask yourself: "Does this list make sense in another order?”. If it does it's an unordered list, if not it's an ordered one.
 
 ```html
 Unordered list:
@@ -115,7 +115,7 @@ Worth a note is that lists only can contain list items, not other lists. This me
 
 Moving on we find the more advanced types of data. Quite often in programming we want to map a string to another string. This can be the case if we are building a dictionary or even if we want to store the price of different products. To me both of the above examples are cases where I would use a HTML _definition list_. Definition lists also has a way to mark that certain items might map to several other. By setting two dts after each other you make them both apply to the following dd.
 
-I&#8217;ve made an example below of how to markup a list of properties.
+I've made an example below of how to markup a list of properties.
 
 ```html
 <dl>
@@ -136,8 +136,8 @@ I&#8217;ve made an example below of how to markup a list of properties.
 </dl>
 ```
 
-Definition lists where originally made to just store definitions (as the name suggests) but it&#8217;s my opinion that they can be used for more than that. HTML lacks a lot of semantics and this is a way to extend it a bit. Feel free to leave a comment if you disagree.
+Definition lists where originally made to just store definitions (as the name suggests) but it's my opinion that they can be used for more than that. HTML lacks a lot of semantics and this is a way to extend it a bit. Feel free to leave a comment if you disagree.
 
 &nbsp;
 
-It&#8217;s my opinion that HTML is good at marking up structure. Sure there are some types of data that can&#8217;t be represented with HTML but the most common types are easy to do. Do you have more types to add to the list? Leave a comment!
+It's my opinion that HTML is good at marking up structure. Sure there are some types of data that can't be represented with HTML but the most common types are easy to do. Do you have more types to add to the list? Leave a comment!

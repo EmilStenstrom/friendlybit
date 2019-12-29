@@ -18,7 +18,7 @@ categories:
 ---
 _For all the Swedish readers here:_
 
-The 21:th of April there&#8217;s a big convention coming up that I hope you don&#8217;t miss. **hej! 2007** takes on the wide and fuzzy topic of Web 2.0 and presents speakers from a wide array of Swedish companies. I&#8217;ll certainly be there and I hope you will too. Have a look at:
+The 21:th of April there's a big convention coming up that I hope you don't miss. **hej! 2007** takes on the wide and fuzzy topic of Web 2.0 and presents speakers from a wide array of Swedish companies. I'll certainly be there and I hope you will too. Have a look at:
 
 <http://www.nustart.sg/hej2007/>
 

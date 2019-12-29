@@ -24,10 +24,10 @@ btcnew_comment_summary:
 categories:
   - Other
 ---
-I thought it could be fun for some of you to see my christmas riddles for this year. I&#8217;m afraid they are in swedish so those of you that don&#8217;t understand that have to read some other post :) I decided to use Limerick-form this year, mostly because our major newpaper had a funny riddle in it that i liked. With no further ado:
+I thought it could be fun for some of you to see my christmas riddles for this year. I'm afraid they are in swedish so those of you that don't understand that have to read some other post :) I decided to use Limerick-form this year, mostly because our major newpaper had a funny riddle in it that i liked. With no further ado:
 
 > <p lang="sv">
->   Man tänker på bad och långa stränder<br /> Man använder denna i dessa länder<br /> båd långa och smala<br /> och mat för koala<br /> det knaprar i användarn&#8217;s tänder
+>   Man tänker på bad och långa stränder<br /> Man använder denna i dessa länder<br /> båd långa och smala<br /> och mat för koala<br /> det knaprar i användarn's tänder
 > </p>
 
 > <p lang="sv">
@@ -42,4 +42,4 @@ I thought it could be fun for some of you to see my christmas riddles for this y
 >   Du lutar dig fram och lägger mot öra<br /> en bomb, men kan du något tickande höra?<br /> av händer rätt små<br /> båd lila och blå<br /> Vad är det? Kan du det avgöra?
 > </p>
 
-Sorry again for the bit of swedish there. So, can you guess what&#8217;s inside or if you wrote your own riddle, would you mind posting it in the comments to the left? Merry Christmas to you all!
+Sorry again for the bit of swedish there. So, can you guess what's inside or if you wrote your own riddle, would you mind posting it in the comments to the left? Merry Christmas to you all!

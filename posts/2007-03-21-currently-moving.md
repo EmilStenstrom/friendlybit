@@ -21,4 +21,4 @@ btcnew_comment_summary:
 categories:
   - Other
 ---
-Just a quick note to let you know that I&#8217;m currently in the process of moving. That means no internet for a couple of days. Stay tuned to the RSS, I&#8217;m not quitting :)
+Just a quick note to let you know that I'm currently in the process of moving. That means no internet for a couple of days. Stay tuned to the RSS, I'm not quitting :)

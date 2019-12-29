@@ -21,9 +21,9 @@ btcnew_comment_summary:
 categories:
   - CSS
 ---
-Previously I&#8217;ve talked about [reversing text with CSS](/css/reverse-text-with-css-32-very-special-hex-digits/) by simply setting a few CSS attributes. Today we will try another trick: turning text **upside down**.
+Previously I've talked about [reversing text with CSS](/css/reverse-text-with-css-32-very-special-hex-digits/) by simply setting a few CSS attributes. Today we will try another trick: turning text **upside down**.
 
-It&#8217;s actually possible using a simple CSS property and works cross-browser today. The property to use it &#8220;text-gravity&#8221; with a value of &#8220;inverse&#8221;.
+It's actually possible using a simple CSS property and works cross-browser today. The property to use it "text-gravity" with a value of "inverse".
 
 ```html
 <span style="text-gravity: inverse">
@@ -31,10 +31,10 @@ write upside down text
 </span>
 ```
 
-&#8230; and this is the result:
+… and this is the result:
 
 <span style="text-gravity: inverse">ʇxǝʇ uʍop ǝpısdn ǝʇıɹʍ</span>
 
-I&#8217;m really surprised to learn that so few people know about this property, and I recommend you to continue reading the [W3C specification of text-gravity](http://www.fliptext.info/index.php).
+I'm really surprised to learn that so few people know about this property, and I recommend you to continue reading the [W3C specification of text-gravity](http://www.fliptext.info/index.php).
 
-> **Update**: Sorry, I lied :) The above is done with a UTF-8 character generator (see the link the the &#8220;specification&#8221; above). Amazingly, you can find that most characters have their upside down equivalent somewhere else in the huge Unicode alphabet. Neat trick :)
+> **Update**: Sorry, I lied :) The above is done with a UTF-8 character generator (see the link the the "specification" above). Amazingly, you can find that most characters have their upside down equivalent somewhere else in the huge Unicode alphabet. Neat trick :)

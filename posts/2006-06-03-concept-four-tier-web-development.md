@@ -26,7 +26,7 @@ categories:
   - JS
   - Tutorial
 ---
-When thinking about web development on the client side, I tend to think of four different layers. Any (well built) framework will cater for all of these layers and all good developers will be aware of them. The layers I&#8217;m thinking about are: Data, Structure, Design, and Behavior. This article discusses all four of those and explains how they relate.
+When thinking about web development on the client side, I tend to think of four different layers. Any (well built) framework will cater for all of these layers and all good developers will be aware of them. The layers I'm thinking about are: Data, Structure, Design, and Behavior. This article discusses all four of those and explains how they relate.
 
 ## Data layer
 
@@ -34,13 +34,13 @@ The data layer is the most important one and strangely the one most people get c
 
 This layer is also where all websites should start. What content do you have? If the content is bad no pretty design or fancy Web 2.0 technique is going to cater for that. In fact, content together with bad uses of the other layers, [might still work](http://www.andyrutledge.com/bad-design.php)!
 
-One last point to make about data is that you should make sure to use the best possible media for representing your content. If it can be text, use text! Don&#8217;t use images for text, narrate your podcasts (or at least provide a text-summary), put your videos online with descriptions to them. Having that text there helps you convey your point, search engines will find you, your users will be able to skim read while it loads and disabled users will get access to at least some of your content.
+One last point to make about data is that you should make sure to use the best possible media for representing your content. If it can be text, use text! Don't use images for text, narrate your podcasts (or at least provide a text-summary), put your videos online with descriptions to them. Having that text there helps you convey your point, search engines will find you, your users will be able to skim read while it loads and disabled users will get access to at least some of your content.
 
 ## Structural layer
 
-The structural layer is where the much misunderstood HTML comes to play. HTML&#8217;s job is to take the data it has received from the data layer and [add some structure to it](/html/datatypes-of-html/ "Some examples of data structures you have available in HTML"). Mark up what parts are headers, make sure lists get the HTML that best describes them, split the page up in the important parts and so on.
+The structural layer is where the much misunderstood HTML comes to play. HTML's job is to take the data it has received from the data layer and [add some structure to it](/html/datatypes-of-html/ "Some examples of data structures you have available in HTML"). Mark up what parts are headers, make sure lists get the HTML that best describes them, split the page up in the important parts and so on.
 
-HTML also adds some semantics to the data but since it&#8217;s quite a limited dictionary we have to work with I believe this is secondary. If you happened to have the kind of data that HTML happens to catch with its elements be sure to use them, if not make sure you at least capture the structure of it.
+HTML also adds some semantics to the data but since it's quite a limited dictionary we have to work with I believe this is secondary. If you happened to have the kind of data that HTML happens to catch with its elements be sure to use them, if not make sure you at least capture the structure of it.
 
 You know you have done this level right if your site works with nothing but data and structure.
 
@@ -52,9 +52,9 @@ Good designers often point out that only working with the looks of a site will n
 
 ## Behavioral layer
 
-Behavior is the last layer I&#8217;m going to talk about. It&#8217;s the one that&#8217;s least important; data, structure and design are all more effective in conveying your message. None the less, added behavioral functionality _can_ be powerful if executed properly on top of the other layers.
+Behavior is the last layer I'm going to talk about. It's the one that's least important; data, structure and design are all more effective in conveying your message. None the less, added behavioral functionality _can_ be powerful if executed properly on top of the other layers.
 
-Javascript is the most used language for adding new behavior to websites. With the whole [Web 2.0](http://en.wikipedia.org/wiki/Web_2.0) and [AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29) wave we are experiencing many new sites that adds a behavioral layer without even thinking about it. We should be careful; becoming dependent on the new behavior (the site not working without it) means you will lose many potential visitors, the most important single one being search engines. Behavior should always be added separately and only enhance the experience for those that has it enabled. This is what&#8217;s called unobtrusive javascript.
+Javascript is the most used language for adding new behavior to websites. With the whole [Web 2.0](http://en.wikipedia.org/wiki/Web_2.0) and [AJAX](http://en.wikipedia.org/wiki/Ajax_%28programming%29) wave we are experiencing many new sites that adds a behavioral layer without even thinking about it. We should be careful; becoming dependent on the new behavior (the site not working without it) means you will lose many potential visitors, the most important single one being search engines. Behavior should always be added separately and only enhance the experience for those that has it enabled. This is what's called unobtrusive javascript.
 
 ## Putting it all together: four tier web development
 

@@ -18,4 +18,4 @@ btcnew_comment_summary:
 categories:
   - CSS
 ---
-Just a short note that I&#8217;ll be attending [@media Ajax London](http://www.vivabit.com/atmediaajax/), 19th-20th November. If you see me, come by and say hello!
+Just a short note that I'll be attending [@media Ajax London](http://www.vivabit.com/atmediaajax/), 19th-20th November. If you see me, come by and say hello!

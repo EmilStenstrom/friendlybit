@@ -25,16 +25,16 @@ categories:
 </p>
 
 <p class="first">
-  (<strong>Update </strong>2009-02-16<strong>: </strong>This is an update to an old article, I can&#8217;t have old stuff polluting the site)
+  (<strong>Update </strong>2009-02-16<strong>: </strong>This is an update to an old article, I can't have old stuff polluting the site)
 </p>
 
 ## Browsers you need
 
-For modern web development today it&#8217;s important to test in more than one browser. The current best practice is to first test in one that has good support for standards and then move on to the older ones and fix your site for them.
+For modern web development today it's important to test in more than one browser. The current best practice is to first test in one that has good support for standards and then move on to the older ones and fix your site for them.
 
   * **[Mozilla Firefox](http://www.mozilla.com/firefox/)** is a great browser and a serious challenger to Internet Explorer. The best web development feature of Firefox is all its extensions that are available. I have made a special section about good extensions to use below.
   * **[IE Tester](http://www.my-debugbar.com/wiki/IETester/HomePage)** helps to test your site in Internet Explorer. It is the browser that is used by most people over the world (because it ships with Windows, not because it’s the best one). The good thing with IE Tester is that it lets you run multiple versions of IE at the same time. No need for virtual machines. Consider hard if you [need support for IE6](/browsers/motivation-for-building-for-ie6/).
-  * **[Safari](http://www.apple.com/support/downloads/safari.html)** / **[Chrome](http://www.google.com/chrome)** are two good browsers based on the webkit rendering engine. Webkit&#8217;s greatest merit is that it was one of the first browsers to complete the [Acid2 test](http://webstandards.org/action/acid2/guide/). Safari is also very popular on the Mac, so you probably you make sure it works.
+  * **[Safari](http://www.apple.com/support/downloads/safari.html)** / **[Chrome](http://www.google.com/chrome)** are two good browsers based on the webkit rendering engine. Webkit's greatest merit is that it was one of the first browsers to complete the [Acid2 test](http://webstandards.org/action/acid2/guide/). Safari is also very popular on the Mac, so you probably you make sure it works.
   * **[Opera](http://www.opera.com/download/)** is another good browser with a little fewer users. The Opera team has put great effort to make any standards compliant site work in Opera so there’s no reason why your site shouldn’t work. There’s a few quirks though and it can therefore be worthwhile to test in it.
 
 ## Firefox extensions
@@ -43,15 +43,15 @@ Firefox extension system has made it possible for thousands of developers to mak
 
   * **[Firebug](http://getfirebug.com/)** is the best thing that has happened to front-end development. It lets you click elements in the browser, and shows what HTML and CSS is needed to render the element you clicked. Excellent! Makes everything so much easier. Allows manipulation that is updated in realtime
   * **[Web development toolbar](http://chrispederick.com/work/webdeveloper/)** is an extension for Firefox that enables all kinds of useful features. It can give you borders around all your elements, it allows you to edit CSS in a sidebar and see the changes instantly, it allows you to remove images just to name a few. I can’t work at all without this one.
-  * **[HTML Validatior](http://users.skynet.be/mgueury/mozilla/)** is the third must-have extension. It validates pages you visit on the fly, and shows a small red cross in the statusbar if you don&#8217;t validate. Great way to quickly discover errors in your HTML.
+  * **[HTML Validatior](http://users.skynet.be/mgueury/mozilla/)** is the third must-have extension. It validates pages you visit on the fly, and shows a small red cross in the statusbar if you don't validate. Great way to quickly discover errors in your HTML.
   * **[ColorZilla](http://www.colorzilla.com/firefox/)** is extremely useful for finding out HTML color codes from images, something you will do a lot when coding graphic intensive pages.
 
 ## Other programs you might need
 
-You&#8217;re not only going to be surfing to your site, you&#8217;re also going to need a program to write your code in, a graphics editor, and a FTP program to send your files off to the server with.
+You're not only going to be surfing to your site, you're also going to need a program to write your code in, a graphics editor, and a FTP program to send your files off to the server with.
 
-  * I&#8217;ve always had problems finding a text editor that I liked. They either don&#8217;t allow me to use the windows shortcuts I&#8217;ve learned to love, don&#8217;t allow proper color coding of the languages I care about, don&#8217;t handle setting up project in an easy enough manner, or handle character encoding badly. So I&#8217;ve just resorted to using whatever editor that fits best with the environment I&#8217;m currently working in. **[Netbeans](http://www.netbeans.org/downloads/)** for Java, **Visual Studio** (non-free) for .NET, and **[Komodo Edit](http://www.activestate.com/komodo_edit/)** for Python and PHP.
-  * **[Fireworks](http://www.macromedia.com/software/fireworks/)** (non-free) is a graphics editor that lets me work with both vector and bitmap files. It allows filters that can be easily removed and tweaked without breaking the original. It also has a nice slice feature that let&#8217;s me export parts of design mock-ups quickly. There&#8217;s no free program worth its name.
-  * **[FileZilla](http://filezilla-project.org/)** is a good open-source FTP program I keep coming back to. I fire it up and it just works every time. It&#8217;s fairly feature-rich but you don&#8217;t need to know all of it to get it going. If you do want to play with advanced stuff it&#8217;s there. Easy to use, fast, many features.
+  * I've always had problems finding a text editor that I liked. They either don't allow me to use the windows shortcuts I've learned to love, don't allow proper color coding of the languages I care about, don't handle setting up project in an easy enough manner, or handle character encoding badly. So I've just resorted to using whatever editor that fits best with the environment I'm currently working in. **[Netbeans](http://www.netbeans.org/downloads/)** for Java, **Visual Studio** (non-free) for .NET, and **[Komodo Edit](http://www.activestate.com/komodo_edit/)** for Python and PHP.
+  * **[Fireworks](http://www.macromedia.com/software/fireworks/)** (non-free) is a graphics editor that lets me work with both vector and bitmap files. It allows filters that can be easily removed and tweaked without breaking the original. It also has a nice slice feature that let's me export parts of design mock-ups quickly. There's no free program worth its name.
+  * **[FileZilla](http://filezilla-project.org/)** is a good open-source FTP program I keep coming back to. I fire it up and it just works every time. It's fairly feature-rich but you don't need to know all of it to get it going. If you do want to play with advanced stuff it's there. Easy to use, fast, many features.
 
-That&#8217;s it. All that is left is for you to either agree or disagree.
+That's it. All that is left is for you to either agree or disagree.

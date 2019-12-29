@@ -16,7 +16,7 @@ We all know how to make an AJAX request, and fetch some data. But as soon as you
 
 The simplest way, that almost workds is partial XMLHttpRequest responses. I first read about them as [progressive xmlhttprequests on Kyle Schulz blog](http://www.kylescholz.com/blog/2010/01/progressive_xmlhttprequest_1.html), but really think that method should get more recognition.
 
-Note: I&#8217;ve only tested this with Webkit, against Twitter&#8217;s Streaming API, with a XMLHttpRequest that allows cross-domain requests. I think it works with Firefox too, but it will definitely not work in IE. Sorry.
+Note: I've only tested this with Webkit, against Twitter's Streaming API, with a XMLHttpRequest that allows cross-domain requests. I think it works with Firefox too, but it will definitely not work in IE. Sorry.
 
 ```js
 var xhr = new XMLHttpRequest();
@@ -47,10 +47,10 @@ The biggest problem with this method is that the responseText property keeps fil
 **I would love to see a better way to do this**, from native javascript, without all the numerous hacks that are out there. If you know of a way that fills these requirements, please let me know:
 
   1. Easy to implement on the **client side**. Ideally I would like to use XMLHttpRequest, and just get a callback each time the client sends data, with the NEW data specified as a callback parameter.
-  2. Easy to implement on the **server-side**. I can set some headers if you make me, but ideally I would like to use this against existing Streaming APIs (like Twitter&#8217;s), without adding custom stuff.
+  2. Easy to implement on the **server-side**. I can set some headers if you make me, but ideally I would like to use this against existing Streaming APIs (like Twitter's), without adding custom stuff.
   3. As cross-browser, cross-platform as possible.
 
-Is there a way to get this working? It&#8217;s so annoying to see something that&#8217;s a curl one-liner, be 100s of lines of code with web technologies&#8230;
+Is there a way to get this working? It's so annoying to see something that's a curl one-liner, be 100s of lines of code with web technologies…
 
 ```bash
 curl https://stream.twitter.com/1/statuses/filter.json?track=<your-keyword> -u <your-twitter-nick>

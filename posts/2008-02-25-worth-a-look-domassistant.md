@@ -19,14 +19,14 @@ btcnew_comment_summary:
 categories:
   - JS
 ---
-A couple of months ago [Robert Nyman](http://www.robertnyman.com/) showed me a javascript library he had built, [DOMAssistant](http://domassistant.com/), and proceeded to use it successfully in one of our projects. I wasn&#8217;t amused. How could a tiny homebuilt little hack compete with my favorite, the almighty jQuery?
+A couple of months ago [Robert Nyman](http://www.robertnyman.com/) showed me a javascript library he had built, [DOMAssistant](http://domassistant.com/), and proceeded to use it successfully in one of our projects. I wasn't amused. How could a tiny homebuilt little hack compete with my favorite, the almighty jQuery?
 
 I whined, and said I really liked the CSS-selector syntax that jQuery has. So [he added support for CSS1, CSS2, and CSS3](http://www.robertnyman.com/2007/12/17/domassistant-25-released-css-selector-support-new-ajax-methods-and-more-goodies-added/). The bastard.
 
 After a while he started getting doubts about if he really could compete with the big names, being supported by lots of people. But instead of giving up he got himself [a team of his own](http://domassistant.com/about/). The famous [Roger Johansson](http://www.456bereastreet.com/about/) being one of them. There went that argument, damnit!
 
-I pointed out the jQuery was very small, only 15 kb! He pointed out that DOMAssistant is half that size, 7 kb. That&#8217;s smaller than most images. Aaaargghh!
+I pointed out the jQuery was very small, only 15 kb! He pointed out that DOMAssistant is half that size, 7 kb. That's smaller than most images. Aaaargghh!
 
-I said that jQuery is much faster than anything I&#8217;ve seen. He showed me the [slickspeed](http://www.domassistant.com/slickspeed/) test, showing that his framework was indeed faster than all the others. How could he do that? Well, he explained, by using the browser optimized XPath and querySelectorAll support in browsers.
+I said that jQuery is much faster than anything I've seen. He showed me the [slickspeed](http://www.domassistant.com/slickspeed/) test, showing that his framework was indeed faster than all the others. How could he do that? Well, he explained, by using the browser optimized XPath and querySelectorAll support in browsers.
 
-I had one card left to play, a somewhat ugly one. &#8220;Animations?&#8221; I almost wispered. &#8220;No&#8230;&#8221; came the reply back. But as he saw me straighten my back, getting ready to proclaim victory, he contiuned &#8220;&#8230; but it&#8217;s being worked on, and coming in the next release&#8221;. Damn you Robert, it seems I just have to give it a try&#8230;
+I had one card left to play, a somewhat ugly one. "Animations?" I almost wispered. "No…" came the reply back. But as he saw me straighten my back, getting ready to proclaim victory, he contiuned "… but it's being worked on, and coming in the next release". Damn you Robert, it seems I just have to give it a try…

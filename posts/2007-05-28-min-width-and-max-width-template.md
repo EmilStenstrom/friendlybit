@@ -21,11 +21,11 @@ dsq_thread_id:
 categories:
   - CSS
 ---
-Some problems seem to appear again and again, and one of them is **page width**. How wide should a site be? Should you adapt to 800px resolution? 1024px? Fully fluid with percentages? Perhaps elastic using em-units? There are lots to choose from. What I&#8217;ve found is that there&#8217;s one solution that almost always works. You most probably already know it, but I thought it might be helpful for some to have a template you just copy and use.
+Some problems seem to appear again and again, and one of them is **page width**. How wide should a site be? Should you adapt to 800px resolution? 1024px? Fully fluid with percentages? Perhaps elastic using em-units? There are lots to choose from. What I've found is that there's one solution that almost always works. You most probably already know it, but I thought it might be helpful for some to have a template you just copy and use.
 
 The idea is to use a fluid width but limit it by using `min-width` and `max-width`. As with almost all CSS tricks, we do a little bit of hacking for Internet Explorer 6 (IE6). Link to the working [min/max template](/files/min-max-template/) is available, and an explanation follows.
 
-I&#8217;m picking 760px as the minimum width. It fits within a maximized browser window on 800&#215;600 resolution, accounting for scrollbars. Next we need some kind of max-width, and for this I&#8217;m going to pick 960px. I could probably go a bit higher but 960 is nicely divisible with a lot of numbers, 3, 4, 5, 6, 8, 10, 12, 15, and 16, making for nice columns (see [Gridding the 960](http://cameronmoll.com/archives/2006/12/gridding_the_960/)). Lastly we need some way to tell the browser to follow the width of the browser window when resizing, and width: 100% does that.
+I'm picking 760px as the minimum width. It fits within a maximized browser window on 800×600 resolution, accounting for scrollbars. Next we need some kind of max-width, and for this I'm going to pick 960px. I could probably go a bit higher but 960 is nicely divisible with a lot of numbers, 3, 4, 5, 6, 8, 10, 12, 15, and 16, making for nice columns (see [Gridding the 960](http://cameronmoll.com/archives/2006/12/gridding_the_960/)). Lastly we need some way to tell the browser to follow the width of the browser window when resizing, and width: 100% does that.
 
 ```css
 #wrapper {
@@ -37,7 +37,7 @@ I&#8217;m picking 760px as the minimum width. It fits within a maximized browser
 
 This assumes that you have a div with id wrapper around all your content.
 
-The above works perfectly in both Firefox, IE7, Opera, and Safari. But (as usual) there&#8217;s one culprit: IE6. To solve this I&#8217;m going to use the fact that IE allows for javascript execution inside CSS files. Have a look at the code below:
+The above works perfectly in both Firefox, IE7, Opera, and Safari. But (as usual) there's one culprit: IE6. To solve this I'm going to use the fact that IE allows for javascript execution inside CSS files. Have a look at the code below:
 
 ```css
 #wrapper {

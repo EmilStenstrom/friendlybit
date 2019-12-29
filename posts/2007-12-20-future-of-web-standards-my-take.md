@@ -37,6 +37,6 @@ Stuart Landridge sums up the [ongoing debate about the future of CSS](http://www
 
 **Step 3**. Browser makers having implemented a feature differently from what the spec suggests need to change their implementation to match that of the standard. This step means that the standards body need to have the trust of the browser makers.
 
-For the features of a certain browser, this means that a feature will move from &#8220;experimental&#8221;, when it&#8217;s played with, and to &#8220;standardized&#8221;, when there is a spec and the feature conforms to it. Browsers need to specify this somehow.
+For the features of a certain browser, this means that a feature will move from "experimental", when it's played with, and to "standardized", when there is a spec and the feature conforms to it. Browsers need to specify this somehow.
 
-I believe this is a much saner process than what is going on right now. Let&#8217;s try it.
+I believe this is a much saner process than what is going on right now. Let's try it.

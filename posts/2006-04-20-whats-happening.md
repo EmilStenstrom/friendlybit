@@ -23,6 +23,6 @@ btcnew_comment_summary:
 categories:
   - Other
 ---
-Sorry for not posting for a while. There is a good reason though. In two days I&#8217;m arranging the biggest party ever with 9 of my friends. 280 people have accepted the invitation and as you might understand there are countless things to fix. We are celebrating that we all soon have completed our university studies in computer science (5 years) so we do have a reason to be happy ;)
+Sorry for not posting for a while. There is a good reason though. In two days I'm arranging the biggest party ever with 9 of my friends. 280 people have accepted the invitation and as you might understand there are countless things to fix. We are celebrating that we all soon have completed our university studies in computer science (5 years) so we do have a reason to be happy ;)
 
 I will take up writing articles in a couple of days, I have many good ideas I think you will find interesting. Thanks for subscribing!

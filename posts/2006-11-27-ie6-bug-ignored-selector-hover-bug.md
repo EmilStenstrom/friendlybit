@@ -50,12 +50,12 @@ a:hover span {
 }
 ```
 
-You look at the site in Firefox, Opera, Safari, and IE7 and everything works just fine. But what&#8217;s that? Why doesn&#8217;t the text move in IE6? You start removing CSS and HTML to pinpoint the problem and end up with a [very small testcase with the bug intact](/files/ie6hoverpadding/ "testcase of the ignored selector hover bug").
+You look at the site in Firefox, Opera, Safari, and IE7 and everything works just fine. But what's that? Why doesn't the text move in IE6? You start removing CSS and HTML to pinpoint the problem and end up with a [very small testcase with the bug intact](/files/ie6hoverpadding/ "testcase of the ignored selector hover bug").
 
 ## The solution
 
-Looking at the testcase I was just confused. I was pretty sure I&#8217;d seen IE6 do selectors like that before, but why didn&#8217;t it work now? [HasLayout](http://www.satzansatz.de/cssd/onhavinglayout.html) and the other usual IE6 fixes didn&#8217;t work.
+Looking at the testcase I was just confused. I was pretty sure I'd seen IE6 do selectors like that before, but why didn't it work now? [HasLayout](http://www.satzansatz.de/cssd/onhavinglayout.html) and the other usual IE6 fixes didn't work.
 
 I loaded up my IM client and started asking people if they knew anything. [Simon](http://simon.html5.org) noted that everything started working when you changed the selector to `a:hover, a:hover span { ... }`. Ok, so setting and then resetting that rule seemed to work. Some further experimenting revealed that just setting **any** padding to a:hover (setting it to zero worked well) also solved the problem.
 
-That was good enough, an extra `a:hover { padding-top: 0 }`. So here&#8217;s the [testcase with the bug solved](/files/ie6hoverpadding/fixed.html). The bug is apparently fixed in IE7.
+That was good enough, an extra `a:hover { padding-top: 0 }`. So here's the [testcase with the bug solved](/files/ie6hoverpadding/fixed.html). The bug is apparently fixed in IE7.

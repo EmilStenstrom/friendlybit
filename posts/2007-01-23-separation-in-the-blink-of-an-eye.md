@@ -22,8 +22,8 @@ categories:
   - CSS
   - HTML
 ---
-I&#8217;ve seen them so many times: pages where the HTML is mighty fine (!) but the CSS looks like it&#8217;s taken straight from Dreamweaver. While I hate having to deal with those kinds of designs there is something good about them. They prove the point that HTML and CSS are two separate units, and that it&#8217;s possible to mess up one of them and do fine on the other. That&#8217;s after all the point of CSS&#8230;
+I've seen them so many times: pages where the HTML is mighty fine (!) but the CSS looks like it's taken straight from Dreamweaver. While I hate having to deal with those kinds of designs there is something good about them. They prove the point that HTML and CSS are two separate units, and that it's possible to mess up one of them and do fine on the other. That's after all the point of CSS…
 
-Now. A much more unusual combination is good CSS together with bad HTML. So I put together a little example for you. [Separation illustrated](/files/separation_illustrated/) (only works in Firefox, I&#8217;m lazy). I&#8217;ve made all lines about 80 characters long and removed all other whitespace. Enjoy!
+Now. A much more unusual combination is good CSS together with bad HTML. So I put together a little example for you. [Separation illustrated](/files/separation_illustrated/) (only works in Firefox, I'm lazy). I've made all lines about 80 characters long and removed all other whitespace. Enjoy!
 
-How&#8217;s that for a company website?
+How's that for a company website?
