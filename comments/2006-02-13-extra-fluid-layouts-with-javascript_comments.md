@@ -22,8 +22,7 @@ comments:
 - comment_ID: '240'
   comment_author: Pete
   comment_author_url: ''
-  comment_content: Found some good links -- this one is best for me so far:\n\n<a
-    href="http://www.themaninblue.com/writing/perspective/2003/12/22/" rel="nofollow">http://www.themaninblue.com/writing/perspective/2003/12/22/</a>
+  comment_content: Found some good links -- this one is best for me so far:\n\nhttp://www.themaninblue.com/writing/perspective/2003/12/22/
   comment_date: '2006-03-04 19:17:37'
   comment_post_ID: '44'
   comment_type: null
@@ -49,8 +48,7 @@ comments:
 - comment_ID: '267'
   comment_author: Christian
   comment_author_url: ''
-  comment_content: One page with a nice fluid layout is <a href="http://www.uxmag.com/"
-    rel="nofollow">http://www.uxmag.com/</a>
+  comment_content: One page with a nice fluid layout is http://www.uxmag.com/
   comment_date: '2006-03-09 10:21:54'
   comment_post_ID: '44'
   comment_type: null

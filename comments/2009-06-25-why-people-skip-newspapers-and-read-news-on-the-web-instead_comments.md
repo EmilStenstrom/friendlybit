@@ -93,7 +93,7 @@ comments:
     commercial pressure they rediscovered a stronger, deeper bond with us.\n\nThere
     might be a glimpse of where a newspaper can find it's place, in a story, when
     on an average Wednesday that a very serious Israeli newspaper conducted a very
-    wild experiment... <a href="http://www.forward.com/articles/107571/" rel="nofollow">http://www.forward.com/articles/107571/</a>
+    wild experiment... http://www.forward.com/articles/107571/
   comment_date: '2009-06-26 09:23:00'
   comment_post_ID: '494'
   comment_type: null

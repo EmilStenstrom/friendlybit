@@ -3,8 +3,7 @@ comments:
 - comment_ID: '25607'
   comment_author: Jens Wedin
   comment_author_url: http://jedisthlm.com
-  comment_content: This one is also really nice.\n\n<a href="http://nikitathespider.com/"
-    rel="nofollow">http://nikitathespider.com/</a>
+  comment_content: This one is also really nice.\n\nhttp://nikitathespider.com/
   comment_date: '2007-06-25 14:13:47'
   comment_post_ID: '128'
   comment_type: null

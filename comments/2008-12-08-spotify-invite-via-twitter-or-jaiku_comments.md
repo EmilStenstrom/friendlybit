@@ -4,8 +4,8 @@ comments:
   comment_author: Tom
   comment_author_url: ''
   comment_content: 'This got me very very very curious, thanks for this very very
-    very generous offer. Let the madness begin indeed: <a href="http://twitter.com/tomklev"
-    rel="nofollow">http://twitter.com/tomklev</a> and tom (a) kalypso dot nu'
+    very generous offer. Let the madness begin indeed: http://twitter.com/tomklev
+    and tom (a) kalypso dot nu'
   comment_date: '2008-12-08 09:51:51'
   comment_post_ID: '378'
   comment_type: null
@@ -13,8 +13,8 @@ comments:
 - comment_ID: '31267'
   comment_author: Kalle Persson
   comment_author_url: http://kallepersson.se
-  comment_content: Great stuff! :-)\nMy twitter is <a href="http://twitter.com/kallepersson"
-    rel="nofollow">http://twitter.com/kallepersson</a> (kalle /a/ kallepersson.se)
+  comment_content: Great stuff! :-)\nMy twitter is http://twitter.com/kallepersson
+    (kalle /a/ kallepersson.se)
   comment_date: '2008-12-08 10:02:18'
   comment_post_ID: '378'
   comment_type: null
@@ -50,9 +50,8 @@ comments:
   comment_author: Stuart
   comment_author_url: ''
   comment_content: I'd definitely love a look at this as the hard disk is REALLY filling
-    up here! :) My twitter is <a href="http://twitter.com/5tuarth," rel="nofollow">http://twitter.com/5tuarth,</a>
-    my email is at gmail.com and I am shomfray (and hopefully, the spam spiders won't
-    work these out! :))
+    up here! :) My twitter is http://twitter.com/5tuarth, my email is at gmail.com
+    and I am shomfray (and hopefully, the spam spiders won't work these out! :))
   comment_date: '2008-12-08 12:23:33'
   comment_post_ID: '378'
   comment_type: null
@@ -69,8 +68,7 @@ comments:
 - comment_ID: '31273'
   comment_author: Bjarne
   comment_author_url: http://www.gardebratt.se
-  comment_content: A reason as good as any to start Twitter.... :\n\n<a href="http://twitter.com/bjarneg\n\n:)"
-    rel="nofollow">http://twitter.com/bjarneg\n\n:)</a>
+  comment_content: A reason as good as any to start Twitter.... :\n\nhttp://twitter.com/bjarneg\n\n:)
   comment_date: '2008-12-08 14:28:30'
   comment_post_ID: '378'
   comment_type: null
@@ -106,8 +104,7 @@ comments:
 - comment_ID: '31278'
   comment_author: Jimmy Larsson
   comment_author_url: ''
-  comment_content: Geat stuff Emil, I really want one :)\n\n<a href="http://twitter.com/jimlar"
-    rel="nofollow">http://twitter.com/jimlar</a>
+  comment_content: Geat stuff Emil, I really want one :)\n\nhttp://twitter.com/jimlar
   comment_date: '2008-12-08 14:46:42'
   comment_post_ID: '378'
   comment_type: null
@@ -142,8 +139,7 @@ comments:
 - comment_ID: '31282'
   comment_author: Gösta
   comment_author_url: ''
-  comment_content: Finally crossed the Twitter barrier.\n<a href="http://twitter.com/ghuldt"
-    rel="nofollow">http://twitter.com/ghuldt</a>
+  comment_content: Finally crossed the Twitter barrier.\nhttp://twitter.com/ghuldt
   comment_date: '2008-12-08 15:55:38'
   comment_post_ID: '378'
   comment_type: null
@@ -247,8 +243,7 @@ comments:
 - comment_ID: '31298'
   comment_author: liz
   comment_author_url: http://thestreetcarchronicles.com/blog
-  comment_content: 'I''d love to get an invite! \n\nMy twitter link is: <a href="http://twitter.com/streetcarchron"
-    rel="nofollow">http://twitter.com/streetcarchron</a>'
+  comment_content: 'I''d love to get an invite! \n\nMy twitter link is: http://twitter.com/streetcarchron'
   comment_date: '2008-12-09 22:57:04'
   comment_post_ID: '378'
   comment_type: null
@@ -256,8 +251,7 @@ comments:
 - comment_ID: '31312'
   comment_author: Adam Z
   comment_author_url: http://twitter.com/adamzak
-  comment_content: I'd love one too please! :)\n\n<a href="http://twitter.com/adamzak"
-    rel="nofollow">http://twitter.com/adamzak</a>
+  comment_content: I'd love one too please! :)\n\nhttp://twitter.com/adamzak
   comment_date: '2008-12-11 21:19:34'
   comment_post_ID: '378'
   comment_type: null
@@ -265,8 +259,8 @@ comments:
 - comment_ID: '31313'
   comment_author: ''
   comment_author_url: ''
-  comment_content: Hello I would like an inevetation please :)\n\n<a href="http://twitter.com/henka773,"
-    rel="nofollow">http://twitter.com/henka773,</a> henriksellin@hotmail.com
+  comment_content: Hello I would like an inevetation please :)\n\nhttp://twitter.com/henka773,
+    henriksellin@hotmail.com
   comment_date: '2008-12-11 23:02:11'
   comment_post_ID: '378'
   comment_type: null
@@ -275,8 +269,8 @@ comments:
   comment_author: johnny
   comment_author_url: ''
   comment_content: Been hearing more and more about this. would luv to give it a try
-    and let the madness roll on!\n<a href="http://twitter.com/johnny21f\nand" rel="nofollow">http://twitter.com/johnny21f\nand</a>
-    my email is the same user name but at hotmail. cheers!
+    and let the madness roll on!\nhttp://twitter.com/johnny21f\nand my email is the
+    same user name but at hotmail. cheers!
   comment_date: '2008-12-11 23:05:42'
   comment_post_ID: '378'
   comment_type: null
@@ -284,8 +278,7 @@ comments:
 - comment_ID: '31315'
   comment_author: Andreas
   comment_author_url: ''
-  comment_content: Still have any invite left? <a href="http://twitter.com/bjarlestam/status/1052172380"
-    rel="nofollow">http://twitter.com/bjarlestam/status/1052172380</a>
+  comment_content: Still have any invite left? http://twitter.com/bjarlestam/status/1052172380
   comment_date: '2008-12-12 00:31:33'
   comment_post_ID: '378'
   comment_type: null
@@ -293,8 +286,8 @@ comments:
 - comment_ID: '31316'
   comment_author: Ben
   comment_author_url: ''
-  comment_content: I'm wanting to check this out as well! <a href="http://twitter.com/Trogzilla"
-    rel="nofollow">http://twitter.com/Trogzilla</a> benbeebe@gmail.com\nThanks!
+  comment_content: I'm wanting to check this out as well! http://twitter.com/Trogzilla
+    benbeebe@gmail.com\nThanks!
   comment_date: '2008-12-12 03:19:47'
   comment_post_ID: '378'
   comment_type: null
@@ -302,8 +295,7 @@ comments:
 - comment_ID: '31317'
   comment_author: agostina
   comment_author_url: http://diariodesuecia.blogspot.com/
-  comment_content: hi! do you still have invites left?\n<a href="http://twitter.com/agoch"
-    rel="nofollow">http://twitter.com/agoch</a>
+  comment_content: hi! do you still have invites left?\nhttp://twitter.com/agoch
   comment_date: '2008-12-12 12:24:35'
   comment_post_ID: '378'
   comment_type: null
@@ -322,7 +314,7 @@ comments:
   comment_author: Aki Karkkainen
   comment_author_url: http://www.akikoo.org
   comment_content: 'Great post, trying my luck: \n<a href="http://twitter.com/akikoo"
-    rel="nofollow"><a href="http://twitter.com/akikoo</a>" rel="nofollow">http://twitter.com/akikoo</a></a>'
+    rel="nofollow">http://twitter.com/akikoo</a>'
   comment_date: '2008-12-12 21:45:44'
   comment_post_ID: '378'
   comment_type: null
@@ -330,8 +322,8 @@ comments:
 - comment_ID: '31320'
   comment_author: Johan
   comment_author_url: ''
-  comment_content: I would love to get an invite, hope I'm not to late:\n<a href="http://twitter.com/JohanPersson"
-    rel="nofollow">http://twitter.com/JohanPersson</a> (johan.persson@valtech.se).
+  comment_content: I would love to get an invite, hope I'm not to late:\nhttp://twitter.com/JohanPersson
+    (johan.persson@valtech.se).
   comment_date: '2008-12-13 13:03:53'
   comment_post_ID: '378'
   comment_type: null
@@ -339,8 +331,7 @@ comments:
 - comment_ID: '31321'
   comment_author: wrigs
   comment_author_url: ''
-  comment_content: Please may I have one of your Spotify invites?\n\nThanks.\n\n<a
-    href="http://twitter.com/njwrigley" rel="nofollow">http://twitter.com/njwrigley</a>
+  comment_content: Please may I have one of your Spotify invites?\n\nThanks.\n\nhttp://twitter.com/njwrigley
   comment_date: '2008-12-14 09:30:54'
   comment_post_ID: '378'
   comment_type: null
@@ -357,8 +348,7 @@ comments:
 - comment_ID: '31324'
   comment_author: Petra
   comment_author_url: http://www.silverclay.co.uk
-  comment_content: Hoppas hoppas, haller tummarna!\n\n<a href="http://twitter.com/silverclay"
-    rel="nofollow">http://twitter.com/silverclay</a>
+  comment_content: Hoppas hoppas, haller tummarna!\n\nhttp://twitter.com/silverclay
   comment_date: '2008-12-16 15:45:16'
   comment_post_ID: '378'
   comment_type: null
@@ -367,8 +357,7 @@ comments:
   comment_author: Per Øyvind Moen
   comment_author_url: ''
   comment_content: If you still have any invites left, I would be very happy if you
-    sent me one :-)\n<a href="http://twitter.com/persa" rel="nofollow">http://twitter.com/persa</a>
-    , persa1 (a) gmail dot com
+    sent me one :-)\nhttp://twitter.com/persa , persa1 (a) gmail dot com
   comment_date: '2008-12-16 15:53:58'
   comment_post_ID: '378'
   comment_type: null
@@ -399,8 +388,8 @@ comments:
   comment_author: Christer N. Jonassen
   comment_author_url: http://www.nilberg.net
   comment_content: Hi Emil! This sounds awesome, and I'd love to try it.\nDo you have
-    any invites left?\n<a href="http://twitter.com/nilberg" rel="nofollow">http://twitter.com/nilberg</a>
-    - christer(a)nilberg.net\n\nGod Jul og godt nyttår, anyway... ;)
+    any invites left?\nhttp://twitter.com/nilberg - christer(a)nilberg.net\n\nGod
+    Jul og godt nyttår, anyway... ;)
   comment_date: '2008-12-29 10:52:39'
   comment_post_ID: '378'
   comment_type: null
@@ -408,7 +397,7 @@ comments:
 - comment_ID: '31338'
   comment_author: brynolf
   comment_author_url: ''
-  comment_content: here's hoping! <a href="http://twitter.com/brynolf" rel="nofollow">http://twitter.com/brynolf</a>
+  comment_content: here's hoping! http://twitter.com/brynolf
   comment_date: '2008-12-29 21:14:52'
   comment_post_ID: '378'
   comment_type: null
@@ -417,8 +406,7 @@ comments:
   comment_author: Niclas Nilsson
   comment_author_url: http://twitter.com/niclasnilsson
   comment_content: Hi there!\n\nAny Spotify invites left? Or does anyone else have
-    one? It would be an appreciated new years gift!\n\n<a href="http://twitter.com/niclasnilsson"
-    rel="nofollow">http://twitter.com/niclasnilsson</a>
+    one? It would be an appreciated new years gift!\n\nhttp://twitter.com/niclasnilsson
   comment_date: '2008-12-31 12:51:56'
   comment_post_ID: '378'
   comment_type: null
@@ -435,8 +423,7 @@ comments:
 - comment_ID: '31342'
   comment_author: Misplaced Mage
   comment_author_url: ''
-  comment_content: Add another person hoping you have an invite or two left…\n\n<a
-    href="http://www.twitter.com/misplacedmage" rel="nofollow">http://www.twitter.com/misplacedmage</a>
+  comment_content: Add another person hoping you have an invite or two left…\n\nhttp://www.twitter.com/misplacedmage
   comment_date: '2009-01-03 09:55:43'
   comment_post_ID: '378'
   comment_type: null
@@ -463,7 +450,7 @@ comments:
   comment_author: andrewgee
   comment_author_url: ''
   comment_content: Hoping someone reads this and sends me an invite. Would be much
-    appreciated.\n\n<a href="http://twitter.com/andrewgee\nandrew@andrewgee.org" rel="nofollow">http://twitter.com/andrewgee\nandrew@andrewgee.org</a>
+    appreciated.\n\nhttp://twitter.com/andrewgee\nandrew@andrewgee.org
   comment_date: '2009-01-04 00:54:56'
   comment_post_ID: '378'
   comment_type: null
@@ -491,7 +478,7 @@ comments:
   comment_author: MrBurning
   comment_author_url: ''
   comment_content: 'I beg of you to give me one, I''ve been looking all over! Please!\n\nMy
-    twitter: <a href="http://twitter.com/MrBurning" rel="nofollow">http://twitter.com/MrBurning</a>'
+    twitter: http://twitter.com/MrBurning'
   comment_date: '2009-01-05 02:09:42'
   comment_post_ID: '378'
   comment_type: null
@@ -500,8 +487,7 @@ comments:
   comment_author: Jinx
   comment_author_url: http://chalissa.livejournal.com/
   comment_content: Hi, I doubt you have any invitations to Spotify left, but if you
-    do I would *LOVE* one (<a href="http://twitter.com/jinxlerai)." rel="nofollow">http://twitter.com/jinxlerai).</a>  Thank
-    you so much!  :)
+    do I would *LOVE* one (http://twitter.com/jinxlerai).  Thank you so much!  :)
   comment_date: '2009-01-05 06:54:30'
   comment_post_ID: '378'
   comment_type: null
@@ -509,8 +495,7 @@ comments:
 - comment_ID: '31354'
   comment_author: Alessio
   comment_author_url: ''
-  comment_content: Can you sned me an invite for Spotify? thanks\n\n<a href="http://twitter.com/gybbyr\n\ngybbyr@gmail.com"
-    rel="nofollow">http://twitter.com/gybbyr\n\ngybbyr@gmail.com</a>
+  comment_content: Can you sned me an invite for Spotify? thanks\n\nhttp://twitter.com/gybbyr\n\ngybbyr@gmail.com
   comment_date: '2009-01-06 13:41:11'
   comment_post_ID: '378'
   comment_type: null
@@ -518,8 +503,7 @@ comments:
 - comment_ID: '31357'
   comment_author: Lisa-Marie
   comment_author_url: http://lisamariet@vox.com
-  comment_content: <a href="http://twitter.com/lisamariet" rel="nofollow">http://twitter.com/lisamariet</a>
-    \n\nDo you have an invite for me?
+  comment_content: http://twitter.com/lisamariet \n\nDo you have an invite for me?
   comment_date: '2009-01-07 19:49:11'
   comment_post_ID: '378'
   comment_type: null
@@ -548,8 +532,8 @@ comments:
   comment_author: Brian
   comment_author_url: ''
   comment_content: Any Spotify invites left out there? bcollinsrules at yahoo dot
-    com. Wish there was something I could offer in return! My twitter  is <a href="http://twitter.com/stickstone"
-    rel="nofollow">http://twitter.com/stickstone</a> \n\nTack så mycket!!!!
+    com. Wish there was something I could offer in return! My twitter  is http://twitter.com/stickstone
+    \n\nTack så mycket!!!!
   comment_date: '2009-01-08 10:57:32'
   comment_post_ID: '378'
   comment_type: null
@@ -602,8 +586,7 @@ comments:
     need the likes of Soulseek and Last.fm in order to really explore music. Otherwise
     you just end up listening to the same stuff all the time.\n\nEvery time I sit
     down at my machine I'm listening to new stuff. This wouldn't happen with Spotify.\n\nTrust
-    me, I should be a music exec (<a href="http://www.last.fm/user/ldexterldesign)."
-    rel="nofollow">http://www.last.fm/user/ldexterldesign).</a>
+    me, I should be a music exec (http://www.last.fm/user/ldexterldesign).
   comment_date: '2009-01-31 19:42:41'
   comment_post_ID: '378'
   comment_type: null

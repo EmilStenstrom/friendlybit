@@ -205,10 +205,10 @@ comments:
     is always going to be a problem from an accessibility point of view (which is
     not limited to MOSS, btw).\n\n3) Control adapters can help with OOTB controls
     such as the menu / nav controls. See the ASP.NET CSS Control Adapters for more
-    info.\n\n4) You can brand SP sites, see for example <a href="http://www.hedkandi.com"
-    rel="nofollow">http://www.hedkandi.com</a> for a more "design" focused example.\n\n5)
-    Branding blogs and application pages - see the "Community Kit for SharePoint"
-    and "SuperBranding", both on CodePlex.com for examples of how to do this easily.
+    info.\n\n4) You can brand SP sites, see for example http://www.hedkandi.com for
+    a more "design" focused example.\n\n5) Branding blogs and application pages -
+    see the "Community Kit for SharePoint" and "SuperBranding", both on CodePlex.com
+    for examples of how to do this easily.
   comment_date: '2008-03-20 14:05:07'
   comment_post_ID: '140'
   comment_type: null
@@ -298,8 +298,7 @@ comments:
   comment_content: Emil,\n\nI feel your pain! I'm in the process of branding a MOSS
     Intranet and was dismayed by the complexity at first, before rolling the sleeves
     up and giving it some "Irish attitude"! I found the following 7-part series of
-    articles particularly helpful though:\n\n<a href="http://www.cleverworkarounds.com/2007/10/08/sharepoint-branding-how-css-works-with-master-pages-part-1/\n\nKeep"
-    rel="nofollow">http://www.cleverworkarounds.com/2007/10/08/sharepoint-branding-how-css-works-with-master-pages-part-1/\n\nKeep</a>
+    articles particularly helpful though:\n\nhttp://www.cleverworkarounds.com/2007/10/08/sharepoint-branding-how-css-works-with-master-pages-part-1/\n\nKeep
     at it,\nAnthony :-)
   comment_date: '2008-11-09 03:28:27'
   comment_post_ID: '140'

@@ -65,8 +65,7 @@ comments:
   comment_author: ozgur alaz
   comment_author_url: ''
   comment_content: 'Great article is worth to be homepage of digg. The story has dugg
-    now, please add your diggs: \n<a href="http://digg.com/programming/Static_and_dynamic_CSS_combined"
-    rel="nofollow">http://digg.com/programming/Static_and_dynamic_CSS_combined</a>'
+    now, please add your diggs: \nhttp://digg.com/programming/Static_and_dynamic_CSS_combined'
   comment_date: '2006-07-17 13:05:39'
   comment_post_ID: '80'
   comment_type: null
@@ -162,8 +161,7 @@ comments:
   comment_author: SolucioPC - Blog &raquo; Blog Archive &raquo; Crear hojas de estilo
     dinámicas con php
   comment_author_url: http://www.soluciopc.com/blog/crear-hojas-de-estilo-dinamicas-con-php/
-  comment_content: '[...] <a href="http://friendlybit.com/css/static-and-dynamic-css-combined/"
-    rel="nofollow">http://friendlybit.com/css/static-and-dynamic-css-combined/</a>
+  comment_content: '[...] http://friendlybit.com/css/static-and-dynamic-css-combined/
     [...]'
   comment_date: '2007-06-25 14:51:29'
   comment_post_ID: '80'

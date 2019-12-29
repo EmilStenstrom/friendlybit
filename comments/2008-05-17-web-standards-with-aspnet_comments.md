@@ -40,10 +40,8 @@ comments:
   comment_author_url: http://www.dileno.com
   comment_content: 'Indeed a good blog post. I agree with most of the stuff written
     here. A lot of things can be written on this subject, but I narrow it down to
-    some more tips:\n\n- CSS adapters for better semantics: <a href="http://www.asp.net/CssAdapters/\n\n-"
-    rel="nofollow">http://www.asp.net/CssAdapters/\n\n-</a> How to control adapters:
-    <a href="http://www.singingeels.com/Articles/How_To_Control_Adapters.aspx\n\nBtw,"
-    rel="nofollow">http://www.singingeels.com/Articles/How_To_Control_Adapters.aspx\n\nBtw,</a>
+    some more tips:\n\n- CSS adapters for better semantics: http://www.asp.net/CssAdapters/\n\n-
+    How to control adapters: http://www.singingeels.com/Articles/How_To_Control_Adapters.aspx\n\nBtw,
     use Literal instead of Label when you need to output text from codebehind, unless
     it should be  - then you can use the AssociatedControlId attribute. And PlaceHolder
     is always better than a Panel. The Panel creates a wrapping div, which PlaceHolder
@@ -55,11 +53,10 @@ comments:
 - comment_ID: '30598'
   comment_author: buckley
   comment_author_url: ''
-  comment_content: <a href="http://www.west-wind.com/WebLog/posts/127340.aspx\n\n"Maybe"
-    rel="nofollow">http://www.west-wind.com/WebLog/posts/127340.aspx\n\n"Maybe</a>
-    the most important feature of this control is that like the Repeater control it
-    provides much more control over the rendering process at the cost of more markup
-    code in the page."
+  comment_content: http://www.west-wind.com/WebLog/posts/127340.aspx\n\n"Maybe the
+    most important feature of this control is that like the Repeater control it provides
+    much more control over the rendering process at the cost of more markup code in
+    the page."
   comment_date: '2008-05-18 00:54:52'
   comment_post_ID: '157'
   comment_type: null
@@ -91,8 +88,7 @@ comments:
     compliant with a few clicks, including a wizard that will take you over all the
     images that lack an ALT description and a very very smart tag closing agent. It''s
     currently in beta phase and beta is not time limited in any sense, so you might
-    as well get a decent version for free: <a href="http://www.aggiorno.com/download.aspx"
-    rel="nofollow">http://www.aggiorno.com/download.aspx</a> \n\nCheers,\nAlan'
+    as well get a decent version for free: http://www.aggiorno.com/download.aspx \n\nCheers,\nAlan'
   comment_date: '2008-06-02 15:05:05'
   comment_post_ID: '157'
   comment_type: null

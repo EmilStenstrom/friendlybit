@@ -19,7 +19,7 @@ comments:
 - comment_ID: '25970'
   comment_author: Lisa Risager
   comment_author_url: http://lisarisager.dk
-  comment_content: <a href="http://flickr.com/photos/risager/353148887/" rel="nofollow">http://flickr.com/photos/risager/353148887/</a>
+  comment_content: http://flickr.com/photos/risager/353148887/
   comment_date: '2007-07-08 09:21:09'
   comment_post_ID: '132'
   comment_type: null
@@ -36,7 +36,7 @@ comments:
 - comment_ID: '26001'
   comment_author: Pär Axelsson
   comment_author_url: ''
-  comment_content: <a href="http://www.finstilt.se/2007/01/09/html-humor/" rel="nofollow">http://www.finstilt.se/2007/01/09/html-humor/</a>
+  comment_content: http://www.finstilt.se/2007/01/09/html-humor/
   comment_date: '2007-07-09 17:01:31'
   comment_post_ID: '132'
   comment_type: null
@@ -44,9 +44,8 @@ comments:
 - comment_ID: '26011'
   comment_author: Jesper Rønn-Jensen
   comment_author_url: http://justaddwater.dk/
-  comment_content: 'Hey that''s a great one Emil. Put in the Flickr pool: <a href="http://flickr.com/groups/htmljokes/pool/\n\nAlso"
-    rel="nofollow">http://flickr.com/groups/htmljokes/pool/\n\nAlso</a> check out
-    article on Justaddwater.dk: <a href="http://justaddwater.dk/2007/01/05/more-visual-html-jokes/"
+  comment_content: 'Hey that''s a great one Emil. Put in the Flickr pool: http://flickr.com/groups/htmljokes/pool/\n\nAlso
+    check out article on Justaddwater.dk: <a href="http://justaddwater.dk/2007/01/05/more-visual-html-jokes/"
     rel="nofollow">More Visual HTML Jokes</a>.'
   comment_date: '2007-07-09 22:18:32'
   comment_post_ID: '132'
@@ -63,8 +62,8 @@ comments:
 - comment_ID: '26133'
   comment_author: Birgit
   comment_author_url: http://ice-horse.de
-  comment_content: Ha ha, good one! :)\n\n<code>&lt;th></code> <a href="http://flickr.com/photos/guatemalaholla/213257406/\n"
-    rel="nofollow">http://flickr.com/photos/guatemalaholla/213257406/\n</a> <code>&lt;/th></code>´
+  comment_content: Ha ha, good one! :)\n\n<code>&lt;th></code> http://flickr.com/photos/guatemalaholla/213257406/\n
+    <code>&lt;/th></code>´
   comment_date: '2007-07-16 10:32:09'
   comment_post_ID: '132'
   comment_type: null

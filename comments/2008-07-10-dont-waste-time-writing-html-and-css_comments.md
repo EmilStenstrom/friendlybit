@@ -177,7 +177,7 @@ comments:
   comment_content: 'Great Post.\n\nMany good tips for increasing productivity. One
     suggestion with tip #4 is to get a second monitor. Having side by side monitors
     has made me close to 30% more efficient. It''s difficult to work without 2 monitors
-    now.\n\nTyler,\n<a href="http://www.whatdivs.com" rel="nofollow">http://www.whatdivs.com</a>'
+    now.\n\nTyler,\nhttp://www.whatdivs.com'
   comment_date: '2008-07-18 22:33:41'
   comment_post_ID: '169'
   comment_type: null

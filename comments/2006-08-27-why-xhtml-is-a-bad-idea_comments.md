@@ -971,20 +971,19 @@ comments:
     consistently and MathML to insert maths that would otherwhise be really hard to
     harmonize with images.\n\nAnyhow, I also would like to say that there ARE tools
     that produce good XHTML. For example XStandard which is excellent to use in content
-    management systems.\n<a href="http://www.xstandard.com/\n\nAnother" rel="nofollow">http://www.xstandard.com/\n\nAnother</a>
-    point you seem to miss out on is that XHTML does indeed not stand alone - it is
-    designed with CSS and made dynamic with javascript. Hence it does indeed display
-    very nicely in old browsers - they simply don''t display all the goodies, nor
-    should they - you musn''t become too conservative and say that "we have to allow
-    for IE 5.0 (which was - 10 years ago?)"...\n\nOverall I think the article is rather
-    narrow-minded - you should focus on progression, not regression -- for example:
-    you could explain the features of HTML 5, because I don''t know them, you could
-    explain the features of MathML instead of bad-mouthing it, you could explain the
-    potential welfare-gains in society by using open-source image editing tools to
-    provide SVG images for the web, instead of buying expensive proprietary software.
-    You could focus on the tighter integration between XHTML, CSS, Javascript, Flash
-    and Server-side - how it all can be used to make the web more fun and usable for
-    even the tech-savvy.\n\nhenke'
+    management systems.\nhttp://www.xstandard.com/\n\nAnother point you seem to miss
+    out on is that XHTML does indeed not stand alone - it is designed with CSS and
+    made dynamic with javascript. Hence it does indeed display very nicely in old
+    browsers - they simply don''t display all the goodies, nor should they - you musn''t
+    become too conservative and say that "we have to allow for IE 5.0 (which was -
+    10 years ago?)"...\n\nOverall I think the article is rather narrow-minded - you
+    should focus on progression, not regression -- for example: you could explain
+    the features of HTML 5, because I don''t know them, you could explain the features
+    of MathML instead of bad-mouthing it, you could explain the potential welfare-gains
+    in society by using open-source image editing tools to provide SVG images for
+    the web, instead of buying expensive proprietary software. You could focus on
+    the tighter integration between XHTML, CSS, Javascript, Flash and Server-side
+    - how it all can be used to make the web more fun and usable for even the tech-savvy.\n\nhenke'
   comment_date: '2006-09-27 00:52:02'
   comment_post_ID: '89'
   comment_type: null
@@ -1534,8 +1533,8 @@ comments:
   comment_author_url: http://obviousinhindsight.wordpress.com/2010/01/09/web-design-what-doctype-do-i-use/
   comment_content: '[...] If you’d like to research an alternative opinion on why
     not to use XHTML, read here (Note: It’s an old article, much of it may not apply
-    but interesting no less): <a href="http://friendlybit.com/html/why-xhtml-is-a-bad-idea/"
-    rel="nofollow">http://friendlybit.com/html/why-xhtml-is-a-bad-idea/</a> [...]'
+    but interesting no less): http://friendlybit.com/html/why-xhtml-is-a-bad-idea/
+    [...]'
   comment_date: '2010-01-09 05:03:09'
   comment_post_ID: '89'
   comment_type: pingback
@@ -1543,8 +1542,7 @@ comments:
 - comment_ID: '33343'
   comment_author: 'Web Design: What is XHTML? &laquo; Obvious In Hindsight'
   comment_author_url: http://obviousinhindsight.wordpress.com/2010/01/09/web-design-what-is-xhtml/
-  comment_content: '[...] <a href="http://friendlybit.com/html/why-xhtml-is-a-bad-idea/"
-    rel="nofollow">http://friendlybit.com/html/why-xhtml-is-a-bad-idea/</a> [...]'
+  comment_content: '[...] http://friendlybit.com/html/why-xhtml-is-a-bad-idea/ [...]'
   comment_date: '2010-01-09 05:50:45'
   comment_post_ID: '89'
   comment_type: pingback

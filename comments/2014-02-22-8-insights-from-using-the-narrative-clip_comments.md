@@ -24,8 +24,7 @@ comments:
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
   comment_content: 'Hi! Sorry for the late reply. You have to check out the help docs
-    at Narrative, they are a much better guide than me: <a href="https://support.getnarrative.com/hc/en-us/articles/202525313-Cloud-Service-Subscription-How-do-I-continue-and-what-happens-after-it-expires-"
-    rel="nofollow">https://support.getnarrative.com/hc/en-us/articles/202525313-Cloud-Service-Subscription-How-do-I-continue-and-what-happens-after-it-expires-</a>'
+    at Narrative, they are a much better guide than me: https://support.getnarrative.com/hc/en-us/articles/202525313-Cloud-Service-Subscription-How-do-I-continue-and-what-happens-after-it-expires-'
   comment_date: '2014-08-11 14:25:33'
   comment_post_ID: '920'
   comment_type: null

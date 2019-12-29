@@ -472,8 +472,7 @@ comments:
   comment_author_url: ''
   comment_content: Hi! I like your templates! They're easy and clear. But I was looking
     for other type of template. Coudld you please help me? I wonder how to make this
-    kind of coding in css:\n<a href="http://i68.photobucket.com/albums/i36/edvy/css01.jpg\nYou'd"
-    rel="nofollow">http://i68.photobucket.com/albums/i36/edvy/css01.jpg\nYou'd</a>
+    kind of coding in css:\nhttp://i68.photobucket.com/albums/i36/edvy/css01.jpg\nYou'd
     be my hero if you help me.\nThank you in advance!
   comment_date: '2009-02-06 14:20:28'
   comment_post_ID: '32'

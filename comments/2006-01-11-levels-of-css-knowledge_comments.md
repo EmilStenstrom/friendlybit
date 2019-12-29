@@ -521,8 +521,8 @@ comments:
 - comment_ID: '302'
   comment_author: www.jammo.net &raquo; Friendly Bit » Levels of CSS knowledge
   comment_author_url: http://www.jammo.net/2006/03/13/levels-of-css-knowledge/
-  comment_content: '[...] Friendly Bit &raquo; Levels of CSS knowledge<a href="http://friendlybit.com/css/levels-of-css-knowledge/"
-    rel="nofollow">http://friendlybit.com/css/levels-of-css-knowledge/</a> [...]'
+  comment_content: '[...] Friendly Bit &raquo; Levels of CSS knowledgehttp://friendlybit.com/css/levels-of-css-knowledge/
+    [...]'
   comment_date: '2006-03-14 09:30:57'
   comment_post_ID: '33'
   comment_type: pingback
@@ -1107,9 +1107,8 @@ comments:
 - comment_ID: '1133'
   comment_author: Stacy
   comment_author_url: ''
-  comment_content: Suppose your using Firefox and you browse to <a href="http://www.w3.org/Style/CSS/,"
-    rel="nofollow">http://www.w3.org/Style/CSS/,</a> then you choose View-&gt;Page
-    Style. What would you expect? <a href="http://www.w3.org/TR/REC-CSS1" rel="nofollow">http://www.w3.org/TR/REC-CSS1</a>
+  comment_content: Suppose your using Firefox and you browse to http://www.w3.org/Style/CSS/,
+    then you choose View-&gt;Page Style. What would you expect? http://www.w3.org/TR/REC-CSS1
     makes a little more practical use of this. Strange that more sites don't understand
     that CSS can be a more dynamic means of information transferance. Do I get it?
   comment_date: '2006-06-08 06:51:41'
@@ -1130,8 +1129,7 @@ comments:
   comment_author: Stacy
   comment_author_url: ''
   comment_content: Exactly my point. CSS is about presentation. Presentation can take
-    on many flavors and if needed or useful an author should provide that. The <a
-    href="http://www.w3.org/TR/REC-CSS1" rel="nofollow">http://www.w3.org/TR/REC-CSS1</a>
+    on many flavors and if needed or useful an author should provide that. The http://www.w3.org/TR/REC-CSS1
     example shows (you have to scroll a bit) that an author can offer up two vews
     of the same content to provide different prospectives of the data. errata verses
     the current status. This is all accomplished through concurrent (alternat) style

@@ -42,8 +42,7 @@ comments:
   comment_author_url: http://www.zachleat.com/
   comment_content: I'm not a huge fan of this approach, as it doesn't allow things
     like right click to open in a new tab, or middle click for the same.\n\nJames
-    Padosley had a good method for this:\n<a href="http://james.padolsey.com/javascript/table-rows-as-clickable-anchors/"
-    rel="nofollow">http://james.padolsey.com/javascript/table-rows-as-clickable-anchors/</a>
+    Padosley had a good method for this:\nhttp://james.padolsey.com/javascript/table-rows-as-clickable-anchors/
   comment_date: '2009-07-01 17:03:37'
   comment_post_ID: '498'
   comment_type: null
@@ -300,8 +299,7 @@ comments:
   comment_author_url: http://www.ldexterldesign.co.uk/
   comment_content: 'Yea, the "1''s" in pagination are a culprit here - pet usability
     hate of mine!\n\nI used this typa technique recently on a ''Read more...'' link:
-    <a href="http://is.gd/4n09N" rel="nofollow">http://is.gd/4n09N</a> (pulling in
-    the post title URL and then hiding the title).'
+    http://is.gd/4n09N (pulling in the post title URL and then hiding the title).'
   comment_date: '2009-10-17 00:38:04'
   comment_post_ID: '498'
   comment_type: null

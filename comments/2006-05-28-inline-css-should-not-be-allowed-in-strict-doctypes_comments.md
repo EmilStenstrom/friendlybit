@@ -340,8 +340,7 @@ comments:
 - comment_ID: '1136'
   comment_author: Johan
   comment_author_url: ''
-  comment_content: <a href="http://www.quirksmode.org/blog/archives/2005/07/benchmark_tests.html"
-    rel="nofollow">http://www.quirksmode.org/blog/archives/2005/07/benchmark_tests.html</a>
+  comment_content: http://www.quirksmode.org/blog/archives/2005/07/benchmark_tests.html
   comment_date: '2006-06-08 08:34:08'
   comment_post_ID: '65'
   comment_type: null
@@ -884,13 +883,13 @@ comments:
     to design my websites or I'll just stop designing websites altogether.\\n\\nThose
     of you who want to get rid of inline are simply thinking of YOUR manner of site
     design. You arent taking into account that there are a LOT Of us here who dont
-    do it the way you do. \\n\\nwm\n33953\t65\tWm Tipton\t0\t<a href=\"http://web77.org\t2010-07-03\"
-    rel=\"nofollow\">http://web77.org\t2010-07-03</a> 03:07:18\tInline or external
-    makes absolutely no odds to this. External is useful if you want to use the same
-    styles on multiple pages. Inline is essential for unique pages because you don’t
-    want to be drawing in several style sheets when you can do everything on that
-    one page and you definitely don’t want to cloud up your general styles with hundreds
-    of styles that are only used once or twice around your many pages.\\n================================================\\nEXACTLY
+    do it the way you do. \\n\\nwm\n33953\t65\tWm Tipton\t0\thttp://web77.org\t2010-07-03
+    03:07:18\tInline or external makes absolutely no odds to this. External is useful
+    if you want to use the same styles on multiple pages. Inline is essential for
+    unique pages because you don’t want to be drawing in several style sheets when
+    you can do everything on that one page and you definitely don’t want to cloud
+    up your general styles with hundreds of styles that are only used once or twice
+    around your many pages.\\n================================================\\nEXACTLY
     !\\n\\nMOST of my webpages (I do webmastering for others also) require that I
     use quite a bit of absolute positioning for a lot of elements on the page. \\nFor
     instance a guy wants a image bumped up 4 pixels and to the right 10 pixels. Well

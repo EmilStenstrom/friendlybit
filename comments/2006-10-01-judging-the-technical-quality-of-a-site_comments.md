@@ -145,7 +145,7 @@ comments:
     for them mdash; &laquo; and &raquo; (last pair are for russian texts).\n\nIn English,
     AFAIK, better to use &ldquo; and &rdquo; for quotes and &mdash; for dashes (dash
     it is not hyphen or minus!).\n\nAlso about quotes you can read in last ALA article
-    QTAG: <a href="http://www.alistapart.com/articles/qtag" rel="nofollow">http://www.alistapart.com/articles/qtag</a>'
+    QTAG: http://www.alistapart.com/articles/qtag'
   comment_date: '2006-10-01 22:22:34'
   comment_post_ID: '95'
   comment_type: null
@@ -220,8 +220,7 @@ comments:
     regarding CSS and XHTML. I've made a page to collect all my gathered knowledge
     so far. Take a look at the source code if you get time, would appreciate your
     comments. Absolute beginners might find it useful as it's kind of a help sheet
-    for a mate too. \n<a href="http://www.runninghead.com/aaa_Templates/centeringTemplate2.html"
-    rel="nofollow">http://www.runninghead.com/aaa_Templates/centeringTemplate2.html</a>
+    for a mate too. \nhttp://www.runninghead.com/aaa_Templates/centeringTemplate2.html
   comment_date: '2007-05-15 19:04:05'
   comment_post_ID: '95'
   comment_type: null
@@ -232,8 +231,7 @@ comments:
   comment_content: '[...] Co oznacza termin “dobra”&nbsp;strona?  15 05 2010   Jest
     to jeden z moich ulubionych tekstów, bardzo zwi??le mówi?cy o tym, jak pozna?
     si? na programi?cie/webmasterze strony – artyku? pt. “Judging the technical quality
-    of a site”: <a href="http://friendlybit.com/tutorial/judging-the-technical-quality-of-a-site/"
-    rel="nofollow">http://friendlybit.com/tutorial/judging-the-technical-quality-of-a-site/</a>
+    of a site”: http://friendlybit.com/tutorial/judging-the-technical-quality-of-a-site/
     [...]'
   comment_date: '2010-05-15 20:33:27'
   comment_post_ID: '95'

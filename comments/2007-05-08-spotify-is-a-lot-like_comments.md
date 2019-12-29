@@ -15,8 +15,8 @@ comments:
   comment_author: Martin S.
   comment_author_url: http://www.dileno.com
   comment_content: 'lewis: J.River Media Center is my player of choice. Grab the trial
-    at <a href="http://www.jrmediacenter.com/" rel="nofollow">http://www.jrmediacenter.com/</a>
-    and see for yourself! :)\n\nEmil; thanks for sharing.'
+    at http://www.jrmediacenter.com/ and see for yourself! :)\n\nEmil; thanks for
+    sharing.'
   comment_date: '2007-05-15 12:41:57'
   comment_post_ID: '125'
   comment_type: null

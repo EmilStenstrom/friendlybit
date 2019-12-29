@@ -8,10 +8,10 @@ comments:
     the css content I can not see how they converge. I opened a pratice page on Geocities
     and have added both saved files in the file manager. but it does not come up as
     one page. to give me the green back ground with the the title that I have placed
-    on it my pratice link as follows <a href="http://www.geocities.com/thugsnluv7"
-    rel="nofollow">http://www.geocities.com/thugsnluv7</a> can u see what I have done
-    wrong...I would really like to know how to improve my skills so that when I open
-    my real web site things will flow more easily.Thanks for your time\nEzell
+    on it my pratice link as follows http://www.geocities.com/thugsnluv7 can u see
+    what I have done wrong...I would really like to know how to improve my skills
+    so that when I open my real web site things will flow more easily.Thanks for your
+    time\nEzell
   comment_date: '2006-02-10 06:34:55'
   comment_post_ID: '43'
   comment_type: null

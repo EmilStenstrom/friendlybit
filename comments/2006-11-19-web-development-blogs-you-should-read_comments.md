@@ -81,8 +81,7 @@ comments:
 - comment_ID: '7554'
   comment_author: Jennifer Curtiss
   comment_author_url: http://blog.neatlysliced.com
-  comment_content: How could you forsake <a href="http://www.particletree.com" rel="nofollow">http://www.particletree.com</a>
-    and <a href="http://www.alistapart.com?\n\nAn" rel="nofollow">http://www.alistapart.com?\n\nAn</a>
+  comment_content: How could you forsake http://www.particletree.com and http://www.alistapart.com?\n\nAn
     otherwise decent list.
   comment_date: '2006-11-21 06:11:58'
   comment_post_ID: '105'
@@ -118,8 +117,7 @@ comments:
   comment_author: Björn LIlja
   comment_author_url: http://www.rundkvadrat.com
   comment_content: I too, feel very honoured! \n\nTo be honest, there are plenty of
-    great  international blogs about web revenue, such as Workboxers, <a href="http://workboxers.com"
-    rel="nofollow">http://workboxers.com</a>
+    great  international blogs about web revenue, such as Workboxers, http://workboxers.com
   comment_date: '2006-11-30 00:27:08'
   comment_post_ID: '105'
   comment_type: null
@@ -135,9 +133,8 @@ comments:
 - comment_ID: '8990'
   comment_author: Depth Charged
   comment_author_url: ''
-  comment_content: <a href="http://www.howtocreate.co.uk" rel="nofollow">http://www.howtocreate.co.uk</a>
-    - no gossiplog but damn good reads about javascript, browsers etcetera and even
-    you can ask pro help !
+  comment_content: http://www.howtocreate.co.uk - no gossiplog but damn good reads
+    about javascript, browsers etcetera and even you can ask pro help !
   comment_date: '2006-12-12 00:47:40'
   comment_post_ID: '105'
   comment_type: null

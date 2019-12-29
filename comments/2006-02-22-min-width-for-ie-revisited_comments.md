@@ -22,8 +22,7 @@ comments:
   comment_author: Pete
   comment_author_url: ''
   comment_content: Something like a width in % and a min and max width in em's. As
-    is used in this presentation:\n\n<a href="http://leftjustified.net/site-in-an-hour/"
-    rel="nofollow">http://leftjustified.net/site-in-an-hour/</a>
+    is used in this presentation:\n\nhttp://leftjustified.net/site-in-an-hour/
   comment_date: '2006-02-28 17:16:21'
   comment_post_ID: '47'
   comment_type: null
@@ -31,8 +30,7 @@ comments:
 - comment_ID: '228'
   comment_author: David
   comment_author_url: ''
-  comment_content: Have you tested this on IE7?\n\n<a href="http://blogs.msdn.com/ie/archive/2005/09/02/460115.aspx"
-    rel="nofollow">http://blogs.msdn.com/ie/archive/2005/09/02/460115.aspx</a>
+  comment_content: Have you tested this on IE7?\n\nhttp://blogs.msdn.com/ie/archive/2005/09/02/460115.aspx
   comment_date: '2006-03-01 07:32:27'
   comment_post_ID: '47'
   comment_type: null

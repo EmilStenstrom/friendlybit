@@ -44,8 +44,7 @@ comments:
 - comment_ID: '305'
   comment_author: stefan asemota
   comment_author_url: http://www.asemota.de
-  comment_content: And the Oscar goes to....\n<a href="http://www.renttoownrealestate.com/"
-    rel="nofollow">http://www.renttoownrealestate.com/</a>
+  comment_content: And the Oscar goes to....\nhttp://www.renttoownrealestate.com/
   comment_date: '2006-03-14 20:38:02'
   comment_post_ID: '49'
   comment_type: null
@@ -187,8 +186,7 @@ comments:
 - comment_ID: '412'
   comment_author: Rowan Lewis
   comment_author_url: http://www.pixelcarnage.com/
-  comment_content: 'Well, here is a shocker for you: <a href="http://www.pixelcarnage.com/dump/bad.html"
-    rel="nofollow">http://www.pixelcarnage.com/dump/bad.html</a>'
+  comment_content: 'Well, here is a shocker for you: http://www.pixelcarnage.com/dump/bad.html'
   comment_date: '2006-04-14 15:55:43'
   comment_post_ID: '49'
   comment_type: null
@@ -257,10 +255,10 @@ comments:
 - comment_ID: '1010'
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
-  comment_content: 'Another really terrible site: <a href="http://aardvark.com/" rel="nofollow">http://aardvark.com/</a>
-    Check out those mouseover effects on the links. GAAAH!\n\nA study in the works
-    menues every made: <a href="http://www.showcaves.co.uk/pages/ironage.html" rel="nofollow">http://www.showcaves.co.uk/pages/ironage.html</a>
-    Can you figure out how the menu to the left works?'
+  comment_content: 'Another really terrible site: http://aardvark.com/ Check out those
+    mouseover effects on the links. GAAAH!\n\nA study in the works menues every made:
+    http://www.showcaves.co.uk/pages/ironage.html Can you figure out how the menu
+    to the left works?'
   comment_date: '2006-06-04 02:09:01'
   comment_post_ID: '49'
   comment_type: null
@@ -327,8 +325,8 @@ comments:
   comment_author_url: http://www.dress4moments.de
   comment_content: You also can visit this side. I found it in german web and I`m
     not sure if it should realy be a "normal side" or if this should be a side to
-    win your challenge.. But this page is worth to have a look!\n<a href="http://www.ingenfeld.de"
-    rel="nofollow">http://www.ingenfeld.de</a> The badest one I ever visit!
+    win your challenge.. But this page is worth to have a look!\nhttp://www.ingenfeld.de
+    The badest one I ever visit!
   comment_date: '2007-01-07 17:13:44'
   comment_post_ID: '49'
   comment_type: null

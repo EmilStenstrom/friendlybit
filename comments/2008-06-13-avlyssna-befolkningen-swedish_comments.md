@@ -3,7 +3,7 @@ comments:
 - comment_ID: '30735'
   comment_author: m
   comment_author_url: ''
-  comment_content: <a href="http://blog.magical.se/?p=99" rel="nofollow">http://blog.magical.se/?p=99</a>
+  comment_content: http://blog.magical.se/?p=99
   comment_date: '2008-06-13 14:13:05'
   comment_post_ID: '164'
   comment_type: null

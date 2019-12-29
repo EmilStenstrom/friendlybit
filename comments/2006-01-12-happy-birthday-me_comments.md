@@ -27,8 +27,7 @@ comments:
 - comment_ID: '2441'
   comment_author: martin
   comment_author_url: ''
-  comment_content: 'Look here: <a href="http://www.google.com/search?client=opera&amp;rls=en&amp;q=the+answer+to+life+the+universe+and+everything&amp;sourceid=opera&amp;ie=utf-8&amp;oe=utf-8"
-    rel="nofollow">http://www.google.com/search?client=opera&amp;rls=en&amp;q=the+answer+to+life+the+universe+and+everything&amp;sourceid=opera&amp;ie=utf-8&amp;oe=utf-8</a>'
+  comment_content: 'Look here: http://www.google.com/search?client=opera&amp;rls=en&amp;q=the+answer+to+life+the+universe+and+everything&amp;sourceid=opera&amp;ie=utf-8&amp;oe=utf-8'
   comment_date: '2006-06-26 09:22:17'
   comment_post_ID: '34'
   comment_type: null

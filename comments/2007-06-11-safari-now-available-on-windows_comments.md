@@ -46,7 +46,7 @@ comments:
   comment_author_url: http://phun-ky.net
   comment_content: 'Well, as you probably might have noticed, there''s some bugs..
     Safari won''t show any/some h1/span tags.. \n\nTo find out more, check the post:
-    \n<a href="http://phun-ky.net/2007/06/safari-on-windows-bugs" rel="nofollow">http://phun-ky.net/2007/06/safari-on-windows-bugs</a>'
+    \nhttp://phun-ky.net/2007/06/safari-on-windows-bugs'
   comment_date: '2007-06-12 12:10:21'
   comment_post_ID: '130'
   comment_type: null

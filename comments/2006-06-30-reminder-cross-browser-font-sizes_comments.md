@@ -58,8 +58,7 @@ comments:
 - comment_ID: '3128'
   comment_author: Dork
   comment_author_url: ''
-  comment_content: How about Yahoo fonts.css\n\n<a href="http://developer.yahoo.com/yui/fonts/"
-    rel="nofollow">http://developer.yahoo.com/yui/fonts/</a>
+  comment_content: How about Yahoo fonts.css\n\nhttp://developer.yahoo.com/yui/fonts/
   comment_date: '2006-07-18 21:40:22'
   comment_post_ID: '73'
   comment_type: null

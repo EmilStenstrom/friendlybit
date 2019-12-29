@@ -52,7 +52,7 @@ comments:
   comment_author: unwiredbrain
   comment_author_url: ''
   comment_content: 'Watch out! It''s not ''border-collapsing'', it''s ''border-collapse'':
-    <a href="http://www.w3.org/TR/CSS21/tables.html#propdef-border-collapse" rel="nofollow">http://www.w3.org/TR/CSS21/tables.html#propdef-border-collapse</a>'
+    http://www.w3.org/TR/CSS21/tables.html#propdef-border-collapse'
   comment_date: '2008-03-18 01:55:24'
   comment_post_ID: '110'
   comment_type: null

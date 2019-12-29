@@ -4,7 +4,7 @@ comments:
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
   comment_content: 'One interesting idea is the multipart/x-mixed-replace mime-type:
-    <a href="http://en.wikipedia.org/wiki/MIME#Mixed-Replace_.28experimental.29" rel="nofollow">http://en.wikipedia.org/wiki/MIME#Mixed-Replace_.28experimental.29</a>'
+    http://en.wikipedia.org/wiki/MIME#Mixed-Replace_.28experimental.29'
   comment_date: '2012-01-08 15:29:42'
   comment_post_ID: '839'
   comment_type: null

@@ -97,8 +97,7 @@ comments:
     frames to this style.\n\nThe page works fine .....But, when I convert it to an
     external style sheet it works fine on the server. But it doesn't work when I run
     it merely on the local computer.\n\nDoes this make sense?\n\nThe content page
-    scrolls over the top of the header.\n\nHere's the page:\n<a href="http://www.testfamilygenealogy.com/Narratives/Early/fryburg.html\n\nAny"
-    rel="nofollow">http://www.testfamilygenealogy.com/Narratives/Early/fryburg.html\n\nAny</a>
+    scrolls over the top of the header.\n\nHere's the page:\nhttp://www.testfamilygenealogy.com/Narratives/Early/fryburg.html\n\nAny
     idea how to fix it?\n\nThanks
   comment_date: '2010-08-25 22:34:08'
   comment_post_ID: '573'
