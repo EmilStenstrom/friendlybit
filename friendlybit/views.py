@@ -1,100 +1,18 @@
-import re
-from glob import glob
 from datetime import datetime
-import os
+from glob import glob
 
 import aiofiles
 import frontmatter
-import mistune
-import pygments
 import pytz
 import sass
-from pygments.formatters.html import HtmlFormatter
-from pygments.lexers import get_lexer_by_name
-from starlette.applications import Starlette
 from starlette.exceptions import HTTPException
 from starlette.responses import FileResponse, RedirectResponse, StreamingResponse
-from starlette.routing import Mount, Route
-from starlette.staticfiles import StaticFiles
 from starlette.templating import Jinja2Templates
 
-
-class IncludeLangHtmlFormatter(HtmlFormatter):
-    def __init__(self, lang=None, **options):
-        super().__init__(**options)
-        self.lang = lang
-
-    def _wrap_div(self, inner):
-        yield 0, (f'<div class="highlight" data-language="{self.lang.upper()}">')
-        for tup in inner:
-            yield tup
-        yield 0, '</div>\n'
-
-class HighlightRenderer(mistune.HTMLRenderer):
-    def block_code(self, code, lang=None):
-        match = re.match(r"(.+) \{(.+)\}", lang) if lang else False
-        if match:
-            lang, class_ = match.groups()
-
-        if lang:
-            lexer = get_lexer_by_name(lang, stripall=True)
-            formatter = IncludeLangHtmlFormatter(lang=lang)
-            html = pygments.highlight(code, lexer, formatter)
-        else:
-            html = f'<pre>{mistune.escape(code)}</pre>'
-
-        if match:
-            return f'<div class="{class_[1:]}">{html}</div>'
-        return html
-
-    def codespan(self, code):
-        match = re.match(r"(.+) \{(.+)\}", code)
-        if match:
-            code, class_ = match.groups()
-
-        html = f'<code>{mistune.escape(code)}</code>'
-
-        if match:
-            return f'<span class="{class_[1:]}">{html}</span>'
-
-        return html
-
-    def heading(self, text, level):
-        tag = f'h{level}'
-        match = re.match(r"(.+) \{([^.}]+)(\.[^}]+)?\}", text)
-        if match:
-            text, id_, class_ = match.groups()
-            if class_:
-                return f'<{tag} id="{id_[1:]}" class="{class_[1:]}">{text}</{tag}>\n'
-
-            return f'<{tag} id="{id_[1:]}">{text}</{tag}>\n'
-
-        return f'<{tag}>{text}</{tag}>\n'
-
-
-markdown = mistune.create_markdown(
-    renderer=HighlightRenderer(escape=False),
-    plugins=['strikethrough', 'table'],
-)
-
-scss_files = [
-    "styles/normalize.scss",
-    "styles/base.scss",
-    "styles/highlight.scss",
-    "styles/layout.scss",
-]
+from friendlybit.markdown import markdown
+from friendlybit.settings import scss_files, site
 
 templates = Jinja2Templates(directory='templates')
-
-site = {
-    "title": "Friendly Bit - Web development blog",
-    "description": "Friendly Bit is a blog by Emil Stenström, a Swedish web developer that occasionally gets ideas of how to improve the internet.",  # NOQA
-    "url": "https://friendlybit.com",
-    "author": "Emil Stenström",
-    "timezone": "Europe/Stockholm",
-    "style_hash": sum([int(os.path.getmtime(filename)) for filename in scss_files]),
-    "google_analytics": "UA-67394-2",
-}
 
 async def homepage(request, format_="html"):
     posts = []
@@ -200,16 +118,3 @@ async def contact(request):
         'request': request,
     })
 
-routes = [
-    Route("/", endpoint=homepage),
-    Route("/articles/{category}/", endpoint=homepage),
-    Route("/favicon.ico", endpoint=favicon),
-    Route("/style.css", endpoint=css),
-    Route("/feed/", endpoint=feed),
-    Route("/feed/{category}/", endpoint=feed),
-    Route("/contact/", endpoint=contact),
-    Mount("/files", app=StaticFiles(directory='files', html=True), name="static"),
-    Route("/{category}/{slug}/", endpoint=post),
-]
-
-app = Starlette(debug=True, routes=routes)

@@ -3,7 +3,7 @@ import os
 import argparse
 
 def run():
-    os.system("uvicorn server:app --reload")
+    os.system("uvicorn friendlybit.server:app --reload")
 
 def deploy():
     os.system("git push dokku master")
