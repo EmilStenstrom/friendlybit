@@ -93,6 +93,7 @@ site = {
     "author": "Emil Stenström",
     "timezone": "Europe/Stockholm",
     "style_hash": sum([int(os.path.getmtime(filename)) for filename in scss_files]),
+    "google_analytics": "UA-67394-2",
 }
 
 async def homepage(request, format_="html"):
