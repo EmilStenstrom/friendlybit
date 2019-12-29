@@ -9,7 +9,7 @@ permalink: /security/how-to-make-e-mail-encrypted-for-everyone/
 title: How to make e-mail encrypted for everyone
 ---
 
-> **Update**: This post is a little naive. For the real deal, look at this video from the CTO of ProtonMail: <https://vimeo.com/216747532>
+> **Update**: For a wholesome look at e-mail security this video from the CTO of ProtonMail: <https://vimeo.com/216747532>
 
 When you send an e-mail today it's sent in plaintext. This means that when you connect to your local coffee shop's WiFi they can intercept all e-mail that is sent through their router. This is probably not the relationship you have with your barista…
 
