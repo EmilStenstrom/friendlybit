@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <link href="{{ site.url }}/feed/" rel="self" type="application/atom+xml" />
-    <link href="{{ site.url }}" rel="alternate" type="text/html" />
+    <link href="{{ site.url }}/" rel="alternate" type="text/html" />
     <updated>{{ posts.0.metadata.date.isoformat() }}</updated>
     <id>{{ site.url }}</id>
     <title type="html">{{ site.title }}</title>
@@ -16,7 +16,7 @@
             <author>
                 <name>{{ site.author }}</name>
             </author>
-            <summary type="html">{{ post.content|striptags|truncate(160) }}</summary>
+            <summary type="text">{{ post.content|striptags|truncate(160) }}</summary>
             <content type="html" xml:base="{{ post.metadata.guid }}">
                 {{ post.content }}
             </content>
