@@ -63,11 +63,11 @@ comments:
 - comment_ID: '30029'
   comment_author: Blog Surfer &raquo; What italic means
   comment_author_url: http://blogsurfer.net/29/what-italic-means.html
-  comment_content: '[...] Don&#8217;t attach HTML-files in Outlook Just a short word
-    of warning. I thought I&#8217;d mail the min-/max-width template to a colleague
-    at work. So I fired up Outlook, attached the file and sent it. I thought that
-    was it, Outlook couldn&#8217;t get something simple like that wrong, could it?
-    Yes it could! Opening the file I found some pretty nasty [&#8230;] [...]'
+  comment_content: '[...] Don’t attach HTML-files in Outlook Just a short word of
+    warning. I thought I’d mail the min-/max-width template to a colleague at work.
+    So I fired up Outlook, attached the file and sent it. I thought that was it, Outlook
+    couldn’t get something simple like that wrong, could it? Yes it could! Opening
+    the file I found some pretty nasty […] [...]'
   comment_date: '2007-12-30 13:21:58'
   comment_post_ID: '127'
   comment_type: pingback

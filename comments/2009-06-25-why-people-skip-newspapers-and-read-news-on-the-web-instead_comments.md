@@ -225,12 +225,13 @@ comments:
   comment_content: Very thought provoking reasons you have given as to why people
     like to read news on websites rather than going for a newspaper. Although for
     some newspaper should be kept completely separate from the digital and technological
-    world.\n\n       But yes, if you want to sift news quickly than online news is the
-    best thing you can go for. It takes hell of a time to go for the relevant articles
-    and then find the remaining part on the inside pages. Moreover relevant news also
-    comes up on websites. The opinion that newspapers are static and slow is a good
-    argument since the news we are reading is "actually" yesterday's and if something
-    happens (a breaking news) the so-called newspaper readers also go and check websites.\n
+    world.\n\n       But yes, if you want to sift news quickly than online news is
+    the best thing you can go for. It takes hell of a time to go for the relevant
+    articles and then find the remaining part on the inside pages. Moreover relevant
+    news also comes up on websites. The opinion that newspapers are static and slow
+    is a good argument since the news we are reading is "actually" yesterday's and
+    if something happens (a breaking news) the so-called newspaper readers also go
+    and check websites.\n
   comment_date: '2011-01-20 17:38:00'
   comment_post_ID: '494'
   comment_type: null

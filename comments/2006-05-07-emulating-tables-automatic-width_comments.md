@@ -53,9 +53,9 @@ comments:
   comment_author: Stupid Wordpress Tricks &raquo; Getting Table-Like Effects Using
     CSS
   comment_author_url: http://www.irakrakow.com/wptips/2006/05/09/getting-table-like-effects-using-css/
-  comment_content: '[...] &#8220;Moving from tables to layouts based on CSS is a tough
-    move for many&#8221;, according to friendlybit.com.To help with the conversion,
-    they came up with this tutorial on how to get table-like effects with CSS. [...]'
+  comment_content: '[...] “Moving from tables to layouts based on CSS is a tough move
+    for many”, according to friendlybit.com.To help with the conversion, they came
+    up with this tutorial on how to get table-like effects with CSS. [...]'
   comment_date: '2006-05-09 17:39:31'
   comment_post_ID: '62'
   comment_type: pingback

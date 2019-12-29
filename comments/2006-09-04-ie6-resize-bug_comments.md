@@ -104,13 +104,12 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '4702'
-  comment_author: Lightbox feature added to JaS - JavaScript Slides - Robert&#8217;s
-    talk
+  comment_author: Lightbox feature added to JaS - JavaScript Slides - Robert’s talk
   comment_author_url: http://www.robertnyman.com/2006/09/15/lightbox-feature-added-to-jas-javascript-slides/
   comment_content: '[...] The position: relative is applied to the body element to
     get rid of the unexpected position: fixed effect in IE when setting position:
-    relative to an element within a floated element. For more info, read Emil&#8217;s
-    IE6 resize bug (position: relative becomes fixed). [...]'
+    relative to an element within a floated element. For more info, read Emil’s IE6
+    resize bug (position: relative becomes fixed). [...]'
   comment_date: '2006-09-15 15:09:26'
   comment_post_ID: '91'
   comment_type: pingback

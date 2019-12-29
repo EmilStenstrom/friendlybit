@@ -86,11 +86,11 @@ comments:
   comment_author: Blog Surfer &raquo; Media attribute - what have you done for me
     lately?
   comment_author_url: http://blogsurfer.net/227/media-attribute-what-have-you-done-for-me-lately.html
-  comment_content: '[...] Media attribute - what have you done for me lately? I&#8217;ve
+  comment_content: '[...] Media attribute - what have you done for me lately? I’ve
     been thinking for a while about the media attribute on link tags. Some people
     might find that thinking deep thoughts about HTML attributes is kind of strange,
     but I know you, my dear readers, know the feeling  An example, just so I know
-    we&#8217;re on the same page: [...]'
+    we’re on the same page: [...]'
   comment_date: '2007-12-31 01:20:39'
   comment_post_ID: '136'
   comment_type: pingback

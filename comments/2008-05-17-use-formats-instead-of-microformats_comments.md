@@ -442,8 +442,8 @@ comments:
   comment_author: Your Internet Classroom | Coffee on the Keyboard
   comment_author_url: http://coffeeonthekeyboard.com/your-internet-classroom-95/
   comment_content: '[...] a great example of someone who does get involved, check
-    out Emil Stenström&#8217;s post about microformats. He&#8217;s the cool prof who
-    likes to engage you in a discussion, will support his theories and [...]'
+    out Emil Stenström’s post about microformats. He’s the cool prof who likes to
+    engage you in a discussion, will support his theories and [...]'
   comment_date: '2008-05-30 16:45:03'
   comment_post_ID: '161'
   comment_type: pingback

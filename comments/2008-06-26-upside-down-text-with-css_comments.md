@@ -154,9 +154,9 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '30870'
-  comment_author: '&#647;&#305;&#32;&#647;&#477;&#387;&#32;&#647;&#8216;&#117;&#112;&#305;&#112;&#32;&#654;&#111;&#113;&#623;&#592;&#100;&#115;'
+  comment_author: ʇı ʇǝƃ ʇ‘upıp ʎoqɯɐds
   comment_author_url: ''
-  comment_content: '&#647;&#305;&#32;&#647;&#477;&#387;&#32;&#647;&#8216;&#117;&#112;&#305;&#112;&#32;&#654;&#111;&#113;&#623;&#592;&#100;&#115;'
+  comment_content: ʇı ʇǝƃ ʇ‘upıp ʎoqɯɐds
   comment_date: '2008-08-06 03:39:45'
   comment_post_ID: '167'
   comment_type: null
@@ -230,7 +230,7 @@ comments:
   comment_author: ???
   comment_author_url: ''
   comment_content: hmm, the most recent comment was this month... \nI'd like an upside
-    down "arrow", IOW, an upside down caret ^\n :-/\nhmm\n&#8593;\n&#8595;
+    down "arrow", IOW, an upside down caret ^\n :-/\nhmm\n↑\n↓
   comment_date: '2008-12-09 14:54:16'
   comment_post_ID: '167'
   comment_type: null

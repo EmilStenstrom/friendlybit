@@ -156,7 +156,7 @@ comments:
   comment_type: pingback
   is_admin: '0'
 - comment_ID: '4917'
-  comment_author: What&#8217;s hot and what&#8217;s not in HTML at The Blog Herald
+  comment_author: What’s hot and what’s not in HTML at The Blog Herald
   comment_author_url: http://www.blogherald.com/2006/09/21/whats-hot-and-whats-not-in-html/
   comment_content: '[...] Emil over at Friendly Bit has written a nice post called
     Encyclopedia of HTML elements where he comments on what elements he thinks are
@@ -584,7 +584,7 @@ comments:
   comment_author: WebDevTools &raquo; Blog Archive &raquo; The Encyclopedia of HTML
     elements
   comment_author_url: http://www.webdevtools.net/?p=4
-  comment_content: '[...] Friendly Bit&#8217;s Encyclopedia of HTML  [...]'
+  comment_content: '[...] Friendly Bit’s Encyclopedia of HTML  [...]'
   comment_date: '2007-04-10 12:38:03'
   comment_post_ID: '94'
   comment_type: pingback
@@ -642,8 +642,8 @@ comments:
     rel="nofollow">W3C answer</a> that recommends using markup for text direction
     (for the above reasons).\n\nMaybe these things can be thought of as meta data
     about the text? Just like you use the LANG attribute to describe the text''s language,
-    you use the DIR attribute and BDO tag to describe its direction. (Okay, I do
-    agree it''s silly to have an element just for this... They could''ve done something
+    you use the DIR attribute and BDO tag to describe its direction. (Okay, I do agree
+    it''s silly to have an element just for this... They could''ve done something
     like dir="rtl bdo" instead.)'
   comment_date: '2007-06-20 11:33:34'
   comment_post_ID: '94'
@@ -765,7 +765,7 @@ comments:
   comment_author: Enciclopedia de los elementos HTML | Carlos Montalvo
   comment_author_url: http://www.carlosmontalvo.com/2011/01/enciclopedia-de-los-elementos-html
   comment_content: '[...] Enciclopedia de los elementos HTML muy buena para que pedir
-    más&#8230;   google_ad_client = &quot;pub-9635237586618960&quot;; /* 468x60, creado
+    más…   google_ad_client = &quot;pub-9635237586618960&quot;; /* 468x60, creado
     16/01/10 */ google_ad_slot = &quot;2939202578&quot;; google_ad_width = 468; google_ad_height
     = 60;   Otros temas RelacionadosCheat Sheets (o chuletas) para desarrollo webConvertir
     plantilla HTML a joomla [...]'

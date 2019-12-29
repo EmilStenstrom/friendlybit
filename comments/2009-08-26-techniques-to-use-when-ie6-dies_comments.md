@@ -302,8 +302,8 @@ comments:
   comment_author: maxpagels.com
   comment_author_url: http://www.maxpagels.com/2009/10/09/454/
   comment_content: '[...] always interesting Friendly Bit blog has a list of techniques
-    that don&#8217;t work in Internet Explorer 6 but do in IE7. Included in the post&#8217;s
-    comments is a link to &#8220;When can I use&#8230;&#8221; a site that [...]'
+    that don’t work in Internet Explorer 6 but do in IE7. Included in the post’s comments
+    is a link to “When can I use…” a site that [...]'
   comment_date: '2009-10-09 11:16:38'
   comment_post_ID: '496'
   comment_type: pingback

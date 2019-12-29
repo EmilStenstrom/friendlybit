@@ -55,13 +55,12 @@ comments:
   comment_author_url: http://www.mayvelous.com/?p=239
   comment_content: '[...] Over at friendlybit, Emil talks of feed readers being a
     threat to a design on web. I find it a good article and something to think about.
-    I&#8217;ve seen many debates over &#8220;Full vs Partial Feed&#8221; publishing.
-    I&#8217;ve seen lots of talk on &#8220;Great Content vs Great Design&#8221;. Now
-    Emil brought up another thought on &#8220;Users should decide vs Webmasters should
-    decide&#8221; and &#8220;styling vs unstyling&#8221; web trends. The widely accepted
-    rule was to let the users decide the layout; after all why should we need to download
-    the same design over and over? Design was something the user decided, not the
-    author. [...]'
+    I’ve seen many debates over “Full vs Partial Feed” publishing. I’ve seen lots
+    of talk on “Great Content vs Great Design”. Now Emil brought up another thought
+    on “Users should decide vs Webmasters should decide” and “styling vs unstyling”
+    web trends. The widely accepted rule was to let the users decide the layout; after
+    all why should we need to download the same design over and over? Design was something
+    the user decided, not the author. [...]'
   comment_date: '2006-11-03 03:10:37'
   comment_post_ID: '101'
   comment_type: pingback

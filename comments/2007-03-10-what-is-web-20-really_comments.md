@@ -138,7 +138,7 @@ comments:
   comment_type: null
   is_admin: '1'
 - comment_ID: '30663'
-  comment_author: 'Web2.0 : Burad&#8217;s Blog'
+  comment_author: 'Web2.0 : Burad’s Blog'
   comment_author_url: http://aburad.com/blog/2006/03/web20.html
   comment_content: '[...] good explanatory article What is Web 2.0? Really.    March
     30, 2006 | Filed Under web2.0&nbsp;  [...]'

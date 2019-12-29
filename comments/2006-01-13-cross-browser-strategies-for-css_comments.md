@@ -297,7 +297,7 @@ comments:
 - comment_ID: '157'
   comment_author: Maksim Rossomachin
   comment_author_url: http://webmascon.com/
-  comment_content: 'Hello, Emil. Look at this, please (some info about * selector):\n\n&#171;The
+  comment_content: 'Hello, Emil. Look at this, please (some info about * selector):\n\n«The
     other thing is the use of the "star-selector," or * { } in CSS. The star selector
     selects every single element, which produces an overkill of style-nullifying.
     Sander pointed out that Mozilla (for one) has a great deal of default styling
@@ -307,7 +307,7 @@ comments:
     used to buttons behaving like buttons. I did some research in this, and as it
     turned out, most of all the weblogs I frequently comment on have this same problem:
     buttons not behaving like buttons. In most cases, it was indeed the star selector
-    being the culprit.&#187;\n\nCitation from http://kurafire.net/log/archive/2005/07/26/starting-css-revisited\n\nMaksim
+    being the culprit.»\n\nCitation from http://kurafire.net/log/archive/2005/07/26/starting-css-revisited\n\nMaksim
     Rossomachin, Russian Federation.'
   comment_date: '2006-02-11 07:10:06'
   comment_post_ID: '35'
@@ -382,7 +382,7 @@ comments:
 - comment_ID: '263'
   comment_author: Cert IV in IT (Web Design) | Further Links - CSS and more
   comment_author_url: http://c475.edublogs.org/2006/03/09/further-links-css-and-more/
-  comment_content: '[...] Friendly Bit &#187; Cross-browser strategies for CSS [...]'
+  comment_content: '[...] Friendly Bit » Cross-browser strategies for CSS [...]'
   comment_date: '2006-03-09 09:11:03'
   comment_post_ID: '35'
   comment_type: pingback
@@ -390,7 +390,7 @@ comments:
 - comment_ID: '264'
   comment_author: Cert IV in IT (Multimedia) | Further Links - CSS and more
   comment_author_url: http://c123.edublogs.org/2006/03/09/further-links-css-and-more/
-  comment_content: '[...] Friendly Bit &#187; Cross-browser strategies for CSS [...]'
+  comment_content: '[...] Friendly Bit » Cross-browser strategies for CSS [...]'
   comment_date: '2006-03-09 09:11:22'
   comment_post_ID: '35'
   comment_type: pingback
@@ -399,12 +399,12 @@ comments:
   comment_author: otro blog ms &raquo; Unos cuantos de desarrollo web (LXXXII)
   comment_author_url: http://obm.corcoles.net/20060320/unos-cuantos-de-desarrollo-web-lxxxii/
   comment_content: '[...] Cosillas CSS. Un tutorial de nivel bsico. Tambin es muy
-    interesante este tutorial &#8216;en directo&#8217;. Algo ms avanzado es este tutorial
-    de layout. Mientras tanto, el tutorial de Macromedia Adobe sobre CSS sigue avanzando,
-    y tenamos pendientes la sexta parte (dedicada a la hoja de estilo para impresin)
-    y la sptima (que se encarga de los dispositivos mviles). Unos cuantos consejos
-    sobre compatibilidad multinavegador. Finalmente, una herramienta: CSS Tweak, un
-    optimizador de CSS en lnea. [...]'
+    interesante este tutorial ‘en directo’. Algo ms avanzado es este tutorial de layout.
+    Mientras tanto, el tutorial de Macromedia Adobe sobre CSS sigue avanzando, y tenamos
+    pendientes la sexta parte (dedicada a la hoja de estilo para impresin) y la sptima
+    (que se encarga de los dispositivos mviles). Unos cuantos consejos sobre compatibilidad
+    multinavegador. Finalmente, una herramienta: CSS Tweak, un optimizador de CSS
+    en lnea. [...]'
   comment_date: '2006-03-20 22:32:19'
   comment_post_ID: '35'
   comment_type: pingback
@@ -534,7 +534,7 @@ comments:
     CSS has a good explanation of the basic elements you need to be aware of when
     you begin construction of your page and how paying attention to these details
     at the start can save you many headaches down the line. Be sure to check out the
-    CSS section of Friendly Bit, too; it&#8217;s filled with even more helpful information
+    CSS section of Friendly Bit, too; it’s filled with even more helpful information
     for beginners.  Readmore [...]'
   comment_date: '2006-09-18 07:45:56'
   comment_post_ID: '35'
@@ -599,7 +599,7 @@ comments:
   comment_type: null
   is_admin: '1'
 - comment_ID: '30182'
-  comment_author: Hello world! &laquo; Webkori&#8217;s Weblog
+  comment_author: Hello world! &laquo; Webkori’s Weblog
   comment_author_url: http://webkori.wordpress.com/2008/01/24/hello-world/
   comment_content: '[...] Cross Browser CSS For Your Site Emil Stenstrom writes some
     guidelines for making your CSS cross browser compatible. This site has very good
@@ -659,9 +659,9 @@ comments:
   is_admin: '0'
 - comment_ID: '31501'
   comment_author: 'Sem medo de bugs: aplicando CSS para IE6, IE7 e outros browsers
-    &#8230; &laquo; Deus, o mestre do design!'
+    … &laquo; Deus, o mestre do design!'
   comment_author_url: http://accsdesigner.wordpress.com/2009/02/20/sem-medo-de-bugs-aplicando-css-para-ie6-ie7-e-outros-browsers/
-  comment_content: '[...] Outras referências para cross-browser &#8230; http://www.456bereastreet.com/archive/200602/writing_crossbrowser_css/
+  comment_content: '[...] Outras referências para cross-browser … http://www.456bereastreet.com/archive/200602/writing_crossbrowser_css/
     http://friendlybit.com/css/cross-browser-strategies-for-css/ [...]'
   comment_date: '2009-02-20 19:11:32'
   comment_post_ID: '35'

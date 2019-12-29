@@ -5,9 +5,10 @@ comments:
   comment_author_url: http://bitsia.com
   comment_content: I saw that you added upgrade ie bar on your site.\nI use this practice
     for a while now, but I want my users to have a choice, so I suggest http://browsehappy.com.\n\nThis
-    is my code:\n<code>&lt;!--[if lte IE 6]>&lt;strong>Hello!&lt;/strong> Just to let
-    you know, things might look a little wierd in Interent Eplorer 6 and under. Feel
-    free to &lt;a href="http://browsehappy.com/" rel="nofollow">try a different browser!&lt;/a>&lt;![endif]--&gt;</code>
+    is my code:\n<code>&lt;!--[if lte IE 6]>&lt;strong>Hello!&lt;/strong> Just to
+    let you know, things might look a little wierd in Interent Eplorer 6 and under.
+    Feel free to &lt;a href="http://browsehappy.com/" rel="nofollow">try a different
+    browser!&lt;/a>&lt;![endif]--&gt;</code>
   comment_date: '2009-02-13 16:06:40'
   comment_post_ID: '430'
   comment_type: null
@@ -404,14 +405,12 @@ comments:
   comment_author: Scott
   comment_author_url: ''
   comment_content: Good god, man - your spelling and grammar is so atrocious that
-    it has driven me away.  \n\nFor instance, on this page alone:\n<q>You
-    don’t want these people do to their online banking </q>\n<q>if
-    people are paying you do build websites for them</q>\n\n<q>IE6
-    just don’t get your styling right</q>\n<q>twice as productive
-    to your employer it you did things differently</q>\n<q>ome
-    people will call me and Microsoft-hater</q>\n<q>I don’t like
-    most things Microsoft do.</q>\n<q>find any reasons that warrants
-    disappointing IE6</q>
+    it has driven me away.  \n\nFor instance, on this page alone:\n<q>You don’t want
+    these people do to their online banking </q>\n<q>if people are paying you do build
+    websites for them</q>\n\n<q>IE6 just don’t get your styling right</q>\n<q>twice
+    as productive to your employer it you did things differently</q>\n<q>ome people
+    will call me and Microsoft-hater</q>\n<q>I don’t like most things Microsoft do.</q>\n<q>find
+    any reasons that warrants disappointing IE6</q>
   comment_date: '2009-03-29 21:39:38'
   comment_post_ID: '430'
   comment_type: null
@@ -426,7 +425,7 @@ comments:
   comment_type: null
   is_admin: '1'
 - comment_ID: '31689'
-  comment_author: Mediascreen &raquo; IE6-användare&#8230;
+  comment_author: Mediascreen &raquo; IE6-användare…
   comment_author_url: http://mediascreen.se/2009/04/ie6-anvandare/
   comment_content: '[...] har inte börjat uppmana IE6-användare att uppgradera webbläsare
     än. Om jag börjar så finns det en viss risk för att år av tillbakahållen aggression
@@ -460,13 +459,13 @@ comments:
     is significant if you can drop IE6 support. It''s not so much that it''s hard
     to support, it''s all the time it consumes.... I know the ins and outs of IE6,
     I just hate going through hoops to do what it needs, downgrading features because
-    it can''t handle them. \n\nI''ve come to use your second tactic when customers have
-    few IE6 users that they can''t ignore. I just make the text readable, and the
-    major flows work as they should, and let the design look a bit messy. Always with
-    a warning, and a message for the user to upgrade. \n\nI agree that we can find worse
-    browsers than IE6 to support, but I think that''s beside the point. We need a
-    better environment to be productive in, and that requires the immediate death
-    of IE6. *Loads gun*'
+    it can''t handle them. \n\nI''ve come to use your second tactic when customers
+    have few IE6 users that they can''t ignore. I just make the text readable, and
+    the major flows work as they should, and let the design look a bit messy. Always
+    with a warning, and a message for the user to upgrade. \n\nI agree that we can
+    find worse browsers than IE6 to support, but I think that''s beside the point.
+    We need a better environment to be productive in, and that requires the immediate
+    death of IE6. *Loads gun*'
   comment_date: '2009-07-07 09:30:45'
   comment_post_ID: '430'
   comment_type: null
@@ -479,8 +478,7 @@ comments:
     hasn't updated their web-browser to one that works properly yet i would begin
     to question their sanity.  on my personal site, i capture if ie &lt; 8 and tell
     them to bugger off, &quot;your browser fails miserably, go away&quot;. then again,
-    i&#039;m not selling anything and don&#039;t have any customers / followers to
-    speak of.
+    i'm not selling anything and don't have any customers / followers to speak of.
   comment_date: '2009-07-18 04:12:28'
   comment_post_ID: '430'
   comment_type: null
@@ -600,8 +598,8 @@ comments:
   comment_author: Techniques to use when IE6 dies | Web Development News
   comment_author_url: http://www.webdevelopmentnews.net/?p=375
   comment_content: '[...] except Microsoft themselves are talking about the death
-    of IE6. I&#8217;ve tried motivating people to drop support, arguing that you at
-    least can show IE6 users a message. Many have replied with &#8220;but our IT [...]'
+    of IE6. I’ve tried motivating people to drop support, arguing that you at least
+    can show IE6 users a message. Many have replied with “but our IT [...]'
   comment_date: '2010-03-11 17:54:48'
   comment_post_ID: '430'
   comment_type: pingback

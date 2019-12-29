@@ -197,12 +197,12 @@ comments:
   comment_type: null
   is_admin: '1'
 - comment_ID: '31289'
-  comment_author: Spotify invite bonanza week - UK residents, Happy Holidays! - Robert&#8217;s
+  comment_author: Spotify invite bonanza week - UK residents, Happy Holidays! - Robert’s
     talk - Web development and Internet trends
   comment_author_url: http://www.robertnyman.com/2008/12/09/spotify-invite-bonanza-week-uk-residents-happy-holidays/
   comment_content: '[...] but if you have missed what it is all about, please read
-    my previous posts about Spotify or Emil&#8217;s great arguments why it will rock
-    your world [...]'
+    my previous posts about Spotify or Emil’s great arguments why it will rock your
+    world [...]'
   comment_date: '2008-12-09 02:27:34'
   comment_post_ID: '378'
   comment_type: pingback

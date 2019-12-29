@@ -5,10 +5,10 @@ comments:
   comment_author_url: ''
   comment_content: The interesting effect of all this will come in about 5-10 years,
     when people born in the 80's will reach boss and CEO positions in the big media
-    corps.\n\nMost of these people will by then never have subscribed to a printed newspaper.\n\nAnd
-    according to stats (lies, damn lies, stats) even less of the people born in the
-    90' or 00' will have done so.\n\nFuture bosses and CEO's will therefore make things
-    change. A lot, I guess.
+    corps.\n\nMost of these people will by then never have subscribed to a printed
+    newspaper.\n\nAnd according to stats (lies, damn lies, stats) even less of the
+    people born in the 90' or 00' will have done so.\n\nFuture bosses and CEO's will
+    therefore make things change. A lot, I guess.
   comment_date: '2011-02-09 08:04:00'
   comment_post_ID: '668'
   comment_type: null

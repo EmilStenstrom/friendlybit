@@ -98,12 +98,12 @@ comments:
   comment_author_url: http://friendlybit.com
   comment_content: '@Lewis Litanzios: I''d like to update that to "Code to reason
     first, to standards second". Far to many are standards zealots, and forget all
-    about reason (not saying you are one, of course :) ).\n\nAbout the folio link: I
-    removed the link because I thought it was out of context. Comments are about comments
-    to a main article. As this site is growing (over 2000 RSS subscribers!) I''m thinking
-    of adding an optional part where other people can post their articles or sites,
-    and ask for feedback. A request for feedback on a portfolio would fit perfectly
-    there.'
+    about reason (not saying you are one, of course :) ).\n\nAbout the folio link:
+    I removed the link because I thought it was out of context. Comments are about
+    comments to a main article. As this site is growing (over 2000 RSS subscribers!)
+    I''m thinking of adding an optional part where other people can post their articles
+    or sites, and ask for feedback. A request for feedback on a portfolio would fit
+    perfectly there.'
   comment_date: '2009-02-02 13:54:58'
   comment_post_ID: '398'
   comment_type: null

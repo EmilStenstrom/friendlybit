@@ -362,7 +362,7 @@ comments:
 - comment_ID: '5222'
   comment_author: Mis Algoritmos &raquo; Blog Archive &raquo; Plantillas CSS
   comment_author_url: http://www.mis-algoritmos.com/2006/09/27/plantillas-css/
-  comment_content: '[...] Ahora si no hay pretextos  &#8230; Plantillas CSS prácticamente
+  comment_content: '[...] Ahora si no hay pretextos  … Plantillas CSS prácticamente
     básicas. [...]'
   comment_date: '2006-09-27 22:23:33'
   comment_post_ID: '32'

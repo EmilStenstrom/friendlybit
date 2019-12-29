@@ -32,10 +32,11 @@ comments:
   comment_author_url: ''
   comment_content: Some examples from W3C on how to write <a href="http://www.w3.org/QA/Tips/noClickHere"
     title=")" rel="nofollow">link text</a>.\n\n\nBtw, one thing I thought about when
-    reading this is, how should one handle <code>&lt;a href="javascript:history.go(-1);" rel="nofollow">go
-    back&lt;/a></code> or <code>&lt;a href="javascript:window.location.reload();" rel="nofollow">try
-    again&lt;/a></code> links.\n\n\nIn some way it feels right to write it like that, but it
-    also feels like there should be some better way.\n\nWithout redirect I mean.
+    reading this is, how should one handle <code>&lt;a href="javascript:history.go(-1);"
+    rel="nofollow">go back&lt;/a></code> or <code>&lt;a href="javascript:window.location.reload();"
+    rel="nofollow">try again&lt;/a></code> links.\n\n\nIn some way it feels right
+    to write it like that, but it also feels like there should be some better way.\n\nWithout
+    redirect I mean.
   comment_date: '2006-10-19 17:22:50'
   comment_post_ID: '99'
   comment_type: null
@@ -83,12 +84,12 @@ comments:
   comment_author_url: ''
   comment_content: I agree with your point fully, but aren't there certain situations
     where it becomes awkward not to use the click here?  For example, "To read the
-    full report, <code>&lt;a>click here&lt;/a></code>"  What would you replace it with?\n<code>"Read the 
-    &lt;a>full report&lt;/a>"</code> sounds a little demanding.\n
-    <code>"Here you can read the &lt;a>full report&lt;/a>"</code>
-    - Is this much better than click here?\nMaybe, <code>"The &lt;a>full report&lt;/a> is available
-        for download."</code>\n\nThose all sound more awkward than click here.  What would you
-    suggest?
+    full report, <code>&lt;a>click here&lt;/a></code>"  What would you replace it
+    with?\n<code>"Read the &lt;a>full report&lt;/a>"</code> sounds a little demanding.\n
+    <code>"Here you can read the &lt;a>full report&lt;/a>"</code> - Is this much better
+    than click here?\nMaybe, <code>"The &lt;a>full report&lt;/a> is available for
+    download."</code>\n\nThose all sound more awkward than click here.  What would
+    you suggest?
   comment_date: '2006-11-07 20:28:24'
   comment_post_ID: '99'
   comment_type: null
@@ -229,12 +230,11 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '30665'
-  comment_author: 7 Reasons Not to Link with &#8220;Click Here&#8221; | Sparkplug
-    CEO
+  comment_author: 7 Reasons Not to Link with “Click Here” | Sparkplug CEO
   comment_author_url: http://www.sparkplugging.com/sparkplug-ceo/7-reasons-not-to-link-with-click-here/
-  comment_content: '[...] billion (yes billion) instances in Google&#8217;s database
-    where website owners have used &#8220;click here&#8221; as linked text on their
-    website. Let me guess, that includes you, [...]'
+  comment_content: '[...] billion (yes billion) instances in Google’s database where
+    website owners have used “click here” as linked text on their website. Let me
+    guess, that includes you, [...]'
   comment_date: '2008-05-28 19:06:38'
   comment_post_ID: '99'
   comment_type: pingback
@@ -244,15 +244,14 @@ comments:
   comment_author_url: ''
   comment_content: '@Lazy:  The people using "click here" may or may not know how
     to market better than Emil, but they do not know how best to market.  A call to
-    action is important, but "click here" is a very weak call to action.\n\n<q>
-    As a command, “click here” is beautiful
-    in its simplicity, but it falls far short as a call to action – the trigger to
-    launch the customer on the complicated path to conversion – because it doesn’t
-    tell your email readers what you really want them to do.\n\nNor does it answer
-    that universal question all readers have that drives so many actions: “What’s
-    in it for me?”</q>\n\nYou can read more about this in the article <a
-    href="http://www.lyrishq.com/content/view/88/" rel="nofollow">8 Tips for a Stronger
-    Call to Action</a>.'
+    action is important, but "click here" is a very weak call to action.\n\n<q> As
+    a command, “click here” is beautiful in its simplicity, but it falls far short
+    as a call to action – the trigger to launch the customer on the complicated path
+    to conversion – because it doesn’t tell your email readers what you really want
+    them to do.\n\nNor does it answer that universal question all readers have that
+    drives so many actions: “What’s in it for me?”</q>\n\nYou can read more about
+    this in the article <a href="http://www.lyrishq.com/content/view/88/" rel="nofollow">8
+    Tips for a Stronger Call to Action</a>.'
   comment_date: '2009-03-17 02:47:06'
   comment_post_ID: '99'
   comment_type: null

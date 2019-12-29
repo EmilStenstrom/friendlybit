@@ -21,15 +21,15 @@ comments:
   comment_author: Quick Accessibility Testing &laquo; Je pense en Java, Java is fun
   comment_author_url: http://funjava.wordpress.com/2007/06/28/quick-accessibility-testing/
   comment_content: '[...] Quick Accessibility&nbsp;Testing Filed under: Web development
-    &#8212; funjava @ 5:14 pm   List of tools for Web accessibility testing: Quick
-    Accessibility Testing [...]'
+    — funjava @ 5:14 pm   List of tools for Web accessibility testing: Quick Accessibility
+    Testing [...]'
   comment_date: '2007-06-28 16:14:48'
   comment_post_ID: '128'
   comment_type: pingback
   is_admin: '0'
 - comment_ID: '25793'
-  comment_author: Web Dev Digest Episode 2 | ara pehlivanian&#8212;Web Standards,
-    Web Culture, Web Everything.&#8482;
+  comment_author: Web Dev Digest Episode 2 | ara pehlivanian—Web Standards, Web Culture,
+    Web Everything.™
   comment_author_url: http://arapehlivanian.com/2007/06/29/web-dev-digest-episode-2/
   comment_content: '[...] Accessibility testing on a shoestring budget [...]'
   comment_date: '2007-06-29 08:07:59'
@@ -41,7 +41,7 @@ comments:
     stealth in super-power school?'
   comment_author_url: http://brightmeadow.co.uk/?p=758
   comment_content: '[...] Bytes and Pieces Emil has, as always, good tips on how to
-    check if your site is &#8216;accessible&#8217;. [...]'
+    check if your site is ‘accessible’. [...]'
   comment_date: '2007-07-01 13:10:48'
   comment_post_ID: '128'
   comment_type: pingback
@@ -88,13 +88,13 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '30020'
-  comment_author: Blog Surfer &raquo; I&#8217;m an interface developer
+  comment_author: Blog Surfer &raquo; I’m an interface developer
   comment_author_url: http://blogsurfer.net/9/im-an-interface-developer.html
   comment_content: '[...] Quick Accessibility Testing A recent project of mine required
     me to do a quick review of the accessibility level of a site. Nothing serious,
     just to show what was possible to test and where the site scored right now. I
     managed to assemble a small list of tools that I believe did a rather good job.
-    This article [&#8230;] [...]'
+    This article […] [...]'
   comment_date: '2007-12-29 22:19:20'
   comment_post_ID: '128'
   comment_type: pingback

@@ -1668,7 +1668,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '30191'
-  comment_author: Adventures in Web Design &laquo; Blogs will be Blogs&#8230;
+  comment_author: Adventures in Web Design &laquo; Blogs will be Blogs…
   comment_author_url: http://thegelf.wordpress.com/2008/01/04/adventures-in-web-design/
   comment_content: '[...] This guy here told me: http://friendlybit.com/css/beginners-guide-to-css-and-standards/
     [...]'
@@ -1706,7 +1706,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '30333'
-  comment_author: Suomenkieliset HTML ja CSS -ohjeet &#8212; Oivallisia juttuja
+  comment_author: Suomenkieliset HTML ja CSS -ohjeet — Oivallisia juttuja
   comment_author_url: http://www.bobs.fi/oiva/2008/02/24/suomenkieliset-html-ja-css-ohjeet/
   comment_content: '[...] Friendly Bit: Beginner’s guide to CSS. Lisäksi myös standardeista
     ja hyvistä käytännöistä. [...]'
@@ -1906,8 +1906,8 @@ comments:
 - comment_ID: '32915'
   comment_author: 250+ Resources to Help You Become a CSS Expert | X Design Blog
   comment_author_url: http://www.xdesignblog.com/250-resources-to-help-you-become-a-css-expert
-  comment_content: '[...] Beginner&#8217;s Guide to CSS &#8211; A complete guide for
-    those new to CSS. [...]'
+  comment_content: '[...] Beginner’s Guide to CSS – A complete guide for those new
+    to CSS. [...]'
   comment_date: '2009-08-19 20:48:10'
   comment_post_ID: '27'
   comment_type: pingback
@@ -1915,8 +1915,8 @@ comments:
 - comment_ID: '32918'
   comment_author: 250+ Resources to Help You Become a CSS Expert | huibit05.com
   comment_author_url: http://huibit05.com/design/250-resources-to-help-you-become-a-css-expert/
-  comment_content: '[...] Beginner’s Guide to CSS &#8211; A complete guide for those
-    new to CSS. [...]'
+  comment_content: '[...] Beginner’s Guide to CSS – A complete guide for those new
+    to CSS. [...]'
   comment_date: '2009-08-20 15:56:51'
   comment_post_ID: '27'
   comment_type: pingback
@@ -1984,7 +1984,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '33489'
-  comment_author: CSS &laquo; Cristen&#39;s Blog
+  comment_author: CSS &laquo; Cristen's Blog
   comment_author_url: http://borby.wordpress.com/2010/04/07/css/
   comment_content: '[...] found this website http://friendlybit.com/css/beginners-guide-to-css-and-standards/
     as a great introductory guide into how css works and the definitions of selectors
@@ -2003,7 +2003,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '33531'
-  comment_author: Belajar CSS &laquo; Versus lab&#8217;s
+  comment_author: Belajar CSS &laquo; Versus lab’s
   comment_author_url: http://versuslab.wordpress.com/2010/05/05/belajar-css/
   comment_content: '[...] 2006-01-17 Emil Stenström telah menulis sebuah  petunjuk
     bagi Pemula untuk CSS dan standar-standar. [...]'
@@ -2022,11 +2022,9 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '33924'
-  comment_author: A Cascading Style Sheets (CSS) Beginner&#8217;s Tutorial | Werx
-    Limited
+  comment_author: A Cascading Style Sheets (CSS) Beginner’s Tutorial | Werx Limited
   comment_author_url: http://werxltd.com/wp/2010/06/15/a-cascading-style-sheets-css-beginners-tutorial/
-  comment_content: '[...] Friendly Bit&#8217;s Beginner&#8217;s Guide to CSS and Standards
-    [...]'
+  comment_content: '[...] Friendly Bit’s Beginner’s Guide to CSS and Standards [...]'
   comment_date: '2010-06-15 21:39:25'
   comment_post_ID: '27'
   comment_type: pingback

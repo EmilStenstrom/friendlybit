@@ -4,9 +4,9 @@ comments:
   comment_author: SitePoint Blogs &raquo; Jul 3, 2006 News Wire
   comment_author_url: http://www.sitepoint.com/blogs/2006/07/04/jul-3-2006-news-wire/
   comment_content: '[...] Current issues with Microformats Emil Stenström points out
-    some of the downsides of microformats (e.g. they don&#8217;t use namespaces),
-    and suggests how they might be addressed (e.g. meta tags to declare microformat
-    versions in use). (tags: microformats) [...]'
+    some of the downsides of microformats (e.g. they don’t use namespaces), and suggests
+    how they might be addressed (e.g. meta tags to declare microformat versions in
+    use). (tags: microformats) [...]'
   comment_date: '2006-07-03 22:46:43'
   comment_post_ID: '74'
   comment_type: pingback
@@ -160,7 +160,7 @@ comments:
   comment_type: null
   is_admin: '1'
 - comment_ID: '3885'
-  comment_author: Yeah, Nyman&#8217;s back - Robert&#8217;s talk
+  comment_author: Yeah, Nyman’s back - Robert’s talk
   comment_author_url: http://www.robertnyman.com/?p=491
   comment_content: '[...] We had a Geek Meet in June, and Emil did a good write-up
     of one of the presentations/talks in Current issues with Microformats. [...]'

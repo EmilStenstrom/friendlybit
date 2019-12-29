@@ -4,12 +4,12 @@ comments:
   comment_author: Geek Lectures - Things geeks should know about &raquo; Blog Archive
     &raquo; Sharepoint 2007 from an interface developer’s view
   comment_author_url: http://geeklectures.info/2008/01/20/sharepoint-2007-from-an-interface-developer%e2%80%99s-view/
-  comment_content: '[...] masuran.org wrote an interesting post today onHere&#8217;s
-    a quick excerpt Like Cameron Moll (Skinning Sharepoint and Pointedly unskinnable),
-    I’ve been working with Sharepoint 2007 (aka MOSS) recently, and I hope you don’t
-    mind me posting a few articles about my work here. I’ve found far too few blog
-    posts that really go to the depth in explaining how things really work. I’ll try
-    to do that here, but I hope you can respect my wish that this does not turn into
+  comment_content: '[...] masuran.org wrote an interesting post today onHere’s a quick
+    excerpt Like Cameron Moll (Skinning Sharepoint and Pointedly unskinnable), I’ve
+    been working with Sharepoint 2007 (aka MOSS) recently, and I hope you don’t mind
+    me posting a few articles about my work here. I’ve found far too few blog posts
+    that really go to the depth in explaining how things really work. I’ll try to
+    do that here, but I hope you can respect my wish that this does not turn into
     a helpdesk. “Customization” Let’s start. Sharepoint 2007 very, very hard to customize.
     If your job is to cust [...]'
   comment_date: '2008-01-20 13:26:08'
@@ -118,8 +118,8 @@ comments:
   comment_author_url: http://www.ryanahamilton.com/?p=107
   comment_content: '[...] Stenström recently wrote about his experiences with Microsoft
     Sharepoint 2007 (MOSS) entitled, Sharepoint 2007 from an interface developer’s
-    view. This is a task that I am currently undertaking at work, and I couldn&#8217;t
-    agree more with his [...]'
+    view. This is a task that I am currently undertaking at work, and I couldn’t agree
+    more with his [...]'
   comment_date: '2008-01-24 16:56:02'
   comment_post_ID: '140'
   comment_type: pingback
@@ -161,8 +161,8 @@ comments:
   comment_type: null
   is_admin: '1'
 - comment_ID: '30369'
-  comment_author: MOSS should be spelt MOCKERY - Robert&#8217;s talk - Web development
-    and Internet trends
+  comment_author: MOSS should be spelt MOCKERY - Robert’s talk - Web development and
+    Internet trends
   comment_author_url: http://www.robertnyman.com/2008/02/28/moss-should-be-spelt-mockery/
   comment_content: '[...] Sharepoint 2007 from an interface developer’s view [...]'
   comment_date: '2008-02-28 14:01:11'
@@ -364,16 +364,15 @@ comments:
   comment_author: justaddwater.dk | Sharepoint 2007, Accessibility, and Impossible
     UI Customization
   comment_author_url: http://justaddwater.dk/2008/01/20/sharepoint-2007-accessibility-and-impossible-ui-customization/
-  comment_content: '[...] Stenström&#8217;s recent &#8220;Sharepoint 2007 from an
-    interface developer’s view&#8221; is definitely worth reading if you care about
-    webstandards, accessibility and decent [...]'
+  comment_content: '[...] Stenström’s recent “Sharepoint 2007 from an interface developer’s
+    view” is definitely worth reading if you care about webstandards, accessibility
+    and decent [...]'
   comment_date: '2010-04-27 20:54:44'
   comment_post_ID: '140'
   comment_type: pingback
   is_admin: '0'
 - comment_ID: '34032'
-  comment_author: Sharepoint 2003 &#8211; Sharepoint 2007 &#8211; Sharepoint 2010
-    | PrivatesPortal
+  comment_author: Sharepoint 2003 – Sharepoint 2007 – Sharepoint 2010 | PrivatesPortal
   comment_author_url: http://portaleco.wordpress.com/2010/08/19/sharepoint-2003-sharepoint-2007-sharepoint-2010/
   comment_content: '[...] in SP 2010 sind für ein kleines Personal Portal nicht sehr
     signifikant - wesentliche Probleme von Sharepoint 2007 (speziell die Abhängigkeit

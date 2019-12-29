@@ -26,11 +26,11 @@ comments:
 - comment_ID: '30023'
   comment_author: Blog Surfer &raquo; Visual Studio 2008 Review
   comment_author_url: http://blogsurfer.net/12/visual-studio-2008-review.html
-  comment_content: '[...] IE8 renders the acid 2 test I&#8217;m not sure why I don&#8217;t
-    see that many people talking about the fact that IE8 renders the acid 2 test perfectly
+  comment_content: '[...] IE8 renders the acid 2 test I’m not sure why I don’t see
+    that many people talking about the fact that IE8 renders the acid 2 test perfectly
     now. It really seems Microsoft is starting to move forward again, after starting
     to feel some pressure from the open source world. Will they be able to pick up
-    the speed needed to [&#8230;] [...]'
+    the speed needed to […] [...]'
   comment_date: '2007-12-30 09:05:38'
   comment_post_ID: '148'
   comment_type: pingback
@@ -38,11 +38,11 @@ comments:
 - comment_ID: '30040'
   comment_author: Blog Surfer &raquo; What italic means
   comment_author_url: http://blogsurfer.net/202/what-italic-means-3.html
-  comment_content: '[...] IE8 renders the acid 2 test I&#8217;m not sure why I don&#8217;t
-    see that many people talking about the fact that IE8 renders the acid 2 test perfectly
+  comment_content: '[...] IE8 renders the acid 2 test I’m not sure why I don’t see
+    that many people talking about the fact that IE8 renders the acid 2 test perfectly
     now. It really seems Microsoft is starting to move forward again, after starting
     to feel some pressure from the open source world. Will they be able to pick up
-    the speed needed to [&#8230;] [...]'
+    the speed needed to […] [...]'
   comment_date: '2007-12-31 01:01:38'
   comment_post_ID: '148'
   comment_type: pingback

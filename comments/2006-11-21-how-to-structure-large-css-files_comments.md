@@ -243,9 +243,9 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '7838'
-  comment_author: Linky na víkend 36 na depi.sk - IT &#38; Life Weblog
+  comment_author: Linky na víkend 36 na depi.sk - IT & Life Weblog
   comment_author_url: http://depi.sk/2006/11/25/linky-na-vikend-36/
-  comment_content: '[...] How to structure large CSS files &#8211; ako štrukturalizova?
+  comment_content: '[...] How to structure large CSS files – ako štrukturalizova?
     rozsiahle CSS súbory [...]'
   comment_date: '2006-11-25 22:42:36'
   comment_post_ID: '106'
@@ -261,8 +261,8 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '7841'
-  comment_author: Amir&#8217;s Blog &raquo; How to structure large CSS files (Yes,
-    you do need to structure them)
+  comment_author: Amir’s Blog &raquo; How to structure large CSS files (Yes, you do
+    need to structure them)
   comment_author_url: http://amirsblog.freehostia.com/?p=35
   comment_content: '[...] Many methods exist to structure your CSS. This article tries
     to describe the method I use. I call it the “Tree method”, since it structures
@@ -333,8 +333,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '7880'
-  comment_author: Fatih Hayrio?lu&#8217;nun not defteri &raquo; 26 Kas?m WEb&#8217;den
-    seçme haberler
+  comment_author: Fatih Hayrio?lu’nun not defteri &raquo; 26 Kas?m WEb’den seçme haberler
   comment_author_url: http://www.fatihhayrioglu.com/?p=224
   comment_content: '[...] Büyük boyutlu CSS dosyalar?n? nas?l organize edece?imiz
     anlatan güzel bir makale http://friendlybit.com/css/how-to-structure-large-css-files/
@@ -403,8 +402,8 @@ comments:
   comment_author_url: http://www.anotherblogger.com/2006/11/26/how-to-structure-css-files/
   comment_content: '[...] How to Structure CSS Files   Sometimes things come across
     my aggregator at just the right time. Like when I saw How to structure large CSS
-    files via a del.icio.us feed as I&#8217;m gearing up on working on a brand new
-    WordPress theme.  tagged as: css, del.icio.us [...]'
+    files via a del.icio.us feed as I’m gearing up on working on a brand new WordPress
+    theme.  tagged as: css, del.icio.us [...]'
   comment_date: '2006-11-27 00:49:58'
   comment_post_ID: '106'
   comment_type: pingback
@@ -432,8 +431,8 @@ comments:
   comment_author: 11/27/2006 8:03 PM - Matthew Gifford
   comment_author_url: http://www.matthewgifford.com/2006/11/27/1301/
   comment_content: '[...] As a web developer, one of the things I struggle with is
-    keeping my CSS files from becoming a complete disaster. I&#8217;m sure that some
-    of you reading this share my pain. A couple days ago, I ran across a post by Emil
+    keeping my CSS files from becoming a complete disaster. I’m sure that some of
+    you reading this share my pain. A couple days ago, I ran across a post by Emil
     Stenström about what he calls the Tree Method. [...]'
   comment_date: '2006-11-28 06:04:03'
   comment_post_ID: '106'

@@ -153,8 +153,8 @@ comments:
   comment_author: Haruspex
   comment_author_url: ''
   comment_content: <b>Brendan Miller:</b>\n<blockquote cite="http://friendlybit.com/other/usability-isnt-a-crime/#comment-31593">[...]or
-    maybe you are so used to preaching to the quire that you don&#39;t know what a
-    real argument looks like.</blockquote>\n\n<b>@Brendan Miller:</b>\nI can't imagine
+    maybe you are so used to preaching to the quire that you don't know what a real
+    argument looks like.</blockquote>\n\n<b>@Brendan Miller:</b>\nI can't imagine
     why Emil would preach to one twentieth of a ream of paper (a quire).  Perhaps
     you should understand what you are saying before you speak.  Just because someone
     offends you with their semantics doesn't mean the article is invalid and should
@@ -220,11 +220,11 @@ comments:
   comment_author_url: http://www.veztekusa.com
   comment_content: Copyright holders protest and say that they “have to” get paid
     for what they produce. And that argument seems to work well with people, because
-    hey, why shouldn’t they? \n\n      Its not about being geeky or non-geeky.The whole
-    point is if a speaker gets paid on what he's reading, then the audience is "actually"
-    listening to what he's reading and the writer has a right to get paid. No one
-    denies that much piracy is going on and people do benefit from it, still its not
-    a good thing.
+    hey, why shouldn’t they? \n\n      Its not about being geeky or non-geeky.The
+    whole point is if a speaker gets paid on what he's reading, then the audience
+    is "actually" listening to what he's reading and the writer has a right to get
+    paid. No one denies that much piracy is going on and people do benefit from it,
+    still its not a good thing.
   comment_date: '2011-01-20 17:58:00'
   comment_post_ID: '460'
   comment_type: null

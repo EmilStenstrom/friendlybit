@@ -21,7 +21,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '30022'
-  comment_author: Goodbye 2007 - Happy New Year! - Robert&#8217;s talk
+  comment_author: Goodbye 2007 - Happy New Year! - Robert’s talk
   comment_author_url: http://www.robertnyman.com/2007/12/29/goodbye-2007-happy-new-year/
   comment_content: '[...] Future of web standards (my take) [...]'
   comment_date: '2007-12-29 22:43:18'
@@ -35,7 +35,7 @@ comments:
     up the ongoing debate about the future of CSS. My thoughts on this are that we
     should: 1. Let browser makers run loose with implementing new features, based
     on feedback from web developers. 2. Have a standard body (or some other group)
-    that look at those existing features and see how they can be [&#8230;] [...]'
+    that look at those existing features and see how they can be […] [...]'
   comment_date: '2007-12-30 17:13:30'
   comment_post_ID: '149'
   comment_type: pingback
@@ -47,7 +47,7 @@ comments:
     up the ongoing debate about the future of CSS. My thoughts on this are that we
     should: 1. Let browser makers run loose with implementing new features, based
     on feedback from web developers. 2. Have a standard body (or some other group)
-    that look at those existing features and see how they can be [&#8230;] [...]'
+    that look at those existing features and see how they can be […] [...]'
   comment_date: '2007-12-30 21:42:49'
   comment_post_ID: '149'
   comment_type: pingback

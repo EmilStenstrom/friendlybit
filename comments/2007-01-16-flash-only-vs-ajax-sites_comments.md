@@ -564,7 +564,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '34300'
-  comment_author: Does HTML5 mean the end is in sight for Silverlight? | Colin Eberhardt&#039;s
+  comment_author: Does HTML5 mean the end is in sight for Silverlight? | Colin Eberhardt's
     Adventures in WPF
   comment_author_url: http://www.scottlogic.co.uk/blog/colin/2010/11/does-html5-mean-the-end-is-in-sight-for-silverlight/
   comment_content: '[...] never fully replace HTML (For a thorough analysis take a

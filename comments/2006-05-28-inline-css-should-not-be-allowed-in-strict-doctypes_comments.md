@@ -113,12 +113,12 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '1077'
-  comment_author: Are inline styles bad? | ara pehlivanian&#8212;Web Standards, Web
-    Culture, Web Everything.&#8482;
+  comment_author: Are inline styles bad? | ara pehlivanian—Web Standards, Web Culture,
+    Web Everything.™
   comment_author_url: http://arapehlivanian.com/2006/06/06/are-inline-styles-bad/
   comment_content: '[...] Posted originally as a comment on 456 Berea Street. I had
-    also originally posted a comment on this very same topic on Emil Stenström&#8217;s
-    Friendly Bit [...]'
+    also originally posted a comment on this very same topic on Emil Stenström’s Friendly
+    Bit [...]'
   comment_date: '2006-06-06 17:57:13'
   comment_post_ID: '65'
   comment_type: pingback

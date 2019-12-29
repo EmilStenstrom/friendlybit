@@ -68,8 +68,8 @@ comments:
   comment_type: null
   is_admin: '1'
 - comment_ID: '3435'
-  comment_author: 'Bright Meadow &raquo; Sunday Roast: I don&#8217;t think science
-    and liberals are going to outlaw breathing'
+  comment_author: 'Bright Meadow &raquo; Sunday Roast: I don’t think science and liberals
+    are going to outlaw breathing'
   comment_author_url: http://brightmeadow.co.uk/?p=543
   comment_content: '[...] For all you doubters out there, see it is possible to make
     stunning websites that are also accessible. [...]'

@@ -245,9 +245,9 @@ comments:
   comment_content: Yes an object would allow you to include pages within HTML pages,
     however this has serious implications for search engines. Content within objects,
     frames and iframes might look right in a browser window, but search engines will
-    not be able to view and parse your content.\n\nUsing PHP or ASP only requires one
-    additional line of code to include another page such as a header or footer. You
-    don't have to master an entire programming language at all.
+    not be able to view and parse your content.\n\nUsing PHP or ASP only requires
+    one additional line of code to include another page such as a header or footer.
+    You don't have to master an entire programming language at all.
   comment_date: '2009-01-11 16:23:20'
   comment_post_ID: '320'
   comment_type: null

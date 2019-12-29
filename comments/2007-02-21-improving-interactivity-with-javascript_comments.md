@@ -129,7 +129,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '30331'
-  comment_author: Burad&#8217;s Blog &raquo; Blog Archive &raquo; Improving interactivity
+  comment_author: Burad’s Blog &raquo; Blog Archive &raquo; Improving interactivity
     with Javascript
   comment_author_url: http://aburad.com/blog/2007/02/22/improving-interactivity-with-javascript/
   comment_content: '[...] more friendly bit &gt;&gt; Improving interactivity with

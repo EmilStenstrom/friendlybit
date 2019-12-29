@@ -426,7 +426,7 @@ comments:
   comment_author_url: http://cultofsecrets.com/?p=10
   comment_content: '[...] Friendly Bits - This is a blog from Emil Stenström, I somehow
     stumbled onto one of his entries and thought it was quite interesting. I think
-    it was bookmarked because I never had a chance to read the entire article. I&#8217;m
+    it was bookmarked because I never had a chance to read the entire article. I’m
     posting it in hopes that I will someday have the time to read it. [...]'
   comment_date: '2007-01-06 18:01:44'
   comment_post_ID: '68'
@@ -436,7 +436,7 @@ comments:
   comment_author: Play
   comment_author_url: ''
   comment_content: nice site, very informative, well designed, easy to use ... what
-    can i say ? i love it&#8230;
+    can i say ? i love it…
   comment_date: '2007-01-31 20:30:30'
   comment_post_ID: '68'
   comment_type: null
@@ -446,7 +446,7 @@ comments:
     : Hackers e Standards'
   comment_author_url: http://margarida.net/mu/blog/2007/02/22/hackers-e-standards/
   comment_content: '[...] coisita pelo google (que me está a arreliar e muito), deparei-me
-    com este artigo que gostei muito: Real hackers don&#39;t use CSS, gostei bastante,
+    com este artigo que gostei muito: Real hackers don''t use CSS, gostei bastante,
     mostra o modo dos hackers (que por acaso posso dizer muitos portugueses) fazem
     os [...]'
   comment_date: '2007-02-22 13:38:49'

@@ -11,12 +11,12 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '37795'
-  comment_author: '[The Listserve] I&#8217;m sorry to break this to you&#8230; | Tam
-    Nguyen - Sacramento Photographer'
+  comment_author: '[The Listserve] I’m sorry to break this to you… | Tam Nguyen -
+    Sacramento Photographer'
   comment_author_url: http://tambnguyen.com/4206-the-listserve-im-sorry-break-this-you/
   comment_content: '[...] next big thing to swipe you off your feet. Have some fun
-    meanwhile, it&#8217;s easy&#8230;Source: Emil Stenström.GD Star Ratingloading...Tags:
-    personal, repostFollow me on RSS, Facebook, Twitter or Google+ Share [...]'
+    meanwhile, it’s easy…Source: Emil Stenström.GD Star Ratingloading...Tags: personal,
+    repostFollow me on RSS, Facebook, Twitter or Google+ Share [...]'
   comment_date: '2012-04-22 00:15:17'
   comment_post_ID: '874'
   comment_type: pingback

@@ -530,8 +530,8 @@ comments:
   comment_author_url: http://9rules.com/blog/2006/09/friendly-bit-2/
   comment_content: '[...] Friendly Bit strives to be one of the best blogs for easily
     digested info about client side web development. The articles are easy to follow,
-    and I&#8217;m sure you&#8217;ll find something you should bookmark because you
-    learned something or you laughed. [...]'
+    and I’m sure you’ll find something you should bookmark because you learned something
+    or you laughed. [...]'
   comment_date: '2006-09-02 04:20:40'
   comment_post_ID: '89'
   comment_type: pingback
@@ -1467,12 +1467,12 @@ comments:
 - comment_ID: '31713'
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
-  comment_content: '@Jim Westergren: Nice that you liked the article :) \n\nSince HTML5
-    is the future, it shouldn''t matter if you use HTML 4 Strict, or XHTML 1.0 Strict,
-    they are all incorporated into HTML5. I truly believe that''s the best thing for
-    the future of the web. It will take a couple of years, but browsers are already
-    building offline storage and stuff like that. Also, big parts of the spec are
-    just respecifications of how browsers have implemented stuff.'
+  comment_content: '@Jim Westergren: Nice that you liked the article :) \n\nSince
+    HTML5 is the future, it shouldn''t matter if you use HTML 4 Strict, or XHTML 1.0
+    Strict, they are all incorporated into HTML5. I truly believe that''s the best
+    thing for the future of the web. It will take a couple of years, but browsers
+    are already building offline storage and stuff like that. Also, big parts of the
+    spec are just respecifications of how browsers have implemented stuff.'
   comment_date: '2009-04-19 22:21:08'
   comment_post_ID: '89'
   comment_type: null
@@ -1531,9 +1531,9 @@ comments:
 - comment_ID: '33342'
   comment_author: 'Web Design: What DOCTYPE do I use? &laquo; Obvious In Hindsight'
   comment_author_url: http://obviousinhindsight.wordpress.com/2010/01/09/web-design-what-doctype-do-i-use/
-  comment_content: '[...] If you&#8217;d like to research an alternative opinion on
-    why not to use XHTML, read here (Note: It&#8217;s an old article, much of it may
-    not apply but interesting no less): http://friendlybit.com/html/why-xhtml-is-a-bad-idea/
+  comment_content: '[...] If you’d like to research an alternative opinion on why
+    not to use XHTML, read here (Note: It’s an old article, much of it may not apply
+    but interesting no less): http://friendlybit.com/html/why-xhtml-is-a-bad-idea/
     [...]'
   comment_date: '2010-01-09 05:03:09'
   comment_post_ID: '89'

@@ -226,13 +226,12 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '33843'
-  comment_author: Co oznacza termin &#8220;dobra&#8221; strona? &laquo; Blog o ciekawostkach
-    informatycznych
+  comment_author: Co oznacza termin “dobra” strona? &laquo; Blog o ciekawostkach informatycznych
   comment_author_url: http://neonot.wordpress.com/2010/05/15/co-oznacza-termin-dobra-strona/
-  comment_content: '[...] Co oznacza termin &#8220;dobra&#8221;&nbsp;strona?  15 05
-    2010   Jest to jeden z moich ulubionych tekstów, bardzo zwi??le mówi?cy o tym,
-    jak pozna? si? na programi?cie/webmasterze strony &#8211; artyku? pt. &#8220;Judging
-    the technical quality of a site&#8221;: http://friendlybit.com/tutorial/judging-the-technical-quality-of-a-site/
+  comment_content: '[...] Co oznacza termin “dobra”&nbsp;strona?  15 05 2010   Jest
+    to jeden z moich ulubionych tekstów, bardzo zwi??le mówi?cy o tym, jak pozna?
+    si? na programi?cie/webmasterze strony – artyku? pt. “Judging the technical quality
+    of a site”: http://friendlybit.com/tutorial/judging-the-technical-quality-of-a-site/
     [...]'
   comment_date: '2010-05-15 20:33:27'
   comment_post_ID: '95'

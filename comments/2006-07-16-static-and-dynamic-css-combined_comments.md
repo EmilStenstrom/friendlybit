@@ -110,8 +110,8 @@ comments:
   comment_type: pingback
   is_admin: '0'
 - comment_ID: '3184'
-  comment_author: project.47 - Portfolio &#38; Personal Website &raquo; Blog Archive
-    &raquo; Combinao de CSS esttico e dinmico
+  comment_author: project.47 - Portfolio & Personal Website &raquo; Blog Archive &raquo;
+    Combinao de CSS esttico e dinmico
   comment_author_url: http://project47.viscountbox.com/combinacao-de-css-estatico-e-dinamico/
   comment_content: '[...] Encontrei um artigo (em ingls) no Friendly Bit ensinando
     como fazer essa dinamicidade do CSS, abrindo, somente, quando pertinente. Trata-se

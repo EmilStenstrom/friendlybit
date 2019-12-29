@@ -528,11 +528,11 @@ comments:
   comment_type: pingback
   is_admin: '0'
 - comment_ID: '304'
-  comment_author: Stefan Asemota Weblog | Web Standards Quiz &#8212; Archive
+  comment_author: Stefan Asemota Weblog | Web Standards Quiz — Archive
   comment_author_url: http://www.asemota.de/weblog/13/web-standards-quiz/
   comment_content: '[...] If you are a web designer and you think you know your craft,
-    go ahead and try out this quiz. While you&#8217;re at it, you might also want
-    to read Emil Stenström’s Levels of CSS knowledge [...]'
+    go ahead and try out this quiz. While you’re at it, you might also want to read
+    Emil Stenström’s Levels of CSS knowledge [...]'
   comment_date: '2006-03-14 20:27:16'
   comment_post_ID: '33'
   comment_type: pingback
@@ -595,7 +595,7 @@ comments:
     layouts are tough if you are just a beginner, and they are labor-intensive once
     you begin to know your way around the labyrinthine DIV definitions. Still, CSS
     layouts are far, far, far better than those table layouts because the way you
-    can manipulate them. What&#8217;s my level of CSS knowledge? [...]'
+    can manipulate them. What’s my level of CSS knowledge? [...]'
   comment_date: '2006-03-22 16:28:23'
   comment_post_ID: '33'
   comment_type: pingback
@@ -690,11 +690,10 @@ comments:
   comment_author_url: http://www.irakrakow.com/wptips/2006/03/28/levels-of-css-knowledge/
   comment_content: '[...] CSS is a complicated topic.&nbsp; This article, by Emil
     Stenstrom, called Levels of CSS Knowledge, describes the 6 levels, from total
-    ignorance (&#8221;CSS?&nbsp; Isn&#8217;t that a multiplayer game?&#8221;) to guru
-    (&#8221;What version of CSS? &#8230; Did you read my book about&#8230;&#8221;).&nbsp;
-    It&#8217;s an entertaing read.&nbsp; At the bottom of the article are some interesting
-    related articles about the challenges of CSS, especially to those used to HTML
-    tables. [...]'
+    ignorance (”CSS?&nbsp; Isn’t that a multiplayer game?”) to guru (”What version
+    of CSS? … Did you read my book about…”).&nbsp; It’s an entertaing read.&nbsp;
+    At the bottom of the article are some interesting related articles about the challenges
+    of CSS, especially to those used to HTML tables. [...]'
   comment_date: '2006-03-29 02:56:44'
   comment_post_ID: '33'
   comment_type: pingback
@@ -939,7 +938,7 @@ comments:
 - comment_ID: '957'
   comment_author: CSS und HTML Ranking Checklisten
   comment_author_url: http://www.webdesign-in.de/mts/css-und-html-ranking-checklisten/
-  comment_content: '[...] Emil Stenstr&#246;m [...]'
+  comment_content: '[...] Emil Stenström [...]'
   comment_date: '2006-06-01 21:59:14'
   comment_post_ID: '33'
   comment_type: pingback
@@ -951,14 +950,14 @@ comments:
     meme, the “Internet meme” (often mispronounced as though it were French and used
     a circumflex). But if dashing Swede Rohgayr Johansson can delineate levels of
     HTML knowledge and a somewhat-less-dashing Swede can delineate levels of CSS knowledge,
-    perhaps it is time for&#8230; Levels of Accessibility Knowledge. [...]'
+    perhaps it is time for… Levels of Accessibility Knowledge. [...]'
   comment_date: '2006-06-02 19:36:03'
   comment_post_ID: '33'
   comment_type: pingback
   is_admin: '0'
 - comment_ID: '980'
   comment_author: 'Designers who Blog: Design, Illustration, Photography, Web, Advertising,
-    Branding &#8230;'
+    Branding …'
   comment_author_url: http://www.designers-who-blog.com/?p=259
   comment_content: '[...] For a quick dip: Check out Emil’s  Levels of CSS knowledge.
     Then swing over to 456 Berea Street for a sister article on  Levels of HTML knowledge.
@@ -987,7 +986,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '1017'
-  comment_author: Linky na víkend 12 na depi.sk - IT &#38; Life Weblog
+  comment_author: Linky na víkend 12 na depi.sk - IT & Life Weblog
   comment_author_url: http://depi.sk/2006/06/04/linky-na-vikend-12/
   comment_content: '[...] Levels of CSS knowledge [...]'
   comment_date: '2006-06-04 11:43:00'
@@ -1033,12 +1032,12 @@ comments:
 - comment_ID: '1045'
   comment_author: YELLOW BOY FOR ECONOMICS &raquo; Levels of Accessibility Knowledge
   comment_author_url: http://towmoons.edublogs.org/2006/06/04/levels-of-accessibility-knowledge/
-  comment_content: '[...] June 4, 2006 @ 10:27 pm &#183; Filed under yellow boy   I
-    admit in advance that I am about to flirt with an Internet meme, the “Internet
-    meme” (often mispronounced as though it were French and used a circumflex). But
-    if dashing Swede Rohgayr Johansson can delineate levels of HTML knowledge and
-    a somewhat-less-dashing Swede can delineate levels of CSS knowledge, perhaps it
-    is time for… Levels of Accessibility Knowledge. [...]'
+  comment_content: '[...] June 4, 2006 @ 10:27 pm · Filed under yellow boy   I admit
+    in advance that I am about to flirt with an Internet meme, the “Internet meme”
+    (often mispronounced as though it were French and used a circumflex). But if dashing
+    Swede Rohgayr Johansson can delineate levels of HTML knowledge and a somewhat-less-dashing
+    Swede can delineate levels of CSS knowledge, perhaps it is time for… Levels of
+    Accessibility Knowledge. [...]'
   comment_date: '2006-06-05 04:27:30'
   comment_post_ID: '33'
   comment_type: pingback
@@ -1068,8 +1067,8 @@ comments:
   comment_author: Ramenos Blog &raquo; Evaluer votre niveau en HTML et CSS
   comment_author_url: http://blog.ramenos.net/design/evaluer-votre-niveau-en-html-et-css/
   comment_content: '[...] Voici deux études (en anglais) qui permettent de situer
-    rapidement votre niveau concernant les CSS et l&#8217;HTML. Pour ma part, je me
-    considère level 5 en HTML et entre 4 et 5 en CSS. [...]'
+    rapidement votre niveau concernant les CSS et l’HTML. Pour ma part, je me considère
+    level 5 en HTML et entre 4 et 5 en CSS. [...]'
   comment_date: '2006-06-07 10:01:27'
   comment_post_ID: '33'
   comment_type: pingback
@@ -1379,7 +1378,7 @@ comments:
   comment_type: pingback
   is_admin: '0'
 - comment_ID: '1411'
-  comment_author: wigblog &raquo; Blog Archive &raquo; Levels of knowledge&#8230;
+  comment_author: wigblog &raquo; Blog Archive &raquo; Levels of knowledge…
   comment_author_url: http://thinkmuch.com/blog/archives/2006/06/13/levels-of-knowledge/
   comment_content: '[...] Levels of CSS knowledge [...]'
   comment_date: '2006-06-14 08:36:12'
@@ -1400,9 +1399,9 @@ comments:
   comment_author: Tombrarian &raquo; Levels of CSS Knowledge
   comment_author_url: http://tombrarian.wordpress.com/2006/06/28/levels-of-css-knowledge/
   comment_content: '[...] Emil Stenström over at Friendly Bit has come up with 6 levels
-    of CSS knowledge. In theory, I&#8217;d optimistically put myself around level
-    5 because I had developed a test site for the library that used CSS positioning
-    instead of tables. However, our university Web team has not bought into CSS positioning,
+    of CSS knowledge. In theory, I’d optimistically put myself around level 5 because
+    I had developed a test site for the library that used CSS positioning instead
+    of tables. However, our university Web team has not bought into CSS positioning,
     so the new library site will still be laid out using tables. To be fair, designing
     a site as complex as a library site using CSS positioning is quite a challenge.
     The test site I developed still had a long way to go before I would have been
@@ -1588,12 +1587,12 @@ comments:
 - comment_ID: '5234'
   comment_author: Levels of RSS Knowledge &laquo; Sweet!
   comment_author_url: http://notronwest.wordpress.com/2006/09/28/levels-of-rss-knowledge/
-  comment_content: '[...] I have posted a bit on RSS and while I am not a &#8220;super&#8221;
+  comment_content: '[...] I have posted a bit on RSS and while I am not a “super”
     expert on RSS but I am a big fan and I have posted a bit on this topic in the
-    past so when I saw the following link: &#8220;Levels of JavaScript Knowledge&#8221;
-    which was based on &#8220;Levels of HTML Knowledge&#8221; which was in turn based
-    on &#8220;Levels of CSS Knowledge&#8221; I thought - what better way to describe
-    what I have seen lately as we hire for PaperThin. [...]'
+    past so when I saw the following link: “Levels of JavaScript Knowledge” which
+    was based on “Levels of HTML Knowledge” which was in turn based on “Levels of
+    CSS Knowledge” I thought - what better way to describe what I have seen lately
+    as we hire for PaperThin. [...]'
   comment_date: '2006-09-28 06:08:06'
   comment_post_ID: '33'
   comment_type: pingback
@@ -1803,7 +1802,7 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '24112'
-  comment_author: Jason&#8217;s Weblog &raquo; Levels of Web Designer Knowledge
+  comment_author: Jason’s Weblog &raquo; Levels of Web Designer Knowledge
   comment_author_url: http://evolv.cc/2006/12/28/levels-of-web-designer-knowledge/
   comment_content: '[...] Levels of CSS Knowledge [...]'
   comment_date: '2007-05-11 05:19:46'
@@ -2131,11 +2130,11 @@ comments:
   comment_type: pingback
   is_admin: '0'
 - comment_ID: '33307'
-  comment_author: I livelli di conoscenza dell&#8217;HTML &raquo; chalda.it
+  comment_author: I livelli di conoscenza dell’HTML &raquo; chalda.it
   comment_author_url: http://blog.chalda.it/i-livelli-di-conoscenza-dellhtml-58.html
-  comment_content: '[...] livelli di conoscenza dell&#8217;HTML   Prendendo ispirazione
+  comment_content: '[...] livelli di conoscenza dell’HTML   Prendendo ispirazione
     dai Livelli di Conoscenza del CSS di  Emil Stenström,  ho iniziato a pensare ai
-    diversi gradi di   conoscenza dell&#8217; HTML  tra le persone che [...]'
+    diversi gradi di   conoscenza dell’ HTML  tra le persone che [...]'
   comment_date: '2009-12-01 02:30:29'
   comment_post_ID: '33'
   comment_type: pingback

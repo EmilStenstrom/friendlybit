@@ -105,8 +105,8 @@ comments:
   comment_type: null
   is_admin: '0'
 - comment_ID: '30367'
-  comment_author: MOSS should be spelt MOCKERY - Robert&#8217;s talk - Web development
-    and Internet trends
+  comment_author: MOSS should be spelt MOCKERY - Robert’s talk - Web development and
+    Internet trends
   comment_author_url: http://www.robertnyman.com/2008/02/28/moss-should-be-spelt-mockery/
   comment_content: '[...] Default HTML in Sharepoint 2007 [...]'
   comment_date: '2008-02-28 14:00:54'

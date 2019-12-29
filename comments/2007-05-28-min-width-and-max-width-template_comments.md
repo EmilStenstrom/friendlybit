@@ -194,7 +194,7 @@ comments:
 - comment_ID: '33154'
   comment_author: IT???? | IE6???CSS???????????????????
   comment_author_url: http://smkn.xsrv.jp/blog/2009/10/hack-for-some-ie6-bugs/
-  comment_content: '[...] Min-width and Max-width template &#8211; Friendly Bit [...]'
+  comment_content: '[...] Min-width and Max-width template – Friendly Bit [...]'
   comment_date: '2009-10-28 02:55:25'
   comment_post_ID: '126'
   comment_type: pingback

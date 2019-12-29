@@ -3,8 +3,8 @@ comments:
 - comment_ID: '85'
   comment_author: Personal Development - Trevor Delamorandiere
   comment_author_url: http://www.personaldevelopment.ca/2006/01/26/four-things-to-get-you-tagged/
-  comment_content: '[...] There&#8217;s a few questions circling the blogsphere. I
-    better pass them on just to avoid the angry CSS gods. [...]'
+  comment_content: '[...] There’s a few questions circling the blogsphere. I better
+    pass them on just to avoid the angry CSS gods. [...]'
   comment_date: '2006-01-26 00:20:56'
   comment_post_ID: '42'
   comment_type: pingback

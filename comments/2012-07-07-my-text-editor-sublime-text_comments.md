@@ -56,7 +56,7 @@ comments:
   comment_type: null
   is_admin: '1'
 - comment_ID: '38045'
-  comment_author: Sublime Text 2 &#8211; musings of max
+  comment_author: Sublime Text 2 – musings of max
   comment_author_url: http://www.maxpagels.com/2012/07/08/sublime-text-2/
   comment_content: '[...] An absolutely stunning and fully-featured text editor that
     works in Windows, OS X and Linux. (via Friendly Bit) [...]'
