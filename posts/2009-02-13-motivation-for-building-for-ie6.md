@@ -54,7 +54,7 @@ What I&#8217;m asking of you are two simple things:
 <![endif]-->
 ```
 
-And then style the #upgrade div appropriately. It&#8217;s easy, doesn&#8217;t rely on javascript, and points users directly do the download page instead of the three intermediary pages on microsoft.com. Add this to your own site, to your employer&#8217;s sites, to your sisters site. Or maybe buy one of the numerous [IE t-shirts](http://shop.cafepress.com/internet-explorer) out there. Hell, print it out and stick it on your dog! **Do something**!</li> </ol>
+And then style the #upgrade div appropriately. It&#8217;s easy, doesn&#8217;t rely on javascript, and points users directly do the download page instead of the three intermediary pages on microsoft.com. Add this to your own site, to your employer&#8217;s sites, to your sisters site. Or maybe buy one of the numerous [IE t-shirts](http://shop.cafepress.com/internet-explorer) out there. Hell, print it out and stick it on your dog! **Do something**!
 
 Now. Before you get upset and tell me why your specific case is **so different** from everyone else. Don&#8217;t. Remember point 1 above. I&#8217;ve just done point 2 above on this site. Now it&#8217;s your turn!
 
