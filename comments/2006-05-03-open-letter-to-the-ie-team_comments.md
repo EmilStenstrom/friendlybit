@@ -17,8 +17,9 @@ comments:
   comment_author: Coda Hale
   comment_author_url: http://blog.codahale.com
   comment_content: You could always upgrade to IE7 and then keep older versions of
-    IE as standalones:\n\nhttp://browsers.evolt.org/?ie/32bit/standalone\n\nWhen I
-    was working with Windows, I had IE 4-7b1 on a single computer. Conditional comments
+    IE as standalones:\n\n<a href="http://browsers.evolt.org/?ie/32bit/standalone"
+    rel="nofollow">http://browsers.evolt.org/?ie/32bit/standalone</a>\n\nWhen I was
+    working with Windows, I had IE 4-7b1 on a single computer. Conditional comments
     don't work, unfortunately (the browser identifies itself as the highest installed
     version), but other than that it works like a charm.\n\nAlso, your comment entry
     box is <em>really</em> slow for me (like, less than a character a second). Not
@@ -314,7 +315,8 @@ comments:
   comment_author_url: ''
   comment_content: Hello all! I just wanted to make you aware that if you have upgrade
     to IE7 on XP, and remove the program, IE6 is automatically activated again. I
-    found this on this on the MS site:\n\nhttp://support.microsoft.com/kb/927177
+    found this on this on the MS site:\n\n<a href="http://support.microsoft.com/kb/927177"
+    rel="nofollow">http://support.microsoft.com/kb/927177</a>
   comment_date: '2009-01-25 17:21:00'
   comment_post_ID: '61'
   comment_type: null

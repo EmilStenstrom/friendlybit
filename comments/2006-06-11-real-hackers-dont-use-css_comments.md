@@ -160,7 +160,9 @@ comments:
     really fascinating. You move things around and you get a total different story.
     With tables it is hard, the easier with CSS. Use your imagination. Though messing
     with hierarchy in a page can be fascinating as well.\n\nCSS when knowing it well
-    can make astounding designs. \nproof: my fav\n\nhttp://www.cssplay.co.uk/index.html\nhttp://csszengarden.com/?cssfile=http://www.css-praxis.de/cssocean/zenocean.css'
+    can make astounding designs. \nproof: my fav\n\n<a href="http://www.cssplay.co.uk/index.html"
+    rel="nofollow">http://www.cssplay.co.uk/index.html</a>\n<a href="http://csszengarden.com/?cssfile=http://www.css-praxis.de/cssocean/zenocean.css"
+    rel="nofollow">http://csszengarden.com/?cssfile=http://www.css-praxis.de/cssocean/zenocean.css</a>'
   comment_date: '2006-06-13 12:11:35'
   comment_post_ID: '68'
   comment_type: null
@@ -550,7 +552,7 @@ comments:
     isn't really of the same value as it was a decade ago. Just today while searching
     for some web development needs, I came across a site having blend of flash, images,
     css, tables and simple html - it was superb. In case someone needs to verify my
-    comments u can see for yrself at http://www.cursivebits.com
+    comments u can see for yrself at <a href="http://www.cursivebits.com" rel="nofollow">http://www.cursivebits.com</a>
   comment_date: '2008-03-23 05:46:30'
   comment_post_ID: '68'
   comment_type: null

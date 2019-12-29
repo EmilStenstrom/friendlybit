@@ -102,7 +102,8 @@ comments:
   comment_author: Sandy S.
   comment_author_url: ''
   comment_content: The Google+ is sort of in beta stage. They shared it with a few
-    big game developers. \n\nhttp://news.softpedia.com/news/Google-Unveils-First-Details-About-Its-Upcoming-Google-Platform-for-Developers-216559.shtml
+    big game developers. \n\n<a href="http://news.softpedia.com/news/Google-Unveils-First-Details-About-Its-Upcoming-Google-Platform-for-Developers-216559.shtml"
+    rel="nofollow">http://news.softpedia.com/news/Google-Unveils-First-Details-About-Its-Upcoming-Google-Platform-for-Developers-216559.shtml</a>
   comment_date: '2011-08-17 03:16:20'
   comment_post_ID: '821'
   comment_type: null

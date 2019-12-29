@@ -3,8 +3,8 @@ comments:
 - comment_ID: '32930'
   comment_author: Emil Hesslow
   comment_author_url: http://extensions.hesslow.se
-  comment_content: http://a.deveria.com/caniuse/ , nice page where you could see which
-    features you can use in which browser.
+  comment_content: <a href="http://a.deveria.com/caniuse/" rel="nofollow">http://a.deveria.com/caniuse/</a>
+    , nice page where you could see which features you can use in which browser.
   comment_date: '2009-08-27 00:02:32'
   comment_post_ID: '496'
   comment_type: null
@@ -85,7 +85,8 @@ comments:
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
   comment_content: '@Roland Bouman: Here''s an example applying CSS to elements with
-    multiple classes: http://www.webdevout.net/test?01Z - scroll down to see the result.'
+    multiple classes: <a href="http://www.webdevout.net/test?01Z" rel="nofollow">http://www.webdevout.net/test?01Z</a>
+    - scroll down to see the result.'
   comment_date: '2009-08-27 20:15:39'
   comment_post_ID: '496'
   comment_type: null
@@ -124,9 +125,9 @@ comments:
 - comment_ID: '32940'
   comment_author: Alex
   comment_author_url: http://tipseri.net
-  comment_content: Have a look at what Microsoft has to say about this:\n\nhttp://news.bbc.co.uk/2/hi/technology/8196242.stm\n\n'The
-    software giant said it would support IE6 until 2014 - four years beyond the original
-    deadline.'
+  comment_content: Have a look at what Microsoft has to say about this:\n\n<a href="http://news.bbc.co.uk/2/hi/technology/8196242.stm"
+    rel="nofollow">http://news.bbc.co.uk/2/hi/technology/8196242.stm</a>\n\n'The software
+    giant said it would support IE6 until 2014 - four years beyond the original deadline.'
   comment_date: '2009-08-27 23:59:35'
   comment_post_ID: '496'
   comment_type: null
@@ -251,7 +252,8 @@ comments:
   comment_author_url: http://tipseri.net
   comment_content: I found out a nice free tool to test your website compatibily with
     all IE versions. It has no adware/malware/spyware and it's a very usefull tool
-    for a webdesigner.\n\nhttp://www.my-debugbar.com/wiki/IETester/HomePage
+    for a webdesigner.\n\n<a href="http://www.my-debugbar.com/wiki/IETester/HomePage"
+    rel="nofollow">http://www.my-debugbar.com/wiki/IETester/HomePage</a>
   comment_date: '2009-09-07 07:14:14'
   comment_post_ID: '496'
   comment_type: null
@@ -260,7 +262,8 @@ comments:
   comment_author: terry
   comment_author_url: http://www.download4a.com
   comment_content: ie6 support till 2014 ? microsoft fails again :((\n@Alex - you
-    can try http://browsershots.org/ to check various browser compatibility
+    can try <a href="http://browsershots.org/" rel="nofollow">http://browsershots.org/</a>
+    to check various browser compatibility
   comment_date: '2009-09-13 20:18:26'
   comment_post_ID: '496'
   comment_type: null
@@ -268,10 +271,11 @@ comments:
 - comment_ID: '33008'
   comment_author: Jim Westergren
   comment_author_url: http://www.jimwestergren.com
-  comment_content: Hi Emil,\n\nFrom your third link I found http://www.ie6nomore.com/code-samples.html
-    which I saved for later use - I think it is great.\n\nWhat about floating anchors
-    on inline lists? Isn't that a bug in IE6? Maybe I don't know the exact bug but
-    I always have a headache writing the CSS for an ul element that is the nav menu.
+  comment_content: Hi Emil,\n\nFrom your third link I found <a href="http://www.ie6nomore.com/code-samples.html"
+    rel="nofollow">http://www.ie6nomore.com/code-samples.html</a> which I saved for
+    later use - I think it is great.\n\nWhat about floating anchors on inline lists?
+    Isn't that a bug in IE6? Maybe I don't know the exact bug but I always have a
+    headache writing the CSS for an ul element that is the nav menu.
   comment_date: '2009-09-17 18:06:54'
   comment_post_ID: '496'
   comment_type: null

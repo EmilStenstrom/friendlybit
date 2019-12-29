@@ -183,8 +183,9 @@ comments:
   comment_author: Tom
   comment_author_url: http://www.codegobbler.com
   comment_content: Just today was a new Drupal module released to achieve this exact
-    same thing (http://drupalmodules.com/module/upside-down). My question is the same
-    as everyone else's it seems - Why the hell would I want to do that?!
+    same thing (<a href="http://drupalmodules.com/module/upside-down)." rel="nofollow">http://drupalmodules.com/module/upside-down).</a>
+    My question is the same as everyone else's it seems - Why the hell would I want
+    to do that?!
   comment_date: '2008-08-15 17:22:29'
   comment_post_ID: '167'
   comment_type: null
@@ -246,7 +247,8 @@ comments:
 - comment_ID: '31755'
   comment_author: Laura
   comment_author_url: ''
-  comment_content: 'If you are on Facebook there is an application: http://apps.facebook.com/flip-my-status/index.php?X=E5\n\nI
+  comment_content: 'If you are on Facebook there is an application: <a href="http://apps.facebook.com/flip-my-status/index.php?X=E5"
+    rel="nofollow">http://apps.facebook.com/flip-my-status/index.php?X=E5</a>\n\nI
     was messing around on FB applications and this showed up!\nIt does the job and
     you don''t have to copy and paste as other thins I found online =)'
   comment_date: '2009-05-20 13:38:41'

@@ -126,7 +126,8 @@ comments:
   comment_author: Busy are we? &raquo; Cross-browser strategies for CSS
   comment_author_url: http://antt.wordpress.com/2006/01/18/cross-browser-strategies-for-css/
   comment_content: '[...] Emil Stenström talks about getting sites to look the same
-    across several browsers: http://friendlybit.com/css/cross-browser-strategies-for-css/
+    across several browsers: <a href="http://friendlybit.com/css/cross-browser-strategies-for-css/"
+    rel="nofollow">http://friendlybit.com/css/cross-browser-strategies-for-css/</a>
     [...]'
   comment_date: '2006-01-18 21:25:42'
   comment_post_ID: '35'
@@ -241,7 +242,8 @@ comments:
   comment_author: David Owens
   comment_author_url: ''
   comment_content: '@ David Duret\n\nHi, A lot of people have posted about conditional
-    comments in IE standalones. There is a good article here http://www.positioniseverything.net/articles/multiIE.html\n
+    comments in IE standalones. There is a good article here <a href="http://www.positioniseverything.net/articles/multiIE.html"
+    rel="nofollow">http://www.positioniseverything.net/articles/multiIE.html</a>\n
     which explains how to get them working. I have IE5, 5.5, 6 and 7 beta 2, all running
     with conditional comments. Very useful!'
   comment_date: '2006-02-07 16:30:42'
@@ -288,8 +290,9 @@ comments:
 - comment_ID: '144'
   comment_author: Velaluka
   comment_author_url: ''
-  comment_content: http://www.quirksmode.org/js/doctypes.html\n\nNoteworthy:\n\ndoctype
-    switching also affects scripting!\n\nquirksmode /standards mode affects browsers\n\nhttp://hsivonen.iki.fi/doctype/
+  comment_content: <a href="http://www.quirksmode.org/js/doctypes.html" rel="nofollow">http://www.quirksmode.org/js/doctypes.html</a>\n\nNoteworthy:\n\ndoctype
+    switching also affects scripting!\n\nquirksmode /standards mode affects browsers\n\n<a
+    href="http://hsivonen.iki.fi/doctype/" rel="nofollow">http://hsivonen.iki.fi/doctype/</a>
   comment_date: '2006-02-08 17:11:14'
   comment_post_ID: '35'
   comment_type: null
@@ -307,7 +310,8 @@ comments:
     used to buttons behaving like buttons. I did some research in this, and as it
     turned out, most of all the weblogs I frequently comment on have this same problem:
     buttons not behaving like buttons. In most cases, it was indeed the star selector
-    being the culprit.»\n\nCitation from http://kurafire.net/log/archive/2005/07/26/starting-css-revisited\n\nMaksim
+    being the culprit.»\n\nCitation from <a href="http://kurafire.net/log/archive/2005/07/26/starting-css-revisited"
+    rel="nofollow">http://kurafire.net/log/archive/2005/07/26/starting-css-revisited</a>\n\nMaksim
     Rossomachin, Russian Federation.'
   comment_date: '2006-02-11 07:10:06'
   comment_post_ID: '35'
@@ -572,7 +576,8 @@ comments:
 - comment_ID: '29190'
   comment_author: Cross-Browser &laquo; Techie Note
   comment_author_url: http://techienote.wordpress.com/2007/11/14/9/
-  comment_content: '[...] Cross-Browser  Posted on November 14, 2007 by mylblog    http://friendlybit.com/css/cross-browser-strategies-for-css/
+  comment_content: '[...] Cross-Browser  Posted on November 14, 2007 by mylblog    <a
+    href="http://friendlybit.com/css/cross-browser-strategies-for-css/" rel="nofollow">http://friendlybit.com/css/cross-browser-strategies-for-css/</a>
     [...]'
   comment_date: '2007-11-15 01:06:50'
   comment_post_ID: '35'
@@ -650,9 +655,10 @@ comments:
   comment_author: Css and Themes in net 3.5 question | keyongtech
   comment_author_url: http://www.keyongtech.com/2622745-css-and-themes-in-net
   comment_content: '[...] You can check out the following article to get some ideas
-    on how to write cross browser css:  http://friendlybit.com/css/cross-bro...egies-for-css/  If
-    you still have concern on this issue you can start a new thread. We can discuss
-    further there.  [...]'
+    on how to write cross browser css:  <a href="http://friendlybit.com/css/cross-bro...egies-for-css/"
+    rel="nofollow">http://friendlybit.com/css/cross-bro...egies-for-css/</a>  If you
+    still have concern on this issue you can start a new thread. We can discuss further
+    there.  [...]'
   comment_date: '2009-01-18 18:33:24'
   comment_post_ID: '35'
   comment_type: pingback
@@ -661,8 +667,10 @@ comments:
   comment_author: 'Sem medo de bugs: aplicando CSS para IE6, IE7 e outros browsers
     … &laquo; Deus, o mestre do design!'
   comment_author_url: http://accsdesigner.wordpress.com/2009/02/20/sem-medo-de-bugs-aplicando-css-para-ie6-ie7-e-outros-browsers/
-  comment_content: '[...] Outras referências para cross-browser … http://www.456bereastreet.com/archive/200602/writing_crossbrowser_css/
-    http://friendlybit.com/css/cross-browser-strategies-for-css/ [...]'
+  comment_content: '[...] Outras referências para cross-browser … <a href="http://www.456bereastreet.com/archive/200602/writing_crossbrowser_css/"
+    rel="nofollow">http://www.456bereastreet.com/archive/200602/writing_crossbrowser_css/</a>
+    <a href="http://friendlybit.com/css/cross-browser-strategies-for-css/" rel="nofollow">http://friendlybit.com/css/cross-browser-strategies-for-css/</a>
+    [...]'
   comment_date: '2009-02-20 19:11:32'
   comment_post_ID: '35'
   comment_type: pingback
@@ -732,7 +740,8 @@ comments:
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
   comment_content: '@cinr11: Yes, I''m sorry to say that you have a lot of work ahead
-    of you. Start with validating the site, your code is way off: http://validator.w3.org/check?verbose=1&amp;uri=http%3A%2F%2Fwww.smallfavors4u.com%2F'
+    of you. Start with validating the site, your code is way off: <a href="http://validator.w3.org/check?verbose=1&amp;uri=http%3A%2F%2Fwww.smallfavors4u.com%2F"
+    rel="nofollow">http://validator.w3.org/check?verbose=1&amp;uri=http%3A%2F%2Fwww.smallfavors4u.com%2F</a>'
   comment_date: '2009-06-05 17:00:12'
   comment_post_ID: '35'
   comment_type: null

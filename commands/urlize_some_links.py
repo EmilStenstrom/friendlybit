@@ -3,7 +3,7 @@ from glob import glob
 
 import frontmatter
 
-URL_NOT_ALREADY_URLIZED = re.compile(r'(?<!")(https?://[^ ]+)(?!")')
+URL_NOT_ALREADY_URLIZED = re.compile(r'(?<!\"|\>)(https?:\/\/[^\s\\\"\<]+)(?!\"|\<)')
 
 def main():
     for filename in sorted(glob("comments/*.md"), reverse=True):

@@ -24,7 +24,12 @@ comments:
     with multiple css files. The good thing is that you can work a lot with comments
     within the file, minify then removes this on the fly and makes a cached copy of
     the file. It also have a bunch of other great stuff in it.\n\nHere's an example
-    of my css and the minified copy\n\nhttp://jedisthlm.com/wp-content/themes/jedisthlmV/screen.css\nhttp://jedisthlm.com/minify.php?files=/wp-content/themes/jedisthlmV/screen.css\n\nhttp://code.google.com/p/minify/\nhttp://code.google.com/p/blueprintcss/
+    of my css and the minified copy\n\n<a href="http://jedisthlm.com/wp-content/themes/jedisthlmV/screen.css"
+    rel="nofollow">http://jedisthlm.com/wp-content/themes/jedisthlmV/screen.css</a>\n<a
+    href="http://jedisthlm.com/minify.php?files=/wp-content/themes/jedisthlmV/screen.css"
+    rel="nofollow">http://jedisthlm.com/minify.php?files=/wp-content/themes/jedisthlmV/screen.css</a>\n\n<a
+    href="http://code.google.com/p/minify/" rel="nofollow">http://code.google.com/p/minify/</a>\n<a
+    href="http://code.google.com/p/blueprintcss/" rel="nofollow">http://code.google.com/p/blueprintcss/</a>
   comment_date: '2008-02-28 10:09:40'
   comment_post_ID: '147'
   comment_type: null

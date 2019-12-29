@@ -78,7 +78,8 @@ comments:
   comment_author_url: http://www.rorkvell.de
   comment_content: Well, a honest and huge task. Do you know Sysiphus? You're doing
     something similar. But nevertheless, someone has to do it.\n\nFor a small demonstration
-    about why you should do this read http://www.decloak.com/Dev/CSSTables/CSS_Tables_01.aspx\nBut
+    about why you should do this read <a href="http://www.decloak.com/Dev/CSSTables/CSS_Tables_01.aspx"
+    rel="nofollow">http://www.decloak.com/Dev/CSSTables/CSS_Tables_01.aspx</a>\nBut
     sit down and fasten seat belt before doing so :)
   comment_date: '2007-08-07 07:19:44'
   comment_post_ID: '134'

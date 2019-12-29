@@ -84,7 +84,8 @@ comments:
 - comment_ID: '21915'
   comment_author: Lars Gunther
   comment_author_url: http://keryx.se
-  comment_content: This looks like like a subset of the Web Forms 2.0 proposal:\nhttp://www.whatwg.org/specs/web-forms/current-work/\n\nLars
+  comment_content: This looks like like a subset of the Web Forms 2.0 proposal:\n<a
+    href="http://www.whatwg.org/specs/web-forms/current-work/" rel="nofollow">http://www.whatwg.org/specs/web-forms/current-work/</a>\n\nLars
     Gunther
   comment_date: '2007-02-25 20:49:31'
   comment_post_ID: '113'

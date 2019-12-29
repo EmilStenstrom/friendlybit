@@ -26,7 +26,9 @@ comments:
   comment_content: 'Who are "we" really: web designers, under 25, MTV viewers?\n\nWho
     are "those" in accessibility that advocate ruling out everything but plain HTML?\n\nAnd
     do "we" really want more interactivity?\n\nMTV users, who you would expect to
-    want an all-singing all-dancing flash site, obviously don''t:\nhttp://digg.com/tech_news/MTV_Launches_New_HORRIBLE_Flash_Design\n\nhttp://www.cyberjournalist.net/news/004180.php\n\nCould
+    want an all-singing all-dancing flash site, obviously don''t:\n<a href="http://digg.com/tech_news/MTV_Launches_New_HORRIBLE_Flash_Design"
+    rel="nofollow">http://digg.com/tech_news/MTV_Launches_New_HORRIBLE_Flash_Design</a>\n\n<a
+    href="http://www.cyberjournalist.net/news/004180.php" rel="nofollow">http://www.cyberjournalist.net/news/004180.php</a>\n\nCould
     it be that "we" want to Interact with your site, rather than have your site "interact"
     upon us?\n\nPersonally, I''m not opposed to beautiful looking things, but I prefer
     to be able to submit a form, copy some content, or understand where to go next

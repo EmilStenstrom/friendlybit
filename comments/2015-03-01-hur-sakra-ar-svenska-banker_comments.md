@@ -84,7 +84,8 @@ comments:
   comment_author: Magnus Svensson
   comment_author_url: ''
   comment_content: Vill tillägga att det bara är SBABs framsida som är F-klassad,
-    verkar som inloggningssidan får högre betyg (B). \n\nhttps://www.ssllabs.com/ssltest/analyze.html?d=idp.sbab.se&amp;hideResults=on
+    verkar som inloggningssidan får högre betyg (B). \n\n<a href="https://www.ssllabs.com/ssltest/analyze.html?d=idp.sbab.se&amp;hideResults=on"
+    rel="nofollow">https://www.ssllabs.com/ssltest/analyze.html?d=idp.sbab.se&amp;hideResults=on</a>
   comment_date: '2015-03-03 10:12:55'
   comment_post_ID: '943'
   comment_type: null
@@ -92,9 +93,10 @@ comments:
 - comment_ID: '38171'
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
-  comment_content: '@Magnus: Tack! Jag utgick från de länkar som fanns här: https://www.sbab.se/privat/logga-in
-    där både sbab.se och secure.sbab.se länkas. Missade att det också fanns en iframe:ad
-    variant. Uppdaterar bloggposten ikväll.'
+  comment_content: '@Magnus: Tack! Jag utgick från de länkar som fanns här: <a href="https://www.sbab.se/privat/logga-in"
+    rel="nofollow">https://www.sbab.se/privat/logga-in</a> där både sbab.se och secure.sbab.se
+    länkas. Missade att det också fanns en iframe:ad variant. Uppdaterar bloggposten
+    ikväll.'
   comment_date: '2015-03-03 10:20:45'
   comment_post_ID: '943'
   comment_type: null
@@ -204,7 +206,7 @@ comments:
     viktig teknik som stöds av de flesta webbläsare (utom Internet Explorer). HSTS
     är det enda skydd som i större usträckning skyddar mot MITM-attacker. Vill bankerna
     gå ännu längre kan de ansöka om att bli införda på webbläsarnas s.k. preload-lista:
-    t.ex. https://hstspreload.appspot.com/'
+    t.ex. <a href="https://hstspreload.appspot.com/" rel="nofollow">https://hstspreload.appspot.com/</a>'
   comment_date: '2015-03-05 14:57:53'
   comment_post_ID: '943'
   comment_type: null
@@ -267,7 +269,8 @@ comments:
     men det verkar inte fungera för mig. Jag går till www.skandiabanken.se, och blir
     inte skickad till https. Jag är inte inloggad från början. Ser fram emot att dom
     fixar det!\n\n@direktorn: Jag håller inte med dig, certifikat säger något om säkerheten.
-    Varför HTTPS för framsidan är viktigt kan du läsa mer om här: http://andreas.pelme.se/sakerheten-hos-svenska-internetbanker.html\n\n@Blågul:
+    Varför HTTPS för framsidan är viktigt kan du läsa mer om här: <a href="http://andreas.pelme.se/sakerheten-hos-svenska-internetbanker.html"
+    rel="nofollow">http://andreas.pelme.se/sakerheten-hos-svenska-internetbanker.html</a>\n\n@Blågul:
     Har fått ett par frågor om det. Jag har valt att titta på säkerheten "just nu",
     dvs det som vanliga kunder behöver bry sig om. För att få reda på vilken som var
     bra från början kan du titta på "Uppdaterat"-kolumen längst upp, och utgå från
@@ -312,7 +315,8 @@ comments:
     krypteringen, utan också garanterar att företaget som står bakom certifikatet
     är seriöst. Extended Validation gör att du kan klicka på hänglåset och få gå certifikatets
     garant. Det ska alltid vara samma företag som du förväntar dig, dvs t.ex. Skandiabanken
-    om du är på deras sajt.\n\nHär finns en mer pedagogisk förklaring: https://www.digicert.com/extended-validation-ssl.htm'
+    om du är på deras sajt.\n\nHär finns en mer pedagogisk förklaring: <a href="https://www.digicert.com/extended-validation-ssl.htm"
+    rel="nofollow">https://www.digicert.com/extended-validation-ssl.htm</a>'
   comment_date: '2015-03-06 10:45:44'
   comment_post_ID: '943'
   comment_type: null
@@ -332,7 +336,8 @@ comments:
   comment_author_url: ''
   comment_content: En rätt intressant detalj är om man kikar på certifikatutgivarna.
     Verisign, t ex, får ett B för inloggningssidan till deras Trust Center - där man
-    hanterar sina certifikat...\n\nhttps://www.ssllabs.com/ssltest/analyze.html?d=trustcenter.websecurity.symantec.com
+    hanterar sina certifikat...\n\n<a href="https://www.ssllabs.com/ssltest/analyze.html?d=trustcenter.websecurity.symantec.com"
+    rel="nofollow">https://www.ssllabs.com/ssltest/analyze.html?d=trustcenter.websecurity.symantec.com</a>
   comment_date: '2015-03-06 12:37:21'
   comment_post_ID: '943'
   comment_type: null
@@ -397,7 +402,7 @@ comments:
   comment_author: Emil
   comment_author_url: ''
   comment_content: Har du kollat vilka banker som stöder RSA Export?\nIsåfall är de
-    sårbara för https://www.smacktls.com/#freak
+    sårbara för <a href="https://www.smacktls.com/#freak" rel="nofollow">https://www.smacktls.com/#freak</a>
   comment_date: '2015-03-12 01:31:04'
   comment_post_ID: '943'
   comment_type: null

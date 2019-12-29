@@ -615,7 +615,7 @@ comments:
   comment_content: PS - Cheers to you for learning English because I'm still trying
     to learn Spanish of all things and if not for your forethought I would not have
     benefited from your posts.\n\nAlso your right nav menu on this page it aligned
-    to the bottom:\nhttp://friendlybit.com/about/projects/\n\nRegards
+    to the bottom:\n<a href="http://friendlybit.com/about/projects/" rel="nofollow">http://friendlybit.com/about/projects/</a>\n\nRegards
   comment_date: '2007-05-29 14:32:31'
   comment_post_ID: '116'
   comment_type: null

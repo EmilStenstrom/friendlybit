@@ -53,7 +53,8 @@ comments:
   comment_author: Johnathan
   comment_author_url: ''
   comment_content: 'Imagine what we could do if IE was not here anymore? This article
-    brought a smile to my eyes:\n\nhttp://digg.com/software/Mozilla_IExplorer_biggest_problem_in_advancing_the_Web\n\n"Mozilla:
+    brought a smile to my eyes:\n\n<a href="http://digg.com/software/Mozilla_IExplorer_biggest_problem_in_advancing_the_Web"
+    rel="nofollow">http://digg.com/software/Mozilla_IExplorer_biggest_problem_in_advancing_the_Web</a>\n\n"Mozilla:
     IExplorer biggest problem in advancing the Web. \nnews.cnet.com — IE still doesn''t
     remotely approach Firefox, but we do hope to see IE standards compliance and its
     modern features improved. The single biggest problem now in moving the Web forward

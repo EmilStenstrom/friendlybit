@@ -43,8 +43,8 @@ comments:
     a bit distressed by it though as i got my 3 columns working but they will not
     align if you make their width 100% (ie: you have to keep total width at 99% to
     ensure they line up nicely)\n\nI have learnt the reason for this behaviour on
-    http://www.ilovejackdaniels.com/css/box-model/ and think you should point this
-    out to your users.\n\nKind Regards\n\nAlex'
+    <a href="http://www.ilovejackdaniels.com/css/box-model/" rel="nofollow">http://www.ilovejackdaniels.com/css/box-model/</a>
+    and think you should point this out to your users.\n\nKind Regards\n\nAlex'
   comment_date: '2006-02-21 17:44:21'
   comment_post_ID: '36'
   comment_type: null

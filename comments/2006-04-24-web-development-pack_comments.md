@@ -30,7 +30,7 @@ comments:
   comment_author: Balakumar Muthu
   comment_author_url: http://i5bala.blogspot.com
   comment_content: Good List of tools but most of opensource tools like GIMP are missing
-    :)\n\n--\nBalakumar Muthu\nhttp://i5bala.blogspot.com
+    :)\n\n--\nBalakumar Muthu\n<a href="http://i5bala.blogspot.com" rel="nofollow">http://i5bala.blogspot.com</a>
   comment_date: '2006-04-25 09:26:10'
   comment_post_ID: '54'
   comment_type: null
@@ -38,8 +38,8 @@ comments:
 - comment_ID: '502'
   comment_author: Sergey Rozhnov
   comment_author_url: ''
-  comment_content: Apache Server (http://httpd.apache.org/) - if you want test your
-    php (for example) code on local computer.
+  comment_content: Apache Server (<a href="http://httpd.apache.org/)" rel="nofollow">http://httpd.apache.org/)</a>
+    - if you want test your php (for example) code on local computer.
   comment_date: '2006-04-25 11:23:01'
   comment_post_ID: '54'
   comment_type: null
@@ -121,7 +121,8 @@ comments:
   comment_author: martin
   comment_author_url: ''
   comment_content: What about IETAB, this lets you veiw a page in IE right in Firefox
-    [ https://addons.mozilla.org/firefox/1419/ ].
+    [ <a href="https://addons.mozilla.org/firefox/1419/" rel="nofollow">https://addons.mozilla.org/firefox/1419/</a>
+    ].
   comment_date: '2006-06-13 18:23:20'
   comment_post_ID: '54'
   comment_type: null
@@ -154,7 +155,7 @@ comments:
   comment_author_url: ''
   comment_content: Camino is a great Mac browser. It uses the Gecko rendering engine,
     and I think it's much faster and easier to use than the Mac version of Firefox.
-    \n\nhttp://www.caminobrowser.org/
+    \n\n<a href="http://www.caminobrowser.org/" rel="nofollow">http://www.caminobrowser.org/</a>
   comment_date: '2006-08-28 22:18:31'
   comment_post_ID: '54'
   comment_type: null

@@ -221,7 +221,7 @@ comments:
   comment_author: Stephan Schubert
   comment_author_url: http://www.familie-gutschein.de
   comment_content: 'Nice writeup how it works - here''s a jQuery version for the Google
-    Analytics snippet: http://gist.github.com/361051'
+    Analytics snippet: <a href="http://gist.github.com/361051" rel="nofollow">http://gist.github.com/361051</a>'
   comment_date: '2010-05-25 10:23:53'
   comment_post_ID: '613'
   comment_type: null
@@ -286,9 +286,9 @@ comments:
   comment_author: onequad
   comment_author_url: http://ball.in.th
   comment_content: Thanks for sharing! I've looking for a way to do just this. I've
-    tried loading  http://tracker.stats.in.th/tracker.php?uid=18244 but it didn't
-    work. I am guessing that the external script has document.write and  that messes
-    things up. Is there a work around for this?
+    tried loading  <a href="http://tracker.stats.in.th/tracker.php?uid=18244" rel="nofollow">http://tracker.stats.in.th/tracker.php?uid=18244</a>
+    but it didn't work. I am guessing that the external script has document.write
+    and  that messes things up. Is there a work around for this?
   comment_date: '2010-06-20 16:40:40'
   comment_post_ID: '613'
   comment_type: null
@@ -328,7 +328,8 @@ comments:
   comment_author_url: http://www.aaronpeters.nl/en/
   comment_content: Great article!\n\nHave you considered dynamically creating an iframe?\nI
     know the Meebo guys went down this path and are very happy with the result, although
-    it wasn't easy to get this to work cross-browser.\nhttp://blog.meebo.com/?p=2633
+    it wasn't easy to get this to work cross-browser.\n<a href="http://blog.meebo.com/?p=2633"
+    rel="nofollow">http://blog.meebo.com/?p=2633</a>
   comment_date: '2010-09-01 10:07:01'
   comment_post_ID: '613'
   comment_type: null
@@ -357,7 +358,8 @@ comments:
   comment_content: 'Nice article, helped me a lot. \nBut I encounter a problem with
     browser caching and the version with the onload event. The browser does then no
     longer recognize any changes in the loaded javascript. \nI also opened a question
-    at stackoverflow: \nhttp://stackoverflow.com/questions/3674830/caching-problem-with-asynchronous-javascript-loading-with-onload-event\n\nMaybe
+    at stackoverflow: \n<a href="http://stackoverflow.com/questions/3674830/caching-problem-with-asynchronous-javascript-loading-with-onload-event"
+    rel="nofollow">http://stackoverflow.com/questions/3674830/caching-problem-with-asynchronous-javascript-loading-with-onload-event</a>\n\nMaybe
     somebody knows a solution to this?'
   comment_date: '2010-09-09 10:22:35'
   comment_post_ID: '613'
@@ -400,7 +402,8 @@ comments:
 - comment_ID: '34095'
   comment_author: ??????????? ???????? ???????? ? HTML ???????? &laquo; ?????????
   comment_author_url: http://alexsorokin.ru/2010/09/javascript-async-load/
-  comment_content: '[...] http://friendlybit.com/js/lazy-loading-asyncronous-javascript/
+  comment_content: '[...] <a href="http://friendlybit.com/js/lazy-loading-asyncronous-javascript/"
+    rel="nofollow">http://friendlybit.com/js/lazy-loading-asyncronous-javascript/</a>
     [...]'
   comment_date: '2010-09-18 19:18:31'
   comment_post_ID: '613'
@@ -428,9 +431,11 @@ comments:
   comment_author: G
   comment_author_url: ''
   comment_content: Thanks for the great write-up Emil.\n\nCan you elaborate a bit
-    on what the best-practices are for the script that gets inserted (http://yourdomain.com/script.js
-    in your example code).\n\nWhat should be in there? I tried to look into your http://static.kundo.se/embed.js
-    code but that is minified.\n\nThanks in advance!
+    on what the best-practices are for the script that gets inserted (<a href="http://yourdomain.com/script.js"
+    rel="nofollow">http://yourdomain.com/script.js</a> in your example code).\n\nWhat
+    should be in there? I tried to look into your <a href="http://static.kundo.se/embed.js"
+    rel="nofollow">http://static.kundo.se/embed.js</a> code but that is minified.\n\nThanks
+    in advance!
   comment_date: '2010-11-04 18:03:20'
   comment_post_ID: '613'
   comment_type: null

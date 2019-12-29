@@ -189,7 +189,8 @@ comments:
     don't) but it's still an option.\n\nalso, i ran across this great article at thinkvitamin
     awhile back that had an example of a flash site that also had the content built
     into the page as DIVs that were hidden. this made the site easier to optimize
-    for search engines and accessible.\n\nhttp://www.thinkvitamin.com/features/css/real-world-css-zen-for-your-site\n(see
+    for search engines and accessible.\n\n<a href="http://www.thinkvitamin.com/features/css/real-world-css-zen-for-your-site"
+    rel="nofollow">http://www.thinkvitamin.com/features/css/real-world-css-zen-for-your-site</a>\n(see
     the section named "Actual Content Behind Flash or Descriptive Images")
   comment_date: '2007-01-18 23:31:23'
   comment_post_ID: '111'
@@ -279,13 +280,14 @@ comments:
     visuals and sound, Binary Sockets to communicate directly with the database or
     anything else you wish, live asynchronous updates of data using data binding (e.g.
     Flex Data Services), and accessibility is stronger than most AJAX sites by default
-    (http://niquimerret.com). SEO is exactly the same for Flash sites as it is with
-    AJAX sites, trust me on that one, anything that loads data asynchronously requires
-    the same SEO solution using URL re-writing and agent sniffing, and as a matter
-    of fact Google *does* read inside SWFs. Finally more people have Flash player
-    than people who have JS turned on (that's a fact). If you need a helping hand
-    getting started, there's a lot of people willing to help, so join in and get up
-    to date, for the good of the web!
+    (<a href="http://niquimerret.com)." rel="nofollow">http://niquimerret.com).</a>
+    SEO is exactly the same for Flash sites as it is with AJAX sites, trust me on
+    that one, anything that loads data asynchronously requires the same SEO solution
+    using URL re-writing and agent sniffing, and as a matter of fact Google *does*
+    read inside SWFs. Finally more people have Flash player than people who have JS
+    turned on (that's a fact). If you need a helping hand getting started, there's
+    a lot of people willing to help, so join in and get up to date, for the good of
+    the web!
   comment_date: '2007-01-26 18:28:54'
   comment_post_ID: '111'
   comment_type: null
@@ -487,16 +489,17 @@ comments:
   comment_content: 'No offense, but this article is biased towards Flash. Flash is
     great technology, it''s just often misused. I agree that for standard websites,
     Flash is a no-no; however, for rich internet applications, Flash and Flex beat
-    JavaScript any day. There''s a reason web applications like Buzzword (http://www.buzzword.com/)
-    use Flash/Flex and not JavaScript: it''s just more effective for the job. All
-    your negative comments toward Flash are basically nill when talking about RIAs.\n\nAccessibility:
-    When was the last time you saw a blind guy editing a photo on Picnik?\n\nSEO:
-    There isn''t really any content to search on a RIA.\n\nEase of content change:
-    This isn''t an issue because there is no content. And I''d argue that making changes
-    to an application are easier with Flex (Flash is a bit iffy).\n\nAlso, like some
-    have said, Flash is clearly the only effective way to put video, sound, and other
-    rich media on your website. So I believe you can''t compare Flash and Ajax, they
-    are two completely different technologies that do two completely different things.'
+    JavaScript any day. There''s a reason web applications like Buzzword (<a href="http://www.buzzword.com/)"
+    rel="nofollow">http://www.buzzword.com/)</a> use Flash/Flex and not JavaScript:
+    it''s just more effective for the job. All your negative comments toward Flash
+    are basically nill when talking about RIAs.\n\nAccessibility: When was the last
+    time you saw a blind guy editing a photo on Picnik?\n\nSEO: There isn''t really
+    any content to search on a RIA.\n\nEase of content change: This isn''t an issue
+    because there is no content. And I''d argue that making changes to an application
+    are easier with Flex (Flash is a bit iffy).\n\nAlso, like some have said, Flash
+    is clearly the only effective way to put video, sound, and other rich media on
+    your website. So I believe you can''t compare Flash and Ajax, they are two completely
+    different technologies that do two completely different things.'
   comment_date: '2008-04-20 20:15:55'
   comment_post_ID: '111'
   comment_type: null

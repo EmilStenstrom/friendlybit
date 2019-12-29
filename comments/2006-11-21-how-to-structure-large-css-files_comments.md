@@ -76,7 +76,10 @@ comments:
 - comment_ID: '7614'
   comment_author: Rowan Lewis
   comment_author_url: http://pixelcarnage.net/
-  comment_content: I'm a freak:\nhttp://pixelcarnage.net/Projects/OneCommune/003/HTML/Styles/Global.css\nhttp://pixelcarnage.net/Projects/OneCommune/003/HTML/Styles/Screen.css\n\nI'm
+  comment_content: I'm a freak:\n<a href="http://pixelcarnage.net/Projects/OneCommune/003/HTML/Styles/Global.css"
+    rel="nofollow">http://pixelcarnage.net/Projects/OneCommune/003/HTML/Styles/Global.css</a>\n<a
+    href="http://pixelcarnage.net/Projects/OneCommune/003/HTML/Styles/Screen.css"
+    rel="nofollow">http://pixelcarnage.net/Projects/OneCommune/003/HTML/Styles/Screen.css</a>\n\nI'm
     sure those two files will scare someone...
   comment_date: '2006-11-22 02:44:01'
   comment_post_ID: '106'
@@ -134,7 +137,8 @@ comments:
   comment_author: Jens Wedin
   comment_author_url: http://jedisthlm.com
   comment_content: This is how we did it for a large project for Nordea. It's a mix
-    of what you write about.\n\nhttp://www.nordea.se/sitemod/upload/Root/eGuidelines/stylesheets/screen_common.css
+    of what you write about.\n\n<a href="http://www.nordea.se/sitemod/upload/Root/eGuidelines/stylesheets/screen_common.css"
+    rel="nofollow">http://www.nordea.se/sitemod/upload/Root/eGuidelines/stylesheets/screen_common.css</a>
   comment_date: '2006-11-23 16:35:06'
   comment_post_ID: '106'
   comment_type: null
@@ -275,7 +279,8 @@ comments:
 - comment_ID: '7842'
   comment_author: Ash Haque
   comment_author_url: http://www.bballcity.com/
-  comment_content: My hardcore super organized css file:\n\nhttp://www.bballcity.com/wp-content/themes/foxtrot/style.css
+  comment_content: My hardcore super organized css file:\n\n<a href="http://www.bballcity.com/wp-content/themes/foxtrot/style.css"
+    rel="nofollow">http://www.bballcity.com/wp-content/themes/foxtrot/style.css</a>
   comment_date: '2006-11-26 00:39:13'
   comment_post_ID: '106'
   comment_type: null
@@ -336,7 +341,8 @@ comments:
   comment_author: Fatih Hayrio?lu’nun not defteri &raquo; 26 Kas?m WEb’den seçme haberler
   comment_author_url: http://www.fatihhayrioglu.com/?p=224
   comment_content: '[...] Büyük boyutlu CSS dosyalar?n? nas?l organize edece?imiz
-    anlatan güzel bir makale http://friendlybit.com/css/how-to-structure-large-css-files/
+    anlatan güzel bir makale <a href="http://friendlybit.com/css/how-to-structure-large-css-files/"
+    rel="nofollow">http://friendlybit.com/css/how-to-structure-large-css-files/</a>
     [...]'
   comment_date: '2006-11-26 14:40:21'
   comment_post_ID: '106'
@@ -582,7 +588,8 @@ comments:
 - comment_ID: '9499'
   comment_author: Cum sa-ti structurezi fisierele CSS - 100%Design
   comment_author_url: http://www.100la100design.ro/xhtml-css/2006/12/cum-sa-ti-structurezi-fisierele-css/
-  comment_content: '[...] autor: Emil Stenström pe 21 Noiembrie, 2006 sursa: http://friendlybit.com/css/how-to-structure-large-css-files/    Categoria:
+  comment_content: '[...] autor: Emil Stenström pe 21 Noiembrie, 2006 sursa: <a href="http://friendlybit.com/css/how-to-structure-large-css-files/"
+    rel="nofollow">http://friendlybit.com/css/how-to-structure-large-css-files/</a>    Categoria:
     XHTML &amp; CSS        Search [...]'
   comment_date: '2006-12-16 16:00:56'
   comment_post_ID: '106'
@@ -648,29 +655,30 @@ comments:
 - comment_ID: '30408'
   comment_author: lewis litanzios
   comment_author_url: http://www.ldexterldesign.co.uk/
-  comment_content: i've loosely based my latest project on andy budd's (http://tinyurl.com/2oucvd)
-    approach; splitting  default, basic, links &amp; navigation, layout, typography,
-    colour, forms, and tables up into separate sections. obviously an alternative
-    would be to source independent, dedicated, css files - this approach has never
-    enticed me into using it. it's just too fragmented imo, not to mention load time.\n\none
-    downside to splitting this info up into dedicated sections is you often find your
-    self writing the selectors two or three times in different sections when you could,
-    in theory, just include all properties under one selector in one place.\n\nbreaking
-    things up has far more benefits though. for instance you can sit down and concentrate
-    specifically on the typography for instance (although in my next project i'll
-    be deciding upon my type before i do any layout). it's far to easy to become a
-    whore to type once the layout is all done and dusted.\n\nthink i agree on the
-    full path issue; i'll be implementing that in my next project. look at it this
-    way, if you do use full paths it ties in with the alphabetical approach nicely.\n\nnot
-    sure about the indentation thing, but nevertheless interesting. i'm one of those
-    people that uses 'the least human readable approach', in one liners, for my css
-    presentation. my justification is it's less scrolling down to get to what you
-    want; once there you can obvious format it how you like when/if editing it.\n\ni'm
-    a big fan of CSS Formatter and Optimiser (http://tinyurl.com/2vpxfe) and use it
-    at the end of every project to tidy things up, group selectors, shorten property
-    values (hex colours, shorthand padding/margins etc) and generally get a nudge
-    in the write direction for how i could make things a bit tighter in the next project.\n\nmy
-    3 cents :)\n\ncheers emil!
+  comment_content: i've loosely based my latest project on andy budd's (<a href="http://tinyurl.com/2oucvd)"
+    rel="nofollow">http://tinyurl.com/2oucvd)</a> approach; splitting  default, basic,
+    links &amp; navigation, layout, typography, colour, forms, and tables up into
+    separate sections. obviously an alternative would be to source independent, dedicated,
+    css files - this approach has never enticed me into using it. it's just too fragmented
+    imo, not to mention load time.\n\none downside to splitting this info up into
+    dedicated sections is you often find your self writing the selectors two or three
+    times in different sections when you could, in theory, just include all properties
+    under one selector in one place.\n\nbreaking things up has far more benefits though.
+    for instance you can sit down and concentrate specifically on the typography for
+    instance (although in my next project i'll be deciding upon my type before i do
+    any layout). it's far to easy to become a whore to type once the layout is all
+    done and dusted.\n\nthink i agree on the full path issue; i'll be implementing
+    that in my next project. look at it this way, if you do use full paths it ties
+    in with the alphabetical approach nicely.\n\nnot sure about the indentation thing,
+    but nevertheless interesting. i'm one of those people that uses 'the least human
+    readable approach', in one liners, for my css presentation. my justification is
+    it's less scrolling down to get to what you want; once there you can obvious format
+    it how you like when/if editing it.\n\ni'm a big fan of CSS Formatter and Optimiser
+    (<a href="http://tinyurl.com/2vpxfe)" rel="nofollow">http://tinyurl.com/2vpxfe)</a>
+    and use it at the end of every project to tidy things up, group selectors, shorten
+    property values (hex colours, shorthand padding/margins etc) and generally get
+    a nudge in the write direction for how i could make things a bit tighter in the
+    next project.\n\nmy 3 cents :)\n\ncheers emil!
   comment_date: '2008-03-06 19:16:50'
   comment_post_ID: '106'
   comment_type: null
@@ -725,7 +733,8 @@ comments:
   comment_author: suraj
   comment_author_url: http://surajnaikin.blogspot.com
   comment_content: hi check out my blog,\n\nthis is the way i manage my css file...&amp;
-    i have been succesfully used this over more than 50 projects\n\nhttp://surajnaikin.blogspot.com/2008/07/how-to-manage-your-style-sheet.html
+    i have been succesfully used this over more than 50 projects\n\n<a href="http://surajnaikin.blogspot.com/2008/07/how-to-manage-your-style-sheet.html"
+    rel="nofollow">http://surajnaikin.blogspot.com/2008/07/how-to-manage-your-style-sheet.html</a>
   comment_date: '2008-08-05 21:31:47'
   comment_post_ID: '106'
   comment_type: null

@@ -41,11 +41,11 @@ comments:
     for logging site traffic this week. until now i didn''t know what user agent strings
     were. nice one; i''m glad i commented now :) \n\nstill... for someone less into
     server-stuff there is no other option but to use the media attribute, i take it?\n\ni
-    must admit i don''t have every type of media end product (for the list: http://tinyurl.com/7llod)
-    to experiment with so half the time i just take it for granted that  it will work
-    - relying on standards to automate the leg work. not every client asks for their
-    site to work on x end mediums though - how do you factor in this aspect in your
-    projects, or do you treat it arbitrarily?'
+    must admit i don''t have every type of media end product (for the list: <a href="http://tinyurl.com/7llod)"
+    rel="nofollow">http://tinyurl.com/7llod)</a> to experiment with so half the time
+    i just take it for granted that  it will work - relying on standards to automate
+    the leg work. not every client asks for their site to work on x end mediums though
+    - how do you factor in this aspect in your projects, or do you treat it arbitrarily?'
   comment_date: '2007-11-02 22:25:30'
   comment_post_ID: '136'
   comment_type: null
