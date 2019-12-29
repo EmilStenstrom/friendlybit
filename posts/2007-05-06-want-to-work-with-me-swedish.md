@@ -6,7 +6,8 @@ date: 2007-05-06 21:59:41
 guid: http://friendlybit.com/other/want-to-work-with-me-swedish/
 id: 124
 permalink: /other/want-to-work-with-me-swedish/
-title: Want to work with me? (Swedish)
+title: Vill du jobba med mig? (Swedish)
+lang: sv
 ---
 
 Som ni säkert redan vet så jobbar jag som gränssnittsutvecklare på ett konsultbolag som heter [Valtech](http://valtech.se/) i Stockholm, och just nu finns det jättemycket att göra. Därför letar vi nu efter ytterligare någon som vill jobba med gränssnitt, och ta rollen som expert på HTML, CSS, Javascript, tillgänglighet, och allt annat som ingår i modern webb.

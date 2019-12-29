@@ -7,6 +7,7 @@ guid: http://friendlybit.com/?p=164
 id: 164
 permalink: /other/avlyssna-befolkningen-swedish/
 title: Avlyssna befolkningen (Swedish)
+lang: sv
 ---
 
 (Eng: Sorry for writing this in swedish. Sweden is about to pass a law allowing the government to wiretap its citizens and I need to add a few things to the debate. The rest is in Swedish)
