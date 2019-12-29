@@ -1,26 +1,14 @@
 ---
-id: 59
-title: Datatypes of HTML; why HTML is great for structure
-date: 2006-05-01T15:42:26
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/datatypes-of-html/
-permalink: /html/datatypes-of-html/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285823"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2006-05-01 15:42:26
+guid: http://friendlybit.com/html/datatypes-of-html/
+id: 59
+permalink: /html/datatypes-of-html/
+title: Datatypes of HTML; why HTML is great for structure
 ---
+
 <p class="first">
   HTML is often bashed by people for being a bad language. People, often used to XML, talk about the lack of good elements for marking up things like authors and dates. While I agree that HTML would need a few more tags that help with marking the meaning of things I do think HTML is good at structure. This article is a attempt to show HTML's power by mapping how different datatypes in the common programming languages map to elements in HTML.
 </p>

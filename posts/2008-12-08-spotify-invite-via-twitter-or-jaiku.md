@@ -1,26 +1,14 @@
 ---
-id: 378
-title: Spotify invite via Twitter or Jaiku
-date: 2008-12-08T09:00:27
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=378
-permalink: /other/spotify-invite-via-twitter-or-jaiku/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287915"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2008-12-08 09:00:27
+guid: http://friendlybit.com/?p=378
+id: 378
+permalink: /other/spotify-invite-via-twitter-or-jaiku/
+title: Spotify invite via Twitter or Jaiku
 ---
+
 I've [talked about Spotify](/other/spotify-is-a-lot-like/) before. It's simply the reason I no longer have any music stored on my computer. You heard it right: **No more music stored locally on my computer**.
 
 What Spotify did to convince me to take this step was to really start to **compete with file sharing**. Spotify does just that, but manages to do it in a way that pays artists. This is how:

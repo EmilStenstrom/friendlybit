@@ -1,29 +1,15 @@
 ---
-id: 331
-title: Follow the 10 ground rules, or fail on the web
-date: 2008-11-20T18:58:16
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=331
-permalink: /tutorial/10-web-ground-rules/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287899"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Modern web
-  - Tutorial
+- Modern web
+- Tutorial
+date: 2008-11-20 18:58:16
+guid: http://friendlybit.com/?p=331
+id: 331
+permalink: /tutorial/10-web-ground-rules/
+title: Follow the 10 ground rules, or fail on the web
 ---
+
 When you work with the web, there are a couple of basics you really need to get right. These are things I see people misunderstand over and over again, with a varying degree of failiure as a result. Not only individuals make these mistakes, even really big organizations make them, and suffer as a result. So lets get at it.
 
 ## 1. Everyone is **anonymous** on the web, if they want to

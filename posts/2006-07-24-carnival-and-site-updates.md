@@ -1,26 +1,14 @@
 ---
-id: 82
-title: Carnival and Site updates
-date: 2006-07-24T17:11:39
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/other/carnival-and-site-updates/
-permalink: /other/carnival-and-site-updates/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286152"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2006-07-24 17:11:39
+guid: http://friendlybit.com/other/carnival-and-site-updates/
+id: 82
+permalink: /other/carnival-and-site-updates/
+title: Carnival and Site updates
 ---
+
 Hi all! I just wanted to gather a few things in one big post about this site.
 
 ## Carnival of the Web #2

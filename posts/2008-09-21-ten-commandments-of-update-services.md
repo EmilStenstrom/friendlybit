@@ -1,27 +1,15 @@
 ---
-id: 239
-title: Ten commandments of update services
-date: 2008-09-21T23:10:25
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=239
-permalink: /other/ten-commandments-of-update-services/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287710"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
-  - Tutorial
+- Other
+- Tutorial
+date: 2008-09-21 23:10:25
+guid: http://friendlybit.com/?p=239
+id: 239
+permalink: /other/ten-commandments-of-update-services/
+title: Ten commandments of update services
 ---
+
 I'm getting increasingly annoyed with update services shipped with popular applications. It's looks like it's getting worse and worse, and I think someone should stand up and say **enough is enough**.
 
   * [Adobe Update](#adobe)

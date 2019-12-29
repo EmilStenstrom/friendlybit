@@ -1,17 +1,15 @@
 ---
-id: 839
-title: Partial XMLHttpRequest responses?
-date: 2012-01-08T15:28:49
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=839
-permalink: /js/partial-xmlhttprequest-responses/
-btcnew_comment_counts:
-  - 'a:0:{}'
 categories:
-  - JS
-  - Modern web
+- JS
+- Modern web
+date: 2012-01-08 15:28:49
+guid: http://friendlybit.com/?p=839
+id: 839
+permalink: /js/partial-xmlhttprequest-responses/
+title: Partial XMLHttpRequest responses?
 ---
+
 We all know how to make an AJAX request, and fetch some data. But as soon as you need to fetch data incrementally, have the server push data to you, you have to resort to all sorts of complicated stuff. Websockets; with all their different versions and shady support, different kinds of polling, hidden iframes, ActiveX for IE?
 
 The simplest way, that almost workds is partial XMLHttpRequest responses. I first read about them as [progressive xmlhttprequests on Kyle Schulz blog](http://www.kylescholz.com/blog/2010/01/progressive_xmlhttprequest_1.html), but really think that method should get more recognition.

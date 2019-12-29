@@ -1,27 +1,15 @@
 ---
-id: 150
-title: IE8 and Doctype switching
-date: 2008-01-26T17:44:50
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/ie8-and-doctype-switching/
-permalink: /css/ie8-and-doctype-switching/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287342"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
+- CSS
+- HTML
+date: 2008-01-26 17:44:50
+guid: http://friendlybit.com/css/ie8-and-doctype-switching/
+id: 150
+permalink: /css/ie8-and-doctype-switching/
+title: IE8 and Doctype switching
 ---
+
 The topic of this week has been IE8s new rendering mode, and the strange way to trigger it. As usual, I've decided not to comment right away, and instead first read what others are saying and try to form an opinion.
 
 I believe the best articles that talks about the switch are these:

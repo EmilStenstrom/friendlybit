@@ -1,30 +1,16 @@
 ---
-id: 37
-title: Line Breaking With Javascript
-date: 2006-01-22T00:00:00
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/js/line-breaking-with-javascript/
-permalink: /js/line-breaking-with-javascript/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285611"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - JS
-  - CSS
-  - HTML
+- JS
+- CSS
+- HTML
+date: 2006-01-22 00:00:00
+guid: http://friendlybit.com/js/line-breaking-with-javascript/
+id: 37
+permalink: /js/line-breaking-with-javascript/
+title: Line Breaking With Javascript
 ---
+
 Over the years there have been numerous suggestions of different ways of doing line breaks on the web. Browser incompatibilities, lack of support for standardized features, and the creation of browser specific features all helps in making it incredibly difficult. Searching and reading for a while quickly brought me to think the best current solution is [quirksmode's wbr](http://www.quirksmode.org/blog/archives/2005/06/quirks_mode_and_1.html). It seems quite well supported but has two major flaws:
 
   1. `<wbr>` is not valid HTML

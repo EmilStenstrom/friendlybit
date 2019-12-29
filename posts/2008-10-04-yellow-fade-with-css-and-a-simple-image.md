@@ -1,24 +1,14 @@
 ---
-id: 276
-title: Yellow fade with CSS and a simple image
-date: 2008-10-04T20:19:09
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=276
-permalink: /css/yellow-fade-with-css-and-a-simple-image/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287784"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2008-10-04 20:19:09
+guid: http://friendlybit.com/?p=276
+id: 276
+permalink: /css/yellow-fade-with-css-and-a-simple-image/
+title: Yellow fade with CSS and a simple image
 ---
+
 Via [Think Vitamin](http://www.thinkvitamin.com/features/css/stay-on-target) I find a cool way to highlight the current element. Lots of people do this by calling some kind of javascript library, it's so common it's been dubbed the [yellow fade technique](http://www.37signals.com/svn/archives/000558.php). But javascript isn't really needed, you just need CSS and an image.
 
 <p id="example">

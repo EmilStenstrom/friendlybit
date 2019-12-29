@@ -1,26 +1,16 @@
 ---
-id: 135
-title: 'I’m an interface developer'
-date: 2007-08-20T23:17:55
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/im-an-interface-developer/
-permalink: /css/im-an-interface-developer/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287184"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
-  - JS
+- CSS
+- HTML
+- JS
+date: 2007-08-20 23:17:55
+guid: http://friendlybit.com/css/im-an-interface-developer/
+id: 135
+permalink: /css/im-an-interface-developer/
+title: I’m an interface developer
 ---
+
 In his latest post Roger Johansson asks the question [Are we designers or developers?](http://www.456bereastreet.com/archive/200708/are_we_designers_or_developers/). I have a simple answer for that. **None of them**. Let me explain:
 
 First we have these people calling themselves **developers**. And boy do they know programming… and math… and… no that's all. Many have a masters degree in computer science, a degree that pretty much tells you that they once gave five years of their lives to programing, how cool is that!? It's not unusual to find people that [think in those terms](http://xkcd.com/55/) too. You can recognize them by their 10 year old, unmatched, clothes and you'll rarely talk more than 1 minute with them. Very efficient.

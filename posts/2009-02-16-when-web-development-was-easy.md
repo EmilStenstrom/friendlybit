@@ -1,22 +1,14 @@
 ---
-id: 438
-title: 'When web development was easy…'
-date: 2009-02-16T17:02:33
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=438
-permalink: /browsers/when-web-development-was-easy/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288112"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"20";s:7:"enabled";s:1:"0";}}'
 categories:
-  - Browsers
+- Browsers
+date: 2009-02-16 17:02:33
+guid: http://friendlybit.com/?p=438
+id: 438
+permalink: /browsers/when-web-development-was-easy/
+title: When web development was easy…
 ---
+
 Do you remember the time when web development was easy? Right where it all started, when there was just one browser, and [only one website](http://www.w3.org/People/Berners-Lee/FAQ.html#Examples) existed?
 
 Things changed. And now you can't trust anything any longer. Trust me, if you think you know how your site will be shown, you're wrong. Just consider the 10 major steps of "progress" we've made since then:

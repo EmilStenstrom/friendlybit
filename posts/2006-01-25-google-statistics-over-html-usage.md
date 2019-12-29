@@ -1,24 +1,14 @@
 ---
-id: 41
-title: Google statistics over HTML usage
-date: 2006-01-25T20:56:18
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/google-statistics-over-html-usage/
-permalink: /html/google-statistics-over-html-usage/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285688"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2006-01-25 20:56:18
+guid: http://friendlybit.com/html/google-statistics-over-html-usage/
+id: 41
+permalink: /html/google-statistics-over-html-usage/
+title: Google statistics over HTML usage
 ---
+
 Google Code has done extensive research over the use of HTML today. Since this is Google doing the job they had access to an enormous amount of data, over a billion documents where analysed. What does the report conclude? Pretty much what we already know: people don't use HTML for structure like its intended.
 
 Here are some examples of strange usage in the report:

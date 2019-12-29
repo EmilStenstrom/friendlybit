@@ -1,28 +1,14 @@
 ---
-id: 97
-title: 'IE6 bug: Encode and ignore'
-date: 2006-10-11T21:12:01
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/ie6-bug-encode-and-ignore/
-permalink: /css/ie6-bug-encode-and-ignore/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286503"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-10-11 21:12:01
+guid: http://friendlybit.com/css/ie6-bug-encode-and-ignore/
+id: 97
+permalink: /css/ie6-bug-encode-and-ignore/
+title: 'IE6 bug: Encode and ignore'
 ---
+
 I've previously talked about [encodings](/other/character-encoding-basics) and tried to explain how they work. This time I'll show you a bug in IE6 that is based on encoding problems. Because if you don't watch out, IE6 might ignore whole rules in your stylesheet. If you want you can see the example right away: [Ignore encoding example](/files/encode-ignore/). Open in in IE6 and compare with the rendering in a modern browser.
 
 I've never seen this bug mentioned before so I took the liberty of naming it the **"Encode and Ignore bug"**. If you find it somewhere else, please tell, and I'll use that name instead.

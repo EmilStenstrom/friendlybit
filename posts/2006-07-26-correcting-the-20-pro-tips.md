@@ -1,30 +1,16 @@
 ---
-id: 84
-title: Correcting the 20 pro tips (.NET magazine)
-date: 2006-07-26T05:01:06
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/correcting-the-20-pro-tips/
-permalink: /css/correcting-the-20-pro-tips/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286168"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
-  - Tutorial
+- CSS
+- HTML
+- Tutorial
+date: 2006-07-26 05:01:06
+guid: http://friendlybit.com/css/correcting-the-20-pro-tips/
+id: 84
+permalink: /css/correcting-the-20-pro-tips/
+title: Correcting the 20 pro tips (.NET magazine)
 ---
+
 .NET magazine is a fairly big web development magazine. I've recently been referenced to its articles from many separate places, and often found the articles to be of good quality. The last one, called [20 pro tips](http://www.netmag.co.uk/zine/design-tutorials/20-pro-tips), was not too good though, so I'm going to go through and correct it. I'm not trying to attack the magazine here (remember "friendly" in the URL), I just want people to know these things.
 
 The article consists of 20 points that a pro should know. Here are the points I found errors in:

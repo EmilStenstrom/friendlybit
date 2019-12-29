@@ -1,27 +1,15 @@
 ---
-id: 169
-title: 'Don’t waste time writing HTML and CSS'
-date: 2008-07-10T00:02:50
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=169
-permalink: /css/dont-waste-time-writing-html-and-css/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205895618"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
+- CSS
+- HTML
+date: 2008-07-10 00:02:50
+guid: http://friendlybit.com/?p=169
+id: 169
+permalink: /css/dont-waste-time-writing-html-and-css/
+title: Don’t waste time writing HTML and CSS
 ---
+
 When you've worked with front-end development for a while, you start thinking about effectiveness. So without further ado, here's my four best ways to be a more effective front-end developer. Feel free to add more ideas as comments!
 
 ## 1. Do you need HTML or CSS for this?

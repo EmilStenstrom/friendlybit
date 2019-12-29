@@ -1,26 +1,14 @@
 ---
-id: 42
-title: Four things to get you tagged
-date: 2006-01-25T23:00:32
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/other/four-things-to-get-you-tagged/
-permalink: /other/four-things-to-get-you-tagged/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285696"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2006-01-25 23:00:32
+guid: http://friendlybit.com/other/four-things-to-get-you-tagged/
+id: 42
+permalink: /other/four-things-to-get-you-tagged/
+title: Four things to get you tagged
 ---
+
 There's a few questions circling the blogsphere. I better pass them on just to avoid the angry CSS gods.
 
 ## Four jobs I've had in my life

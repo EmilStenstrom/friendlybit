@@ -1,28 +1,14 @@
 ---
-id: 106
-title: How to structure large CSS files
-date: 2006-11-21T21:55:47
 author: Emil Stenström
-excerpt: |
-  Many methods exist to structure your CSS. This article tries to describe the method I use. I call it the "Tree method", since it structures the CSS like... that's right, a tree structure.
-layout: post
-guid: http://friendlybit.com/css/how-to-structure-large-css-files/
-permalink: /css/how-to-structure-large-css-files/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286675"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-11-21 21:55:47
+guid: http://friendlybit.com/css/how-to-structure-large-css-files/
+id: 106
+permalink: /css/how-to-structure-large-css-files/
+title: How to structure large CSS files
 ---
+
 Many methods exist to structure your CSS. This article tries to describe the method I use. I call it the "Tree method", since it structures the CSS like… that's right, a tree structure. I want to stress that it isn’t my invention; I just describe and give reasons for its rules.
 
 Everyone that has built a bigger site has had to deal with the mess CSS so easily become. There are ids and classes all over the place, and to find where a certain class is defined you usually need to use some search feature in your editor. Matching the other way, from the CSS to the HTML is even harder; you don't even know _what file_ a certain class is defined in. It’s a mess.

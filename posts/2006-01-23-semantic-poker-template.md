@@ -1,26 +1,16 @@
 ---
-id: 37
-title: Building a poker template
-date: 2006-01-23T03:31:06
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/semantic-poker-template/
-permalink: /css/semantic-poker-template/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285630"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
-  - Tutorial
+- CSS
+- HTML
+- Tutorial
+date: 2006-01-23 03:31:06
+guid: http://friendlybit.com/css/semantic-poker-template/
+id: 37
+permalink: /css/semantic-poker-template/
+title: Building a poker template
 ---
+
 This is the first article in a series of [niche templates](/css/building-niche-sites-with-standards/) I'm building. You can have a look at the [finished template](/files/poker/?style=positioning&style2=decoration) before we start if you want.
 
 ## About the niche

@@ -1,28 +1,14 @@
 ---
-id: 80
-title: Static and dynamic CSS combined
-date: 2006-07-16T18:56:03
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/static-and-dynamic-css-combined/
-permalink: /css/static-and-dynamic-css-combined/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286133"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-07-16 18:56:03
+guid: http://friendlybit.com/css/static-and-dynamic-css-combined/
+id: 80
+permalink: /css/static-and-dynamic-css-combined/
+title: Static and dynamic CSS combined
 ---
+
 Some of you have probably heard "dynamic CSS". It originates from a need to serve different CSS at different times, to different people, or on different pages. You do this by first generating the CSS on the server and then sending it off to the users requesting it. There are problems though, since the CSS gets regenerated each time you lose the advantage of caching. You could send HTTP headers so that the file gets cached anyway, but then it's no longer dynamic right? This article presents a way to both have dynamic CSS that changes on each request, and make sure the user loads it from cache when it can.
 
 ## How dynamic CSS works

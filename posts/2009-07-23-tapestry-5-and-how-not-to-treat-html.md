@@ -1,23 +1,14 @@
 ---
-id: 528
-title: Tapestry 5, and how not to treat HTML
-date: 2009-07-23T21:39:10
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=528
-permalink: /html/tapestry-5-and-how-not-to-treat-html/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288575"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"25";s:7:"enabled";s:1:"0";}}'
 categories:
-  - HTML
+- HTML
+date: 2009-07-23 21:39:10
+guid: http://friendlybit.com/?p=528
+id: 528
+permalink: /html/tapestry-5-and-how-not-to-treat-html/
+title: Tapestry 5, and how not to treat HTML
 ---
+
 I've previously written about how [Microsoft Sharepoint](/html/default-html-in-sharepoint-2007/) mistreats HTML, and makes it look a whole other language. But truth to be told, Sharepoint (and .NET for that matter) isn't the only framework that can't handle HTML. I've recently worked with a Java framework called [Tapestry 5](http://tapestry.apache.org/), and it's really bad in some respects too (though not quite as bad as Sharepoint). Note that this is a review based on **only** how it handles HTML, not any other of its merits. Let's get started.
 
 Many of Tapestry's problems comes from their design decision to parse the HTML you're trying to output. Yes, Tapestry parses your HTML, and adds stuff to it dynamically. This is nothing new, anyone that has played with ASP.NET knows how hidden form elements get stuffed in here and there. This is a nightmare for an interface developer, we need exact control over HTML to do our jobs well.

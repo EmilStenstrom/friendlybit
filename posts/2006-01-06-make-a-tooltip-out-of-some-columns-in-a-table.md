@@ -1,28 +1,16 @@
 ---
-id: 31
-title: Make a tooltip out of some columns in a table
-date: 2006-01-06T01:16:59
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/make-a-tooltip-out-of-some-columns-in-a-table/
-permalink: /css/make-a-tooltip-out-of-some-columns-in-a-table/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285126"
 categories:
-  - CSS
-  - HTML
-  - JS
+- CSS
+- HTML
+- JS
+date: 2006-01-06 01:16:59
+guid: http://friendlybit.com/css/make-a-tooltip-out-of-some-columns-in-a-table/
+id: 31
+permalink: /css/make-a-tooltip-out-of-some-columns-in-a-table/
+title: Make a tooltip out of some columns in a table
 ---
+
 A worried user joins the #CSS channel on EFNet. He has a big problem with the site he's currently working on and wonders if there might be a problem with his markup. Let's see what he wants.
 
 The site sells some kind of houses and each house has a few "options" (let's pretend a bigger door is one option) that the user should be able to select among. Each of these options has a name and costs a certain amount of money. When you move your mouse over one of the options, he wants more info to pop up in a small box. In the box there should be an image, a store name and strange number. What HTML should he use to mark that up?

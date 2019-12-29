@@ -1,29 +1,15 @@
 ---
-id: 73
-title: 'Reminder: Cross browser font sizes'
-date: 2006-06-30T18:15:09
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/reminder-cross-browser-font-sizes/
-permalink: /css/reminder-cross-browser-font-sizes/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205766436"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - Fonts
+- CSS
+- Fonts
+date: 2006-06-30 18:15:09
+guid: http://friendlybit.com/css/reminder-cross-browser-font-sizes/
+id: 73
+permalink: /css/reminder-cross-browser-font-sizes/
+title: 'Reminder: Cross browser font sizes'
 ---
+
 I'm sure most of you have already read the [excellent experiment](http://www.thenoodleincident.com/tutorials/box_lesson/font/index.html "Noodleincidents guide on font sizes") on font sizes but it's important enough to summarice here.
 
 The problem is how to make as many browsers as possible display fonts in the same size, without using pixels or other absolute units. Why shouldn't you use fixed font sizes? Because they make Internet Explorer unable to zoom the text with text-zoom, something that's bad for accessibility.

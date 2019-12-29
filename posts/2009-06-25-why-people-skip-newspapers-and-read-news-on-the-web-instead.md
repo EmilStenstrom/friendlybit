@@ -1,24 +1,15 @@
 ---
-id: 494
-title: Why people skip newspapers and read news on the web instead
-date: 2009-06-25T22:44:12
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=494
-permalink: /modern-web/why-people-skip-newspapers-and-read-news-on-the-web-instead/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288340"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"22";s:7:"enabled";s:1:"0";}}'
 categories:
-  - Modern web
-  - Strategy
+- Modern web
+- Strategy
+date: 2009-06-25 22:44:12
+guid: http://friendlybit.com/?p=494
+id: 494
+permalink: /modern-web/why-people-skip-newspapers-and-read-news-on-the-web-instead/
+title: Why people skip newspapers and read news on the web instead
 ---
+
 You can't be involved with what's happening on the internet without coming in contact with the "newspaper crisis" somehow. From a business perspective it's simple really: Much fewer people buy newspapers (on paper) nowadays. Please note that this has very little to do with advertisement or business models, I'm talking about newspapers from the user perspective here.
 
 Internet is really a commodity nowadays. People process loads of  information on the web every day, and this of course affects how they expect newspapers to behave. Every time I hold a big newspaper in my hands I'm surprised at how inferior it is compared to reading news on the web.

@@ -1,26 +1,14 @@
 ---
-id: 157
-title: Web standards with ASP.NET
-date: 2008-05-17T11:46:33
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=157
-permalink: /html/web-standards-with-aspnet/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287436"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2008-05-17 11:46:33
+guid: http://friendlybit.com/?p=157
+id: 157
+permalink: /html/web-standards-with-aspnet/
+title: Web standards with ASP.NET
 ---
+
 Good interface code is a mix of CSS and HTML, and while most frameworks offer full control over the CSS, they rarely offer that for HTML. This article looks at how ASP.NET developers can help their interface developers gain that control. Disclaimer: I'm no .NET expert, but too few people write about this stuff, so I'll make a try.
 
 ## Controls that keep the HTML customizable

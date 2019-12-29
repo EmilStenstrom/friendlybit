@@ -1,26 +1,14 @@
 ---
-id: 48
-title: 'Interview: Why did CSS succeed?'
-date: 2006-03-02T12:14:22
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/interview-why-did-css-succeed/
-permalink: /css/interview-why-did-css-succeed/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285745"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-03-02 12:14:22
+guid: http://friendlybit.com/css/interview-why-did-css-succeed/
+id: 48
+permalink: /css/interview-why-did-css-succeed/
+title: 'Interview: Why did CSS succeed?'
 ---
+
 When you are looking to reach the upper skill levels of a technique it's always a good idea to start with looking back. The history often says much about the fundamental building blocks and why they work like they do. What were the basic driving forces behind it? What need did it fill? When examining those kinds of questions you can get a far deeper knowledge of what you are working with.
 
 In an attempt to gain some of that knowledge I contacted the authors of [Cascading Style Sheets, level 1](http://www.w3.org/TR/REC-CSS1-961217) (CSS1, notice the nice background image) and asked a few questions about the development on the first CSS specification.

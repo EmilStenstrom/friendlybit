@@ -1,28 +1,16 @@
 ---
-id: 140
-title: 'Sharepoint 2007 from an interface developer’s view'
-date: 2008-01-20T12:10:42
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/sharepoint-2007-from-an-interface-developers-view/
-permalink: /css/sharepoint-2007-from-an-interface-developers-view/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287262"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
-  - JS
+- CSS
+- HTML
+- JS
+date: 2008-01-20 12:10:42
+guid: http://friendlybit.com/css/sharepoint-2007-from-an-interface-developers-view/
+id: 140
+permalink: /css/sharepoint-2007-from-an-interface-developers-view/
+title: Sharepoint 2007 from an interface developer’s view
 ---
+
 Like Cameron Moll ([Skinning Sharepoint](http://cameronmoll.com/archives/2007/05/skinning_ms_sharepoint_with_st/) and [Pointedly unskinnable](http://cameronmoll.com/archives/2007/10/sharepoint_2007_pointedly_unskinnable/)), I've been working with Sharepoint 2007 (aka MOSS) recently, and I hope you don't mind me posting a few articles about my work here. I've found far too few blog posts that really go to the depth in explaining how things really work. I'll try to do that here, but I hope you can respect my wish that this does not turn into a helpdesk.
 
 ## "Customization"

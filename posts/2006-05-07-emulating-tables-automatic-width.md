@@ -1,27 +1,15 @@
 ---
-id: 62
-title: 'Emulating tables: Automatic width'
-date: 2006-05-07T01:59:50
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/emulating-tables-automatic-width/
-permalink: /css/emulating-tables-automatic-width/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "206460524"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
+- CSS
+- HTML
+date: 2006-05-07 01:59:50
+guid: http://friendlybit.com/css/emulating-tables-automatic-width/
+id: 62
+permalink: /css/emulating-tables-automatic-width/
+title: 'Emulating tables: Automatic width'
 ---
+
 Moving from tables to layouts based on CSS is a tough move for many. Things don't behave the way they use to and some effects are much harder to do with CSS. This article is about one of the tricks you might want when trying to get table-like effects using CSS: the dynamic width column, where you let the width be decided by an image. You may jump ahead and look at the [dynamic width column](/files/dynamic_left_column/) right away if you want.
 
 ## The problem

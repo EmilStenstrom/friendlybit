@@ -1,23 +1,14 @@
 ---
-id: 573
-title: 'Position: fixed CSS templates'
-date: 2009-12-31T15:14:26
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=573
-permalink: /css/position-fixed-css-templates/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288844"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"24";s:7:"enabled";s:1:"0";}}'
 categories:
-  - CSS
+- CSS
+date: 2009-12-31 15:14:26
+guid: http://friendlybit.com/?p=573
+id: 573
+permalink: /css/position-fixed-css-templates/
+title: 'Position: fixed CSS templates'
 ---
+
 In 2006 I wrote an article about [simulating Frames and Iframes](/css/frames-or-iframes-with-css/) and from time to time, I get questions of how to make modifications to the templates presented. But one big thing has changed since 2006: **Perfect support for IE6 is no longer mandatory**.
 
 So yesterday, when Brandon Cobb of [Super Fighter Team](http://superfighter.com/) asked about a design with a fixed header, fixed left column, and scrolling right column, I thought I'd renew my take on [simulating frames](/css/frames-or-iframes-with-css/) with CSS (The original article is still good for background information, so I still recommend reading it).

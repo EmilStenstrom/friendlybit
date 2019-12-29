@@ -1,29 +1,15 @@
 ---
-id: 65
-title: Inline CSS should not be allowed in strict doctypes
-date: 2006-05-28T22:48:10
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/inline-css-should-not-be-allowed-in-strict-doctypes/
-permalink: /css/inline-css-should-not-be-allowed-in-strict-doctypes/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285912"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
+- CSS
+- HTML
+date: 2006-05-28 22:48:10
+guid: http://friendlybit.com/html/inline-css-should-not-be-allowed-in-strict-doctypes/
+id: 65
+permalink: /css/inline-css-should-not-be-allowed-in-strict-doctypes/
+title: Inline CSS should not be allowed in strict doctypes
 ---
+
 <p class="first">
   As many of my readers already know all pages should include a doctype. The doctype tells the browser (or other user agent) what kind of document it can expect and what standards it follows.
 </p>

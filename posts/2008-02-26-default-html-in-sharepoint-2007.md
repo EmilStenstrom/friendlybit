@@ -1,26 +1,14 @@
 ---
-id: 151
-title: Default HTML in Sharepoint 2007
-date: 2008-02-26T00:27:33
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/default-html-in-sharepoint-2007/
-permalink: /html/default-html-in-sharepoint-2007/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287362"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2008-02-26 00:27:33
+guid: http://friendlybit.com/html/default-html-in-sharepoint-2007/
+id: 151
+permalink: /html/default-html-in-sharepoint-2007/
+title: Default HTML in Sharepoint 2007
 ---
+
 As I've said before, I've been [spending time with Sharepoint 2007](/css/sharepoint-2007-from-an-interface-developers-view/) recently. The HTML it produces is really bad, and today I thought I show you just how bad.
 
 Sharepoint 2007 has been "updated" to support [masterpages](http://msdn2.microsoft.com/en-us/library/wtxbf3hh.aspx), a concept from .NET 2.0. Sharepoint's implementation of masterpages has several problems, but none of them even come close to the biggest problem of them all: default.master.

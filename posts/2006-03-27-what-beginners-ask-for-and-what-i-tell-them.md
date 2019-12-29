@@ -1,28 +1,16 @@
 ---
-id: 45
-title: What beginners ask for (and what I tell them)
-date: 2006-03-27T22:22:07
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/what-beginners-ask-for-and-what-i-tell-them/
-permalink: /css/what-beginners-ask-for-and-what-i-tell-them/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285706"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
-  - Tutorial
+- CSS
+- HTML
+- Tutorial
+date: 2006-03-27 22:22:07
+guid: http://friendlybit.com/css/what-beginners-ask-for-and-what-i-tell-them/
+id: 45
+permalink: /css/what-beginners-ask-for-and-what-i-tell-them/
+title: What beginners ask for (and what I tell them)
 ---
+
 Being in an IRC help channel lets you meet a lot of people. Many are fresh beginners that just wrote their first lines of CSS and stumbled over something they found strange. When you look at their questions from a perspective you quickly find that many of them are repeated and come back over and over again. This article is an attempt to list a few of the important concepts that people seem to have trouble with.
 
 ## Separation of content and design {#separation}

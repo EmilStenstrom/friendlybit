@@ -1,26 +1,14 @@
 ---
-id: 107
-title: 'IE6 bug: Ignored selector hover bug'
-date: 2006-11-27T22:04:42
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/ie6-bug-ignored-selector-hover-bug/
-permalink: /css/ie6-bug-ignored-selector-hover-bug/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205372414"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-11-27 22:04:42
+guid: http://friendlybit.com/css/ie6-bug-ignored-selector-hover-bug/
+id: 107
+permalink: /css/ie6-bug-ignored-selector-hover-bug/
+title: 'IE6 bug: Ignored selector hover bug'
 ---
+
 IE6 bugs seem to pop up all over the place recently. This one is a very small one, but it might affect people that are building tabbed navigation or CSS-based tooltips. The problem is that IE6 ignores selectors in the form of `a:hover [selector]`.
 
 ## The problem

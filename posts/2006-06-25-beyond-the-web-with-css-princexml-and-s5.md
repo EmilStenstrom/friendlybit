@@ -1,24 +1,15 @@
 ---
-id: 70
-title: 'Beyond the web with CSS: PrinceXML and S5'
-date: 2006-06-25T00:37:34
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/beyond-the-web-with-css-princexml-and-s5/
-permalink: /css/beyond-the-web-with-css-princexml-and-s5/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205362459"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
+- CSS
+- HTML
+date: 2006-06-25 00:37:34
+guid: http://friendlybit.com/css/beyond-the-web-with-css-princexml-and-s5/
+id: 70
+permalink: /css/beyond-the-web-with-css-princexml-and-s5/
+title: 'Beyond the web with CSS: PrinceXML and S5'
 ---
+
 Right now, depending on what kind of presentation you will be doing, you use different techniques. I'm not talking about "presentation" as in design here, I'm talking about web sites, printed paper, slide shows and so on, different types of media. How many of you use the print feature in browsers for your reports? Didn't think so.
 
 Wouldn't it be nice if there was only one set of standards you needed to learn? One set that worked for all kinds of documents. One where encoding problems of differences in alphabets had been solved. One with a huge community of developers that gave of their time to help you with problems. Wouldn't that be nice? Good thing that set of standards exist: HTML and CSS.

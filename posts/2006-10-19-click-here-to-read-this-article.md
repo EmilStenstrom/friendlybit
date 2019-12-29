@@ -1,27 +1,15 @@
 ---
-id: 99
-title: Click here to read this article
-date: 2006-10-19T00:25:28
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/other/click-here-to-read-this-article/
-permalink: /other/click-here-to-read-this-article/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286535"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
-  - Tutorial
+- Other
+- Tutorial
+date: 2006-10-19 00:25:28
+guid: http://friendlybit.com/other/click-here-to-read-this-article/
+id: 99
+permalink: /other/click-here-to-read-this-article/
+title: Click here to read this article
 ---
+
 No matter where you go on the web today you see those little anonymous links: "[click here](javascript:void(0))". You clearly see them, often marked with a different color (links as they are), but you don't immediately see where they go. Instead you need to read the text before, no wait, after, Oh! That's a nice image up there? Hmm… What was I looking for again?
 
 It has been said over and over again; very few people actually read full articles unless they know it's worth it. It's all about trust. They must have previously gotten the idea that the article they are about to read is on topic, interesting, worth a read. It's a tricky situation, before they have read the article they need to somehow already know that they are on the right track. The solution is of course good links.

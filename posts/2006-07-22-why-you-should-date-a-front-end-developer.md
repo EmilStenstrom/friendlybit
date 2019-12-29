@@ -1,27 +1,15 @@
 ---
-id: 78
-title: Why you should date a front-end developer
-date: 2006-07-22T13:01:31
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/other/why-you-should-date-a-front-end-developer/
-permalink: /other/why-you-should-date-a-front-end-developer/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286119"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
-  - Tutorial
+- Other
+- Tutorial
+date: 2006-07-22 13:01:31
+guid: http://friendlybit.com/other/why-you-should-date-a-front-end-developer/
+id: 78
+permalink: /other/why-you-should-date-a-front-end-developer/
+title: Why you should date a front-end developer
 ---
+
 You've heard all those rumours of how nerdy looking people in glasses obsess over numbers they call things like "pie" or "eee". You heard they dress up like aliens and go to big… ehm… seminars, where people sleep in sleeping bags and only eat bad food. Then you have the other side of it, in a couple of years they will have well-paid jobs at some major technological company. They also don't switch partners easily, if they find someone they like they stick to him/her for, like, forever. You might also be able to hold an intellectual conversation with someone from this group, just try to stay away from tech-talk, you don't want get hurt. If you are able to get their eyes off the screen, say hello to _the programmers_.
 
 > Typical comment: "Linux is much better than Windows"

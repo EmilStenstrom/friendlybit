@@ -1,27 +1,15 @@
 ---
-id: 75
-title: 'Challenge: Marking up the world cup'
-date: 2006-07-03T23:25:37
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/challenge-marking-up-the-world-cup/
-permalink: /css/challenge-marking-up-the-world-cup/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286073"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
+- CSS
+- HTML
+date: 2006-07-03 23:25:37
+guid: http://friendlybit.com/css/challenge-marking-up-the-world-cup/
+id: 75
+permalink: /css/challenge-marking-up-the-world-cup/
+title: 'Challenge: Marking up the world cup'
 ---
+
 It's at the end of the world cup and it's everywhere (_fotball_ for those that live in a cave :). It might be that I spend too much time with thinking about the web but I got this little markup issue on my mind. I'm not entirely sure how I would solve it but I have some ideas.
 
 How would you mark up the FIFA World cup 2006 [single elimination bracket](http://en.wikipedia.org/wiki/2006_FIFA_World_Cup#Bracket)? If you don't know what it is, have a look at the page linked to. It's basically 16 teams that play against eachother, one to one so half of the teams get kicked out in each step. Next step is with 8 teams, 4 teams ans so on. Pretty straight forward.

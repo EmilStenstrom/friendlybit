@@ -1,31 +1,17 @@
 ---
-id: 118
-title: What is Web 2.0? Really.
-date: 2007-03-10T00:59:52
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/js/what-is-web-20-really/
-permalink: /js/what-is-web-20-really/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287008"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - JS
-  - Modern web
-  - Strategy
-  - Tutorial
+- JS
+- Modern web
+- Strategy
+- Tutorial
+date: 2007-03-10 00:59:52
+guid: http://friendlybit.com/js/what-is-web-20-really/
+id: 118
+permalink: /js/what-is-web-20-really/
+title: What is Web 2.0? Really.
 ---
+
 Web 2.0 is really hot right now. One of Sweden's biggest newspapers recently wrote a long article on their debate section. They had started linking back to blogs that linked to them, in a little box next to the article. The problem was that they had got into trouble with what blogs to link to. After all, you can't just link to anything, right?
 
 Aside from starting to think about the implications of blog links, I got another interesting question in my head. What is Web 2.0 really? Most people working with interface development would say that Web 2.0 is everything that uses AJAX. But the newspaper didn't use AJAX at all, and still they claim links to blogs is Web 2.0. Time for some research!

@@ -1,25 +1,15 @@
 ---
-id: 85
-title: Tricks to make your site easier to use
-date: 2006-08-01T19:17:40
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/make-your-site-easier-to-use/
-permalink: /html/make-your-site-easier-to-use/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286190"
 categories:
-  - HTML
-  - Tutorial
+- HTML
+- Tutorial
+date: 2006-08-01 19:17:40
+guid: http://friendlybit.com/html/make-your-site-easier-to-use/
+id: 85
+permalink: /html/make-your-site-easier-to-use/
+title: Tricks to make your site easier to use
 ---
+
 There are lots of little tricks you can use to make your sites easy to use. Problem is that they are so obvious, you don’t think of them. This article is an attempt to share some of the ideas that I _did_ think of. I'm sure I missed some; feel free to add your own tricks in the comments.
 
 You rarely think of sites as "easy to use"; they just work. You enter them, click here and there, and don't think much about how the navigation works or what to do. That's the feeling we should go for.

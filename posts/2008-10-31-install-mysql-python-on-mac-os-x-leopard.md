@@ -1,27 +1,15 @@
 ---
-id: 299
-title: Install MySQL-python on Mac OS X (leopard)
-date: 2008-10-31T18:37:18
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=299
-permalink: /tutorial/install-mysql-python-on-mac-os-x-leopard/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287830"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Django
-  - Tutorial
+- Django
+- Tutorial
+date: 2008-10-31 18:37:18
+guid: http://friendlybit.com/?p=299
+id: 299
+permalink: /tutorial/install-mysql-python-on-mac-os-x-leopard/
+title: Install MySQL-python on Mac OS X (leopard)
 ---
+
 What a pain. Getting mysql to work with python is the single most annoying step in getting Django up and running (if you choose MySQL as the database). You see, python requires drivers to be able to talk to MySQL, and you have to compile those yourself. I just devoted several hours last night to help friends do what I did some months ago. This time, I thought I document it right here.
 
 ## How to install MySQL-python on Mac OS X

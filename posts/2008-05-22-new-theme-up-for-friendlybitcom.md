@@ -1,26 +1,14 @@
 ---
-id: 162
-title: New theme up for friendlybit.com
-date: 2008-05-22T01:04:54
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=162
-permalink: /css/new-theme-up-for-friendlybitcom/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287519"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2008-05-22 01:04:54
+guid: http://friendlybit.com/?p=162
+id: 162
+permalink: /css/new-theme-up-for-friendlybitcom/
+title: New theme up for friendlybit.com
 ---
+
 Hi! If you're reading this blog through your feed reader, today is a good day to break out of it and have a look at the site. There's been several little changes throughout, and I invite you to click around and explore things. **Let me know if you find anything broken**!
 
   1. Comments have moved up to the top and gotten more space. That includes the comment form which have been an insult to people wanting to comment. I'm hoping you reward me by correcting me even more often.

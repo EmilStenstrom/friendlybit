@@ -1,24 +1,14 @@
 ---
-id: 137
-title: Manipulating innerHTML removes events
-date: 2007-09-26T23:24:04
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/js/manipulating-innerhtml-removes-events/
-permalink: /js/manipulating-innerhtml-removes-events/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287231"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - JS
+- JS
+date: 2007-09-26 23:24:04
+guid: http://friendlybit.com/js/manipulating-innerhtml-removes-events/
+id: 137
+permalink: /js/manipulating-innerhtml-removes-events/
+title: Manipulating innerHTML removes events
 ---
+
 Others have written about this before, but I thought I'd mention it again, just so you don't miss it. Aleksandar Vaci? found it while playing with tables and their cells. I found it when [Robert](http://www.robertnyman.com/) and I played with nested lists. It works the same across browers. Let me show a quick example:
 
 You have a paragraph tag that contains a span that you want to make clickable.

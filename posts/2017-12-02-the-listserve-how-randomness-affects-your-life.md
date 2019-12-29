@@ -1,13 +1,12 @@
 ---
-id: 1087
-layout: post
-title: "[The Listserve] How randomness affects your life"
-date: 2017-12-02T12:04:00
 author: Emil Stenström
-guid: https://friendlybit.com/?p=1087
-permalink: /life/the-listserve-how-randomness-affects-your-life/
 categories:
-  - Life
+- Life
+date: 2017-12-02 12:04:00
+guid: https://friendlybit.com/?p=1087
+id: 1087
+permalink: /life/the-listserve-how-randomness-affects-your-life/
+title: '[The Listserve] How randomness affects your life'
 ---
 
 It's a mistake not to think about randomness, for randomness is what you get if you don't make choices. Do you really want randomness controlling the most important events in your life?

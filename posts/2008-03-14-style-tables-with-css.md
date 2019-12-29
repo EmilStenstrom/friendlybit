@@ -1,28 +1,14 @@
 ---
-id: 110
-title: Style tables with CSS
-date: 2008-03-14T01:10:28
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/style-tables-with-css/
-permalink: /css/style-tables-with-css/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286760"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2008-03-14 01:10:28
+guid: http://friendlybit.com/css/style-tables-with-css/
+id: 110
+permalink: /css/style-tables-with-css/
+title: Style tables with CSS
 ---
+
 I don't deal too much with tables. Not because I don't want to but because clients hardly ever want to use them. My guess is that they are too hard to create with todays WYSIWYG editors, and therefore get left out. It happens though that I have one or two static tables I need to style, and then I get to use a couple of my tricks.
 
 **All of the examples below work across browsers. Including IE6.**

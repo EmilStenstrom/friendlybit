@@ -1,24 +1,14 @@
 ---
-id: 221
-title: 'The Open Web: Can it deliver?'
-date: 2008-09-01T22:58:08
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=221
-permalink: /css/the-open-web-can-it-deliver/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287687"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2008-09-01 22:58:08
+guid: http://friendlybit.com/?p=221
+id: 221
+permalink: /css/the-open-web-can-it-deliver/
+title: 'The Open Web: Can it deliver?'
 ---
+
 It's ringing through my head as Microsoft releases Silverlight, as Adobe forces another version of Flash or Air, and as Sun tries to push JavaFX into the spotlight. It's a dark whisper when I read how many still use old browsers (hello IE6!), or when I see Javascript being used poorly by otherwise knowledgeable programmers. It's getting obvious when people complain over how hard and hacky HTML and CSS is.
 
 People are simply not getting their job done fast enough. Just because we've hacked and hacked to the point of getting used to it, doesn't mean our way of writing web apps is the best way. In the end it about delivering to end users or paying clients, and they care more about **what** you deliver than **how**. I'm not saying we are working slower than before, it's the opposite, new tools makes web development less annoying. But I am saying that we get less work done in relation to the expectations.

@@ -1,26 +1,14 @@
 ---
-id: 93
-title: 'Don’t use "Divs for layout" please'
-date: 2006-09-11T22:07:23
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/dont-use-divs-for-layout-please/
-permalink: /css/dont-use-divs-for-layout-please/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286372"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-09-11 22:07:23
+guid: http://friendlybit.com/css/dont-use-divs-for-layout-please/
+id: 93
+permalink: /css/dont-use-divs-for-layout-please/
+title: Don’t use "Divs for layout" please
 ---
+
 Proud people all over the world show their new sites and proudly proclaim: "I used divs for layout!"
 
 There's a problem with the above. Every time someone uses the phrase "Divs for layout" they spread the misconception that divs are some special kind of element. Beginners are tricked into thinking that everything you add to a page should be in a div. I've seen great looking pages filled with; you guessed right, only divs.

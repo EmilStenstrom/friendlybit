@@ -1,26 +1,14 @@
 ---
-id: 76
-title: Finer details of floats
-date: 2006-07-09T15:40:06
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/finer-details-of-floats/
-permalink: /css/finer-details-of-floats/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286100"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-07-09 15:40:06
+guid: http://friendlybit.com/css/finer-details-of-floats/
+id: 76
+permalink: /css/finer-details-of-floats/
+title: Finer details of floats
 ---
+
 The other day I was working on one of those two column layouts. I quickly got into trouble by something I thought was a bug. It was a bug, but not in the browser(s) I thought. Let's go.
 
 A two column layout I said, but this one was a bit different. Each column consisted of a number of boxes, much like a newspaper kind of layout. I wanted the boxes ordered a bit different though: Content editors on the site ordered articles by importance in a single list and when that was transferred to a two column layout I wanted the second most important article to the right of the first article rather than below it. In the HTML source the boxes were ordered like the editors wanted and my job was to make them display in two columns.

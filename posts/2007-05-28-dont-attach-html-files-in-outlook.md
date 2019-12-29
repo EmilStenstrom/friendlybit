@@ -1,26 +1,14 @@
 ---
-id: 127
-title: 'Don’t attach HTML-files in Outlook'
-date: 2007-05-28T21:42:01
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/dont-attach-html-files-in-outlook/
-permalink: /html/dont-attach-html-files-in-outlook/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205970713"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2007-05-28 21:42:01
+guid: http://friendlybit.com/html/dont-attach-html-files-in-outlook/
+id: 127
+permalink: /html/dont-attach-html-files-in-outlook/
+title: Don’t attach HTML-files in Outlook
 ---
+
 Just a short word of warning. I thought I'd mail the [min-/max-width template](/files/min-max-template/) to a colleague at work. So I fired up Outlook, attached the file and sent it. I thought that was it, Outlook couldn't get something simple like that wrong, could it? **Yes it could!** Opening the file I found some pretty nasty changes…
 
   1. A meta-tag with encoding gets added as the first line of the file (before the doctype). This naturally sends browsers into quirks-mode, effectively destroying most layouts.

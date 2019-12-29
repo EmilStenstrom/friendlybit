@@ -1,26 +1,14 @@
 ---
-id: 74
-title: Current issues with Microformats
-date: 2006-07-01T17:52:06
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/current-issues-with-microformats/
-permalink: /html/current-issues-with-microformats/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205621548"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2006-07-01 17:52:06
+guid: http://friendlybit.com/html/current-issues-with-microformats/
+id: 74
+permalink: /html/current-issues-with-microformats/
+title: Current issues with Microformats
 ---
+
 A couple of weeks ago I attended [Geek Meet](http://www.robertnyman.com/geekmeet) in Stockholm. It's a small group of people gathering to talk about semantics and share their knowledge of front-end webdev. It was the second meet and, just like on the last one, I had a great time. It's something special meeting up with people that share your interest for the small niche front-end web development is.
 
 On that meeting [Peter Krantz](http://www.peterkrantz.com/) held a presentation about microformats, a way to standardize small snippets of HTML you use often. What was different with the presentation is that it wasn't just praise like many new techniques get. The presentation showed both the good and bad sides, and didn’t close with a final conclusion of whether it should be used or not. This article is my view of microformats (and includes some of the issues from Peter’s presentation).

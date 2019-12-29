@@ -1,26 +1,14 @@
 ---
-id: 94
-title: Encyclopedia of HTML elements
-date: 2006-09-20T23:53:36
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/encyclopedia-of-html-elements/
-permalink: /html/encyclopedia-of-html-elements/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286413"
 categories:
-  - HTML
+- HTML
+date: 2006-09-20 23:53:36
+guid: http://friendlybit.com/html/encyclopedia-of-html-elements/
+id: 94
+permalink: /html/encyclopedia-of-html-elements/
+title: Encyclopedia of HTML elements
 ---
+
 HTML is a much richer language than what it's used for. There are 77 elements and each one has a certain purpose. It is possible to find that reason by reading the specification, but who does that? I wrote this list as a way to tell you what I think each of the HTML tags should be used for, common problems you might encounter, and general advise about each one.
 
 I've included all the elements from HTML 4.01 *Strict*. It's a long one, but I'm sure you have more "tips and tricks" to add to it. Leave a comment and I'll add yours to the list too. Let's start off with a list of all the elements:

@@ -1,29 +1,15 @@
 ---
-id: 115
-title: Accessibility as a platform to build upon
-date: 2007-02-03T14:00:23
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/accessibility-as-a-platform-to-build-upon/
-permalink: /html/accessibility-as-a-platform-to-build-upon/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286889"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Accessibility
-  - HTML
+- Accessibility
+- HTML
+date: 2007-02-03 14:00:23
+guid: http://friendlybit.com/html/accessibility-as-a-platform-to-build-upon/
+id: 115
+permalink: /html/accessibility-as-a-platform-to-build-upon/
+title: Accessibility as a platform to build upon
 ---
+
 Two things triggered this post. First a brave participant at the last [Geek Meet](http://www.robertnyman.com/geekmeet/) stood up and asked the question: "Why isn't it ok to require users have javascript enabled?". A few days afterwards I got a lot of good replies to my article about [AJAX vs. Flash](/js/flash-only-vs-ajax-sites/), claiming that users want multimedia, not plain HTML. To me, those are two different ways of asking one fundamental question: "Is it time we start requiring more from our users?".
 
 ## HTML: Our history

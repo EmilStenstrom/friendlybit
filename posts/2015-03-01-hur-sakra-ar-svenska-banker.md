@@ -1,15 +1,14 @@
 ---
-id: 943
-title: Hur säkra är svenska banker? (Swedish)
-date: 2015-03-01T19:22:05
 author: Emil Stenström
-excerpt: Säkerheten varierar stort bland svenska banker. Bankens storlek hänger inte ihop med hur väl dom hanterar säkerheten. Ingen av de fyra storbankerna kom med på topplistan. Några små banker finns med i toppen, några riktigt stora finns i botten.
-layout: post
-guid: http://friendlybit.com/?p=943
-permalink: /security/hur-sakra-ar-svenska-banker/
 categories:
-  - Security
+- Security
+date: 2015-03-01 19:22:05
+guid: http://friendlybit.com/?p=943
+id: 943
+permalink: /security/hur-sakra-ar-svenska-banker/
+title: Hur säkra är svenska banker? (Swedish)
 ---
+
 _Säkerheten varierar stort bland svenska banker. Bankens storlek hänger inte ihop med hur väl dom hanterar säkerheten. Ingen av de fyra storbankerna kom med på topplistan. Några små banker finns med i toppen, några riktigt stora finns i botten._
 
 För att testa bankernas säkerhet gav jag varje bank två olika betyg:

@@ -1,26 +1,14 @@
 ---
-id: 117
-title: Tale of a lost mobile
-date: 2007-02-07T21:09:05
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/other/tale-of-a-lost-mobile/
-permalink: /other/tale-of-a-lost-mobile/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286994"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2007-02-07 21:09:05
+guid: http://friendlybit.com/other/tale-of-a-lost-mobile/
+id: 117
+permalink: /other/tale-of-a-lost-mobile/
+title: Tale of a lost mobile
 ---
+
 When I stepped off the bus today just outside of home I reached for my mobile phone. Eh? I checked all my pockets, every pocket in the rucksack I carry my laptop in, and went an extra lap around the bus station to see if I could find it. You all know the reaction after that: "FUCK!". Mumbling, I continued homeward. There was no chance I could intercept the bus or even know that the phone was there somewhere.
 
 Finally at home I thought I'd call people and try to solve the problem, but the thing is that I have no other phone. The mobile is all, and it has worked fine until now. What to do, what to do? Well, I made sure that my internet connection worked out alright at least. It did.

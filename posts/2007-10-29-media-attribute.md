@@ -1,28 +1,14 @@
 ---
-id: 136
-title: 'Media attribute – what have you done for me lately?'
-date: 2007-10-29T00:06:54
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/media-attribute/
-permalink: /css/media-attribute/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287208"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2007-10-29 00:06:54
+guid: http://friendlybit.com/css/media-attribute/
+id: 136
+permalink: /css/media-attribute/
+title: Media attribute – what have you done for me lately?
 ---
+
 I've been thinking for a while about the media attribute on link tags. Some people might find that thinking deep thoughts about HTML attributes is kind of strange, but I know you, my dear readers, know the feeling ;)
 
 An example, just so I know we're on the same page:

@@ -1,28 +1,14 @@
 ---
-id: 194
-title: Google Reader subscriptions on a WordPress Page
-date: 2008-08-09T17:09:43
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=194
-permalink: /other/google-reader-subscriptions-on-a-wordpress-page/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287655"
 categories:
-  - Other
+- Other
+date: 2008-08-09 17:09:43
+guid: http://friendlybit.com/?p=194
+id: 194
+permalink: /other/google-reader-subscriptions-on-a-wordpress-page/
+title: Google Reader subscriptions on a WordPress Page
 ---
+
 Instead of posting new lists of blogs I follow over and over again I thought I'd make a permanent place for them. So I just **exported all of the blogs I follow** from Google Reader (Settings -> Import/Export) and **imported them to WordPress** (Write -> Links -> Import Links (in the sidebar)). [OPML](http://en.wikipedia.org/wiki/OPML) is a great format!
 
 Then I created a [WordPress Page template](http://codex.wordpress.org/Pages#Page_Templates) that simply printed the content of that page **followed by all my imported links**. This following is the code needed (as a file called links.php in your template directory):

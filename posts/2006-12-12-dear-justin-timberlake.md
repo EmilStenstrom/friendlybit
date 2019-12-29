@@ -1,26 +1,14 @@
 ---
-id: 109
-title: 'Dear Justin Timberlake…'
-date: 2006-12-12T12:10:24
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/dear-justin-timberlake/
-permalink: /css/dear-justin-timberlake/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286735"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-12-12 12:10:24
+guid: http://friendlybit.com/css/dear-justin-timberlake/
+id: 109
+permalink: /css/dear-justin-timberlake/
+title: Dear Justin Timberlake…
 ---
+
 <img src="https://www.billboard.com/files/styles/article_main_image/public/media/justin-timberlake-vma-650d_0.jpg" alt="Justin Timberlake with scarf" class="secondary" />
 
 You really are my big hero. When you swing your hips and slide over the floor so the ladies at the front row faint, I know I should have gone for superstar instead of web developer.

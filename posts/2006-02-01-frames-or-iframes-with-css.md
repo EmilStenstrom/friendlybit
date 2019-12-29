@@ -1,27 +1,15 @@
 ---
-id: 43
-title: Frames or Iframes with CSS
-date: 2006-02-01T23:50:59
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/frames-or-iframes-with-css/
-permalink: /css/frames-or-iframes-with-css/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205398768"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
+- CSS
+- HTML
+date: 2006-02-01 23:50:59
+guid: http://friendlybit.com/css/frames-or-iframes-with-css/
+id: 43
+permalink: /css/frames-or-iframes-with-css/
+title: Frames or Iframes with CSS
 ---
+
 A frequent request from people new to CSS is trying to get a behaviour similar to frames while only using CSS. Many have read that frames have a lot of problems but do not know much more than that. This article will try to explain why frames are bad and what to do about it.
 
   * [Why are traditional frames such a bad thing?](#why)

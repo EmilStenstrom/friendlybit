@@ -1,29 +1,14 @@
 ---
-id: 28
-title: Christmas riddles for 2005
-date: 2005-12-24T00:00:21
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/christmas-riddles-for-2005/
-permalink: /other/christmas-riddles-for-2005/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285068"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2005-12-24 00:00:21
+guid: http://friendlybit.com/css/christmas-riddles-for-2005/
+id: 28
+permalink: /other/christmas-riddles-for-2005/
+title: Christmas riddles for 2005
 ---
+
 I thought it could be fun for some of you to see my christmas riddles for this year. I'm afraid they are in swedish so those of you that don't understand that have to read some other post :) I decided to use Limerick-form this year, mostly because our major newpaper had a funny riddle in it that i liked. With no further ado:
 
 > <p lang="sv">

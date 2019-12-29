@@ -1,28 +1,14 @@
 ---
-id: 149
-title: Future of web standards (my take)
-date: 2007-12-20T00:35:18
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/future-of-web-standards-my-take/
-permalink: /css/future-of-web-standards-my-take/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287329"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2007-12-20 00:35:18
+guid: http://friendlybit.com/css/future-of-web-standards-my-take/
+id: 149
+permalink: /css/future-of-web-standards-my-take/
+title: Future of web standards (my take)
 ---
+
 Stuart Landridge sums up the [ongoing debate about the future of CSS](http://www.kryogenix.org/days/2007/12/17/reigniting-the-browser-wars). My thoughts on this are that we should:
 
 1. Let browser makers run loose with implementing **new features**, based on feedback from web developers.

@@ -1,28 +1,14 @@
 ---
-id: 208
-title: 7 silliest W3C specs ever published
-date: 2008-08-13T22:20:52
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=208
-permalink: /other/7-silliest-w3c-specs-ever-published/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287665"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2008-08-13 22:20:52
+guid: http://friendlybit.com/?p=208
+id: 208
+permalink: /other/7-silliest-w3c-specs-ever-published/
+title: 7 silliest W3C specs ever published
 ---
+
 W3C is producing lots and lots of good specifications and we seriously have their joined effort to thank for a lot of today's web. But everything released by them isn't all nice. I've digged deep into obscure search results to find, that's right, the **silliest specifications ever**. \*Drumroll\*.
 
 [HTML+TIME](http://www.w3.org/TR/NOTE-HTMLplusTIME): Why not add timers to HTML? Didn't you always want to only display that div only the first 4 seconds after load. Could this be combined with the blink tag somehow?

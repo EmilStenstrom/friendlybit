@@ -1,17 +1,12 @@
 ---
-id: 492
-title: 'Fixing Microsoft’s bad reputation'
-date: 2011-06-19T14:07:32
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=492
-permalink: /strategy/fixing-microsofts-bad-reputation/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
 categories:
-  - Strategy
+- Strategy
+date: 2011-06-19 14:07:32
+guid: http://friendlybit.com/?p=492
+id: 492
+permalink: /strategy/fixing-microsofts-bad-reputation/
+title: Fixing Microsoft’s bad reputation
 ---
 
 <figure class="wp-caption alignright"><a href="http://www.flickr.com/photos/88442983@N00/2228633614"><img title="Blue Screen of Death" src="/files/post-media/2228633614_e26ea98fbe_m.jpg" alt="Blue Screen of Death" width="240" height="187" /></a>

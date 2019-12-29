@@ -1,26 +1,14 @@
 ---
-id: 155
-title: Fixing Sharepoint 2007
-date: 2008-03-27T23:22:53
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/other/fixing-sharepoint-2007/
-permalink: /other/fixing-sharepoint-2007/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287421"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2008-03-27 23:22:53
+guid: http://friendlybit.com/other/fixing-sharepoint-2007/
+id: 155
+permalink: /other/fixing-sharepoint-2007/
+title: Fixing Sharepoint 2007
 ---
+
 I'm sorry for all the Sharepoint 2007 posts lately, if you're not interested, just skip to the next post :). Anyway. The Sharepoint team recently announced further support of an addon called Accessibility Kit for SharePoint (abbreviated AKS) in a blog post about the future of Sharepoint on their official blog.
 
 I thought I'd comment on the future plans, and get a bit more constructive and point to things that are rather easy to fix. Perhaps I can affect what gets focus in the next version? With a release cycle of 30-34 months (!), any changes won't get implemented anytime soon, but I guess getting on the right track is a first step.

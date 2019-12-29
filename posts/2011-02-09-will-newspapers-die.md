@@ -1,29 +1,14 @@
 ---
-id: 668
-title: Will newspapers die?
-date: 2011-02-09T00:41:17
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=668
-permalink: /modern-web/will-newspapers-die/
-dsq_thread_id:
-  - "225440014"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-image:
-  - ""
-embed:
-  - This is the default text
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
 categories:
-  - Modern web
+- Modern web
+date: 2011-02-09 00:41:17
+guid: http://friendlybit.com/?p=668
+id: 668
+permalink: /modern-web/will-newspapers-die/
+title: Will newspapers die?
 ---
+
 A journalism student in Toronto, Canada, asked me some questions via e-mail about my old article about [newspapers and online reading](/modern-web/why-people-skip-newspapers-and-read-news-on-the-web-instead/). Instead of just sending an e-mail out in the void I thought I'd persist my answers here:
 
 > 1. Do you think it would be best for newspaper publications to get rid of their print and go strictly online only? Why or why not?

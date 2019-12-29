@@ -1,26 +1,14 @@
 ---
-id: 33
-title: Levels of CSS knowledge
-date: 2006-01-11T01:25:29
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/levels-of-css-knowledge/
-permalink: /css/levels-of-css-knowledge/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285221"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-01-11 01:25:29
+guid: http://friendlybit.com/css/levels-of-css-knowledge/
+id: 33
+permalink: /css/levels-of-css-knowledge/
+title: Levels of CSS knowledge
 ---
+
 As you might have understood by now I'm very much pro web standards. The current widely accepted standards are: (X)HTML for page structure, CSS for design, and Javascript for behaviour. HTML is pretty well known by now, it has been there since the beginning of the web and there are tutorials everywhere that gets you started. CSS is starting to get a grip, large companies are switching their sites to CSS based layouts and the webdev blogosphere reaches more and more people.
 
 When you promote web standards, like many of us do, you get to talk to a lot of people. If you promote it in a live chat room like #CSS on EFNet it gets even clearer: there are a lot of different levels of CSS knowledge out there. This article is going to list some of those levels along a rating of how this kind of developer will affect the web. Here we go:

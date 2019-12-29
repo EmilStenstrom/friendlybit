@@ -1,31 +1,17 @@
 ---
-id: 66
-title: 'Concept: Four layers of web development'
-date: 2006-06-03T18:45:07
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/concept-four-tier-web-development/
-permalink: /css/concept-four-tier-web-development/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285978"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
-  - JS
-  - Tutorial
+- CSS
+- HTML
+- JS
+- Tutorial
+date: 2006-06-03 18:45:07
+guid: http://friendlybit.com/css/concept-four-tier-web-development/
+id: 66
+permalink: /css/concept-four-tier-web-development/
+title: 'Concept: Four layers of web development'
 ---
+
 When thinking about web development on the client side, I tend to think of four different layers. Any (well built) framework will cater for all of these layers and all good developers will be aware of them. The layers I'm thinking about are: Data, Structure, Design, and Behavior. This article discusses all four of those and explains how they relate.
 
 ## Data layer

@@ -1,24 +1,16 @@
 ---
-id: 398
-title: Interface developers and security
-date: 2009-01-24T00:30:44
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=398
-permalink: /css/interface-developers-and-security/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205556777"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
-  - JS
+- CSS
+- HTML
+- JS
+date: 2009-01-24 00:30:44
+guid: http://friendlybit.com/?p=398
+id: 398
+permalink: /css/interface-developers-and-security/
+title: Interface developers and security
 ---
+
 You live in a **new era**, when demanding that people register on your site is no longer enough. There's far too many other sites out that that you're already a member of, you don't need another one. You need to trust people.
 
 You also want people to contribute to your sites with content somehow. Text is not enough, you want all kinds of "rich" content, and you want people to be able to place them how they want on your page. I mean, we live in a **new era** after all.

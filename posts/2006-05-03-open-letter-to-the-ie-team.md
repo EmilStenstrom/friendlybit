@@ -1,29 +1,15 @@
 ---
-id: 61
-title: Open letter to the IE Team
-date: 2006-05-03T13:37:07
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/open-letter-to-the-ie-team/
-permalink: /css/open-letter-to-the-ie-team/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285837"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - Other
+- CSS
+- Other
+date: 2006-05-03 13:37:07
+guid: http://friendlybit.com/css/open-letter-to-the-ie-team/
+id: 61
+permalink: /css/open-letter-to-the-ie-team/
+title: Open letter to the IE Team
 ---
+
 <p class="first">
   Dear IE Team,
 </p>

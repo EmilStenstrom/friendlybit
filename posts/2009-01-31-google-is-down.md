@@ -1,22 +1,14 @@
 ---
-id: 411
-title: Google is down
-date: 2009-01-31T16:47:50
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=411
-permalink: /other/google-is-down/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288002"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2009-01-31 16:47:50
+guid: http://friendlybit.com/?p=411
+id: 411
+permalink: /other/google-is-down/
+title: Google is down
 ---
+
 I'd never this that this day would come, but it actually seems that **Google** has decided to block all sites in their index. Try searching anything, it will be marked as spam. I see the same results in the swedish and english version, in Firefox and in Internet Explorer. "This site may harm your computer", clicking that link does not seem to be possible, and I'm guessing it's because it gets millions of hits right now.
 
 **Gmail** is also marking emails as spam, they are probably using the same system as Google search. The warning message is: This message may not be from whom it claims to be.

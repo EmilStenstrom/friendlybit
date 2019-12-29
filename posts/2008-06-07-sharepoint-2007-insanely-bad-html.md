@@ -1,28 +1,14 @@
 ---
-id: 163
-title: 'Sharepoint 2007 – insanely bad HTML'
-date: 2008-06-07T01:42:51
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=163
-permalink: /html/sharepoint-2007-insanely-bad-html/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287568"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2008-06-07 01:42:51
+guid: http://friendlybit.com/?p=163
+id: 163
+permalink: /html/sharepoint-2007-insanely-bad-html/
+title: Sharepoint 2007 – insanely bad HTML
 ---
+
 Sharepoint 2007 continues to amaze me with its terrible interface code. This is code you stumble over **all** over the place, both in places where you can hack your way around them, and in places where you just have to live with them. Some things are very hard to live with, let me show you:
 
 ASP.NET developers made a decision once to include some hidden form fields, called viewstate, on all aspx pages. When deciding how to include those fields they chose an input with the type set to hidden. When the Sharepoint developers wanted to do something similar they decided on another route:

@@ -1,28 +1,14 @@
 ---
-id: 38
-title: Short web standards quiz
-date: 2006-01-17T18:34:51
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/short-web-standards-quiz/
-permalink: /css/short-web-standards-quiz/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285654"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-01-17 18:34:51
+guid: http://friendlybit.com/css/short-web-standards-quiz/
+id: 38
+permalink: /css/short-web-standards-quiz/
+title: Short web standards quiz
 ---
+
 <p class="first">
   Q1. What does "semantics" mean in the context of web development?
 </p>

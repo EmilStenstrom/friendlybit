@@ -1,26 +1,14 @@
 ---
-id: 134
-title: The future of friendlybit.com
-date: 2007-08-06T19:57:42
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/other/the-future-of-friendlybitcom/
-permalink: /other/the-future-of-friendlybitcom/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287144"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2007-08-06 19:57:42
+guid: http://friendlybit.com/other/the-future-of-friendlybitcom/
+id: 134
+permalink: /other/the-future-of-friendlybitcom/
+title: The future of friendlybit.com
 ---
+
 It's vacation time and you're allowed to lean back and just relax. A blog it's always there though, you post to it on your spare time, and as soon as you have some a little glitch in your schedule you need to consider blogging. It's a full time job.
 
 ## Current situation

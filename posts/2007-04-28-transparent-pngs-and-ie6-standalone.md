@@ -1,28 +1,14 @@
 ---
-id: 122
-title: Transparent PNGs and IE6 standalone
-date: 2007-04-28T20:44:31
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/transparent-pngs-and-ie6-standalone/
-permalink: /css/transparent-pngs-and-ie6-standalone/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "206204140"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2007-04-28 20:44:31
+guid: http://friendlybit.com/css/transparent-pngs-and-ie6-standalone/
+id: 122
+permalink: /css/transparent-pngs-and-ie6-standalone/
+title: Transparent PNGs and IE6 standalone
 ---
+
 I'm one of many that have installed [IE6 standalone](http://tredosoft.com/Multiple_IE) and it really is a great solution to running both IE6 and IE7 on the same computer. Frequently people claim that IE6 standalone and the real IE6 render things differently but I've never seen that happen. Until now.
 
 ## Why an alpha transparent image?

@@ -1,26 +1,14 @@
 ---
-id: 102
-title: Web Standards Hero, episode 2
-date: 2006-11-07T22:18:47
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/web-standards-hero-episode-2/
-permalink: /html/web-standards-hero-episode-2/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286625"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2006-11-07 22:18:47
+guid: http://friendlybit.com/html/web-standards-hero-episode-2/
+id: 102
+permalink: /html/web-standards-hero-episode-2/
+title: Web Standards Hero, episode 2
 ---
+
 _Read [episode 1](/html/web-standards-hero-episode-1/) first_
 
 The blistering cold hit him straight in the face as he left the warmth inside. Was it already this cold? He regretted not taking the thick coat he had seen in the closet. The thin jacket he had right now had to do, there was no time turning back. It got a little better as he started jogging.

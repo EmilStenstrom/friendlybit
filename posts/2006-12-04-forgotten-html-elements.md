@@ -1,26 +1,14 @@
 ---
-id: 108
-title: Forgotten HTML elements?
-date: 2006-12-04T19:59:26
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/forgotten-html-elements/
-permalink: /html/forgotten-html-elements/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "207160331"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2006-12-04 19:59:26
+guid: http://friendlybit.com/html/forgotten-html-elements/
+id: 108
+permalink: /html/forgotten-html-elements/
+title: Forgotten HTML elements?
 ---
+
 HTML has existed for a long time now with five released versions ([[1]](http://www.w3.org/MarkUp/draft-ietf-iiir-html-01.txt "HTML 1 draft"), [[2]](http://www.w3.org/MarkUp/html-spec/html-spec_toc.html "HTML 2 Specification"), [[3.0]](http://www.w3.org/MarkUp/html3/Contents.html "HTML 3.0 Specification"), [[3.2]](http://www.w3.org/TR/REC-html32 "HTML 3.2 Specification"), [[4.01]](http://www.w3.org/TR/html401/ "HTML 4.01 Specification")). Some very interesting elements have existed in previous versions and I went on a little journey back in time to find and document them. Off we go.
 
 Robert Nyman had a little contest a couple of weeks ago where he gave away an iPod to the person that [best motivated why he/she liked a certain HTML element](http://www.robertnyman.com/2006/10/01/win-a-1-gb-ipod-shuffle-name-your-favorite-html-element/). People gave a lot of good explanations and pretty much the whole HTML 4 specification was covered (even blink!). Knowing that all of HTML 4 was taken, and that he didn't specify what version of HTML to choose, I started searching through the older specs. I was soon stuck in HTML 3.0, and continued reading long after I had found my favorite…

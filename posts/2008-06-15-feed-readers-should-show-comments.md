@@ -1,25 +1,14 @@
 ---
-id: 165
-title: Feed readers should show comments
-date: 2008-06-15T17:25:48
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=165
-permalink: /css/feed-readers-should-show-comments/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287617"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2008-06-15 17:25:48
+guid: http://friendlybit.com/?p=165
+id: 165
+permalink: /css/feed-readers-should-show-comments/
+title: Feed readers should show comments
 ---
+
 One thing I've noticed lately is that I read fewer comments. It isn't that strange really: I read blogs using a feed reader and it doesn't show a links to comments. I see a couple of reasons why comments are not cared for in feed readers:
 
 ## Why not #1: Feeds are meant to be fast

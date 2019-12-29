@@ -1,28 +1,14 @@
 ---
-id: 96
-title: Character encoding basics
-date: 2006-10-11T20:06:28
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/other/character-encoding-basics/
-permalink: /other/character-encoding-basics/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286491"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2006-10-11 20:06:28
+guid: http://friendlybit.com/other/character-encoding-basics/
+id: 96
+permalink: /other/character-encoding-basics/
+title: Character encoding basics
 ---
+
 Character encodings is something that developers tend to push away as something too hard to bother with. It's **not** hard. It's just that there's several ways of storing letters in a file. This article is my way of trying to explain how it works.
 
 At first developers thought that 256 letters must be enough. Computers were for English speaking people only and few special characters where allowed. There were good reasons for this: memory was expensive and a fixed size for characters made the programming easier. This first way of storing things were called ASCII.

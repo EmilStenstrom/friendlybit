@@ -1,25 +1,15 @@
 ---
-id: 95
-title: Judging the technical quality of a site
-date: 2006-10-01T00:28:08
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/tutorial/judging-the-technical-quality-of-a-site/
-permalink: /tutorial/judging-the-technical-quality-of-a-site/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286466"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Accessibility
-  - Tutorial
+- Accessibility
+- Tutorial
+date: 2006-10-01 00:28:08
+guid: http://friendlybit.com/tutorial/judging-the-technical-quality-of-a-site/
+id: 95
+permalink: /tutorial/judging-the-technical-quality-of-a-site/
+title: Judging the technical quality of a site
 ---
+
 When you look at a website to determine its quality on the code level, you need a different set of metrics than you did some years ago. This article is my attempt at specifying what metrics I use. Have a look at them, do they match yours?
 
 First I look at the **validation**. Does the front page validate? Do all sub pages of the site validate? If they don’t, what kind of errors are there? While validation isn’t the most important metric, it’s a very quick way to get a feeling of if the coder is “web standards aware” or not. I use the [Firefox validation plugin](http://users.skynet.be/mgueury/mozilla/) that checks all the pages I visit and puts a little green check in the statusbar if the current page validates. For doing sitewide validation I use [htmlhelp’s validation spider](http://www.htmlhelp.com/tools/validator/) and let it loose on the site (check "Validate entire site"). Validation is slowly catching on as a standard tool in the webdev toolbox. Someone who is not using the validator probably doesn't know much about web standards.

@@ -1,22 +1,14 @@
 ---
-id: 470
-title: 'Projectors: a great accessibility argument'
-date: 2009-04-03T17:31:32
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=470
-permalink: /accessibility/projectors-a-great-accessibility-argument/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288263"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:1:"8";s:7:"enabled";s:1:"0";}}'
 categories:
-  - Accessibility
+- Accessibility
+date: 2009-04-03 17:31:32
+guid: http://friendlybit.com/?p=470
+id: 470
+permalink: /accessibility/projectors-a-great-accessibility-argument/
+title: 'Projectors: a great accessibility argument'
 ---
+
 So there I sat, at the demonstration of a new website I've been part of building. About 10 people in the room, some of which had never seen the site before. There had been preparations, and we had gone through which parts of the site we were going to present. Only the simple part left…
 
 So the presenter fires up the projector, connects it to his Mac, and looks at the projection. Half the site is outside of the screen. Turns out the maximum resolution is 800×600, and we've designed the site for 1024! People started looking at each other.

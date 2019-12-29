@@ -1,30 +1,14 @@
 ---
-id: 147
-title: Documenting CSS
-date: 2008-02-27T23:55:00
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/documenting-css/
-permalink: /css/documenting-css/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205973222"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2008-02-27 23:55:00
+guid: http://friendlybit.com/css/documenting-css/
+id: 147
+permalink: /css/documenting-css/
+title: Documenting CSS
 ---
+
 Just like all other programming the **CSS needs documentation**. I'm afraid I'm rather bad at it: the times I'm lucky I've been able to document by simply talking to the developer taking over, and the unlucky times I've left no documentation at all. Talking directly is of course superior to everything else, you don't waste time explaining things that are obvious (differs from person to person), but you don't always have that luxury. So what I thought I'd do is list things I think are important to document, for the times when you won't be available for answering questions.
 
 Don't be fooled to think all projects are alike. Sometimes you're under tremendous stress just to get the basic CSS up and running; it isn't reasonable to expect the same kind of documentation then… But most often you have an hour extra to just jot down a couple of lines about your interface.

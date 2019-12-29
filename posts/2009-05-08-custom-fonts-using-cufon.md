@@ -1,23 +1,15 @@
 ---
-id: 480
-title: Custom fonts using Cufón
-date: 2009-05-08T20:20:17
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=480
-permalink: /browsers/custom-fonts-using-cufon/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288288"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"18";s:7:"enabled";s:1:"0";}}'
 categories:
-  - Browsers
-  - Fonts
+- Browsers
+- Fonts
+date: 2009-05-08 20:20:17
+guid: http://friendlybit.com/?p=480
+id: 480
+permalink: /browsers/custom-fonts-using-cufon/
+title: Custom fonts using Cufón
 ---
+
 If you've worked with webdev professionally you know how it goes. "Why can't a company with a strong visual brand get to use their own font?", the designer asks. Then a long discussion about web fonts follow, where you decide to replace the font with a "web safe" font instead. Or do you?
 
 You could think it's strange that in 2009, we can't use any fonts we want on the web, and I would fully agree. You could ask whose fault that is, and I would reply with a quote from a [meeting between browser makers in august 2008](http://www.w3.org/Fonts/Misc/minutes-2008-10):

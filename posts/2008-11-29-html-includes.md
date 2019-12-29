@@ -1,27 +1,15 @@
 ---
-id: 320
-title: HTML includes
-date: 2008-11-29T15:18:49
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=320
-permalink: /html/html-includes/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287855"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Django
-  - HTML
+- Django
+- HTML
+date: 2008-11-29 15:18:49
+guid: http://friendlybit.com/?p=320
+id: 320
+permalink: /html/html-includes/
+title: HTML includes
 ---
+
 One of the first questions beginners ask when starting to learn HTML is [how to do includes](http://www.google.com/search?q=include+html). They seldom know that includes is what they are asking about, but instead feels bad when having to copy and paste that same menu HTML each time they want a new page. "Do I have to type the same thing over and over?".
 
 After asking friends how to solve the problem they get the answer that they now have to learn PHP. Or ASP. Or JSP. Or some other strange language they don't need. And install this thing here, and that thing there. What does your server host support? Oh, no, you need to configure stuff better. No, that setting is insecure… You know the drill, I'm sure you've walked someone through it sometime.

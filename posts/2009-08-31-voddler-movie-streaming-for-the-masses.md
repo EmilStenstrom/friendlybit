@@ -1,23 +1,14 @@
 ---
-id: 549
-title: 'Voddler – movie streaming for the masses?'
-date: 2009-08-31T00:12:46
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=549
-permalink: /other/voddler-movie-streaming-for-the-masses/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288670"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"12";s:7:"enabled";s:1:"0";}}'
 categories:
-  - Other
+- Other
+date: 2009-08-31 00:12:46
+guid: http://friendlybit.com/?p=549
+id: 549
+permalink: /other/voddler-movie-streaming-for-the-masses/
+title: Voddler – movie streaming for the masses?
 ---
+
 I've recently managed to get a hold of a beta invite to [Voddler](http://www.voddler.com/), and thought I should tell you a little about my experience of it. But first, big thanks to [Gunnar Bark](http://twitter.com/GunnarBark) (Tweets in Swedish, follow him!) who tipped me off about a Voddler invitation competition. It was run by Christian Rudolf at [mjukvara.se](http://www.mjukvara.se/blogg/) (In Swedish, but definitely something to add to your feeds) who had 15 invites to give away.
 
 Anyway.

@@ -1,26 +1,16 @@
 ---
-id: 98
-title: How web standards feels
-date: 2006-10-11T21:34:42
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/how-web-standards-feels/
-permalink: /css/how-web-standards-feels/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286510"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
-  - JS
+- CSS
+- HTML
+- JS
+date: 2006-10-11 21:34:42
+guid: http://friendlybit.com/css/how-web-standards-feels/
+id: 98
+permalink: /css/how-web-standards-feels/
+title: How web standards feels
 ---
+
 When talking about web standards many of us have started using marketing terms. Every day we hear about the bandwidth savings, the increased user base that are able to access your site, how well it affects SEO and so on. But none of that was what got me into all this. Let me tell you about the thing that convinced me: the feeling.
 
 For me the web standards revolution started with a feeling that something was wrong. "There has got to be a better way", was a thought that buzzed in my ears when nesting my tables to create some padding.

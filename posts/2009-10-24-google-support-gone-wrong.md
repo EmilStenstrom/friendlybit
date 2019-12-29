@@ -1,23 +1,14 @@
 ---
-id: 566
-title: Google support gone wrong
-date: 2009-10-24T15:00:28
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=566
-permalink: /other/google-support-gone-wrong/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288797"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"16";s:7:"enabled";s:1:"0";}}'
 categories:
-  - Other
+- Other
+date: 2009-10-24 15:00:28
+guid: http://friendlybit.com/?p=566
+id: 566
+permalink: /other/google-support-gone-wrong/
+title: Google support gone wrong
 ---
+
 Google really produces great software. I use many of them: Web Search, Picasa, Reader, Feedburner, Analytics, Images, Groups, Docs, Translate, Code, Chrome, Maps, Video, Blog Search, Youtube, AJAX API, Webmaster Central, and Site Search.
 
 Just to name a few :)

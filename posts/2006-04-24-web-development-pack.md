@@ -1,25 +1,15 @@
 ---
-id: 54
-title: Web Development Pack
-date: 2006-04-24T17:20:05
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/web-development-pack/
-permalink: /css/web-development-pack/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285789"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
+- CSS
+- HTML
+date: 2006-04-24 17:20:05
+guid: http://friendlybit.com/css/web-development-pack/
+id: 54
+permalink: /css/web-development-pack/
+title: Web Development Pack
 ---
+
 <p class="first">
   When I move to a new computer, I keep installing the same tools again and again. I always have problems finding them because they are spread out all over the net. This article is an attempt to gather the links to the important web development tools in one place, as a resource for beginners.
 </p>

@@ -1,16 +1,14 @@
 ---
-id: 920
-title: 8 insights from using the Narrative clip
-date: 2014-02-22T16:42:03
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=920
-permalink: /lifelogging/8-insights-from-using-the-narrative-clip/
-btcnew_comment_counts:
-  - 'a:0:{}'
 categories:
-  - Lifelogging
+- Lifelogging
+date: 2014-02-22 16:42:03
+guid: http://friendlybit.com/?p=920
+id: 920
+permalink: /lifelogging/8-insights-from-using-the-narrative-clip/
+title: 8 insights from using the Narrative clip
 ---
+
 For about three weeks, I have been a beta tester and then a regular user of [Narrative](http://getnarrative.com/); a wearable camera that is always on, and that takes two pictures a minute. I thought I'd take some time and share my insights from that experience, and the reason why decided to stop using it.
 
 2014 will be a year of wearable tech and Narrative is clearly a front-runner. It's always on, and nicely captures things around you with iPhone photo quality. At the end of the day you connect it to your computer, which uploads the images to private, encrypted, image storage, that you can access through the Narrative app on your phone. A clever clustering algorithm, based on both GPS data and image similarity, clusters the images to make them easier to browse. It works great, and lives up to the promise of capturing your day as it is.

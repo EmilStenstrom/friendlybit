@@ -1,24 +1,14 @@
 ---
-id: 290
-title: OpenID, Nofollow removed, Comment counts, and IE7 fixes
-date: 2008-10-19T15:48:03
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=290
-permalink: /css/openid-nofollow-removed-comment-counts-and-ie7-fixes/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287814"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2008-10-19 15:48:03
+guid: http://friendlybit.com/?p=290
+id: 290
+permalink: /css/openid-nofollow-removed-comment-counts-and-ie7-fixes/
+title: OpenID, Nofollow removed, Comment counts, and IE7 fixes
 ---
+
 I'm added a few features to the site:
 
 **OpenID support**: Instead of typing your name and e-mail you could instead sign in with an OpenID-enabled URL. Or you could completely ignore it, and go on as usual.

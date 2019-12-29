@@ -1,27 +1,15 @@
 ---
-id: 87
-title: KTH goes web standards
-date: 2006-08-23T00:36:28
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/kth-goes-web-standards/
-permalink: /css/kth-goes-web-standards/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286224"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
+- CSS
+- HTML
+date: 2006-08-23 00:36:28
+guid: http://friendlybit.com/css/kth-goes-web-standards/
+id: 87
+permalink: /css/kth-goes-web-standards/
+title: KTH goes web standards
 ---
+
 Sweden's [largest technological university, KTH](http://www.kth.se), just launched their new site and I'm proud to say that I've been responsible for the HTML and CSS for it. I'd thought I'd take some time and tell you about the techniques I used and the reasons behind using them. Let’s start with some background:
 
 [<img src="/images/item_kth.jpg" alt="Blue KTH logotype" class="secondary" />](http://www.kth.se)

@@ -1,23 +1,15 @@
 ---
-id: 591
-title: Geolocation and Google maps
-date: 2011-06-18T14:11:11
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=591
-permalink: /js/geolocation-and-google-maps/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
 categories:
-  - JS
-  - Modern web
-tags:
-  - Geolocation
-  - Google
-  - Google Maps
+- JS
+- Modern web
+date: 2011-06-18 14:11:11
+guid: http://friendlybit.com/?p=591
+id: 591
+permalink: /js/geolocation-and-google-maps/
+title: Geolocation and Google maps
 ---
+
 <div class="zemanta-img">
   <figure style="width: 240px" class="wp-caption alignright"><a href="http://www.flickr.com/photos/57552634@N00/3791431635"><img title="Google Maps Marker in Tokyo" src="/files/post-media/3791431635_c722c1d51a_m.jpg" alt="Google Maps Marker in Tokyo" width="240" height="120" /></a><figcaption class="wp-caption-text">Image by heiwa4126 via Flickr</figcaption></figure>
 </div>

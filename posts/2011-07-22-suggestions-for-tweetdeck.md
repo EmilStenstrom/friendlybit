@@ -1,16 +1,14 @@
 ---
-id: 821
-title: Suggestions for TweetDeck
-date: 2011-07-22T12:35:04
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=821
-permalink: /ui/suggestions-for-tweetdeck/
-btcnew_comment_counts:
-  - 'a:0:{}'
 categories:
-  - UI
+- UI
+date: 2011-07-22 12:35:04
+guid: http://friendlybit.com/?p=821
+id: 821
+permalink: /ui/suggestions-for-tweetdeck/
+title: Suggestions for TweetDeck
 ---
+
 To be an effective twitter user you really need a permanent window on your desktop, that shows you what's happening right now. I've been using <a class="zem_slink" title="TweetDeck" href="http://www.tweetdeck.com" rel="homepage">TweetDeck</a> for a long time now, with short detours into <a class="zem_slink" title="seesmic" href="http://seesmic.com" rel="homepage">Seesmic</a> and various smaller clients. TweetDeck is the best client I've found for my needs, but its interface has lots of little bugs and inconsistencies; small things that together add up to a bad user experience.
 
 I hope someone from TweetDeck reads this, and can start working on these (simple) issues. I really think they would improve the general user experience a lot.

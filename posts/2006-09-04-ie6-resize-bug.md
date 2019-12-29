@@ -1,26 +1,14 @@
 ---
-id: 91
-title: 'IE6 resize bug (position: relative becomes fixed)'
-date: 2006-09-04T22:08:49
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/ie6-resize-bug/
-permalink: /css/ie6-resize-bug/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286259"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-09-04 22:08:49
+guid: http://friendlybit.com/css/ie6-resize-bug/
+id: 91
+permalink: /css/ie6-resize-bug/
+title: 'IE6 resize bug (position: relative becomes fixed)'
 ---
+
 One bug kept popping up on the sites I built, and I was almost going insane. The bug I'm talking about is specific to Internet Explorer 6 (IE6) and has to do with what happens when you resize the page. Here's an [example page showing the bug](/files/ie6resizebug/). Open it in IE6 and try resizing the window. Let me explain:
 
 > **Update**: [Paula comments](/css/ie6-resize-bug/#comment-4551) that IE7 beta 2 has the same problem. Thanks Paula.

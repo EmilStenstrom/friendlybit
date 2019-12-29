@@ -1,28 +1,17 @@
 ---
-id: 580
-title: 'Rendering a web page – step by step'
-date: 2010-01-11T01:04:33
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=580
-permalink: /css/rendering-a-web-page-step-by-step/
-btc_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205388672"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"25";s:7:"enabled";s:1:"0";}}'
-dsq_needs_sync:
-  - "1"
 categories:
-  - Browsers
-  - CSS
-  - HTML
-  - JS
+- Browsers
+- CSS
+- HTML
+- JS
+date: 2010-01-11 01:04:33
+guid: http://friendlybit.com/?p=580
+id: 580
+permalink: /css/rendering-a-web-page-step-by-step/
+title: Rendering a web page – step by step
 ---
+
 Have you ever thought about what happens when you surf the web? It's not as simple as it seems:
 
   1. You **type an URL** into address bar in your preferred browser.

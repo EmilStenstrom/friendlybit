@@ -1,16 +1,14 @@
 ---
-id: 882
-title: 'My text editor: Sublime Text'
-date: 2012-07-07T23:53:03
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=882
-permalink: /tools/my-text-editor-sublime-text/
-btcnew_comment_counts:
-  - 'a:0:{}'
 categories:
-  - Tools
+- Tools
+date: 2012-07-07 23:53:03
+guid: http://friendlybit.com/?p=882
+id: 882
+permalink: /tools/my-text-editor-sublime-text/
+title: 'My text editor: Sublime Text'
 ---
+
 What text editor you use when coding is a very serious subject. I'll hardly be able to talk about what I prefer, without some people (other than you, of course ;) taking it as me trying to steal their editor from them. I'm not going to. I'm just going to tell you what I think, and you can just decide of you agree or not. My hope is that it helps you be more certain about your own choice of editor.
 
 What I look for in a text editor:

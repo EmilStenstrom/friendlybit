@@ -1,22 +1,14 @@
 ---
-id: 394
-title: 'Downloading MySQL: How bad can it get?'
-date: 2009-01-25T03:31:10
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=394
-permalink: /other/downloading-mysql-how-bad-can-it-get/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "207559669"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2009-01-25 03:31:10
+guid: http://friendlybit.com/?p=394
+id: 394
+permalink: /other/downloading-mysql-how-bad-can-it-get/
+title: 'Downloading MySQL: How bad can it get?'
 ---
+
 MySQL is quite popular on the web these days. Lots of frameworks have support for it, and some frameworks **only** support MySQL. So lots of people must be downloading it right? So what do you do when you have a website where most people will be looking for completing one simple task?
 
 Well, you make that task really, and I mean **really**, annoying to complete. No? Yes you do, just look at this:

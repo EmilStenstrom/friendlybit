@@ -1,24 +1,14 @@
 ---
-id: 285
-title: 'IE7 hover bug: z-index ignored (and other properties)'
-date: 2008-10-12T20:17:04
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=285
-permalink: /css/ie7-hover-bug-z-index-ignored-and-other-properties/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287797"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2008-10-12 20:17:04
+guid: http://friendlybit.com/?p=285
+id: 285
+permalink: /css/ie7-hover-bug-z-index-ignored-and-other-properties/
+title: 'IE7 hover bug: z-index ignored (and other properties)'
 ---
+
 I'm implementing a rather different design right now for an intranet, and have found a bug I thought you'd like to know about. If you restyle things with :hover, you might have to add an extra property for the rule to be applied in IE7.
 
 How is this design different? Well, it built on columns that are overlapping each other. When you hover one of the columns, that column get placed on top (temporarily). You think you need javascript for this? You don't (if you can live with not supporting IE6).

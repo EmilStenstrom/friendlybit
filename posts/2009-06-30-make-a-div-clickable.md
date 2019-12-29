@@ -1,23 +1,14 @@
 ---
-id: 498
-title: Make a div clickable
-date: 2009-06-30T22:53:25
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=498
-permalink: /js/make-a-div-clickable/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288485"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"25";s:7:"enabled";s:1:"0";}}'
 categories:
-  - JS
+- JS
+date: 2009-06-30 22:53:25
+guid: http://friendlybit.com/?p=498
+id: 498
+permalink: /js/make-a-div-clickable/
+title: Make a div clickable
 ---
+
 We all dislike that links are so small, and hard to click. So of course we want to make the clickable areas bigger. Some would think that doing this with some CSS on the a-tag would be a good way, but then you can't have block level elements inside it (you'll get a validation error if you try to put headings or paragraph tags inside of links). So what's a more general solution?
 
 My take is to use a div instead, and use javascript, of course together with a good fallback. When clicking the div, find the first link inside it, and go to that URL. It's simple, and with a few additional quirks, it gets really useful.

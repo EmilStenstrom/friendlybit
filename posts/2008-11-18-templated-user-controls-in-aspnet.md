@@ -1,30 +1,16 @@
 ---
-id: 323
-title: Templated User Controls in ASP.NET
-date: 2008-11-18T01:28:43
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=323
-permalink: /other/templated-user-controls-in-aspnet/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287889"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
-  - Other
-  - Tutorial
+- HTML
+- Other
+- Tutorial
+date: 2008-11-18 01:28:43
+guid: http://friendlybit.com/?p=323
+id: 323
+permalink: /other/templated-user-controls-in-aspnet/
+title: Templated User Controls in ASP.NET
 ---
+
 Good design repeats itself. It works hard to convey a whole, a feeling of consistency. Once you understand a part of such a design, you know your way around all of it. This is often done by repetition, using the same elements, colors, styles, positioning, and so on. This is a good thing.
 
 Good code [never repeats itself](http://en.wikipedia.org/wiki/Don%27t_repeat_yourself). The number of techniques to avoid it are numerous, and all new languages compete in trying to remove as much repetition as possible (Especially the dynamic ones).

@@ -1,16 +1,14 @@
 ---
-id: 874
-title: '[The Listserve] I’m sorry to break this to you'
-date: 2012-04-19T13:02:33
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=874
-permalink: /other/the-listserve-im-sorry-to-break-this-to-you/
-btcnew_comment_counts:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2012-04-19 13:02:33
+guid: http://friendlybit.com/?p=874
+id: 874
+permalink: /other/the-listserve-im-sorry-to-break-this-to-you/
+title: '[The Listserve] I’m sorry to break this to you'
 ---
+
 I just got the fantastic chance to send an e-mail to ~10.000 people. What would you write if [you got that chance](http://thelistserve.com/)? This is what I wrote:
 
 > "I'm sorry to break this to you, in an e-mail from a random stranger like this, but it needs to be said: Most of your life won't be fantastic. I'm not joking. The adventures you'll tell your children about will be a minuscule part of it. So if you want to avoid the feeling of utter disappointment as you grow older, you need to accept that fact. Sorry.

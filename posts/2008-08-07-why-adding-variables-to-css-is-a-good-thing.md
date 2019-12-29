@@ -1,26 +1,14 @@
 ---
-id: 171
-title: Why adding variables to CSS is a good thing
-date: 2008-08-07T16:29:24
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=171
-permalink: /css/why-adding-variables-to-css-is-a-good-thing/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287628"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2008-08-07 16:29:24
+guid: http://friendlybit.com/?p=171
+id: 171
+permalink: /css/why-adding-variables-to-css-is-a-good-thing/
+title: Why adding variables to CSS is a good thing
 ---
+
 Via Simon Willison I find that Bert Bos, one of the creators of CSS, has written an article on why [variables shouldn't be included in CSS3](http://www.w3.org/People/Bos/CSS-variables). I thought I'd try to explain why I think **they should**.
 
 ## Professional perspective

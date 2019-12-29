@@ -1,27 +1,16 @@
 ---
-id: 27
-title: 'Beginner’s guide to CSS'
-date: 2006-01-05T18:11:00
 author: Emil Stenström
-excerpt: This article teaches all the basics you need to make your first CSS powered webpage.
-layout: post
-guid: http://www.stacken.kth.se/~em/?p=27
-permalink: /css/beginners-guide-to-css-and-standards/
-btc_comment_counts:
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205284764"
 categories:
-  - CSS
-  - HTML
-  - Tutorial
+- CSS
+- HTML
+- Tutorial
+date: 2006-01-05 18:11:00
+guid: http://www.stacken.kth.se/~em/?p=27
+id: 27
+permalink: /css/beginners-guide-to-css-and-standards/
+title: Beginner’s guide to CSS
 ---
+
 In the chat channel I'm in, I get to talk to people on a daily basis that have never used <acronym title="Cascading StyleSheets">CSS</acronym> before, or are at the very beginning of learning it.. This article teaches all the basics you need to make your first CSS powered website. It is aimed at people that know a little <acronym title="HyperText Markup Language">HTML</acronym>, and maybe have made a few websites themselves. Let's get started.
 
 ## What is CSS? {#what}

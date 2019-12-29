@@ -1,22 +1,14 @@
 ---
-id: 460
-title: 'Usability isn’t a crime'
-date: 2009-03-01T21:00:27
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=460
-permalink: /other/usability-isnt-a-crime/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288206"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"18";s:7:"enabled";s:1:"0";}}'
 categories:
-  - Other
+- Other
+date: 2009-03-01 21:00:27
+guid: http://friendlybit.com/?p=460
+id: 460
+permalink: /other/usability-isnt-a-crime/
+title: Usability isn’t a crime
 ---
+
 The programmers behind [The Pirate Bay](http://thepiratebay.org/) are getting charged with making it easy to share files over the BitTorrent protocol. Note that it's not because they've done it themselves, but because they have made it easier for others. Never before has **usability been a crime**.
 
 ## "They have to get paid"

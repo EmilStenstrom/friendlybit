@@ -1,22 +1,14 @@
 ---
-id: 430
-title: Who are you disappointing with IE6 support?
-date: 2009-02-13T15:29:37
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=430
-permalink: /browsers/motivation-for-building-for-ie6/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288021"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"25";s:7:"enabled";s:1:"0";}}'
 categories:
-  - Browsers
+- Browsers
+date: 2009-02-13 15:29:37
+guid: http://friendlybit.com/?p=430
+id: 430
+permalink: /browsers/motivation-for-building-for-ie6/
+title: Who are you disappointing with IE6 support?
 ---
+
 Internet Explorer 6 (IE6) is not getting any younger. With a initial release date of 27:th of August, **2001**, it's one of the oldest things touching the internet with its slimy fingers. Since then, surfing has taken great leaps forward. In all areas: Web standards, Security, Usability, Rendering speed, Debugging, and more. By working hard to maintain backwards compatibility all of us are missing all of that progress.
 
 Now. You as a web developer have a **responsibility** here.

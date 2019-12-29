@@ -1,26 +1,14 @@
 ---
-id: 111
-title: Flash-only vs. AJAX sites
-date: 2007-01-16T00:02:35
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/js/flash-only-vs-ajax-sites/
-permalink: /js/flash-only-vs-ajax-sites/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286785"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - JS
+- JS
+date: 2007-01-16 00:02:35
+guid: http://friendlybit.com/js/flash-only-vs-ajax-sites/
+id: 111
+permalink: /js/flash-only-vs-ajax-sites/
+title: Flash-only vs. AJAX sites
 ---
+
 Even though web developers like me have discouraged from building Flash-only sites for as long as I remember, they are popping up all over the place. For no reason! We are ready to make the leap to standards. And our weapon with be AJAX.
 
 ## What kind of sites are built with only Flash?

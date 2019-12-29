@@ -1,28 +1,14 @@
 ---
-id: 700
-title: Animate from one element to another (jQuery plugin)
-date: 2011-05-05T22:52:14
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=700
-permalink: /js/animate-from-one-element-to-another-jquery-plugin/
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-image:
-  - /files/post-media/Stencil_shopping_cart-1024x768.jpg
-embed:
-  - This is the default text
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
 categories:
-  - JS
-tags:
-  - JavaScript
-  - JQuery
+- JS
+date: 2011-05-05 22:52:14
+guid: http://friendlybit.com/?p=700
+id: 700
+permalink: /js/animate-from-one-element-to-another-jquery-plugin/
+title: Animate from one element to another (jQuery plugin)
 ---
+
 <div class="zemanta-img">
   <figure style="width: 215px" class="wp-caption alignright"><a href="http://commons.wikipedia.org/wiki/File:Stencil_shopping_cart.jpg"><img title="Stencil of a shopping cart with the head of th..." src="/files/post-media/300px-Stencil_shopping_cart31.jpg" alt="Stencil of a shopping cart with the head of th..." width="215" height="162" /></a><figcaption class="wp-caption-text">Image via Wikipedia</figcaption></figure>
 </div>

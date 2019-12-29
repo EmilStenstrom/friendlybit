@@ -1,26 +1,14 @@
 ---
-id: 164
-title: Avlyssna befolkningen (Swedish)
-date: 2008-06-13T11:51:29
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=164
-permalink: /other/avlyssna-befolkningen-swedish/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287595"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2008-06-13 11:51:29
+guid: http://friendlybit.com/?p=164
+id: 164
+permalink: /other/avlyssna-befolkningen-swedish/
+title: Avlyssna befolkningen (Swedish)
 ---
+
 (Eng: Sorry for writing this in swedish. Sweden is about to pass a law allowing the government to wiretap its citizens and I need to add a few things to the debate. The rest is in Swedish)
 
 Sverige kommer på onsdag högst troligen rösta igenom ett lagändring om att FRA ska få avlyssna internet, istället för som tidigare skett radio och satellit. Det verkar vara mycket förvirring och prestige inblandad och jag tänkte göra ett försök att vidga debatten något.

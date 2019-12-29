@@ -1,27 +1,15 @@
 ---
-id: 32
-title: Simple CSS templates
-date: 2006-01-07T16:25:48
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/simple-css-templates/
-permalink: /css/simple-css-templates/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285148"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - Tutorial
+- CSS
+- Tutorial
+date: 2006-01-07 16:25:48
+guid: http://friendlybit.com/css/simple-css-templates/
+id: 32
+permalink: /css/simple-css-templates/
+title: Simple CSS templates
 ---
+
 The most frequent question in the #CSS channel I'm in is about how you make a 2 column layout. Most beginners seems to have problems understanding how floats work since they are quite different from tables. So I sat down and made some simple layout templates for you. These layouts will all be made with floats since that's the easiest way to do things. I could have set out to use absolute positioning but that can get tricky when it comes to placing the footer. Let's stay with floats.
 
 I'll recap how a floats work. A float is applied by simply setting `float: left` or `float: right` on an element in your CSS-file. The element then gets pushed as far to the left or right as possible and the next element will follow to the right (if floated left) or left (if floated right). The closest HTML comparision is the effect you get when setting align="left" on an image. In the beginning it helped me to think of floats like that.

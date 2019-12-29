@@ -1,34 +1,16 @@
 ---
-id: 105
-title: Web development blogs you should read
-date: 2006-11-19T04:40:48
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/web-development-blogs-you-should-read/
-permalink: /css/web-development-blogs-you-should-read/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286653"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
-  - JS
+- CSS
+- HTML
+- JS
+date: 2006-11-19 04:40:48
+guid: http://friendlybit.com/css/web-development-blogs-you-should-read/
+id: 105
+permalink: /css/web-development-blogs-you-should-read/
+title: Web development blogs you should read
 ---
+
 The web is filled with blogs about web development. I'm always looking for good blogs to add to my feed reader and I thought some of you might do that too. So let me list the webdev blogs I subscribe to right now (in alphabetic order):
 
   * **[456 Berea St](http://www.456bereastreet.com/)** - Roger Johansson is one of the most well known web developers out there, and it's for a reason. He posts almost daily about things happening in the webdev field. Everything from short comments with links to things to full blown articles.

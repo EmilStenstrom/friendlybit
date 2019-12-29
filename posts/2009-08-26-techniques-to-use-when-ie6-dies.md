@@ -1,24 +1,15 @@
 ---
-id: 496
-title: Techniques to use when IE6 dies
-date: 2009-08-26T23:54:51
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=496
-permalink: /css/techniques-to-use-when-ie6-dies/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288422"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"25";s:7:"enabled";s:1:"0";}}'
 categories:
-  - Browsers
-  - CSS
+- Browsers
+- CSS
+date: 2009-08-26 23:54:51
+guid: http://friendlybit.com/?p=496
+id: 496
+permalink: /css/techniques-to-use-when-ie6-dies/
+title: Techniques to use when IE6 dies
 ---
+
 Everyone [except Microsoft themselves](http://www.eweek.com/c/a/Windows/Microsoft-Internet-Explorer-6-Support-Continues-Despite-Calls-for-PhaseOut-307122/) are talking about the death of IE6. I've tried [motivating people to drop support](/browsers/motivation-for-building-for-ie6/), arguing that you at least can show IE6 users a message. Many have replied with "but our IT department doesn't let us…", and I can say nothing more than that the IT department is filled with humans. Which means they are lazy, and upgrade when people whine enough about it. It's a shame it has to be that way, that we have to [punish people for their IT departments](http://www.ie6nomore.com/corporate-users.html), but that's how it has to be.
 
 As **web developers**, we should be the ones complaining the loudest. We have so much to win on IE6:s death it's silly. Just look at the below list of things IE6 can't do, but IE7 can (the next worst browser):

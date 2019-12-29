@@ -1,24 +1,15 @@
 ---
-id: 594
-title: 'My iPad – a short review'
-date: 2010-04-25T20:33:32
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=594
-permalink: /modern-web/my-ipad-a-short-review/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205321246"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"18";s:7:"enabled";s:1:"0";}}'
 categories:
-  - Devices
-  - Modern web
+- Devices
+- Modern web
+date: 2010-04-25 20:33:32
+guid: http://friendlybit.com/?p=594
+id: 594
+permalink: /modern-web/my-ipad-a-short-review/
+title: My iPad – a short review
 ---
+
 About two weeks ago, I got my hands on an iPad. For those of you who have been living under a rock for the last months, and [iPad](http://www.apple.com/ipad/) is something that looks like a big iPhone, but behaves much like a small laptop.
 
 Since people who just spent over $500 for a toy, are very subjective in their judging (buying something bad would make you look stupid!), you have to take this review for what it is: Me trying to justify buying an expensive toy. To help my mind balance things a bit, I'm going to talk about two good things, and two bad things about the iPad.

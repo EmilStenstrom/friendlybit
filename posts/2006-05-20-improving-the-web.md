@@ -1,28 +1,16 @@
 ---
-id: 64
-title: Improving the web; Blogging, Google and Web standards
-date: 2006-05-20T00:12:31
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/improving-the-web/
-permalink: /css/improving-the-web/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285887"
 categories:
-  - CSS
-  - HTML
-  - Tutorial
+- CSS
+- HTML
+- Tutorial
+date: 2006-05-20 00:12:31
+guid: http://friendlybit.com/css/improving-the-web/
+id: 64
+permalink: /css/improving-the-web/
+title: Improving the web; Blogging, Google and Web standards
 ---
+
 The web has really changed the way we do things. Remember those paper timetables? No need for them anymore, we simply type in our destination on a box and get a step by step guide for what to do. Finding recipies? No need to look through books any more, just type in a few ingredients on your favourite food site. The examples are countless but there is no time for us to sit back and relax just yet. The web _can_ be improved. We can get more people to publish their stuff online, we can get better tools for finding relevant info, and we can make the information accessible to more people. In this article I'm going to talk a little about each of those three points.
 
 ## We need more information

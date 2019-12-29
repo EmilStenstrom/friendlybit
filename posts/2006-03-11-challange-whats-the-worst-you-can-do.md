@@ -1,26 +1,16 @@
 ---
-id: 49
-title: 'Challenge: What’s the worst you can do?'
-date: 2006-03-11T16:09:26
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/challange-whats-the-worst-you-can-do/
-permalink: /css/challange-whats-the-worst-you-can-do/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285749"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - HTML
-  - JS
+- CSS
+- HTML
+- JS
+date: 2006-03-11 16:09:26
+guid: http://friendlybit.com/css/challange-whats-the-worst-you-can-do/
+id: 49
+permalink: /css/challange-whats-the-worst-you-can-do/
+title: 'Challenge: What’s the worst you can do?'
 ---
+
 After reading through the comments on my [levels of CSS](/css/levels-of-css-knowledge/) article I find that I few people seem to think that the article is a way to ridicule beginners. It's not. It's a way to document the steps that I think I have climbed. Some people also thought that this set of levels is a good indicator of how good sites you will make. That's also false. Being Level 5 or 6 in the list means that you are a good _coder_, nothing else. It does not mean that a site you make is any good, I've seen many sites that have great code but that still makes me want to kill someone. Don't confuse good web developers with good coders. "Don't be a [rotten standardista](http://www.molly.com/2006/02/23/how-to-sniff-out-a-rotten-standardista/)" as Molly Holzschlag would put it.
 
 ## The challenge

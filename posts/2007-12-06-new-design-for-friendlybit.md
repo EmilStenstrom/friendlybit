@@ -1,26 +1,14 @@
 ---
-id: 144
-title: New design for friendlybit coming up
-date: 2007-12-06T22:44:00
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/other/new-design-for-friendlybit-coming-up/
-permalink: /other/new-design-for-friendlybit/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "219794099"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2007-12-06 22:44:00
+guid: http://friendlybit.com/other/new-design-for-friendlybit-coming-up/
+id: 144
+permalink: /other/new-design-for-friendlybit/
+title: New design for friendlybit coming up
 ---
+
 Hi. I just wanted to tell you that I'm now working on the new friendlybit. I've listened to your [previous comments](/other/the-future-of-friendlybitcom/), and these are the changes I'm going to make/not make:
 
   * **Blog format stays**, no community. You're damn conservative (something like 95% percent said to keep it a blog).

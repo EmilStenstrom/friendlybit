@@ -1,26 +1,14 @@
 ---
-id: 68
-title: 'Real hackers don’t use CSS'
-date: 2006-06-11T15:15:58
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/real-hackers-dont-use-css/
-permalink: /css/real-hackers-dont-use-css/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286016"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-06-11 15:15:58
+guid: http://friendlybit.com/css/real-hackers-dont-use-css/
+id: 68
+permalink: /css/real-hackers-dont-use-css/
+title: Real hackers don’t use CSS
 ---
+
 <p class="first">
   Back in the old days of 1996 there were two kinds of people. Those who understood the web, often referred to as "hackers", and those that didn't. A <em>hacker</em> could throw together a website in a few minutes, filled with the latest possibilities that the web offered: animated gifs, scrolling marquee text and blinking red text for the really important stuff. It was a glorious time and the hackers really ruled the web. It started growing.
 </p>

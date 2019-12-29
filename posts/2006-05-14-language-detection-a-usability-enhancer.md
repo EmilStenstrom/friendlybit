@@ -1,24 +1,14 @@
 ---
-id: 63
-title: Language detection, a usability enhancer?
-date: 2006-05-14T01:05:19
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/other/language-detection-a-usability-enhancer/
-permalink: /other/language-detection-a-usability-enhancer/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Other
+- Other
+date: 2006-05-14 01:05:19
+guid: http://friendlybit.com/other/language-detection-a-usability-enhancer/
+id: 63
+permalink: /other/language-detection-a-usability-enhancer/
+title: Language detection, a usability enhancer?
 ---
+
 Natural language is by many considered something with very little structure. What many people don't know is that there are parts that are easily analysed. This article explains a simple but very effective algorithm for detecting what language a text are written in and continues to discuss possible applications.
 
 More and more of the worlds population comes online and far from everyone want to write in English. In fact, most of the content online is not in English. This leads to the need for more tools that handle different languages; that translate, finds synonyms and so on. Different languages are important so we are going to need tools to handle that. This article handles the latin alphabet, simply becuase it's the only one I know. I'm sure you can apply the same ideas to other alphabets aswell.

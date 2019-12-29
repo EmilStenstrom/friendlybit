@@ -1,36 +1,14 @@
 ---
-id: 613
-title: Lazy Loading Asyncronous Javascript
-date: 2010-05-08T00:15:06
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=613
-permalink: /js/lazy-loading-asyncronous-javascript/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288890"
-btcnew_comment_summary:
-  - 'a:4:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:2:"35";s:7:"enabled";s:1:"0";}i:1;a:3:{s:11:"comment_src";s:10:"friendfeed";s:3:"cnt";s:1:"3";s:7:"enabled";s:1:"1";}i:2;a:3:{s:11:"comment_src";s:7:"twitter";s:3:"cnt";s:1:"1";s:7:"enabled";s:1:"0";}i:3;a:3:{s:11:"comment_src";s:2:"yc";s:3:"cnt";s:1:"3";s:7:"enabled";s:1:"1";}}'
-image:
-  - ""
-embed:
-  - This is the default text
-seo_follow:
-  - 'false'
-seo_noindex:
-  - 'false'
-dsq_needs_sync:
-  - "1"
 categories:
-  - JS
+- JS
+date: 2010-05-08 00:15:06
+guid: http://friendlybit.com/?p=613
+id: 613
+permalink: /js/lazy-loading-asyncronous-javascript/
+title: Lazy Loading Asyncronous Javascript
 ---
+
 **Update:** This is no longer the best way to load scripts. Use a [script tag with async and defer set](https://www.igvita.com/2014/05/20/script-injected-async-scripts-considered-harmful/) instead.
 
 Like many of you might know, I'm working on a site called [Kundo](http://kundo.se) with a couple of friends. It's kinda like a Swedish version of [Getsatisfaction](http://getsatisfaction.com/), which means we have a javascript snippet that people add to their site to get feedback functionality. Cut-and-paste instead of writing the code yourself. Simple.

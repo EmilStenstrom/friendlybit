@@ -1,28 +1,14 @@
 ---
-id: 29
-title: How this website was built
-date: 2005-12-20T00:00:36
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/how-this-website-was-built/
-permalink: /css/how-this-website-was-built/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285096"
 categories:
-  - CSS
+- CSS
+date: 2005-12-20 00:00:36
+guid: http://friendlybit.com/css/how-this-website-was-built/
+id: 29
+permalink: /css/how-this-website-was-built/
+title: How this website was built
 ---
+
 Hi there early readers! Welcome to a newly started web development blog. I know that there are a lot of those around so I will work hard to make it different and hopefully earn your trust. This site will mainly consist of new stuff; very few of those “news about news” posts, there are better places for that. “Web development” I say, and by that I most often will mean client side techniques like HTML, CSS and Javascript. This is the idea and I hope it will work out.
 
 This site has been worked on for over a year so it's about time I get it up and working. This article will talk mostly about how this site has been built. You will hopefully notice that to me it's important that you practice what you preach.

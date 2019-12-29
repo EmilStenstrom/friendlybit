@@ -1,17 +1,15 @@
 ---
-id: 851
-title: What movies on Piratebay will you like the most?
-date: 2012-01-08T22:07:29
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=851
-permalink: /python/what-movies-on-piratebay-will-you-like-the-most/
-btcnew_comment_counts:
-  - 'a:0:{}'
 categories:
-  - API
-  - Python
+- API
+- Python
+date: 2012-01-08 22:07:29
+guid: http://friendlybit.com/?p=851
+id: 851
+permalink: /python/what-movies-on-piratebay-will-you-like-the-most/
+title: What movies on Piratebay will you like the most?
 ---
+
 Christmas, and the weeks thereafter, are times for coding. And I've been playing around with [piratebay](http://thepiratebay.org) and [filmtipset](http://filmtipset.se) (a Swedish movie recommendation) a little bit. I just pushed it to the [filmtipset-piratebay project on GitHub](https://github.com/EmilStenstrom/filmtipset-piratebay), if you want to take a look.
 
 ## CSS for screen scraping

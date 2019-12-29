@@ -1,28 +1,14 @@
 ---
-id: 47
-title: Min-width for IE revisited
-date: 2006-02-22T21:41:56
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/min-width-for-ie-revisited/
-permalink: /css/min-width-for-ie-revisited/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285722"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
+- CSS
+date: 2006-02-22 21:41:56
+guid: http://friendlybit.com/css/min-width-for-ie-revisited/
+id: 47
+permalink: /css/min-width-for-ie-revisited/
+title: Min-width for IE revisited
 ---
+
 Much has been written over the years of how to get min-width to work in Internet Explorer (IE). Min-width works almost like width but it only sets a lower bound on the width ("You can't get any narrower than this!"). Very useful when building layouts that are supposed to work on many screen resolutions. This article is a remake of Stu Nicholls variant but removing most of the divs he uses. [An example is availiable](/files/minwidth_for_IE/).
 
 ## If all browsers supported standards

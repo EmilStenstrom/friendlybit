@@ -1,26 +1,14 @@
 ---
-id: 128
-title: Quick Accessibility Testing
-date: 2007-06-24T21:57:53
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/tutorial/quick-accessibility-testing/
-permalink: /tutorial/quick-accessibility-testing/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "206191574"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - Tutorial
+- Tutorial
+date: 2007-06-24 21:57:53
+guid: http://friendlybit.com/tutorial/quick-accessibility-testing/
+id: 128
+permalink: /tutorial/quick-accessibility-testing/
+title: Quick Accessibility Testing
 ---
+
 A recent project of mine required me to do a quick review of the accessibility level of a site. Nothing serious, just to show what was possible to test and where the site scored right now. I managed to assemble a small list of tools that I believe did a rather good job. This article is a list of those tools, and some tips on how to use them.
 
 First off, to do a real accessibility test, you need real people, with real tasks to accomplish. These are not tools to replace people. Instead, they can give you a quick rundown on where you stand, and find things you've missed. I like to compare it with HTML validation: Validation is a great way to find your errors, but just because you validate does not mean you have good code.

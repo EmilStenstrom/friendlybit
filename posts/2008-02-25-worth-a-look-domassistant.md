@@ -1,24 +1,14 @@
 ---
-id: 152
-title: 'Worth a look: DOMAssistant'
-date: 2008-02-25T21:30:31
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/js/worth-a-look-domassistant/
-permalink: /js/worth-a-look-domassistant/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287391"
-btcnew_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - JS
+- JS
+date: 2008-02-25 21:30:31
+guid: http://friendlybit.com/js/worth-a-look-domassistant/
+id: 152
+permalink: /js/worth-a-look-domassistant/
+title: 'Worth a look: DOMAssistant'
 ---
+
 A couple of months ago [Robert Nyman](http://www.robertnyman.com/) showed me a javascript library he had built, [DOMAssistant](http://domassistant.com/), and proceeded to use it successfully in one of our projects. I wasn't amused. How could a tiny homebuilt little hack compete with my favorite, the almighty jQuery?
 
 I whined, and said I really liked the CSS-selector syntax that jQuery has. So [he added support for CSS1, CSS2, and CSS3](http://www.robertnyman.com/2007/12/17/domassistant-25-released-css-selector-support-new-ajax-methods-and-more-goodies-added/). The bastard.

@@ -1,26 +1,14 @@
 ---
-id: 100
-title: Web Standards Hero, episode 1
-date: 2006-10-24T19:10:00
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/web-standards-hero-episode-1/
-permalink: /html/web-standards-hero-episode-1/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286565"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2006-10-24 19:10:00
+guid: http://friendlybit.com/html/web-standards-hero-episode-1/
+id: 100
+permalink: /html/web-standards-hero-episode-1/
+title: Web Standards Hero, episode 1
 ---
+
 With a long sigh he throws himself into the big leather sofa he invested in last summer. After a long day of angry customers bitching at him he really needs some rest. That idea to get a job at the local grocery store was not his best ever.
 
 On the nearby foot rest a cup of warm chocolate spreads a little cloud of warm smoke. It's all nicely quiet, and he has had too few hours of sleep lately. Another big sigh and he feels his eyes slowly closing. The world turns blurry…

@@ -1,28 +1,14 @@
 ---
-id: 113
-title: Improving interactivity with Javascript
-date: 2007-02-21T22:13:21
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/js/improving-interactivity-with-javascript/
-permalink: /js/improving-interactivity-with-javascript/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205286872"
 categories:
-  - JS
+- JS
+date: 2007-02-21 22:13:21
+guid: http://friendlybit.com/js/improving-interactivity-with-javascript/
+id: 113
+permalink: /js/improving-interactivity-with-javascript/
+title: Improving interactivity with Javascript
 ---
+
 Push buttons, radio buttons, check boxes, select boxes, and text inputs. That's the controls HTML allows us to use to interact with our users.
 
 A small dedicated group of people at the office (I work at [Valtech](http://www.valtech.se)) sat down and listed all controls we could think of. The list below is basically that list, completed with examples where possible. Let me stress that the below controls are meant as **inspiration**. They are not all free, or even available for download. If you decide to use one of the ideas, google for them first and pick the best one. While selecting one, make sure it supports some kind of fallback for users without javascript enabled.

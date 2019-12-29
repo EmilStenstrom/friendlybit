@@ -1,29 +1,15 @@
 ---
-id: 35
-title: Cross browser CSS for your site
-date: 2006-01-13T00:21:39
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/cross-browser-strategies-for-css/
-permalink: /css/cross-browser-strategies-for-css/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205285533"
 categories:
-  - CSS
-  - Tutorial
+- CSS
+- Tutorial
+date: 2006-01-13 00:21:39
+guid: http://friendlybit.com/css/cross-browser-strategies-for-css/
+id: 35
+permalink: /css/cross-browser-strategies-for-css/
+title: Cross browser CSS for your site
 ---
+
 This article will go through some useful cross-browser CSS techniques I use to get my sites to look the same in several modern browsers. It's fairly easy to send out different versions of your site to different browsers. This should be avoided though since it will end up with you having to maintain the site as if it was in fact several. That defeats the whole purpose with standards, why are they even needed if you are adapting to the browsers instead? My opinion is that good cross-browser coding is to find the set of standards that _are_ supported and then use them.
 
 ## Validate your site {#validate}

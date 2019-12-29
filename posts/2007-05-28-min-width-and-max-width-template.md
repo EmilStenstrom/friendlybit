@@ -1,26 +1,14 @@
 ---
-id: 126
-title: Min-width and Max-width template
-date: 2007-05-28T20:57:31
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/min-width-and-max-width-template/
-permalink: /css/min-width-and-max-width-template/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205287081"
 categories:
-  - CSS
+- CSS
+date: 2007-05-28 20:57:31
+guid: http://friendlybit.com/css/min-width-and-max-width-template/
+id: 126
+permalink: /css/min-width-and-max-width-template/
+title: Min-width and Max-width template
 ---
+
 Some problems seem to appear again and again, and one of them is **page width**. How wide should a site be? Should you adapt to 800px resolution? 1024px? Fully fluid with percentages? Perhaps elastic using em-units? There are lots to choose from. What I've found is that there's one solution that almost always works. You most probably already know it, but I thought it might be helpful for some to have a template you just copy and use.
 
 The idea is to use a fluid width but limit it by using `min-width` and `max-width`. As with almost all CSS tricks, we do a little bit of hacking for Internet Explorer 6 (IE6). Link to the working [min/max template](/files/min-max-template/) is available, and an explanation follows.

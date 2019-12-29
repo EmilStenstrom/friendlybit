@@ -1,26 +1,14 @@
 ---
-id: 89
-title: Why XHTML is a bad idea
-date: 2006-08-27T15:11:26
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/html/why-xhtml-is-a-bad-idea/
-permalink: /html/why-xhtml-is-a-bad-idea/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205468624"
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - HTML
+- HTML
+date: 2006-08-27 15:11:26
+guid: http://friendlybit.com/html/why-xhtml-is-a-bad-idea/
+id: 89
+permalink: /html/why-xhtml-is-a-bad-idea/
+title: Why XHTML is a bad idea
 ---
+
 XHTML is often mentioned when you talk about web standards of different kinds, and many believe that it's the future of the web. I'm of a different opinion and this article explains my reasoning.
 
   * [Some HTML history](#history)

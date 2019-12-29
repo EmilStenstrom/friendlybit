@@ -1,29 +1,15 @@
 ---
-id: 44
-title: Extra fluid layouts with javascript
-date: 2006-02-13T01:00:31
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/css/extra-fluid-layouts-with-javascript/
-permalink: /css/extra-fluid-layouts-with-javascript/
-btc_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btc_comment_summary:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205423582"
-btcnew_comment_counts:
-  - 'a:0:{}'
-  - 'a:0:{}'
-  - 'a:0:{}'
-btcnew_comment_summary:
-  - 'a:0:{}'
 categories:
-  - CSS
-  - JS
+- CSS
+- JS
+date: 2006-02-13 01:00:31
+guid: http://friendlybit.com/css/extra-fluid-layouts-with-javascript/
+id: 44
+permalink: /css/extra-fluid-layouts-with-javascript/
+title: Extra fluid layouts with javascript
 ---
+
 I'm a big fan of vector graphics. Because of that I love Macromedia Fireworks and the way it handles all elements like vectors. The good thing about that is that they can be resized and zoomed without them losing their sharpness.
 
 This got me thinking about how to add some vectorization to CSS layouts. My idea was that you should let the width of the screen decide the font-size of, for example, your headers. This could make for nice fluid layouts and might even add to usability in some cases. There are probably other uses for this but I leave that to you, please use the comments if you come up with something.

@@ -1,23 +1,15 @@
 ---
-id: 448
-title: 'A couple of sites I’ve launched'
-date: 2009-02-16T18:18:02
 author: Emil Stenström
-layout: post
-guid: http://friendlybit.com/?p=448
-permalink: /css/a-couple-of-sites-ive-launched/
-btc_comment_counts:
-  - 'a:0:{}'
-btcnew_comment_counts:
-  - 'a:0:{}'
-dsq_thread_id:
-  - "205288173"
-btcnew_comment_summary:
-  - 'a:1:{i:0;a:3:{s:11:"comment_src";s:4:"blog";s:3:"cnt";s:1:"5";s:7:"enabled";s:1:"0";}}'
 categories:
-  - CSS
-  - Django
+- CSS
+- Django
+date: 2009-02-16 18:18:02
+guid: http://friendlybit.com/?p=448
+id: 448
+permalink: /css/a-couple-of-sites-ive-launched/
+title: A couple of sites I’ve launched
 ---
+
 Lots of opinions here lately, and very few concrete examples of work I've done. I thought I'd take a few minutes of your time and talk about those projects here.
 
 All of the sites I've built are in **Swedish**. The reason for Swedish is just that they are so much easier to write for. Since English is not my native language, everything takes a little bit longer when having to struggle with vocabulary.
