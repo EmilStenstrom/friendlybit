@@ -6,10 +6,15 @@
 #
 -e git+https://github.com/lepture/mistune.git#egg=mistune==2.0.0a1
 aiofiles==0.4.0
+certifi==2019.11.28       # via requests
+chardet==3.0.4            # via requests
 click==7.0                # via uvicorn
 gunicorn==20.0.4
 h11==0.9.0                # via uvicorn
+html5lib==1.0.1
+html5validate==0.0.2
 httptools==0.0.13         # via uvicorn
+idna==2.8                 # via requests
 jinja2==2.10.3
 libsass==0.19.4
 markupsafe==1.1.1         # via jinja2
@@ -17,10 +22,13 @@ pygments==2.5.2
 python-frontmatter==0.5.0
 pytz==2019.3
 pyyaml==5.2               # via python-frontmatter
-six==1.13.0               # via libsass, python-frontmatter
+requests==2.22.0
+six==1.13.0               # via html5lib, libsass, python-frontmatter
 starlette==0.13.0
+urllib3==1.25.7           # via requests
 uvicorn==0.11.1
 uvloop==0.14.0            # via uvicorn
+webencodings==0.5.1       # via html5lib
 websockets==8.1           # via uvicorn
 
 # The following packages are considered to be unsafe in a requirements file:
