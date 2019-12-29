@@ -11,6 +11,7 @@ WHITELISTED_DOMAINS = set([
 WHITELISTED_ATTRS = set(["href"])
 BLACKLISTED_URL_PATTERNS = [
     "index_mangled.html",
+    "/files/",
 ]
 
 FILETYPE_RE = re.compile(r"\.([a-z0-9]{2,4})(?:\?.+)?$")
@@ -33,10 +34,8 @@ def is_checkable_post(response):
         if ignore_pattern in response.url:
             return False, f"Matched blacklisted pattern {ignore_pattern}"
 
-    if response.status_code != 200:
-        return False, f"STATUS_CODE == {response.status_code}"
-
-    if not response.headers['content-type'].startswith("text/html"):
+    content_type = response.headers['content-type']
+    if not content_type.startswith("text/html") and not content_type.startswith("text/plain"):
         return False, f"Content-Type == {response.headers['content-type']}"
 
     return True, ""
@@ -70,6 +69,9 @@ def main():
             continue
 
         VISITED.add(url)
+
+        if response.status_code != 200:
+            raise Exception(f"STATUS_CODE == {response.status_code}")
 
         html = response.text
         print(("VALID" if html5validate.validate(html) is None else "INVALID"))
