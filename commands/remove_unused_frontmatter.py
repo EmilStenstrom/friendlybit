@@ -10,6 +10,7 @@ WHITELISTED_METADATA = [
     "guid",
     "permalink",
     "categories",
+    "lang",
 ]
 
 def main():
