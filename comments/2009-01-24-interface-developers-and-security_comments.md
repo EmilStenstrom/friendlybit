@@ -13,7 +13,7 @@ comments:
   comment_author_url: http://aburad.com
   comment_content: I Agree, developing secure &amp; browser complying webpages  is
     a difficult task. Also you should correct the link for examples of vulnerabilities
-    (http://ha.ckers.org/xss.html)
+    (<a href="http://ha.ckers.org/xss.html)" rel="nofollow">http://ha.ckers.org/xss.html)</a>
   comment_date: '2009-01-24 20:49:32'
   comment_post_ID: '398'
   comment_type: null

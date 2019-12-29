@@ -40,9 +40,10 @@ comments:
   comment_author_url: http://www.rorkvell.de
   comment_content: 'reals formats versus "microformats" is nonsense.\n\nBesides that
     vCard is indeed a long existing format that should be used. And there is already
-    a proposal for that. It is part of the RDFa proposals (see http://www.w3.org/TR/2006/WD-xhtml-rdfa-primer-20060516/
-    ). But RDFa is for XHTML, not for HTML. So, to say it short: Microformats hCard
-    is for now, RDFa/vCard is for the (near?) future.'
+    a proposal for that. It is part of the RDFa proposals (see <a href="http://www.w3.org/TR/2006/WD-xhtml-rdfa-primer-20060516/"
+    rel="nofollow">http://www.w3.org/TR/2006/WD-xhtml-rdfa-primer-20060516/</a> ).
+    But RDFa is for XHTML, not for HTML. So, to say it short: Microformats hCard is
+    for now, RDFa/vCard is for the (near?) future.'
   comment_date: '2008-05-17 16:33:09'
   comment_post_ID: '161'
   comment_type: null
@@ -147,9 +148,10 @@ comments:
   comment_author: Sarven Capadisli
   comment_author_url: http://www.csarven.ca
   comment_content: 'Emil, you (and others) have a lot of misconceptions about microformats.
-    Give this a read: http://www.csarven.ca/microformats-misconceptions \n\nor check
-    out the principles, goals, criticism or faqs on the microformats Wiki: http://microformats.org/wiki\n\nHope
-    that helps.'
+    Give this a read: <a href="http://www.csarven.ca/microformats-misconceptions"
+    rel="nofollow">http://www.csarven.ca/microformats-misconceptions</a> \n\nor check
+    out the principles, goals, criticism or faqs on the microformats Wiki: <a href="http://microformats.org/wiki\n\nHope"
+    rel="nofollow">http://microformats.org/wiki\n\nHope</a> that helps.'
   comment_date: '2008-05-20 07:55:48'
   comment_post_ID: '161'
   comment_type: null
@@ -160,7 +162,7 @@ comments:
   comment_content: I guess Microformats could let you practice DRY (Don't Repeat Yourself).
     You could have your contact details on a contact page, mark it up with hCard format,
     then let people download a vCard generated from the hCard using a service like
-    http://suda.co.uk/projects/microformats/hcard/
+    <a href="http://suda.co.uk/projects/microformats/hcard/" rel="nofollow">http://suda.co.uk/projects/microformats/hcard/</a>
   comment_date: '2008-05-20 11:04:15'
   comment_post_ID: '161'
   comment_type: null

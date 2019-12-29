@@ -40,7 +40,8 @@ comments:
 - comment_ID: '6117'
   comment_author: Mark McDonnell
   comment_author_url: ''
-  comment_content: Strange, I used the "View Response Headers" on one of our websites:\n\nhttp://www.firetuck.co.uk/Home.asp\n\n...and
+  comment_content: Strange, I used the "View Response Headers" on one of our websites:\n\n<a
+    href="http://www.firetuck.co.uk/Home.asp\n\n...and" rel="nofollow">http://www.firetuck.co.uk/Home.asp\n\n...and</a>
     found that the response headers didn't show anything for Content-Type OR Content-Encoding.\n\nContent-Type
     did show "text/html" but nothing about the character encoding.\n\nAny suggestions?
   comment_date: '2006-10-27 14:47:41'
@@ -64,7 +65,7 @@ comments:
   comment_content: 'So, rely on your server to send the right encoding.\n\nThat''s
     easy to say, but not everyone has the power to set server headers ;)\n\nHere''s
     a fun article on the inner workings of character sets, if anyone''s interested:
-    http://www.joelonsoftware.com/articles/Unicode.html'
+    <a href="http://www.joelonsoftware.com/articles/Unicode.html" rel="nofollow">http://www.joelonsoftware.com/articles/Unicode.html</a>'
   comment_date: '2006-10-27 19:10:33'
   comment_post_ID: '96'
   comment_type: null

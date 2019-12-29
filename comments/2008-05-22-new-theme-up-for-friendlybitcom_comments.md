@@ -106,8 +106,8 @@ comments:
 - comment_ID: '30633'
   comment_author: icaaq
   comment_author_url: ''
-  comment_content: I like it a lot (http://snurl.com/2a8ef)\n\nPS. nice code-style
-    DS.
+  comment_content: I like it a lot (<a href="http://snurl.com/2a8ef)\n\nPS." rel="nofollow">http://snurl.com/2a8ef)\n\nPS.</a>
+    nice code-style DS.
   comment_date: '2008-05-23 11:11:59'
   comment_post_ID: '162'
   comment_type: null

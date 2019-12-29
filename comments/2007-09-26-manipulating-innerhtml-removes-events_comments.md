@@ -131,7 +131,8 @@ comments:
   comment_author: Anders Ringqvist
   comment_author_url: ''
   comment_content: A viable soultion could be to use event delegation instead of ”classic”
-    event handling.\n\nI let Christian Heilmann speak:\n\nhttp://icant.co.uk/sandbox/eventdelegation/
+    event handling.\n\nI let Christian Heilmann speak:\n\n<a href="http://icant.co.uk/sandbox/eventdelegation/"
+    rel="nofollow">http://icant.co.uk/sandbox/eventdelegation/</a>
   comment_date: '2007-10-03 14:22:01'
   comment_post_ID: '137'
   comment_type: null

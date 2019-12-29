@@ -7,7 +7,8 @@ comments:
     in the past and I really want to stay away from Flash. I checked some demos with
     Cufón and it is looking good. But one usability drawback I see directly is confusion
     when you want to select text with the cursor ...\nTry selecting the bottom example
-    text:\nhttp://www.cameronmoll.com/articles/cufon/\nComments on that?
+    text:\n<a href="http://www.cameronmoll.com/articles/cufon/\nComments" rel="nofollow">http://www.cameronmoll.com/articles/cufon/\nComments</a>
+    on that?
   comment_date: '2009-05-08 20:49:28'
   comment_post_ID: '480'
   comment_type: null

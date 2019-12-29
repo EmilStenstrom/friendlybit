@@ -4,11 +4,11 @@ comments:
   comment_author: Pece
   comment_author_url: http://bitsia.com
   comment_content: I saw that you added upgrade ie bar on your site.\nI use this practice
-    for a while now, but I want my users to have a choice, so I suggest http://browsehappy.com.\n\nThis
-    is my code:\n<code>&lt;!--[if lte IE 6]>&lt;strong>Hello!&lt;/strong> Just to
-    let you know, things might look a little wierd in Interent Eplorer 6 and under.
-    Feel free to &lt;a href="http://browsehappy.com/" rel="nofollow">try a different
-    browser!&lt;/a>&lt;![endif]--&gt;</code>
+    for a while now, but I want my users to have a choice, so I suggest <a href="http://browsehappy.com.\n\nThis"
+    rel="nofollow">http://browsehappy.com.\n\nThis</a> is my code:\n<code>&lt;!--[if
+    lte IE 6]>&lt;strong>Hello!&lt;/strong> Just to let you know, things might look
+    a little wierd in Interent Eplorer 6 and under. Feel free to &lt;a href="http://browsehappy.com/"
+    rel="nofollow">try a different browser!&lt;/a>&lt;![endif]--&gt;</code>
   comment_date: '2009-02-13 16:06:40'
   comment_post_ID: '430'
   comment_type: null

@@ -19,7 +19,8 @@ comments:
   comment_author: Emil Hesslow
   comment_author_url: http://extensions.hesslow.se
   comment_content: 'You forgot Apple. Sending Safari as an update of Itunes and doing
-    all kind of bad things. This is the latest: http://www.edbott.com/weblog/?p=2148'
+    all kind of bad things. This is the latest: <a href="http://www.edbott.com/weblog/?p=2148"
+    rel="nofollow">http://www.edbott.com/weblog/?p=2148</a>'
   comment_date: '2008-09-22 09:52:55'
   comment_post_ID: '239'
   comment_type: null

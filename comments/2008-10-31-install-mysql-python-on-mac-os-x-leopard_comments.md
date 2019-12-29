@@ -38,7 +38,8 @@ comments:
 - comment_ID: '31136'
   comment_author: Paul
   comment_author_url: http://withdjango.com/
-  comment_content: http://trac.macports.org/browser/trunk/dports/python/py-mysql
+  comment_content: <a href="http://trac.macports.org/browser/trunk/dports/python/py-mysql"
+    rel="nofollow">http://trac.macports.org/browser/trunk/dports/python/py-mysql</a>
   comment_date: '2008-11-01 16:01:31'
   comment_post_ID: '299'
   comment_type: null

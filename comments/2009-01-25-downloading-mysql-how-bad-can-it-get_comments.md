@@ -64,9 +64,10 @@ comments:
   comment_author: Eric Bergen
   comment_author_url: ''
   comment_content: It's much easier if you use our MySQL mirror. It contains both
-    enterprise and community releases in a simple directory hierarchy. \n\nhttp://mirror.provenscaling.com/mysql/\n\nYes
-    it's perfectly legal to distribute mysql enterprise. It's GPL licensed just like
-    the community binaries.
+    enterprise and community releases in a simple directory hierarchy. \n\n<a href="http://mirror.provenscaling.com/mysql/\n\nYes"
+    rel="nofollow">http://mirror.provenscaling.com/mysql/\n\nYes</a> it's perfectly
+    legal to distribute mysql enterprise. It's GPL licensed just like the community
+    binaries.
   comment_date: '2009-01-26 09:18:16'
   comment_post_ID: '394'
   comment_type: null

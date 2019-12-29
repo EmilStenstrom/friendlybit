@@ -367,10 +367,10 @@ comments:
 - comment_ID: '36739'
   comment_author: Kristoffer Nolgren
   comment_author_url: http://www.facebook.com/kristoffer.nolgren
-  comment_content: Unless you have already, you should look in to \nhttp://sass-lang.com/tutorial.html\n\nIt's
-    a helper that supports nested css, variables etc, it works seemlessly and ofc.
-    wont effect performance.\n\nI LOVE the work you're doing on kundo btw!\n\nKristoffer,
-    resihop
+  comment_content: Unless you have already, you should look in to \n<a href="http://sass-lang.com/tutorial.html\n\nIt's"
+    rel="nofollow">http://sass-lang.com/tutorial.html\n\nIt's</a> a helper that supports
+    nested css, variables etc, it works seemlessly and ofc. wont effect performance.\n\nI
+    LOVE the work you're doing on kundo btw!\n\nKristoffer, resihop
   comment_date: '2011-02-06 01:02:00'
   comment_post_ID: '171'
   comment_type: null

@@ -42,7 +42,8 @@ comments:
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
   comment_content: '@Rob: You''re of course right, so here''s a comparison between
-    Heidi Klum and an iPad: http://friendlybit.com/wp-content/uploads/2010/04/ipad_heidi_klum.png
+    Heidi Klum and an iPad: <a href="http://friendlybit.com/wp-content/uploads/2010/04/ipad_heidi_klum.png"
+    rel="nofollow">http://friendlybit.com/wp-content/uploads/2010/04/ipad_heidi_klum.png</a>
     - what do you think?'
   comment_date: '2010-04-26 17:59:14'
   comment_post_ID: '594'

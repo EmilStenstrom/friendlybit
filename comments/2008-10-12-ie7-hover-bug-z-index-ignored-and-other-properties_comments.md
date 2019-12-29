@@ -52,12 +52,13 @@ comments:
 - comment_ID: '31362'
   comment_author: Johnathan
   comment_author_url: ''
-  comment_content: 'Imagine what we could do if IE was not here anymore? This article
-    brought a smile to my eyes:\n\nhttp://digg.com/software/Mozilla_IExplorer_biggest_problem_in_advancing_the_Web\n\n"Mozilla:
-    IExplorer biggest problem in advancing the Web. \nnews.cnet.com — IE still doesn''t
+  comment_content: Imagine what we could do if IE was not here anymore? This article
+    brought a smile to my eyes:\n\n<a href="http://digg.com/software/Mozilla_IExplorer_biggest_problem_in_advancing_the_Web\n\n"Mozilla:"
+    rel="nofollow">http://digg.com/software/Mozilla_IExplorer_biggest_problem_in_advancing_the_Web\n\n"Mozilla:</a>
+    IExplorer biggest problem in advancing the Web. \nnews.cnet.com — IE still doesn't
     remotely approach Firefox, but we do hope to see IE standards compliance and its
     modern features improved. The single biggest problem now in moving the Web forward
-    is having to deal with people using back versions of IE."'
+    is having to deal with people using back versions of IE."
   comment_date: '2009-01-09 20:56:55'
   comment_post_ID: '285'
   comment_type: null

@@ -46,7 +46,8 @@ comments:
 - comment_ID: '24756'
   comment_author: Jens Wedin
   comment_author_url: http://jedisthlm.com
-  comment_content: What is the difference with this script and the one on:\n\nhttp://doxdesk.com/software/js/minmax.html
+  comment_content: What is the difference with this script and the one on:\n\n<a href="http://doxdesk.com/software/js/minmax.html"
+    rel="nofollow">http://doxdesk.com/software/js/minmax.html</a>
   comment_date: '2007-05-29 13:00:04'
   comment_post_ID: '126'
   comment_type: null

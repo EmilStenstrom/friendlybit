@@ -4,7 +4,8 @@ comments:
   comment_author: Greg Reimer
   comment_author_url: http://drpeterjones.com/
   comment_content: I like this concept. I work at Sun and I entertain similar notions.
-    http://blogs.sun.com/roller/page/greimer?entry=html_as_self_describing_data
+    <a href="http://blogs.sun.com/roller/page/greimer?entry=html_as_self_describing_data"
+    rel="nofollow">http://blogs.sun.com/roller/page/greimer?entry=html_as_self_describing_data</a>
   comment_date: '2006-05-08 22:39:30'
   comment_post_ID: '59'
   comment_type: null

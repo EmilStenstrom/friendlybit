@@ -6,14 +6,14 @@ comments:
   comment_content: 'Just a thought - perhaps it is the comments as a phenomena doesn''t
     fit into the modern decentralized web..\n\nI know that people like Jeremy Keith
     has argued that comments shouldn''t be made at blogs but rather in alternate ways:
-    http://adactio.com/journal/1331\n\nPerhaps comments should be made at the commenters
-    own blogs and thus be a real part of the blogosphere linked to the commented post
-    through a usual URL-link?\n\nThat way you will automatically get all blogcomments
-    from people whose blogs you follow in a similar fashion to how you will get all
-    comments as well as all entries from people you''re following on jaiku.\n\nTo
-    jump further into the blogosphere you''ll just follow the links in each post.\n\nPerhaps
-    that''s a bit extreme - but it would at least make it easier to track quality
-    content throughout the blogosphere...'
+    <a href="http://adactio.com/journal/1331\n\nPerhaps" rel="nofollow">http://adactio.com/journal/1331\n\nPerhaps</a>
+    comments should be made at the commenters own blogs and thus be a real part of
+    the blogosphere linked to the commented post through a usual URL-link?\n\nThat
+    way you will automatically get all blogcomments from people whose blogs you follow
+    in a similar fashion to how you will get all comments as well as all entries from
+    people you''re following on jaiku.\n\nTo jump further into the blogosphere you''ll
+    just follow the links in each post.\n\nPerhaps that''s a bit extreme - but it
+    would at least make it easier to track quality content throughout the blogosphere...'
   comment_date: '2008-06-15 20:07:01'
   comment_post_ID: '165'
   comment_type: null

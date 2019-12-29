@@ -129,9 +129,10 @@ comments:
 - comment_ID: '38224'
   comment_author: Martin
   comment_author_url: http://www.prettyeasyprivacy.com
-  comment_content: I'd like to point to this white paper http://pep.foundation/docs/pEp-whitepaper.pdf
-    It's exactly solving issues you described in the article. Encryption and anonymity
-    also for business. Open source solution which is already in current enigmail code.
+  comment_content: I'd like to point to this white paper <a href="http://pep.foundation/docs/pEp-whitepaper.pdf"
+    rel="nofollow">http://pep.foundation/docs/pEp-whitepaper.pdf</a> It's exactly
+    solving issues you described in the article. Encryption and anonymity also for
+    business. Open source solution which is already in current enigmail code.
   comment_date: '2016-11-02 10:50:08'
   comment_post_ID: '1086'
   comment_type: null

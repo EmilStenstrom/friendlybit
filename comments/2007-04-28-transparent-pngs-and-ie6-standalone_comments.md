@@ -46,7 +46,8 @@ comments:
   comment_content: Ah, ok, tastes vary, the PNG testing was the only reason I got
     VPC in the first place and it's only 2 mousklicks if you have a saved state :)
     I am currently looking into the differences between bgsleight.js, lepngfix.htc
-    and Michael Lovitt's opacity script found at http://alistapart.com/stories/pngopacity/
+    and Michael Lovitt's opacity script found at <a href="http://alistapart.com/stories/pngopacity/"
+    rel="nofollow">http://alistapart.com/stories/pngopacity/</a>
   comment_date: '2007-04-29 13:48:29'
   comment_post_ID: '122'
   comment_type: null

@@ -534,7 +534,8 @@ comments:
 - comment_ID: '358'
   comment_author: gaoshou
   comment_author_url: http://bbs.w3pub.com/
-  comment_content: As i don't know that the article with this url http://bbs.w3pub.com/announce/announce.asp?BoardID=3&amp;ID=1008
+  comment_content: As i don't know that the article with this url <a href="http://bbs.w3pub.com/announce/announce.asp?BoardID=3&amp;ID=1008"
+    rel="nofollow">http://bbs.w3pub.com/announce/announce.asp?BoardID=3&amp;ID=1008</a>
     is copy from your website,I know this article by another website,because i don't
     know where this article is from,i didn't write the author of this article,i has
     add it.
@@ -694,7 +695,8 @@ comments:
 - comment_ID: '546'
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
-  comment_content: '@Ali: I googled what you asked for and found this: http://www.htmlhelp.com/distribution/'
+  comment_content: '@Ali: I googled what you asked for and found this: <a href="http://www.htmlhelp.com/distribution/"
+    rel="nofollow">http://www.htmlhelp.com/distribution/</a>'
   comment_date: '2006-05-03 10:39:40'
   comment_post_ID: '27'
   comment_type: null
@@ -1045,8 +1047,10 @@ comments:
 - comment_ID: '4648'
   comment_author: Heldere XHTML/CSS help &laquo; CSS Superclub
   comment_author_url: http://kgroot.wordpress.com/2006/07/17/heldere-en-up-to-date-xhtmlcss-help/
-  comment_content: '[...] http://friendlybit.com/css/beginners-guide-to-css-and-standards/
-    http://css.maxdesign.com.au/ [...]'
+  comment_content: '[...] <a href="http://friendlybit.com/css/beginners-guide-to-css-and-standards/"
+    rel="nofollow">http://friendlybit.com/css/beginners-guide-to-css-and-standards/</a>
+    <a href="http://css.maxdesign.com.au/" rel="nofollow">http://css.maxdesign.com.au/</a>
+    [...]'
   comment_date: '2006-09-13 22:54:33'
   comment_post_ID: '27'
   comment_type: pingback
@@ -1449,10 +1453,11 @@ comments:
   comment_author: Gloria Jean
   comment_author_url: http://www.springfieldcolorado.com
   comment_content: This is a really great article and a great site. I am a big fan
-    of web standards.  I linked to this article from http://www.bacaracka.com/ (which
-    is a site I could call "beginning web page design for dummies," but I would not
-    want to insult my sister and friends who are the people I am doing it for. Thanks
-    for your site, I will be coming back many times!
+    of web standards.  I linked to this article from <a href="http://www.bacaracka.com/"
+    rel="nofollow">http://www.bacaracka.com/</a> (which is a site I could call "beginning
+    web page design for dummies," but I would not want to insult my sister and friends
+    who are the people I am doing it for. Thanks for your site, I will be coming back
+    many times!
   comment_date: '2007-04-20 03:43:01'
   comment_post_ID: '27'
   comment_type: null
@@ -1670,7 +1675,8 @@ comments:
 - comment_ID: '30191'
   comment_author: Adventures in Web Design &laquo; Blogs will be Blogs…
   comment_author_url: http://thegelf.wordpress.com/2008/01/04/adventures-in-web-design/
-  comment_content: '[...] This guy here told me: http://friendlybit.com/css/beginners-guide-to-css-and-standards/
+  comment_content: '[...] This guy here told me: <a href="http://friendlybit.com/css/beginners-guide-to-css-and-standards/"
+    rel="nofollow">http://friendlybit.com/css/beginners-guide-to-css-and-standards/</a>
     [...]'
   comment_date: '2008-01-25 22:37:25'
   comment_post_ID: '27'
@@ -1688,9 +1694,10 @@ comments:
 - comment_ID: '30263'
   comment_author: Best ever css tutorial ive come across ! &laquo; Mysticpixels
   comment_author_url: http://mysticpixels.wordpress.com/2006/06/21/best-ever-css-tutorial-ive-come-across/
-  comment_content: '[...] A gr8 thing to start with for css aspirants  http://css.maxdesign.com.au/selectutorial/index.htm
-    http://friendlybit.com/css/beginners-guide-to-css-and-standards/   Posted in UI
-    [...]'
+  comment_content: '[...] A gr8 thing to start with for css aspirants  <a href="http://css.maxdesign.com.au/selectutorial/index.htm"
+    rel="nofollow">http://css.maxdesign.com.au/selectutorial/index.htm</a> <a href="http://friendlybit.com/css/beginners-guide-to-css-and-standards/"
+    rel="nofollow">http://friendlybit.com/css/beginners-guide-to-css-and-standards/</a>   Posted
+    in UI [...]'
   comment_date: '2008-02-09 13:19:38'
   comment_post_ID: '27'
   comment_type: pingback
@@ -1986,7 +1993,8 @@ comments:
 - comment_ID: '33489'
   comment_author: CSS &laquo; Cristen's Blog
   comment_author_url: http://borby.wordpress.com/2010/04/07/css/
-  comment_content: '[...] found this website http://friendlybit.com/css/beginners-guide-to-css-and-standards/
+  comment_content: '[...] found this website <a href="http://friendlybit.com/css/beginners-guide-to-css-and-standards/"
+    rel="nofollow">http://friendlybit.com/css/beginners-guide-to-css-and-standards/</a>
     as a great introductory guide into how css works and the definitions of selectors
     – element, [...]'
   comment_date: '2010-04-07 12:53:48'

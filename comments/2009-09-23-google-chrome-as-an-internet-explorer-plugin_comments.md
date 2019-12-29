@@ -16,8 +16,8 @@ comments:
   comment_author_url: http://twitter.com/yesbabyyes
   comment_content: <blockquote>\nWho will build the first browser to load [...] Internet
     Explorer inside Firefox?\n</blockquote>\n\nEmil, not to be cheeky, but it's been
-    available for <i>ages</i>:\n\nhttp://ietab.mozdev.org/\n\nGlad to see that the
-    tables have turned, though!
+    available for <i>ages</i>:\n\n<a href="http://ietab.mozdev.org/\n\nGlad" rel="nofollow">http://ietab.mozdev.org/\n\nGlad</a>
+    to see that the tables have turned, though!
   comment_date: '2009-09-23 16:46:51'
   comment_post_ID: '560'
   comment_type: null
@@ -25,7 +25,8 @@ comments:
 - comment_ID: '33034'
   comment_author: Carl-Emil Lagerstedt
   comment_author_url: ''
-  comment_content: Internet Explorer in Firefox has been around a long time https://addons.mozilla.org/en-US/firefox/addon/1419\n\nIts
+  comment_content: Internet Explorer in Firefox has been around a long time <a href="https://addons.mozilla.org/en-US/firefox/addon/1419\n\nIts"
+    rel="nofollow">https://addons.mozilla.org/en-US/firefox/addon/1419\n\nIts</a>
     very useful for us running Firefox in a corporate environment that only supports
     IE.
   comment_date: '2009-09-23 16:47:14'

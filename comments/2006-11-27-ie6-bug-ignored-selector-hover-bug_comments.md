@@ -155,7 +155,8 @@ comments:
 - comment_ID: '33892'
   comment_author: '?E6 sorunu: Ba?lant? içi elemanlarda hover sorunu &laquo; CSS Feed'
   comment_author_url: http://www.cssfeed.net/?p=26
-  comment_content: '[...] http://friendlybit.com/css/ie6-bug-ignored-selector-hover-bug/
+  comment_content: '[...] <a href="http://friendlybit.com/css/ie6-bug-ignored-selector-hover-bug/"
+    rel="nofollow">http://friendlybit.com/css/ie6-bug-ignored-selector-hover-bug/</a>
     [...]'
   comment_date: '2010-05-29 21:44:59'
   comment_post_ID: '107'
@@ -172,7 +173,8 @@ comments:
 - comment_ID: '33970'
   comment_author: Nethizmet Online kütüphanesi
   comment_author_url: http://www.nethizmet.tk/css/ie6-sorunu-baglanti-ici-elemanlarda-hover-sorunu/
-  comment_content: '[...] http://friendlybit.com/css/ie6-bug-ignored-selector-hover-bug/
+  comment_content: '[...] <a href="http://friendlybit.com/css/ie6-bug-ignored-selector-hover-bug/"
+    rel="nofollow">http://friendlybit.com/css/ie6-bug-ignored-selector-hover-bug/</a>
     [...]'
   comment_date: '2010-07-15 22:14:12'
   comment_post_ID: '107'

@@ -29,12 +29,13 @@ comments:
   comment_author: Lewis Litanzios
   comment_author_url: http://www.ldexterldesign.co.uk/
   comment_content: 'Browser heights - been pulling my hair out for this fixed design
-    the past few days (http://tinyurl.com/bh8aka). I tell ya - never take fixed layouts
-    lightly.\n\nRe: IE. I''ll just keep formatting my machine before every project,
-    install the latest of everything, and go down the Firefox &gt; Opera &gt; IE clean
-    up route. F**k everyone and everything else, ha-ha. You just have to laugh don''t
-    you. After getting stress-related illness last week (I''m sure it was) I''ve decided
-    THERE IS more important things in life.\n\nAnother good one G :]'
+    the past few days (<a href="http://tinyurl.com/bh8aka)." rel="nofollow">http://tinyurl.com/bh8aka).</a>
+    I tell ya - never take fixed layouts lightly.\n\nRe: IE. I''ll just keep formatting
+    my machine before every project, install the latest of everything, and go down
+    the Firefox &gt; Opera &gt; IE clean up route. F**k everyone and everything else,
+    ha-ha. You just have to laugh don''t you. After getting stress-related illness
+    last week (I''m sure it was) I''ve decided THERE IS more important things in life.\n\nAnother
+    good one G :]'
   comment_date: '2009-02-19 05:54:07'
   comment_post_ID: '438'
   comment_type: null

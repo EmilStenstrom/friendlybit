@@ -79,9 +79,10 @@ comments:
     So it is extremely more easy to learn than f.ex. php.\n\nFor xhtml there may be
     more options. You can f.ex. use xsl. And xsl allows for including. And more, xsl
     allows for building the page at the client side. In this case you don''t even
-    need xhtml, just xml+xsl. And xml itselt offers mechanisms for including (http://xml.silmaril.ie/authors/includes/).
-    \n\nSo, although i think html 5 is a useful intermediate step, the next real step
-    is still xhtml (and maybe simple xml). It offers many benefits.'
+    need xhtml, just xml+xsl. And xml itselt offers mechanisms for including (<a href="http://xml.silmaril.ie/authors/includes/)."
+    rel="nofollow">http://xml.silmaril.ie/authors/includes/).</a> \n\nSo, although
+    i think html 5 is a useful intermediate step, the next real step is still xhtml
+    (and maybe simple xml). It offers many benefits.'
   comment_date: '2008-11-30 10:10:56'
   comment_post_ID: '320'
   comment_type: null
