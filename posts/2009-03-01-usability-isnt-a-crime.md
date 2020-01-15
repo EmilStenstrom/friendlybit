@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2009-03-01 21:00:27
-guid: http://friendlybit.com/?p=460
+guid: http://friendlybit.com/other/usability-isnt-a-crime/
 id: 460
 permalink: /other/usability-isnt-a-crime/
 title: Usability isn’t a crime

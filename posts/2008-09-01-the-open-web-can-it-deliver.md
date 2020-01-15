@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - CSS
 date: 2008-09-01 22:58:08
-guid: http://friendlybit.com/?p=221
+guid: http://friendlybit.com/css/the-open-web-can-it-deliver/
 id: 221
 permalink: /css/the-open-web-can-it-deliver/
 title: 'The Open Web: Can it deliver?'

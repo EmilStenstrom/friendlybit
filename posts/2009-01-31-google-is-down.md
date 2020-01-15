@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2009-01-31 16:47:50
-guid: http://friendlybit.com/?p=411
+guid: http://friendlybit.com/other/google-is-down/
 id: 411
 permalink: /other/google-is-down/
 title: Google is down

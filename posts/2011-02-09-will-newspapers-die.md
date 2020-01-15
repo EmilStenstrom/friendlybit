@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Modern web
 date: 2011-02-09 00:41:17
-guid: http://friendlybit.com/?p=668
+guid: http://friendlybit.com/modern-web/will-newspapers-die/
 id: 668
 permalink: /modern-web/will-newspapers-die/
 title: Will newspapers die?

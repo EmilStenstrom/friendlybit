@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - JS
 date: 2009-06-30 22:53:25
-guid: http://friendlybit.com/?p=498
+guid: http://friendlybit.com/js/make-a-div-clickable/
 id: 498
 permalink: /js/make-a-div-clickable/
 title: Make a div clickable

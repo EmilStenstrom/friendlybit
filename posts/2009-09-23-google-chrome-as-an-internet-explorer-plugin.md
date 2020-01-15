@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Browsers
 date: 2009-09-23 16:15:49
-guid: http://friendlybit.com/?p=560
+guid: http://friendlybit.com/browsers/google-chrome-as-an-internet-explorer-plugin/
 id: 560
 permalink: /browsers/google-chrome-as-an-internet-explorer-plugin/
 title: Google Chrome as an Internet Explorer plugin

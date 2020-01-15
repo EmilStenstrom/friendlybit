@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - CSS
 date: 2008-05-22 01:04:54
-guid: http://friendlybit.com/?p=162
+guid: http://friendlybit.com/css/new-theme-up-for-friendlybitcom/
 id: 162
 permalink: /css/new-theme-up-for-friendlybitcom/
 title: New theme up for friendlybit.com

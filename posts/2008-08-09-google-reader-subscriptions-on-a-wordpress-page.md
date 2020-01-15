@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2008-08-09 17:09:43
-guid: http://friendlybit.com/?p=194
+guid: http://friendlybit.com/other/google-reader-subscriptions-on-a-wordpress-page/
 id: 194
 permalink: /other/google-reader-subscriptions-on-a-wordpress-page/
 title: Google Reader subscriptions on a WordPress Page

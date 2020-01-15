@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2008-05-10 20:38:47
-guid: http://friendlybit.com/?p=160
+guid: http://friendlybit.com/other/msn-blocks-youtube-links/
 id: 160
 permalink: /other/msn-blocks-youtube-links/
 title: MSN blocks YouTube links

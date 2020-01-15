@@ -4,7 +4,7 @@ categories:
 - Django
 - Tutorial
 date: 2008-10-31 18:37:18
-guid: http://friendlybit.com/?p=299
+guid: http://friendlybit.com/tutorial/install-mysql-python-on-mac-os-x-leopard/
 id: 299
 permalink: /tutorial/install-mysql-python-on-mac-os-x-leopard/
 title: Install MySQL-python on Mac OS X (leopard)

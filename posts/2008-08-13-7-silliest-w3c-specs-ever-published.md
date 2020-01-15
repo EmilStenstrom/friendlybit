@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2008-08-13 22:20:52
-guid: http://friendlybit.com/?p=208
+guid: http://friendlybit.com/other/7-silliest-w3c-specs-ever-published/
 id: 208
 permalink: /other/7-silliest-w3c-specs-ever-published/
 title: 7 silliest W3C specs ever published

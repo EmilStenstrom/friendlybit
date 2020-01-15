@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Life
 date: 2017-12-02 12:04:00
-guid: https://friendlybit.com/?p=1087
+guid: http://friendlybit.com/life/the-listserve-how-randomness-affects-your-life/
 id: 1087
 permalink: /life/the-listserve-how-randomness-affects-your-life/
 title: '[The Listserve] How randomness affects your life'

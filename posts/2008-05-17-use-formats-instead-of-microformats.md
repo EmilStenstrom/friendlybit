@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - HTML
 date: 2008-05-17 12:29:26
-guid: http://friendlybit.com/?p=161
+guid: http://friendlybit.com/html/use-formats-instead-of-microformats/
 id: 161
 permalink: /html/use-formats-instead-of-microformats/
 title: Use formats instead of microformats

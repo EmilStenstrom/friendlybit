@@ -4,7 +4,7 @@ categories:
 - CSS
 - HTML
 date: 2006-05-28 22:48:10
-guid: http://friendlybit.com/html/inline-css-should-not-be-allowed-in-strict-doctypes/
+guid: http://friendlybit.com/css/inline-css-should-not-be-allowed-in-strict-doctypes/
 id: 65
 permalink: /css/inline-css-should-not-be-allowed-in-strict-doctypes/
 title: Inline CSS should not be allowed in strict doctypes

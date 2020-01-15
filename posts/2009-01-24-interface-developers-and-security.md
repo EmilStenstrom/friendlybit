@@ -5,7 +5,7 @@ categories:
 - HTML
 - JS
 date: 2009-01-24 00:30:44
-guid: http://friendlybit.com/?p=398
+guid: http://friendlybit.com/css/interface-developers-and-security/
 id: 398
 permalink: /css/interface-developers-and-security/
 title: Interface developers and security

@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Browsers
 date: 2009-02-13 15:29:37
-guid: http://friendlybit.com/?p=430
+guid: http://friendlybit.com/browsers/motivation-for-building-for-ie6/
 id: 430
 permalink: /browsers/motivation-for-building-for-ie6/
 title: Who are you disappointing with IE6 support?

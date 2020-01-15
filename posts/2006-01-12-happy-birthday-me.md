@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2006-01-12 11:04:36
-guid: http://friendlybit.com/css/happy-birthday-me/
+guid: http://friendlybit.com/other/happy-birthday-me/
 id: 34
 permalink: /other/happy-birthday-me/
 title: Happy Birthday Me!

@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - CSS
 date: 2008-08-07 16:29:24
-guid: http://friendlybit.com/?p=171
+guid: http://friendlybit.com/css/why-adding-variables-to-css-is-a-good-thing/
 id: 171
 permalink: /css/why-adding-variables-to-css-is-a-good-thing/
 title: Why adding variables to CSS is a good thing

@@ -4,7 +4,7 @@ categories:
 - JS
 - Modern web
 date: 2012-01-08 15:28:49
-guid: http://friendlybit.com/?p=839
+guid: http://friendlybit.com/js/partial-xmlhttprequest-responses/
 id: 839
 permalink: /js/partial-xmlhttprequest-responses/
 title: Partial XMLHttpRequest responses?

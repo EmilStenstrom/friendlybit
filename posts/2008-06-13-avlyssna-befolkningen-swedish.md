@@ -3,11 +3,11 @@ author: Emil Stenström
 categories:
 - Other
 date: 2008-06-13 11:51:29
-guid: http://friendlybit.com/?p=164
+guid: http://friendlybit.com/other/avlyssna-befolkningen-swedish/
 id: 164
+lang: sv
 permalink: /other/avlyssna-befolkningen-swedish/
 title: Avlyssna befolkningen (Swedish)
-lang: sv
 ---
 
 (Eng: Sorry for writing this in swedish. Sweden is about to pass a law allowing the government to wiretap its citizens and I need to add a few things to the debate. The rest is in Swedish)

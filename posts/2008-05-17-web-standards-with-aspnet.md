@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - HTML
 date: 2008-05-17 11:46:33
-guid: http://friendlybit.com/?p=157
+guid: http://friendlybit.com/html/web-standards-with-aspnet/
 id: 157
 permalink: /html/web-standards-with-aspnet/
 title: Web standards with ASP.NET

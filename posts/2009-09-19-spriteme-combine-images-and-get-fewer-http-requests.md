@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - CSS
 date: 2009-09-19 17:09:02
-guid: http://friendlybit.com/?p=557
+guid: http://friendlybit.com/css/spriteme-combine-images-and-get-fewer-http-requests/
 id: 557
 permalink: /css/spriteme-combine-images-and-get-fewer-http-requests/
 title: SpriteMe – Combine images and get fewer HTTP requests

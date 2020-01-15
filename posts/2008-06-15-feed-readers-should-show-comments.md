@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - CSS
 date: 2008-06-15 17:25:48
-guid: http://friendlybit.com/?p=165
+guid: http://friendlybit.com/css/feed-readers-should-show-comments/
 id: 165
 permalink: /css/feed-readers-should-show-comments/
 title: Feed readers should show comments

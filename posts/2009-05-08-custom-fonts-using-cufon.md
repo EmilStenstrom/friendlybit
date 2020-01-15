@@ -4,7 +4,7 @@ categories:
 - Browsers
 - Fonts
 date: 2009-05-08 20:20:17
-guid: http://friendlybit.com/?p=480
+guid: http://friendlybit.com/browsers/custom-fonts-using-cufon/
 id: 480
 permalink: /browsers/custom-fonts-using-cufon/
 title: Custom fonts using Cufón

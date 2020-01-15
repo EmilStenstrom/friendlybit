@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - HTML
 date: 2008-04-30 15:06:27
-guid: http://friendlybit.com/?p=159
+guid: http://friendlybit.com/html/why-the-class-name-wrapper-is-so-common/
 id: 159
 permalink: /html/why-the-class-name-wrapper-is-so-common/
 title: Why the class name "wrapper" is so common

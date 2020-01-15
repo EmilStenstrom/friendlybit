@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2008-04-11 20:29:14
-guid: http://friendlybit.com/?p=156
+guid: http://friendlybit.com/other/top-3-articles-of-friendlybitcom-according-to-me/
 id: 156
 permalink: /other/top-3-articles-of-friendlybitcom-according-to-me/
 title: Top 3 articles of friendlybit.com (according to me)

@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - JS
 date: 2010-05-08 00:15:06
-guid: http://friendlybit.com/?p=613
+guid: http://friendlybit.com/js/lazy-loading-asyncronous-javascript/
 id: 613
 permalink: /js/lazy-loading-asyncronous-javascript/
 title: Lazy Loading Asyncronous Javascript

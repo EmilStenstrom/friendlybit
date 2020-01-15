@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2009-10-24 15:00:28
-guid: http://friendlybit.com/?p=566
+guid: http://friendlybit.com/other/google-support-gone-wrong/
 id: 566
 permalink: /other/google-support-gone-wrong/
 title: Google support gone wrong

@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Strategy
 date: 2011-06-19 14:07:32
-guid: http://friendlybit.com/?p=492
+guid: http://friendlybit.com/strategy/fixing-microsofts-bad-reputation/
 id: 492
 permalink: /strategy/fixing-microsofts-bad-reputation/
 title: Fixing Microsoft’s bad reputation

@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2012-04-19 13:02:33
-guid: http://friendlybit.com/?p=874
+guid: http://friendlybit.com/other/the-listserve-im-sorry-to-break-this-to-you/
 id: 874
 permalink: /other/the-listserve-im-sorry-to-break-this-to-you/
 title: '[The Listserve] I’m sorry to break this to you'

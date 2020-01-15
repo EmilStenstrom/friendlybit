@@ -4,7 +4,7 @@ categories:
 - Modern web
 - Tutorial
 date: 2008-11-20 18:58:16
-guid: http://friendlybit.com/?p=331
+guid: http://friendlybit.com/tutorial/10-web-ground-rules/
 id: 331
 permalink: /tutorial/10-web-ground-rules/
 title: Follow the 10 ground rules, or fail on the web

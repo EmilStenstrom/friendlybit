@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - HTML
 date: 2008-06-07 01:42:51
-guid: http://friendlybit.com/?p=163
+guid: http://friendlybit.com/html/sharepoint-2007-insanely-bad-html/
 id: 163
 permalink: /html/sharepoint-2007-insanely-bad-html/
 title: Sharepoint 2007 – insanely bad HTML

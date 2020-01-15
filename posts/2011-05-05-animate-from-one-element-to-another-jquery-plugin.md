@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - JS
 date: 2011-05-05 22:52:14
-guid: http://friendlybit.com/?p=700
+guid: http://friendlybit.com/js/animate-from-one-element-to-another-jquery-plugin/
 id: 700
 permalink: /js/animate-from-one-element-to-another-jquery-plugin/
 title: Animate from one element to another (jQuery plugin)

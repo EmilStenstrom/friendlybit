@@ -4,7 +4,7 @@ categories:
 - Django
 - Other
 date: 2008-09-26 17:07:14
-guid: http://friendlybit.com/?p=265
+guid: http://friendlybit.com/other/django-the-fun-framework-presentation/
 id: 265
 permalink: /other/django-the-fun-framework-presentation/
 title: Django – the fun framework (presentation)

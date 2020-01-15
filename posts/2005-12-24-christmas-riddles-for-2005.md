@@ -3,11 +3,11 @@ author: Emil Stenström
 categories:
 - Other
 date: 2005-12-24 00:00:21
-guid: http://friendlybit.com/css/christmas-riddles-for-2005/
+guid: http://friendlybit.com/other/christmas-riddles-for-2005/
 id: 28
+lang: sv
 permalink: /other/christmas-riddles-for-2005/
 title: Julrim 2005
-lang: sv
 ---
 
 Jag tänkte det kunde vara kul för några av er att se mina julrim för i år. Jag bestämde mig för att använda Limerick-form, mest för att en stor tidning hade en rolig ramsa som jag gillade.

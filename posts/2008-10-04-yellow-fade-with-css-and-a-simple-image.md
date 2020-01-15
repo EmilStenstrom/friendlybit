@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - CSS
 date: 2008-10-04 20:19:09
-guid: http://friendlybit.com/?p=276
+guid: http://friendlybit.com/css/yellow-fade-with-css-and-a-simple-image/
 id: 276
 permalink: /css/yellow-fade-with-css-and-a-simple-image/
 title: Yellow fade with CSS and a simple image

@@ -4,7 +4,7 @@ categories:
 - CSS
 - HTML
 date: 2008-07-10 00:02:50
-guid: http://friendlybit.com/?p=169
+guid: http://friendlybit.com/css/dont-waste-time-writing-html-and-css/
 id: 169
 permalink: /css/dont-waste-time-writing-html-and-css/
 title: Don’t waste time writing HTML and CSS

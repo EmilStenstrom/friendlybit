@@ -4,7 +4,7 @@ categories:
 - Browsers
 - CSS
 date: 2009-08-26 23:54:51
-guid: http://friendlybit.com/?p=496
+guid: http://friendlybit.com/css/techniques-to-use-when-ie6-dies/
 id: 496
 permalink: /css/techniques-to-use-when-ie6-dies/
 title: Techniques to use when IE6 dies

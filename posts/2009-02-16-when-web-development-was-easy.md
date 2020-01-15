@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Browsers
 date: 2009-02-16 17:02:33
-guid: http://friendlybit.com/?p=438
+guid: http://friendlybit.com/browsers/when-web-development-was-easy/
 id: 438
 permalink: /browsers/when-web-development-was-easy/
 title: When web development was easy…

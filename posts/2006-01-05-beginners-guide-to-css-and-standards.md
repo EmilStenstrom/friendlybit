@@ -5,7 +5,7 @@ categories:
 - HTML
 - Tutorial
 date: 2006-01-05 18:11:00
-guid: http://www.stacken.kth.se/~em/?p=27
+guid: http://friendlybit.com/css/beginners-guide-to-css-and-standards/
 id: 27
 permalink: /css/beginners-guide-to-css-and-standards/
 title: Beginner’s guide to CSS

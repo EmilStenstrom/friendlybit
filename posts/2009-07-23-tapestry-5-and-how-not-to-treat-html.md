@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - HTML
 date: 2009-07-23 21:39:10
-guid: http://friendlybit.com/?p=528
+guid: http://friendlybit.com/html/tapestry-5-and-how-not-to-treat-html/
 id: 528
 permalink: /html/tapestry-5-and-how-not-to-treat-html/
 title: Tapestry 5, and how not to treat HTML

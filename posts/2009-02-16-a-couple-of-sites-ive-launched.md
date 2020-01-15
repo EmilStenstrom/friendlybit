@@ -4,7 +4,7 @@ categories:
 - CSS
 - Django
 date: 2009-02-16 18:18:02
-guid: http://friendlybit.com/?p=448
+guid: http://friendlybit.com/css/a-couple-of-sites-ive-launched/
 id: 448
 permalink: /css/a-couple-of-sites-ive-launched/
 title: A couple of sites I’ve launched

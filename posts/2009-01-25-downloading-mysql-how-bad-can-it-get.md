@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2009-01-25 03:31:10
-guid: http://friendlybit.com/?p=394
+guid: http://friendlybit.com/other/downloading-mysql-how-bad-can-it-get/
 id: 394
 permalink: /other/downloading-mysql-how-bad-can-it-get/
 title: 'Downloading MySQL: How bad can it get?'

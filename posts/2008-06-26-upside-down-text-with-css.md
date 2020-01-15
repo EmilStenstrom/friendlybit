@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - CSS
 date: 2008-06-26 22:34:31
-guid: http://friendlybit.com/?p=167
+guid: http://friendlybit.com/css/upside-down-text-with-css/
 id: 167
 permalink: /css/upside-down-text-with-css/
 title: Upside down text with CSS

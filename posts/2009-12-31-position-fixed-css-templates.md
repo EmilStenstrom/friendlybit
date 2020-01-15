@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - CSS
 date: 2009-12-31 15:14:26
-guid: http://friendlybit.com/?p=573
+guid: http://friendlybit.com/css/position-fixed-css-templates/
 id: 573
 permalink: /css/position-fixed-css-templates/
 title: 'Position: fixed CSS templates'

@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Accessibility
 date: 2009-04-03 17:31:32
-guid: http://friendlybit.com/?p=470
+guid: http://friendlybit.com/accessibility/projectors-a-great-accessibility-argument/
 id: 470
 permalink: /accessibility/projectors-a-great-accessibility-argument/
 title: 'Projectors: a great accessibility argument'

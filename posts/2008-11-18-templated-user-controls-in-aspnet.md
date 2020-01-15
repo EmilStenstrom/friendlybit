@@ -5,7 +5,7 @@ categories:
 - Other
 - Tutorial
 date: 2008-11-18 01:28:43
-guid: http://friendlybit.com/?p=323
+guid: http://friendlybit.com/other/templated-user-controls-in-aspnet/
 id: 323
 permalink: /other/templated-user-controls-in-aspnet/
 title: Templated User Controls in ASP.NET

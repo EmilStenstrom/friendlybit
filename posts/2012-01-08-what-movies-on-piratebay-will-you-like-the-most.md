@@ -4,7 +4,7 @@ categories:
 - API
 - Python
 date: 2012-01-08 22:07:29
-guid: http://friendlybit.com/?p=851
+guid: http://friendlybit.com/python/what-movies-on-piratebay-will-you-like-the-most/
 id: 851
 permalink: /python/what-movies-on-piratebay-will-you-like-the-most/
 title: What movies on Piratebay will you like the most?

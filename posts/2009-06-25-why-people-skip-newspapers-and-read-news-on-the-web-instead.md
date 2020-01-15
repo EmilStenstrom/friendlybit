@@ -4,7 +4,7 @@ categories:
 - Modern web
 - Strategy
 date: 2009-06-25 22:44:12
-guid: http://friendlybit.com/?p=494
+guid: http://friendlybit.com/modern-web/why-people-skip-newspapers-and-read-news-on-the-web-instead/
 id: 494
 permalink: /modern-web/why-people-skip-newspapers-and-read-news-on-the-web-instead/
 title: Why people skip newspapers and read news on the web instead

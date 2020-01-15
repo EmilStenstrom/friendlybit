@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - UI
 date: 2011-07-22 12:35:04
-guid: http://friendlybit.com/?p=821
+guid: http://friendlybit.com/ui/suggestions-for-tweetdeck/
 id: 821
 permalink: /ui/suggestions-for-tweetdeck/
 title: Suggestions for TweetDeck

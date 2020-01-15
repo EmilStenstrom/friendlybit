@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2008-12-08 09:00:27
-guid: http://friendlybit.com/?p=378
+guid: http://friendlybit.com/other/spotify-invite-via-twitter-or-jaiku/
 id: 378
 permalink: /other/spotify-invite-via-twitter-or-jaiku/
 title: Spotify invite via Twitter or Jaiku

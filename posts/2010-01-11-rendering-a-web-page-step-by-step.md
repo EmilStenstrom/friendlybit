@@ -6,7 +6,7 @@ categories:
 - HTML
 - JS
 date: 2010-01-11 01:04:33
-guid: http://friendlybit.com/?p=580
+guid: http://friendlybit.com/css/rendering-a-web-page-step-by-step/
 id: 580
 permalink: /css/rendering-a-web-page-step-by-step/
 title: Rendering a web page – step by step

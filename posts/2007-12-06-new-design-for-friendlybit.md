@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2007-12-06 22:44:00
-guid: http://friendlybit.com/other/new-design-for-friendlybit-coming-up/
+guid: http://friendlybit.com/other/new-design-for-friendlybit/
 id: 144
 permalink: /other/new-design-for-friendlybit/
 title: New design for friendlybit coming up

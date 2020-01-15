@@ -4,7 +4,7 @@ categories:
 - Devices
 - Modern web
 date: 2010-04-25 20:33:32
-guid: http://friendlybit.com/?p=594
+guid: http://friendlybit.com/modern-web/my-ipad-a-short-review/
 id: 594
 permalink: /modern-web/my-ipad-a-short-review/
 title: My iPad – a short review

@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - CSS
 date: 2008-10-19 15:48:03
-guid: http://friendlybit.com/?p=290
+guid: http://friendlybit.com/css/openid-nofollow-removed-comment-counts-and-ie7-fixes/
 id: 290
 permalink: /css/openid-nofollow-removed-comment-counts-and-ie7-fixes/
 title: OpenID, Nofollow removed, Comment counts, and IE7 fixes

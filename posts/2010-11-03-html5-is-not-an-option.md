@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - HTML
 date: 2010-11-03 20:20:42
-guid: http://friendlybit.com/?p=648
+guid: http://friendlybit.com/html/html5-is-not-an-option/
 id: 648
 permalink: /html/html5-is-not-an-option/
 title: HTML5 is not an option

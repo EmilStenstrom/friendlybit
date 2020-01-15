@@ -4,7 +4,7 @@ categories:
 - Django
 - HTML
 date: 2008-11-29 15:18:49
-guid: http://friendlybit.com/?p=320
+guid: http://friendlybit.com/html/html-includes/
 id: 320
 permalink: /html/html-includes/
 title: HTML includes

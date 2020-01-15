@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Lifelogging
 date: 2014-02-22 16:42:03
-guid: http://friendlybit.com/?p=920
+guid: http://friendlybit.com/lifelogging/8-insights-from-using-the-narrative-clip/
 id: 920
 permalink: /lifelogging/8-insights-from-using-the-narrative-clip/
 title: 8 insights from using the Narrative clip

@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - CSS
 date: 2008-10-12 20:17:04
-guid: http://friendlybit.com/?p=285
+guid: http://friendlybit.com/css/ie7-hover-bug-z-index-ignored-and-other-properties/
 id: 285
 permalink: /css/ie7-hover-bug-z-index-ignored-and-other-properties/
 title: 'IE7 hover bug: z-index ignored (and other properties)'

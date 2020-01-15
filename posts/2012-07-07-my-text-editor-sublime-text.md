@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Tools
 date: 2012-07-07 23:53:03
-guid: http://friendlybit.com/?p=882
+guid: http://friendlybit.com/tools/my-text-editor-sublime-text/
 id: 882
 permalink: /tools/my-text-editor-sublime-text/
 title: 'My text editor: Sublime Text'

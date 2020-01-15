@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Other
 date: 2009-08-31 00:12:46
-guid: http://friendlybit.com/?p=549
+guid: http://friendlybit.com/other/voddler-movie-streaming-for-the-masses/
 id: 549
 permalink: /other/voddler-movie-streaming-for-the-masses/
 title: Voddler – movie streaming for the masses?

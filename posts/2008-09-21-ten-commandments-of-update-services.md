@@ -4,7 +4,7 @@ categories:
 - Other
 - Tutorial
 date: 2008-09-21 23:10:25
-guid: http://friendlybit.com/?p=239
+guid: http://friendlybit.com/other/ten-commandments-of-update-services/
 id: 239
 permalink: /other/ten-commandments-of-update-services/
 title: Ten commandments of update services

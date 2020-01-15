@@ -4,7 +4,7 @@ categories:
 - JS
 - Modern web
 date: 2011-06-18 14:11:11
-guid: http://friendlybit.com/?p=591
+guid: http://friendlybit.com/js/geolocation-and-google-maps/
 id: 591
 permalink: /js/geolocation-and-google-maps/
 title: Geolocation and Google maps

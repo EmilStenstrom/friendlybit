@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Security
 date: 2016-10-28 23:26:00
-guid: https://friendlybit.com/?p=1086
+guid: http://friendlybit.com/security/how-to-make-e-mail-encrypted-for-everyone/
 id: 1086
 permalink: /security/how-to-make-e-mail-encrypted-for-everyone/
 title: How to make e-mail encrypted for everyone
