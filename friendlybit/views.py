@@ -1,3 +1,4 @@
+import re
 from datetime import datetime
 from glob import glob
 
@@ -6,7 +7,7 @@ import frontmatter
 import pytz
 import sass
 from starlette.exceptions import HTTPException
-from starlette.responses import FileResponse, RedirectResponse, StreamingResponse
+from starlette.responses import FileResponse, RedirectResponse, Response, StreamingResponse
 from starlette.templating import Jinja2Templates
 
 from friendlybit.utils import slugify
@@ -16,6 +17,10 @@ from friendlybit.settings import scss_files, site
 templates = Jinja2Templates(directory='templates')
 
 async def homepage(request, format_="html"):
+    post_id = request.query_params.get("p", None)
+    if post_id:
+        return await redirect_to_slug(request, post_id=post_id)
+
     posts = []
     category = request.path_params.get("category", None)
 
@@ -119,3 +124,15 @@ async def contact(request):
         'request': request,
     })
 
+async def redirect_to_slug(request, post_id):
+    for filename in sorted(glob("posts/*.md"), reverse=True):
+        print(filename)
+        async with aiofiles.open(filename, "r") as f:
+            post = frontmatter.loads(await f.read())
+            if post.metadata["id"] == int(post_id):
+                slug = re.sub(r"/[^/]+/([^/]+)/", r"\1", post.metadata["permalink"])
+                category = slugify(post.metadata["categories"][0])
+                url = request.url_for("post", category=category, slug=slug)
+                return RedirectResponse(url=url)
+
+    return Response(f"Post with {post_id} not found.", status_code=404)
