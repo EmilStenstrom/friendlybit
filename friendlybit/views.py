@@ -9,6 +9,7 @@ from starlette.exceptions import HTTPException
 from starlette.responses import FileResponse, RedirectResponse, StreamingResponse
 from starlette.templating import Jinja2Templates
 
+from friendlybit.utils import slugify
 from friendlybit.markdown import markdown
 from friendlybit.settings import scss_files, site
 
@@ -25,7 +26,7 @@ async def homepage(request, format_="html"):
 
             if category:
                 post_categories = [
-                    category.lower().replace(" ", "-")
+                    slugify(category)
                     for category in post.metadata["categories"]
                 ]
                 if category not in post_categories:
