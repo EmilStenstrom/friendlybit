@@ -5,37 +5,37 @@
 #    pip-compile requirements-dev.in
 #
 -e git+https://github.com/lepture/mistune.git#egg=mistune==2.0.0a1
-aiofiles==0.4.0
-certifi==2019.11.28
-chardet==3.0.4
-click==7.0
+aiofiles==0.4.0           # via -r requirements.txt
+certifi==2019.11.28       # via -r requirements.txt, requests
+chardet==3.0.4            # via -r requirements.txt, requests
+click==7.0                # via -r requirements.txt, pip-tools, uvicorn
 entrypoints==0.3          # via flake8
-flake8==3.7.9
-gunicorn==20.0.4
-h11==0.9.0
-html5lib==1.0.1
-html5validate==0.0.2
-httptools==0.0.13
-idna==2.8
-jinja2==2.10.3
-libsass==0.19.4
-markupsafe==1.1.1
+flake8==3.7.9             # via -r requirements-dev.in
+gunicorn==20.0.4          # via -r requirements.txt
+h11==0.9.0                # via -r requirements.txt, uvicorn
+html5lib==1.0.1           # via -r requirements.txt
+html5validate==0.0.2      # via -r requirements.txt
+httptools==0.1.1          # via -r requirements.txt, uvicorn
+idna==2.8                 # via -r requirements.txt, requests
+jinja2==2.10.3            # via -r requirements.txt
+libsass==0.19.4           # via -r requirements.txt
+markupsafe==1.1.1         # via -r requirements.txt, jinja2
 mccabe==0.6.1             # via flake8
-pip-tools==4.3.0
+pip-tools==4.3.0          # via -r requirements-dev.in
 pycodestyle==2.5.0        # via flake8
 pyflakes==2.1.1           # via flake8
-pygments==2.5.2
-python-frontmatter==0.5.0
-pytz==2019.3
-pyyaml==5.2
-requests==2.22.0
-six==1.13.0
-starlette==0.13.0
-urllib3==1.25.7
-uvicorn==0.11.1
-uvloop==0.14.0
-webencodings==0.5.1
-websockets==8.1
+pygments==2.5.2           # via -r requirements.txt
+python-frontmatter==0.5.0  # via -r requirements.txt
+pytz==2019.3              # via -r requirements.txt
+pyyaml==5.2               # via -r requirements.txt, python-frontmatter
+requests==2.22.0          # via -r requirements.txt
+six==1.13.0               # via -r requirements.txt, html5lib, libsass, pip-tools, python-frontmatter
+starlette==0.13.0         # via -r requirements.txt
+urllib3==1.25.7           # via -r requirements.txt, requests
+uvicorn==0.11.7           # via -r requirements.txt
+uvloop==0.14.0            # via -r requirements.txt, uvicorn
+webencodings==0.5.1       # via -r requirements.txt, html5lib
+websockets==8.1           # via -r requirements.txt, uvicorn
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
