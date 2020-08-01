@@ -9,8 +9,8 @@ def deploy():
     os.system("git push dokku master")
 
 def dependencies():
-    os.system("pip-compile requirements.in")
-    os.system("pip-compile requirements-dev.in")
+    os.system("pip-compile --upgrade requirements.in")
+    os.system("pip-compile --upgrade requirements-dev.in")
     os.system("pip-sync requirements-dev.txt")
 
 def main():
