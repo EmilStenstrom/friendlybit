@@ -10,6 +10,7 @@ routes = [
     Route("/favicon.ico", endpoint=favicon, name="favicon"),
     Route("/style.css", endpoint=css, name="css"),
     Route("/feed/", endpoint=feed, name="feed"),
+    Route("/feed/atom/", endpoint=feed, name="feed"),
     Route("/feed/{category}/", endpoint=feed, name="feed_category"),
     Route("/contact/", endpoint=contact, name="contact"),
     Mount("/files", app=StaticFiles(directory='files', html=True), name="static"),
