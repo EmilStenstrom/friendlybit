@@ -57,7 +57,7 @@ async def homepage(request, format_="html"):
             'request': request,
         }, media_type="text/xml")
 
-    raise HTTPException(status_code=415, detail=f"Format {format} not supported.")
+    raise HTTPException(status_code=415, detail=f"Format {format_} not supported.")
 
 async def favicon(request):
     return FileResponse('favicon.ico')
