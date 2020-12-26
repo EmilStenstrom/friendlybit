@@ -39,6 +39,9 @@ async def homepage(request, format_="html"):
 
             posts.append(post)
 
+    if not posts:
+        raise HTTPException(status_code=404, detail=f"Posts matching {request.url.path} not found")
+
     if format_ == "html":
         return templates.TemplateResponse('index.html', {
             'category': category,
