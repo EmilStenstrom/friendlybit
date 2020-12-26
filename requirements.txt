@@ -5,31 +5,28 @@
 #    pip-compile requirements.in
 #
 -e git+https://github.com/lepture/mistune.git#egg=mistune==2.0.0a4  # via -r requirements.in
-aiofiles==0.5.0           # via -r requirements.in
-certifi==2020.6.20        # via requests
-chardet==3.0.4            # via requests
+aiofiles==0.6.0           # via -r requirements.in
+certifi==2020.12.5        # via requests
+chardet==4.0.0            # via requests
 click==7.1.2              # via uvicorn
 gunicorn==20.0.4          # via -r requirements.in
-h11==0.9.0                # via uvicorn
+h11==0.11.0               # via uvicorn
 html5lib==1.1             # via -r requirements.in
 html5validate==0.0.2      # via -r requirements.in
-httptools==0.1.1          # via uvicorn
 idna==2.10                # via requests
 jinja2==2.11.2            # via -r requirements.in
-libsass==0.20.0           # via -r requirements.in
+libsass==0.20.1           # via -r requirements.in
 markupsafe==1.1.1         # via jinja2
-pygments==2.6.1           # via -r requirements.in
+pygments==2.7.3           # via -r requirements.in
 python-frontmatter==0.5.0  # via -r requirements.in
-pytz==2020.1              # via -r requirements.in
+pytz==2020.5              # via -r requirements.in
 pyyaml==5.3.1             # via python-frontmatter
-requests==2.24.0          # via -r requirements.in
+requests==2.25.1          # via -r requirements.in
 six==1.15.0               # via html5lib, libsass, python-frontmatter
-starlette==0.13.6         # via -r requirements.in
-urllib3==1.25.10          # via requests
-uvicorn==0.11.8           # via -r requirements.in
-uvloop==0.14.0            # via uvicorn
+starlette==0.14.1         # via -r requirements.in
+urllib3==1.26.2           # via requests
+uvicorn==0.13.2           # via -r requirements.in
 webencodings==0.5.1       # via html5lib
-websockets==8.1           # via uvicorn
 
 # The following packages are considered to be unsafe in a requirements file:
 # setuptools
