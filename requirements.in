@@ -2,7 +2,7 @@
 starlette
 aiofiles
 jinja2
-uvicorn
+uvicorn[standard]
 gunicorn
 
 # Application
