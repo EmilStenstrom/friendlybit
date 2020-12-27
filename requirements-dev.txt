@@ -4,7 +4,7 @@
 #
 #    pip-compile requirements-dev.in
 #
--e git+https://github.com/lepture/mistune.git#egg=mistune==2.0.0a4  # via -r requirements.txt
+-e git+https://github.com/lepture/mistune.git#egg=mistune==2.0.0a6  # via -r requirements.txt
 aiofiles==0.6.0           # via -r requirements.txt
 certifi==2020.12.5        # via -r requirements.txt, requests
 chardet==4.0.0            # via -r requirements.txt, requests

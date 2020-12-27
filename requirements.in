@@ -6,7 +6,7 @@ uvicorn
 gunicorn
 
 # Application
--e git+https://github.com/lepture/mistune.git#egg=mistune==2.0.0a4
+-e git+https://github.com/lepture/mistune.git#egg=mistune==2.0.0a6
 python-frontmatter
 libsass
 pytz
