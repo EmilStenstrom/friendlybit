@@ -4,7 +4,6 @@
 #
 #    pip-compile requirements-dev.in
 #
--e git+https://github.com/lepture/mistune.git#egg=mistune==2.0.0a6  # via -r requirements.txt
 aiofiles==0.6.0           # via -r requirements.txt
 certifi==2020.12.5        # via -r requirements.txt, requests
 chardet==4.0.0            # via -r requirements.txt, requests
@@ -20,6 +19,7 @@ jinja2==2.11.2            # via -r requirements.txt
 libsass==0.20.1           # via -r requirements.txt
 markupsafe==1.1.1         # via -r requirements.txt, jinja2
 mccabe==0.6.1             # via flake8
+mistune==2.0.0a6          # via -r requirements.txt
 pip-tools==5.4.0          # via -r requirements-dev.in
 pycodestyle==2.6.0        # via flake8
 pyflakes==2.2.0           # via flake8
