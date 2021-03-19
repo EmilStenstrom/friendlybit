@@ -4,39 +4,107 @@
 #
 #    pip-compile requirements-dev.in
 #
-aiofiles==0.6.0           # via -r requirements.txt
-certifi==2020.12.5        # via -r requirements.txt, requests
-chardet==4.0.0            # via -r requirements.txt, requests
-click==7.1.2              # via -r requirements.txt, pip-tools, uvicorn
-flake8==3.8.4             # via -r requirements-dev.in
-gunicorn==20.0.4          # via -r requirements.txt
-h11==0.11.0               # via -r requirements.txt, uvicorn
-html5lib==1.1             # via -r requirements.txt
-html5validate==0.0.2      # via -r requirements.txt
-httptools==0.1.1          # via -r requirements.txt, uvicorn
-idna==2.10                # via -r requirements.txt, requests
-jinja2==2.11.2            # via -r requirements.txt
-libsass==0.20.1           # via -r requirements.txt
-markupsafe==1.1.1         # via -r requirements.txt, jinja2
-mccabe==0.6.1             # via flake8
-mistune==2.0.0a6          # via -r requirements.txt
-pip-tools==5.4.0          # via -r requirements-dev.in
-pycodestyle==2.6.0        # via flake8
-pyflakes==2.2.0           # via flake8
-pygments==2.7.3           # via -r requirements.txt
-python-dotenv==0.15.0     # via -r requirements.txt, uvicorn
-python-frontmatter==0.5.0  # via -r requirements.txt
-pytz==2020.5              # via -r requirements.txt
-pyyaml==5.3.1             # via -r requirements.txt, python-frontmatter, uvicorn
-requests==2.25.1          # via -r requirements.txt
-six==1.15.0               # via -r requirements.txt, html5lib, libsass, pip-tools, python-frontmatter
-starlette==0.14.1         # via -r requirements.txt
-urllib3==1.26.2           # via -r requirements.txt, requests
-uvicorn[standard]==0.13.2  # via -r requirements.txt
-uvloop==0.14.0            # via -r requirements.txt, uvicorn
-watchgod==0.6             # via -r requirements.txt, uvicorn
-webencodings==0.5.1       # via -r requirements.txt, html5lib
-websockets==8.1           # via -r requirements.txt, uvicorn
+aiofiles==0.6.0
+    # via -r requirements.txt
+certifi==2020.12.5
+    # via
+    #   -r requirements.txt
+    #   requests
+chardet==4.0.0
+    # via
+    #   -r requirements.txt
+    #   requests
+click==7.1.2
+    # via
+    #   -r requirements.txt
+    #   pip-tools
+    #   uvicorn
+flake8==3.8.4
+    # via -r requirements-dev.in
+gunicorn==20.0.4
+    # via -r requirements.txt
+h11==0.11.0
+    # via
+    #   -r requirements.txt
+    #   uvicorn
+html5lib==1.1
+    # via -r requirements.txt
+html5validate==0.0.2
+    # via -r requirements.txt
+httptools==0.1.1
+    # via
+    #   -r requirements.txt
+    #   uvicorn
+idna==2.10
+    # via
+    #   -r requirements.txt
+    #   requests
+jinja2==2.11.2
+    # via -r requirements.txt
+libsass==0.20.1
+    # via -r requirements.txt
+markupsafe==1.1.1
+    # via
+    #   -r requirements.txt
+    #   jinja2
+mccabe==0.6.1
+    # via flake8
+mistune==2.0.0a6
+    # via -r requirements.txt
+pip-tools==5.4.0
+    # via -r requirements-dev.in
+pycodestyle==2.6.0
+    # via flake8
+pyflakes==2.2.0
+    # via flake8
+pygments==2.7.3
+    # via -r requirements.txt
+python-dotenv==0.15.0
+    # via
+    #   -r requirements.txt
+    #   uvicorn
+python-frontmatter==0.5.0
+    # via -r requirements.txt
+pytz==2020.5
+    # via -r requirements.txt
+pyyaml==5.3.1
+    # via
+    #   -r requirements.txt
+    #   python-frontmatter
+    #   uvicorn
+requests==2.25.1
+    # via -r requirements.txt
+six==1.15.0
+    # via
+    #   -r requirements.txt
+    #   html5lib
+    #   libsass
+    #   pip-tools
+    #   python-frontmatter
+starlette==0.14.1
+    # via -r requirements.txt
+urllib3==1.26.3
+    # via
+    #   -r requirements.txt
+    #   requests
+uvicorn[standard]==0.13.2
+    # via -r requirements.txt
+uvloop==0.14.0
+    # via
+    #   -r requirements.txt
+    #   uvicorn
+watchgod==0.6
+    # via
+    #   -r requirements.txt
+    #   uvicorn
+webencodings==0.5.1
+    # via
+    #   -r requirements.txt
+    #   html5lib
+websockets==8.1
+    # via
+    #   -r requirements.txt
+    #   uvicorn
 
 # The following packages are considered to be unsafe in a requirements file:
 # pip
