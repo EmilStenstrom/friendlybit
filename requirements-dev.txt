@@ -67,7 +67,7 @@ python-frontmatter==0.5.0
     # via -r requirements.txt
 pytz==2020.5
     # via -r requirements.txt
-pyyaml==5.3.1
+pyyaml==5.4
     # via
     #   -r requirements.txt
     #   python-frontmatter
