@@ -12,9 +12,9 @@ chardet==4.0.0
     # via requests
 click==7.1.2
     # via uvicorn
-gunicorn==20.0.4
+gunicorn==20.1.0
     # via -r requirements.in
-h11==0.11.0
+h11==0.12.0
     # via uvicorn
 html5lib==1.1
     # via -r requirements.in
@@ -32,15 +32,15 @@ markupsafe==1.1.1
     # via jinja2
 mistune==2.0.0a6
     # via -r requirements.in
-pygments==2.7.4
+pygments==2.8.1
     # via -r requirements.in
-python-dotenv==0.15.0
+python-dotenv==0.16.0
     # via uvicorn
-python-frontmatter==0.5.0
+python-frontmatter==1.0.0
     # via -r requirements.in
-pytz==2020.5
+pytz==2021.1
     # via -r requirements.in
-pyyaml==5.4
+pyyaml==5.4.1
     # via
     #   python-frontmatter
     #   uvicorn
@@ -50,16 +50,15 @@ six==1.15.0
     # via
     #   html5lib
     #   libsass
-    #   python-frontmatter
-starlette==0.14.1
+starlette==0.14.2
     # via -r requirements.in
-urllib3==1.26.3
+urllib3==1.26.4
     # via requests
-uvicorn[standard]==0.13.2
+uvicorn[standard]==0.13.4
     # via -r requirements.in
-uvloop==0.14.0
+uvloop==0.15.2
     # via uvicorn
-watchgod==0.6
+watchgod==0.7
     # via uvicorn
 webencodings==0.5.1
     # via html5lib
