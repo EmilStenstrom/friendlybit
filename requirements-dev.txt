@@ -85,7 +85,7 @@ starlette==0.14.2
     # via -r requirements.txt
 toml==0.10.2
     # via pep517
-urllib3==1.26.4
+urllib3==1.26.5
     # via
     #   -r requirements.txt
     #   requests

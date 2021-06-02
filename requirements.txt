@@ -52,7 +52,7 @@ six==1.15.0
     #   libsass
 starlette==0.14.2
     # via -r requirements.in
-urllib3==1.26.4
+urllib3==1.26.5
     # via requests
 uvicorn[standard]==0.13.4
     # via -r requirements.in
