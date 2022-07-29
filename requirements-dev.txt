@@ -49,7 +49,7 @@ markupsafe==1.1.1
     #   jinja2
 mccabe==0.6.1
     # via flake8
-mistune==2.0.0a6
+mistune==2.0.3
     # via -r requirements.txt
 pep517==0.10.0
     # via pip-tools
