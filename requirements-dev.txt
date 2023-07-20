@@ -14,7 +14,7 @@ certifi==2022.12.7
     # via
     #   -r requirements.txt
     #   requests
-chardet==4.0.0
+charset-normalizer==3.2.0
     # via
     #   -r requirements.txt
     #   requests
@@ -79,7 +79,7 @@ pyyaml==5.4.1
     #   -r requirements.txt
     #   python-frontmatter
     #   uvicorn
-requests==2.25.1
+requests==2.31.0
     # via -r requirements.txt
 six==1.15.0
     # via
