@@ -10,7 +10,7 @@ anyio==3.6.2
     # via starlette
 certifi==2022.12.7
     # via requests
-chardet==4.0.0
+charset-normalizer==3.2.0
     # via requests
 click==7.1.2
     # via uvicorn
@@ -48,7 +48,7 @@ pyyaml==5.4.1
     # via
     #   python-frontmatter
     #   uvicorn
-requests==2.25.1
+requests==2.31.0
     # via -r requirements.in
 six==1.15.0
     # via
