@@ -64,7 +64,7 @@ pycodestyle==2.7.0
     # via flake8
 pyflakes==2.3.1
     # via flake8
-pygments==2.8.1
+pygments==2.15.0
     # via -r requirements.txt
 python-dotenv==0.16.0
     # via
