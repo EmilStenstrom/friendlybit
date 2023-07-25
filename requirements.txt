@@ -8,7 +8,7 @@ aiofiles==0.6.0
     # via -r requirements.in
 anyio==3.6.2
     # via starlette
-certifi==2022.12.7
+certifi==2023.7.22
     # via requests
 charset-normalizer==3.2.0
     # via requests
