@@ -10,7 +10,7 @@ anyio==3.6.2
     # via
     #   -r requirements.txt
     #   starlette
-certifi==2022.12.7
+certifi==2023.7.22
     # via
     #   -r requirements.txt
     #   requests
