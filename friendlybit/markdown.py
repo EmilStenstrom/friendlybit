@@ -16,7 +16,7 @@ class IncludeLangHtmlFormatter(HtmlFormatter):
         yield 0, '</div>\n'
 
 class HighlightRenderer(mistune.HTMLRenderer):
-    def block_code(self, code, lang=None):
+    def block_code(self, code, lang=None, **kwargs):
         match = re.match(r"(.+) \{(.+)\}", lang) if lang else False
         if match:
             lang, class_ = match.groups()
@@ -32,7 +32,7 @@ class HighlightRenderer(mistune.HTMLRenderer):
             return f'<div class="{class_[1:]}">{html}</div>'
         return html
 
-    def codespan(self, code):
+    def codespan(self, code, **kwargs):
         match = re.match(r"(.+) \{(.+)\}", code)
         if match:
             code, class_ = match.groups()
@@ -44,7 +44,7 @@ class HighlightRenderer(mistune.HTMLRenderer):
 
         return html
 
-    def heading(self, text, level):
+    def heading(self, text, level, **kwargs):
         tag = f'h{level}'
         match = re.match(r"(.+) \{([^.}]+)(\.[^}]+)?\}", text)
         if match:
