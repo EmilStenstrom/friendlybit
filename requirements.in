@@ -6,7 +6,7 @@ uvicorn[standard]
 gunicorn
 
 # Application
-mistune==2.0.3
+mistune
 python-frontmatter
 libsass
 pytz
