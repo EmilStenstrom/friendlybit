@@ -37,7 +37,7 @@ title: Short web standards quiz
   Q4. If you want to mark that a certain word is short for something longer, which HTML tag should you use?
 </p>
 
-  1. `<aconym>`
+  1. `<acronym>`
   1. `<abbr>`
   1. `<em>`
 
