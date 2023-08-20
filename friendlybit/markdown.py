@@ -16,6 +16,15 @@ class IncludeLangHtmlFormatter(HtmlFormatter):
         yield 0, '</div>\n'
 
 class HighlightRenderer(mistune.HTMLRenderer):
+    def link(self, text, url, title=None, **kwargs):
+        def is_relative(url):
+            return not url.startswith("http") and not url.startswith("//")
+
+        if is_relative(url) and url.startswith("/files/"):
+            return f'<a href="{url}" data-no-instant>{text}</a>'
+
+        return super().link(text, url, title)
+
     def block_code(self, code, info=None):
         lang = info
         match = re.match(r"(.+) \{(.+)\}", lang) if lang else False
