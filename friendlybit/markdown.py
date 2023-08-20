@@ -16,7 +16,8 @@ class IncludeLangHtmlFormatter(HtmlFormatter):
         yield 0, '</div>\n'
 
 class HighlightRenderer(mistune.HTMLRenderer):
-    def block_code(self, code, lang=None, **kwargs):
+    def block_code(self, code, info=None):
+        lang = info
         match = re.match(r"(.+) \{(.+)\}", lang) if lang else False
         if match:
             lang, class_ = match.groups()
