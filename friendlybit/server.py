@@ -13,6 +13,7 @@ routes = [
     Route("/feed/atom/", endpoint=feed, name="feed"),
     Route("/feed/{category}/", endpoint=feed, name="feed_category"),
     Route("/contact/", endpoint=contact, name="contact"),
+    Mount("/script", app=StaticFiles(directory='script', html=True), name="script"),
     Mount("/files", app=StaticFiles(directory='files', html=True), name="static"),
     Mount("/images", app=StaticFiles(directory='images', html=True), name="images"),
     Route("/{category}/{slug}/", endpoint=post, name="post"),
