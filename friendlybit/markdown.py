@@ -3,6 +3,7 @@ import mistune
 import pygments
 from pygments.formatters.html import HtmlFormatter
 from pygments.lexers import get_lexer_by_name
+from friendlybit.utils import slugify
 
 class IncludeLangHtmlFormatter(HtmlFormatter):
     def __init__(self, lang=None, **options):
@@ -56,15 +57,27 @@ class HighlightRenderer(mistune.HTMLRenderer):
 
     def heading(self, text, level, **kwargs):
         tag = f'h{level}'
+        heading_id = ""
+        heading_class = ""
+
+        # Support markdown headings with ids and classes
         match = re.match(r"(.+) \{([^.}]+)(\.[^}]+)?\}", text)
         if match:
-            text, id_, class_ = match.groups()
-            if class_:
-                return f'<{tag} id="{id_[1:]}" class="{class_[1:]}">{text}</{tag}>\n'
+            text, heading_id, heading_class = match.groups()
+            heading_id = heading_id[1:]  # Remove leading #
+            heading_class = heading_class[1:]  # Remove leading .
 
-            return f'<{tag} id="{id_[1:]}">{text}</{tag}>\n'
+        if not heading_id:
+            heading_id = slugify(text[:50])
 
-        return f'<{tag}>{text}</{tag}>\n'
+        return (
+            f'<{tag} id="{heading_id}"'
+            + ("" if not heading_class else ' class="' + heading_class + '"')
+            + '>'
+            + text
+            + f'<a href="#{heading_id}">#</a>'
+            + f'</{tag}>\n'
+        )
 
 
 markdown = mistune.create_markdown(
