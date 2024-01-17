@@ -16,6 +16,6 @@ Det är en tjänst som konsult (på heltid), så det är ett varierande jobb, d�
 
 Du förstår säkert att jag stortrivs (jag skulle inte göra reklam här annars), men jag inser att en bloggpost inte är rätt medium för att förmedla det :)
 
-Istället kan väl du, om du är nyfiken på tjänsten, **[skicka ett mail](mailto:em@kth.se)** till mig och berätta om dig själv. Vi ser helst att du har jobbat ett par år i branschen, men om du på annat sätt kan visa att du kan dina saker så är det ändå intressant.
+Istället kan väl du, om du är nyfiken på tjänsten, **[skicka ett mail](mailto:emil@emilstenstrom.se)** till mig och berätta om dig själv. Vi ser helst att du har jobbat ett par år i branschen, men om du på annat sätt kan visa att du kan dina saker så är det ändå intressant.
 
-Valtechs webbplats beskriver lite hur det är att jobba hos oss, och innehåller [information om företaget](http://valtech.se/templates/Page.aspx?id=67). Jag [svarar gärna på frågor](mailto:em@kth.se) om du skulle komma på några. Hoppas vi hörs!
+Valtechs webbplats beskriver lite hur det är att jobba hos oss, och innehåller [information om företaget](http://valtech.se/templates/Page.aspx?id=67). Jag [svarar gärna på frågor](mailto:emil@emilstenstrom.se) om du skulle komma på några. Hoppas vi hörs!

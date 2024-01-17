@@ -25,7 +25,7 @@ Start by sneaking out of your fancy house. Make sure you avoid as many paparazzi
 
 Anyway, the idea is that I will teach you what I know about web development right there. You get a free course from a famous blogger (oh well, semi-famous in small parts of Sweden). The languages used are not hard to learn, don't worry about that, they are designed to be easy. You're a smart guy, so I'm sure it will go smooth. After the first day you will know all about structuring your site, after a week you'll be able to reconstruct your current site with modern technology. After that there's no limit.
 
-When you've mastered web development we'll add a final twist. Accidentally, we'll reveal what you've been up to for the few paparazzi that are still following you. The headlines will be huge: "Justin Timberlake learns secret web arts" and "New way to grow your fan base: Justin explains". It will be great, and the media will go crazy! So, what do you think? Send me an e-mail at <em@kth.se> if you're interested.
+When you've mastered web development we'll add a final twist. Accidentally, we'll reveal what you've been up to for the few paparazzi that are still following you. The headlines will be huge: "Justin Timberlake learns secret web arts" and "New way to grow your fan base: Justin explains". It will be great, and the media will go crazy! So, what do you think? Send me an e-mail at <emil@emilstenstrom.se> if you're interested.
 
 Or, you could just hire someone good (ask for web standards and accessibility)… But what fun would that be?
 

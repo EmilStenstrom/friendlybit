@@ -147,7 +147,7 @@ comments:
   comment_author: Emil Stenström
   comment_author_url: http://friendlybit.com
   comment_content: '@Kristoffer Nolgren: Sure, I''d love to have a look at them. Mind
-    sending them to em@kth.se ?'
+    sending them to emil@emilstenstrom.se ?'
   comment_date: '2007-12-08 13:31:57'
   comment_post_ID: '144'
   comment_type: null
