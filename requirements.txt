@@ -28,7 +28,7 @@ html5validate==0.0.2
     # via -r requirements.in
 httptools==0.6.0
     # via uvicorn
-idna==3.4
+idna==3.7
     # via
     #   anyio
     #   requests
