@@ -32,7 +32,7 @@ exceptiongroup==1.2.0
     #   anyio
 flake8==6.1.0
     # via -r requirements-dev.in
-gunicorn==21.2.0
+gunicorn==22.0.0
     # via -r requirements.txt
 h11==0.14.0
     # via
