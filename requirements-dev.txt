@@ -28,7 +28,7 @@ click==8.1.7
     #   uvicorn
 flake8==7.1.0
     # via -r requirements-dev.in
-gunicorn==22.0.0
+gunicorn==23.0.0
     # via -r requirements.txt
 h11==0.14.0
     # via
