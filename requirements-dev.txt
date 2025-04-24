@@ -30,7 +30,7 @@ flake8==7.1.0
     # via -r requirements-dev.in
 gunicorn==23.0.0
     # via -r requirements.txt
-h11==0.14.0
+h11==0.16.0
     # via
     #   -r requirements.txt
     #   uvicorn
