@@ -52,7 +52,7 @@ pyyaml==6.0.1
     # via
     #   python-frontmatter
     #   uvicorn
-requests==2.32.3
+requests==2.32.4
     # via -r requirements.in
 six==1.16.0
     # via html5lib
