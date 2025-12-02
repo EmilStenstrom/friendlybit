@@ -3,7 +3,7 @@ author: Emil Stenström
 categories:
 - Python
 - AI
-date: 2024-12-02 12:00:00
+date: 2025-12-03 12:00:00
 guid: http://friendlybit.com/python/writing-justhtml-with-coding-agents/
 id: 1091
 permalink: /python/writing-justhtml-with-coding-agents/
