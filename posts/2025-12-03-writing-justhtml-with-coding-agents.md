@@ -36,7 +36,11 @@ Here is the 17-step process it took to get here:
 I asked the agent to write a super-basic one-shot html5 parser. It didn't work very well, but it was a start.
 
 ### 2. The Reality Check
-I wired up the `html5lib-tests` and saw that we had a <1% pass rate. Yes, those tests are hard. They are the gold standard for HTML5 parsing, containing thousands of edge cases like `<b><p></b></i>`.
+I wired up the `html5lib-tests` and saw that we had a <1% pass rate. Yes, those tests are hard. They are the gold standard for HTML5 parsing, containing thousands of edge cases like:
+
+```html
+<b><p></b></i>
+```
 
 ### 3. The Slog
 We started iterating, slowly climbing to about 30% pass rate. This involved a lot of refactoring and fixing small bugs.
