@@ -102,7 +102,7 @@ typing-extensions==4.15.0
     #   -r requirements.txt
     #   anyio
     #   starlette
-urllib3==2.5.0
+urllib3==2.6.0
     # via
     #   -r requirements.txt
     #   requests
