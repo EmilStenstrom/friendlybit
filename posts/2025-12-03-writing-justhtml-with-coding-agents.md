@@ -18,7 +18,7 @@ I thought I knew HTML going into this project, but it turns out I know nothing w
 
 I still don't know how to solve those problems. But I still have a parser that solves those problems better than the reference implementation [html5lib](https://github.com/html5lib/html5lib-python). Power of AI! :)
 
-## Why I picked HTML5 (tests as a progress meter)
+## Why HTML5?
 
 When picking a project to build with coding agents, choosing one that already has a lot of tests is a great idea. HTML5 is extremely well-specified, with a long specification and thousands of treebuilder and tokenizer tests available in the [`html5lib-tests`](https://github.com/html5lib/html5lib-tests) repository.
 
