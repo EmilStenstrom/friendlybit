@@ -65,7 +65,7 @@ class HighlightRenderer(mistune.HTMLRenderer):
         if match:
             text, heading_id, heading_class = match.groups()
             heading_id = heading_id[1:]  # Remove leading #
-            heading_class = heading_class[1:]  # Remove leading .
+            heading_class = heading_class[1:] if heading_class else ""  # Remove leading .
 
         if not heading_id:
             heading_id = slugify(text[:50])
