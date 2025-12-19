@@ -1,11 +1,12 @@
 ---
 author: Emil Stenström
 categories:
-- todo
+- Python
+- AI
 date: 2025-12-19 12:00:00
-guid: http://friendlybit.com/todo/new-post/
+guid: http://friendlybit.com/python/justhtml-faq/
 id: 1092
-permalink: /todo/new-post/
+permalink: /python/justhtml-faq/
 title: 'JustHTML: Addressing some questions'
 ---
 
