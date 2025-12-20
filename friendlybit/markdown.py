@@ -37,7 +37,7 @@ class HighlightRenderer(mistune.HTMLRenderer):
             formatter = IncludeLangHtmlFormatter(lang=lang)
             html = pygments.highlight(code, lexer, formatter)
         else:
-            html = f'<pre>{code}</pre>'
+            html = f'<pre>{mistune.escape(code)}</pre>'
 
         if match:
             return f'<div class="{class_[1:]}">{html}</div>'
@@ -48,7 +48,7 @@ class HighlightRenderer(mistune.HTMLRenderer):
         if match:
             code, class_ = match.groups()
 
-        html = f'<code>{code}</code>'
+        html = f'<code>{mistune.escape(code)}</code>'
 
         if match:
             return f'<span class="{class_[1:]}">{html}</span>'
