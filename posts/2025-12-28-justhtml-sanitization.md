@@ -43,6 +43,10 @@ This drops `<script>` and strips dangerous URLs:
 <p>Hello <b>world</b>  <a>bad</a> <a href="https://example.com/?a=1&amp;b=2">ok</a></p>
 ```
 
+```markdown
+Hello **world** [bad] [ok](https://example.com/?a=1&b=2)
+```
+
 ## Turning it off (trusted input only)
 
 If the input is trusted and you want raw output, you can opt out:
