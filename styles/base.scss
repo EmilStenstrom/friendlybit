@@ -21,6 +21,7 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Palatino Linotype", Palatino, sans-serif;
     font-weight: normal;
     border-bottom: 1px dotted #003F6F;
+    line-height: 1.2;
 }
 h1 {
     font-size: 2em;
@@ -53,6 +54,9 @@ img {
 figure {
     margin: 1em 10px;
 }
+pre {
+    white-space: pre-wrap;
+}
 code {
     font-family: Courier, monospace;
     padding: 0.1em;
@@ -63,7 +67,7 @@ pre code {
     margin-top: 1em;
     overflow: auto;
     padding: 0.5em;
-    white-space: pre;
+    white-space: pre-wrap;
 }
 .correct, .almost, .incorrect {
     border-left: 3px solid;
