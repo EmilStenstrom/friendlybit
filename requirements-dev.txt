@@ -90,14 +90,12 @@ pyyaml==6.0.3
     #   -r requirements.txt
     #   python-frontmatter
     #   uvicorn
-requests==2.32.5
+requests==2.33.0
     # via -r requirements.txt
 six==1.17.0
     # via
     #   -r requirements.txt
     #   html5lib
-sniffio==1.3.1
-    # via -r requirements.txt
 starlette==0.50.0
     # via -r requirements.txt
 typing-extensions==4.15.0
