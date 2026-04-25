@@ -40,7 +40,7 @@ mistune==3.1.4
     # via -r requirements.in
 packaging==25.0
     # via gunicorn
-pygments==2.19.2
+pygments==2.20.0
     # via -r requirements.in
 python-dotenv==1.2.2
     # via uvicorn
