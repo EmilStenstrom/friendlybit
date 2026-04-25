@@ -90,7 +90,7 @@ pyyaml==6.0.3
     #   -r requirements.txt
     #   python-frontmatter
     #   uvicorn
-requests==2.32.5
+requests==2.33.0
     # via -r requirements.txt
 six==1.17.0
     # via
