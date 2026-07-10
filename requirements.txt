@@ -36,7 +36,7 @@ libsass==0.23.0
     # via -r requirements.in
 markupsafe==3.0.3
     # via jinja2
-mistune==3.2.1
+mistune==3.3.0
     # via -r requirements.in
 packaging==25.0
     # via gunicorn
