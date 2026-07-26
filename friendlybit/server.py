@@ -4,6 +4,7 @@ from starlette.middleware.gzip import GZipMiddleware
 from starlette.routing import Mount, Route
 from starlette.staticfiles import StaticFiles
 
+from friendlybit.middleware import CacheControlMiddleware
 from friendlybit.views import (
     homepage, favicon, css, feed, contact, contact_markdown, post, post_markdown
 )
@@ -26,6 +27,7 @@ routes = [
 ]
 
 middleware = [
+    Middleware(CacheControlMiddleware),
     Middleware(GZipMiddleware, minimum_size=500),
 ]
 
