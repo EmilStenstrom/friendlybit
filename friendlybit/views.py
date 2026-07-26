@@ -1,7 +1,5 @@
-import aiofiles
-import sass
 from starlette.exceptions import HTTPException
-from starlette.responses import FileResponse, RedirectResponse, Response, StreamingResponse
+from starlette.responses import FileResponse, RedirectResponse, Response
 from starlette.templating import Jinja2Templates
 
 from friendlybit.content import (
@@ -13,7 +11,8 @@ from friendlybit.content import (
     post_by_slug,
 )
 from friendlybit.markdown import markdown
-from friendlybit.settings import scss_files, site
+from friendlybit.settings import site
+from friendlybit.styles import CSS
 
 templates = Jinja2Templates(directory='templates')
 
@@ -127,12 +126,7 @@ async def favicon(request):
     return FileResponse('favicon.ico')
 
 async def css(request):
-    async def generate_css():
-        for filename in scss_files:
-            async with aiofiles.open(filename, "r") as f:
-                yield sass.compile(string=await f.read())
-
-    return StreamingResponse(generate_css(), media_type="text/css")
+    return Response(CSS, media_type="text/css")
 
 async def post(request):
     post_slug = request.path_params['slug']
