@@ -1,16 +1,17 @@
-import re
-from datetime import datetime
-from glob import glob
-
 import aiofiles
-import frontmatter
-import pytz
 import sass
 from starlette.exceptions import HTTPException
 from starlette.responses import FileResponse, RedirectResponse, Response, StreamingResponse
 from starlette.templating import Jinja2Templates
 
-from friendlybit.utils import slugify
+from friendlybit.content import (
+    all_posts,
+    category_posts,
+    comments_for_slug,
+    contact_page,
+    post_by_id,
+    post_by_slug,
+)
 from friendlybit.markdown import markdown
 from friendlybit.settings import scss_files, site
 
@@ -77,14 +78,10 @@ def markdown_response(content, html_url):
     )
 
 async def load_post(post_slug):
-    for filename in glob(f"posts/*{post_slug}*.md"):
-        async with aiofiles.open(filename, "r") as f:
-            source = await f.read()
-            post = frontmatter.loads(source)
-            if post.metadata["permalink"].endswith(f"/{post_slug}/"):
-                return post
-
-    raise HTTPException(status_code=404)
+    post = post_by_slug(post_slug)
+    if not post:
+        raise HTTPException(status_code=404)
+    return post
 
 def post_as_markdown(post):
     details = [f"# {post.metadata['title']}"]
@@ -99,23 +96,8 @@ async def homepage(request, format_="html"):
     if post_id:
         return await redirect_to_slug(request, post_id=post_id)
 
-    posts = []
     category = request.path_params.get("category", None)
-
-    for filename in sorted(glob("posts/*.md"), reverse=True):
-        async with aiofiles.open(filename, "r") as f:
-            post = frontmatter.loads(await f.read())
-            post.metadata["date"] = pytz.timezone(site["timezone"]).localize(post.metadata["date"])
-
-            if category:
-                post_categories = [
-                    slugify(category)
-                    for category in post.metadata["categories"]
-                ]
-                if category not in post_categories:
-                    continue
-
-            posts.append(post)
+    posts = category_posts(category) if category else all_posts()
 
     if not posts:
         raise HTTPException(status_code=404, detail=f"Posts matching {request.url.path} not found")
@@ -161,19 +143,7 @@ async def post(request):
         return markdown_response(post_as_markdown(post), post_url)
     post.content = markdown(post.content)
 
-    comments = []
-    try:
-        comment_files = glob(f"comments/*{post_slug}*_comments.md")
-        if not comment_files:
-            raise FileNotFoundError
-        comment_filename = comment_files[0]
-        async with aiofiles.open(comment_filename, "r") as f:
-            comment_post = frontmatter.loads(await f.read())
-            comments = comment_post.metadata.get("comments", [])
-            for comment in comments:
-                comment["comment_date"] = datetime.strptime(comment["comment_date"], '%Y-%m-%d %H:%M:%S')
-    except FileNotFoundError:
-        pass
+    comments = comments_for_slug(post_slug)
 
     response = templates.TemplateResponse(request=request, name='post.html', context={
         'post': post,
@@ -202,8 +172,7 @@ async def feed(request):
     return await homepage(request, format_="atom")
 
 async def contact(request):
-    async with aiofiles.open("pages/contact.md", "r") as f:
-        post = frontmatter.loads(await f.read())
+    post = contact_page()
 
     if wants_markdown(request):
         return markdown_response(post_as_markdown(post), "/contact/")
@@ -222,19 +191,12 @@ async def contact(request):
     return response
 
 async def contact_markdown(request):
-    async with aiofiles.open("pages/contact.md", "r") as f:
-        post = frontmatter.loads(await f.read())
+    post = contact_page()
     return markdown_response(post_as_markdown(post), "/contact/")
 
 async def redirect_to_slug(request, post_id):
-    for filename in sorted(glob("posts/*.md"), reverse=True):
-        print(filename)
-        async with aiofiles.open(filename, "r") as f:
-            post = frontmatter.loads(await f.read())
-            if post.metadata["id"] == int(post_id):
-                slug = re.sub(r"/[^/]+/([^/]+)/", r"\1", post.metadata["permalink"])
-                category = slugify(post.metadata["categories"][0])
-                url = request.url_for("post", category=category, slug=slug)
-                return RedirectResponse(url=url)
+    post = post_by_id(int(post_id))
+    if post:
+        return RedirectResponse(url=post.metadata["permalink"])
 
     return Response(f"Post with {post_id} not found.", status_code=404)
