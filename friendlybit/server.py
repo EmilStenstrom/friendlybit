@@ -1,4 +1,6 @@
 from starlette.applications import Starlette
+from starlette.middleware import Middleware
+from starlette.middleware.gzip import GZipMiddleware
 from starlette.routing import Mount, Route
 from starlette.staticfiles import StaticFiles
 
@@ -23,4 +25,8 @@ routes = [
     Route("/{category}/{slug}/", endpoint=post, name="post"),
 ]
 
-app = Starlette(debug=True, routes=routes)
+middleware = [
+    Middleware(GZipMiddleware, minimum_size=500),
+]
+
+app = Starlette(debug=True, routes=routes, middleware=middleware)
