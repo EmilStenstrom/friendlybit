@@ -13,6 +13,7 @@ site = {
     "url": "https://friendlybit.com",
     "author": "Emil Stenström",
     "timezone": "Europe/Stockholm",
+    "feed_posts": 30,
     "style_hash": sum([int(os.path.getmtime(filename)) for filename in scss_files]),
     "google_analytics": "UA-67394-2",
 }

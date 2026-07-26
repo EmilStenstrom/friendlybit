@@ -110,6 +110,7 @@ async def homepage(request, format_="html"):
             'request': request,
         })
     elif format_ == "atom":
+        posts = posts[:site["feed_posts"]]
         for post in posts:
             post.content = markdown(post.content)
 
