@@ -121,7 +121,7 @@ async def homepage(request, format_="html"):
         raise HTTPException(status_code=404, detail=f"Posts matching {request.url.path} not found")
 
     if format_ == "html":
-        return templates.TemplateResponse('index.html', {
+        return templates.TemplateResponse(request=request, name='index.html', context={
             'category': category,
             'posts': posts,
             'site': site,
@@ -131,7 +131,7 @@ async def homepage(request, format_="html"):
         for post in posts:
             post.content = markdown(post.content)
 
-        return templates.TemplateResponse('atom.xml', {
+        return templates.TemplateResponse(request=request, name='atom.xml', context={
             'category': category,
             'posts': posts,
             'site': site,
@@ -175,7 +175,7 @@ async def post(request):
     except FileNotFoundError:
         pass
 
-    response = templates.TemplateResponse('post.html', {
+    response = templates.TemplateResponse(request=request, name='post.html', context={
         'post': post,
         'comments': comments,
         'site': site,
@@ -209,7 +209,7 @@ async def contact(request):
         return markdown_response(post_as_markdown(post), "/contact/")
 
     post.content = markdown(post.content)
-    response = templates.TemplateResponse('page.html', {
+    response = templates.TemplateResponse(request=request, name='page.html', context={
         'post': post,
         'site': site,
         'request': request,
