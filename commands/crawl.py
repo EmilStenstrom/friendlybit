@@ -1,6 +1,6 @@
 import re
 import requests
-import html5validate
+from justhtml import JustHTML
 from urllib.parse import urlparse, urljoin
 
 QUEUE = []
@@ -74,10 +74,18 @@ def main():
             raise Exception(f"STATUS_CODE == {response.status_code}")
 
         html = response.text
-        print(("VALID" if html5validate.validate(html) is None else "INVALID"))
+        document = JustHTML(
+            html,
+            sanitize=False,
+            collect_errors=True,
+        )
+        print("VALID" if not document.errors else "INVALID")
 
-        links = re.findall(r'([^ ]+)="((?:https?://|/)[^"]+)"', html)
-        for attr, link in links:
+        for element in document.query("[href]"):
+            attr = "href"
+            link = element.attrs[attr]
+            if not link.startswith(("http://", "https://", "/")):
+                continue
             link = urljoin(url, link)
             if attr in WHITELISTED_ATTRS:
                 # print(f"Adding to queue: {link}")

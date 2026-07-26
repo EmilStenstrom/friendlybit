@@ -12,5 +12,3 @@ libsass
 pytz
 pygments
 requests
-html5validate
-html5lib
