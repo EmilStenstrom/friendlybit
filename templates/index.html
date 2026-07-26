@@ -12,6 +12,9 @@
     {% endif %}
     <link rel="icon" href="/favicon.ico">
     <link rel="canonical" href="{{ post.permalink if post else site.url }}">
+    {% if post and post.permalink %}
+      <link rel="alternate" type="text/markdown" href="{{ post.permalink.rstrip('/') }}.md">
+    {% endif %}
     <link rel="stylesheet" type="text/css" href="/style.css?{{ site.style_hash }}">
   </head>
   <body>
