@@ -5,6 +5,7 @@ from starlette.routing import Mount, Route
 from starlette.staticfiles import StaticFiles
 
 from friendlybit.middleware import CacheControlMiddleware
+from friendlybit.settings import debug
 from friendlybit.views import (
     homepage, favicon, css, feed, contact, contact_markdown, post, post_markdown
 )
@@ -31,4 +32,4 @@ middleware = [
     Middleware(GZipMiddleware, minimum_size=500),
 ]
 
-app = Starlette(debug=True, routes=routes, middleware=middleware)
+app = Starlette(debug=debug, routes=routes, middleware=middleware)

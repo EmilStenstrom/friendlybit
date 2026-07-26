@@ -7,6 +7,8 @@ scss_files = [
     "styles/layout.scss",
 ]
 
+debug = os.getenv("DEBUG", "").lower() in ("1", "true")
+
 site = {
     "title": "Friendly Bit - Web development blog",
     "description": "Friendly Bit is a blog by Emil Stenström, a Swedish web developer that occasionally gets ideas of how to improve the internet.",  # NOQA
