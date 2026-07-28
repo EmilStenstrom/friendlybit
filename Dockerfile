@@ -1,6 +1,6 @@
 # Stage 1: Build the Application
 # We use python:3.12-slim as the base for building and installing dependencies.
-FROM python:3.12-slim AS build
+FROM python:3.14.6-slim AS build
 
 # Set the working directory inside the container
 WORKDIR /usr/src/app
@@ -23,7 +23,7 @@ COPY . .
 
 # Stage 2: Create the Final Production Image
 # We use python:3.12-slim as a minimal runtime image.
-FROM python:3.12-slim
+FROM python:3.14.6-slim
 
 # Set the working directory
 WORKDIR /usr/src/app
